@@ -1,0 +1,307 @@
+1060	Update wird abgebrochen, PSX wird neu gestartet.
+1061	Jugendschutzstufe ändern
+1062	10 Minuten vor Beginn der Timer-Aufnahme.
+1063	Video wird gelöscht.\n Sind Sie sicher?
+1064	Lizenz wurde nicht akzeptiert.
+1065	Konfiguration konnte nicht gelesen werden.
+1066	Memory Stick wird formatiert.\n Gespeicherte Daten werden gelöscht.\n Sind Sie sicher?
+1067	Software wurde heruntergeladen.
+1068	Abbrechen fehlgeschlagen.
+1069	Foto konnte nicht gelesen werden.
+1070	Optimierung konnte nicht gestartet werden.
+1071	Schreibfehler.\n Ab jetzt nur noch lesbar.\n Aufnahme wird beendet.
+1072	Programmführer anpassen
+1073	Weniger als eine Stunde bis zum Beginn der Timer-Aufnahme.
+1074	Pict Story wurde gespeichert.
+1075	Pict Story wurde gespeichert.
+1076	Pict Story wurde gespeichert.
+1077	Pict Story wurde gespeichert.
+1078	Pict Story wurde gespeichert.
+1079	Gespeichert unter.
+1080	Software wurde heruntergeladen.
+1081	Korrekt angeschlossen
+1082	Ausdruck wurde registriert.
+1083	Miniatur wurde registriert.
+1084	Folgende Inhalte wurden eingestellt.
+1085	DJ-Registrierung wird aufgehoben.
+1086	Update wird abgebrochen.
+1087	Aktuelle Einstellungen werden gelöscht.
+1088	Timer-Aufnahme wird bestätigt
+1089	Timer-Aufnahme wird bestätigt.
+1090	Software wird installiert.
+1091	Wiedergabe wegen eines Fehlers beendet.
+1092	Aufnahme wird beendet.
+1093	Bis zum Sendungsende aufgenommen.
+1094	Timer-Aufnahme wurde gelöscht.
+1095	Video wurde gelöscht.
+1096	Wort wurde gelöscht.
+1097	Automatische Sendereinstellung wird ausgeführt.\n Sind Sie sicher?
+1098	Automatische Sendereinstellung wird ausgeführt.\n Sind Sie sicher?
+1099	Automatische Zeiteinstellung wird ausgeführt. Sind Sie sicher?
+1100	Update wird ausgeführt.
+1101	Einstellungen werden gespeichert.\n Sind Sie sicher?
+1102	Legt fest, ob der Titel vor der Optimierung behalten wird.
+1103	A-Punkt gesetzt.
+1104	Aufnahmemodus nach der Optimierung festlegen.\n Eine höhere Qualität als das Original ist nicht möglich.
+1105	Timer-Aufnahme wurde programmiert.
+1106	Update wird gestartet.
+1107	Auf Werkseinstellungen zurückgesetzt.
+1108	DJ-Registrierung wurde aufgehoben.
+1109	Wiedergabemodus zurückgesetzt.
+1110	Timer-Aufnahme wurde bestätigt.
+1111	Bearbeitung wird verworfen.\n Sind Sie sicher?
+1112	DJ-Registrierung wird aufgehoben.
+1113	DJ-Registrierung wird aufgehoben.\n Sind Sie sicher?
+1114	Update wird abgebrochen.
+1115	Zweikanalton-Aufnahme auf HDD wird geändert.
+1116	Pict Story wird mit folgenden Einstellungen erstellt.
+1117	Timer-Aufnahme wird gelöscht
+1118	Timer-Aufnahme wird gelöscht.\n Sind Sie sicher?
+1119	Über das Bedienfeld ausführen.
+1120	Mit Joystick links/rechts bedienen.
+1121	Wiederherstellung wird ausgeführt.
+1122	Gerät wird beendet.
+1123	Aktuelle Software wird nicht gesichert.
+1124	Kein Menü erstellen
+1125	Progressives Video wird über den D-Anschluss ausgegeben.\n Über die anderen Videoausgänge erfolgt keine Ausgabe.\n Sind Sie sicher?
+1126	Registrierte Miniatur wird überschrieben.
+1127	Alle Titel im Album werden für DJ registriert.
+1128	Zugehörige Pict Story wird gelöscht.
+1129	Gerät wird neu gestartet.
+1130	Pict Story wird gespeichert.
+1131	Aufheben der DJ-Registrierung wird abgebrochen.\n Sind Sie sicher?
+1132	Pict-Story-Bearbeitung wird abgebrochen.
+1133	Der aktuelle Vorgang wird beendet.
+1134	Optimierung wird abgebrochen.\nSind Sie sicher?
+1135	Datei unter anderem Namen speichern
+1136	Pict-Story-Bearbeitung wird beendet.
+1137	Pict-Story-Bearbeitung wird beendet.
+1138	Pict-Story-Bearbeitung wird beendet.
+1139	Pict-Story-Bearbeitung wird beendet.
+1140	Pict-Story-Bearbeitung wird beendet.
+1141	Pict-Story-Bearbeitung wird beendet.
+1142	Pict-Story-Bearbeitung wird beendet.
+1143	Update wird beendet.
+1144	Verarbeitung wird beendet.
+1145	Titel wurde aufgenommen.
+1146	E/A-Fehler aufgetreten.
+1152	IP-Adresse
+1153	IP-Adresse :
+1154	Isländisch
+1156	Wenn OK, drücken Sie
+1157	Wenn der Router AUS ist und PPPoE
+1158	Wenn Sie ablehnen, wird beendet. Wirklich beenden?
+1159	Wenn Sie die Einstellungen ändern, sind Telefonbuch und\n Programmführer evtl. nicht verfügbar.\n Sind Sie sicher?
+1160	Wenn Sie einen Spielebereich erstellen, verkürzt sich die Aufnahmezeit
+1161	Beim Löschen werden alle Fotos im Album
+1162	Ohne Speichern werden die vorherigen Einstellungen wiederhergestellt.
+1163	Ohne Speichern werden die vorherigen Einstellungen wiederhergestellt.
+1164	Drücken, um den Wert zu ändern.
+1165	Wenn Sie die HDD-Bereichseinstellung ausführen, werden\n folgende Inhalte der Festplatte gelöscht.\n Sind Sie sicher?
+1166	Als neue Pict Story speichern
+1167	Bild
+1168	Bildtyp
+1171	Importieren
+1172	Audio-CD importieren
+1173	Importdatum
+1174	Importgröße
+1175	Import abgebrochen.
+1176	Import abgeschlossen.
+1177	Import abgeschlossen. Einige Elemente\nkonnten nicht importiert werden, da das\nAlbum bereits 999 Elemente enthält.
+1178	Importiert
+1179	Foto %i wird importiert...
+1180	Titel %i wird importiert...
+1181	Wird importiert...
+1182	Wird importiert... Konsole nicht ausschalten.
+1183	Element auswählen und ändern.
+1184	Außerdem ist eine Genehmigung durch Macrovision erforderlich; sofern nicht von Macrovision anders genehmigt, nur für den Heimgebrauch
+1185	&quot;DNAS&quot; ist eine Marke des Unternehmens.
+1186	Timer-Aufnahme wird vorbereitet. Zum Initialisieren bitte die Timer-Aufnahme löschen.
+1187	Timer-Aufnahme wird vorbereitet.\n Zum Überspielen bitte die Timer-Aufnahme löschen.
+1188	In diesem Miniaturbild
+1189	Ungültige Sitzung.\nAufnahme beendet.
+1190	Indonesien
+1191	Indonesisch
+1193	Informationen
+1194	Informationsordner
+1195	Informationen bearbeiten
+1196	Programmführer-Informationen konnten nicht abgerufen werden.
+1198	Initialisierung
+1199	Initialisierung der DVD fehlgeschlagen.
+1200	Initialisieren
+1201	DVD-RW einlegen
+1202	Beschreibbaren Memory Stick einlegen
+1203	Disc einlegen.
+1204	Disc einlegen und drücken Sie
+1205	Zu finalisierende Disc einlegen.
+1206	Installationsfehler!
+1209	International Business Machines Corporation und andere. Alle Rechte vorbehalten.
+1210	Internetradio
+1211	Interpolation
+1212	Unterbrechen
+1214	IP-Adresse :
+1215	Irisch
+1216	Kommunikationsfehler.
+1217	Fehler bei Geräteinformationen.
+1218	ist eine eingetragene Marke von Sony Computer Entertainment Inc.
+1219	ist eine Marke von Sony Computer Entertainment Inc.
+1220	Fehler bei eindeutiger ID.
+1221	OK?
+1222	Programmführer nicht verfügbar.
+1223	Optimierung läuft.\n Überspielen nicht möglich.
+1224	Optimierung läuft.\n Aufnahme nicht möglich.
+1225	Optimierung läuft.\nInitialisieren nicht möglich.
+1226	Aufnahme läuft.\n Initialisieren nicht möglich.
+1227	Aufnahme läuft.\n Optimieren nicht möglich.
+1228	Aufnahme läuft.\n Senderwechsel nicht möglich.
+1229	Aufnahme läuft.\n Aufnahmemodus kann nicht geändert werden.
+1230	Aufnahme läuft.\n Überspielen nicht möglich.
+1231	Wird zurückgespult.\n Bitte warten.
+1232	Reparatur läuft.\n Bitte warten
+1234	Noch nicht bearbeitet.\n Bearbeitung kann nicht aufgehoben werden.
+1235	Disc im VR-Modus.\nJetzt beschreiben?
+1236	Nicht kompatibler Memory Stick.\n Aufnahme wird beendet.
+1237	Schreibgeschützter Memory Stick. Aufnahme wird beendet.
+1238	Realisiert durch den AIDJ-Algorithmus.
+1239	Richtwert für eine spätere DVD-Aufnahme dieses Titels.
+1240	Nur für den privaten Gebrauch. Zerlegung und Veränderung sind ebenfalls untersagt.
+1241	Keine Standard-Disc für PlayStation® oder PlayStation®2.
+1242	Aufnahmen von 6 Stunden oder mehr sind nicht möglich.
+1243	Timer-Aufnahmen von 6 Stunden oder mehr sind nicht möglich.\n Bitte korrekte Start- oder Endzeit einstellen.
+1244	Nicht möglich, da kein Spielebereich vorhanden ist.\n Bitte in der HDD-Bereichseinstellung einen Spielebereich erstellen.
+1245	Auf den Memory Stick kann nicht mehr geschrieben werden.\n Alle Videos löschen oder formatieren?
+1246	Eine Timer-Aufnahme läuft.\n Beim Löschen wird die Aufnahme beendet.\n Sind Sie sicher?
+1247	Sendereinstellungen werden gespeichert.
+1248	Sendereinstellungen werden gespeichert.\n Bitte warten
+1249	Wiedergabe läuft.
+1250	Aufnahme läuft. Kodieren nicht möglich.
+1251	Überschneidet sich mit folgender Programmierung.
+1252	Es ist ein Fehler aufgetreten.
+1253	Angehalten.
+1254	Dauert einige Minuten.
+1255	Mit den Audioeinstellungen für zweisprachige DVD-Aufnahmen.
+1256	Timer-Aufnahme konnte nicht bestätigt werden.\n Timer-Speicher ist voll.
+1257	Timer-Aufnahme konnte nicht gelöscht werden.
+1258	Miniaturinformationen konnten nicht abgerufen werden.
+1259	Schnell-Timer konnte nicht eingestellt werden.
+1260	BS-Antennenstrom konnte nicht eingeschaltet werden.
+1261	Italienisch
+1262	Italien
+1263	Elementname
+1265	J-Anime
+1266	J-Ballade
+1274	Japan
+1275	BSAFE ist eine Marke der RSA Security Inc. in Japan und den USA.
+1276	Japanisch
+1277	Japanische Eingabe
+1278	Japanische Tastatur
+1279	Javanisch
+1281	Jerusalem
+1283	Volle Stunde
+1288	Kannada
+1291	Kaschmiri
+1293	Kasachisch
+1296	Tastenbelegung
+1297	Tastatureinstellungen
+1298	Stichwort
+1299	Stichwortname
+1300	Stichwörter
+1302	Kiew
+1304	Kirgisisch
+1306	Koreanisch
+1308	Kurdisch
+1309	Kuwait-Stadt
+1310	L1-Taste:
+1311	L2-Taste:
+1312	L2 · R2-Tastenbelegung
+1314	Sprache
+1315	Sprachliste
+1316	Laotisch
+1317	Spätnacht : 23:00 - 5:00
+1318	Latein
+1319	Lettisch
+1320	Lettisch
+1321	Lettisch
+1322	Länge
+1323	Lizenzvereinbarung
+1324	Infrarotempfänger
+1326	Lissabon
+1327	Litauisch
+1328	Ljubljana
+1329	Ort
+1330	Sperren
+1331	Anmeldung fehlgeschlagen:
+1332	Anmeldung erfolgreich
+1333	London
+1334	Lang
+1335	Lord-Howe-Insel
+1336	Luxemburg
+1337	MAC-Adresse :
+1339	MM/TT/JJJJ
+1340	Mazedonisch
+1345	Haupt + Neben
+1346	Hauptton
+1347	Haupt/Neben
+1348	Erstellen
+1349	Zweikanalton wird als Nebenton gesetzt.\nDaher dauert das Überspielen länger.
+1350	Zweikanalton wird als Hauptton gesetzt.\nDaher dauert das Überspielen länger.
+1352	Malaiisch
+1353	Malayalam
+1354	Malaysia
+1355	Maltesisch
+1357	Manuell
+1358	Manuelle Einrichtung
+1359	Manuelle Sendereinstellung
+1360	Manuelle Aufnahme
+1361	Manuelle Programmierung
+1362	Manuelle Einstellung
+1366	Sache
+1367	Medien
+1368	Mittel
+1369	Speicherkarte
+1370	Speicherkarte (PS1)
+1371	Speicherkarte (PS2)
+1372	Speicherkarten-Verwaltung
+1373	Memory Stick wird geprüft%3d％
+1374	Memory Stick Video formatieren
+1375	Memory Stick Video formatieren.\n Alle Titel werden gelöscht.\n Sind Sie sicher?
+1376	Memory-Stick-Prüfung abgeschlossen.
+1377	Memory Stick ist gesperrt.\n Aufnahme wird beendet.
+1378	Kein Memory Stick eingesteckt.\n Memory-Stick-Fehler.\n Aufnahme wird beendet.
+1380	Speicherzuweisungsfehler.
+1381	Menü
+1382	Menüsprache
+1383	Menüerstellung beginnt.\nDer Bildschirm wechselt automatisch.
+1384	Menükodierung fehlgeschlagen.
+1385	Gewählte Werte im Menü werden zum Startzeitpunkt der Timer-Aufnahme verworfen.
+1386	Mexiko-Stadt
+1387	Midwayinseln
+1388	Min.
+1390	Minute
+1391	Sonstiges
+1393	Modus
+1394	Modus fixiert
+1395	Moldauisch
+1396	Mo
+1397	Mo bis Fr
+1398	Mo bis Sa
+1400	Mongolisch
+1401	Monat
+1402	Es können keine weiteren Titel\n auf den Memory Stick geschrieben werden.
+1403	Morgens : 5:00 - 12:00
+1404	Moskau
+1405	Gebirge (Kan)
+1406	Gebirge (USA)
+1407	Verschieben
+1408	Cursor nach links
+1409	Cursor nach rechts
+1410	Nach unten
+1411	Fokus-Taste verschieben
+1412	Nach oben
+1413	Verschieben abgebrochen.
+1414	Verschieben abgeschlossen.
+1415	Video
+1416	Videos
+1417	Wird verschoben...
+1418	Mehrfachbildanzeige
+1419	Mehrfachbildanzeige abbrechen

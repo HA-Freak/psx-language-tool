@@ -1,0 +1,2 @@
+# store every file byte-exact (XMB XML and jp.dic must not get converted line endings)
+* -text

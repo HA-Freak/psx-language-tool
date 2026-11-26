@@ -1,0 +1,312 @@
+340	Alle Daten in diesem Ordner werden\ngelöscht.\nFortfahren?
+341	Beim Formatieren werden alle Daten\nauf dem Memory Stick gelöscht.
+342	Alle Videos in diesem Album werden gelöscht.
+343	Alle Fotos in diesem Album werden gelöscht.
+344	Alle Video-, Musik- und Fotodaten gehen verloren.
+345	Alle Titel in diesem Album werden gelöscht.
+346	Alle &#34;DNAS&#34;-Dienste wurden eingestellt.
+347	Alle &#34;DNAS&#34;-Dienste wurden eingestellt.
+348	Ermöglicht das fortlaufende Erstellen einer Video-Pict-Story.
+349	Bereits
+350	Amerika
+351	Amharisch
+353	Amsterdam
+354	Ein Album mit diesem Namen existiert bereits. Wenn Sie den Import fortsetzen, wird das Album überschrieben.
+355	Bei der Verarbeitung Ihres Kaufs ist ein Fehler aufgetreten.
+356	Ein Fehler ist aufgetreten.
+357	Ein Fehler ist aufgetreten.\n Bitte das Gerät aus- und wieder einschalten.
+358	Beim Update ist ein Fehler aufgetreten.
+359	Ein unbekannter Fehler ist aufgetreten.
+360	DJ-Registrierung aufgehoben.
+361	Dieses Produkt ist mit RSA(R) BSAFE TM SSL-C ausgestattet.
+362	sowie das Memory Stick-Logo
+363	und sind durch US-Patente und andere geistige Eigentumsrechte geschützt. Die Nutzung dieser Kopierschutztechnologie
+364	und deren Mitwirkenden, The NetBSD Foundation, Inc. Die Kommunikationsfunktion dieses Produkts
+365	Der Abruf der Programminformationen beginnt in Kürze.
+366	Der Abruf der Programminformationen beginnt in Kürze.\n Der aktuelle Vorgang wird beendet.
+367	Der Abruf der Programminformationen beginnt.\n Der aktuelle Vorgang wird beendet.
+369	Blickwinkel
+370	Blickwinkel kann direkt vor dem Blickwinkelblock nicht geändert werden
+371	Animation
+372	Anime
+373	Für diese Zeit besteht bereits eine andere Programmierung
+374	Alle Genres
+375	Es können keine weiteren Pict Storys erstellt werden.
+376	Anwendung (PocketStation®)
+377	Ca. bis zum Ende
+378	Arabisch
+379	Wiedergabe dieser Disc ist durch Regionalcode gesperrt.
+380	sind geschützt.
+381	ist geschützt.\n Löschen nicht möglich.
+382	ist geschützt.\n Bearbeiten nicht möglich.
+383	ist geschützt.\n Umbenennen nicht möglich.
+384	ist geschützt.\n Bearbeitung kann nicht aufgehoben werden.
+385	sind Marken oder eingetragene Marken in den USA und anderen Ländern.
+386	sind Marken oder eingetragene Marken der Sony Corporation.
+387	Wirklich herunterladen
+388	Diesen Download wirklich kaufen?
+389	Manuelle Sendereinstellung hier wirklich abbrechen?
+390	Wirklich einen Eintrittspunkt hinzufügen?
+391	Download wirklich abbrechen?
+392	Manuelle Sendereinstellung hier wirklich abbrechen?
+393	Wirklich beenden?
+394	Optischen Ausgang wirklich verwenden?
+395	Linkes Kreissymbol wirklich verwenden?
+396	Sind Sie sicher?
+397	Sind Sie sicher? Nach der Einstellung wird der Flash
+398	Sind Sie sicher? Nach der Einstellung wird die Suche
+399	Sind Sie sicher? Überspielung nach Änderung auf DVD-RW (VR-Modus)
+400	Sind Sie sicher?
+401	Region
+402	Vorwahl
+403	Vorwahl-Einstellung
+404	Regionsnummer :
+405	Armenisch
+406	Interpret
+407	Interpretenname
+408	Assamesisch
+409	Athen
+410	Atlant. (Kan)
+411	Audio-CD
+412	Audiogerät
+413	Audio folgen
+414	Audiosprache
+415	Tonspur\nAutomatische Auswahl
+420	Österreich
+421	Authoring-Komponente
+422	Authoring-Fehler
+424	Auto-Sendersuche
+425	Auto-Einrichtung
+426	Auto-Suchlauf
+427	Auto-Suchlauf?
+428	Uhr wird automatisch eingestellt.
+429	Uhr automatisch einstellen?
+430	Autom. Löschen :
+431	Automatisch gelöschter Titel
+432	Sender automatisch einrichten.
+433	Autom. Stereoempfang
+434	Automatisch
+435	Automatische Sendereinrichtung.
+436	Automatische Einstellung
+437	Passt alle Aufnahmemodi des gewählten Titels automatisch an.\nSind Sie sicher?\n※Bei Titeln mit geschütztem Aufnahmemodus\nwird der Aufnahmemodus nicht geändert.
+439	Aserbaidschanisch
+440	Azoren
+441	ZURÜCK
+442	BGM-Auswahl
+444	BS-Antennenpegel
+445	BS-Antennenpegelanzeige
+446	BS-Antennenstrom
+447	BS-Antennenstrom.
+448	BS-Antennenstrom:
+449	BS-Sender
+450	BUSY-Zeitüberschreitung.
+451	Zurück
+452	Zurück (unsichtbar)
+453	Auf Werkseinstellungen zurücksetzen.
+454	Rücktaste / Löschen
+455	Bagdad
+457	Ballade
+459	Baseball
+460	Baschkirisch
+461	Baskisch
+462	Da nicht genügend Festplattenspeicher frei ist
+463	Wiedergabe nicht möglich, da geändert oder gelöscht.
+464	Schreibfehler.\n Aufnahme wird beendet.
+465	Nicht genügend freier Speicher auf dem Memory Stick.\n Dieser Titel kann nicht aufgenommen werden.
+466	Vor Programmsuche
+467	Peking
+468	Wird installiert
+469	Beirut
+470	Belgien
+471	Belgrad
+472	Bengalisch
+473	Bengalisch
+474	Bengalisch
+477	Bhutanisch
+479	Abrechnungs-Login
+482	Bitrate
+483	Programmierung bestätigt
+484	Lesezeichen
+485	Lesezeichen anzeigen
+487	Bratsk
+491	Bretonisch
+492	Sendung
+493	Brüssel
+494	Bukarest
+496	Bulgarisch
+497	Birmanisch
+498	Nach Datum
+499	Weißrussisch
+500	Kasachstan (Mitte)
+501	ABBRECHEN
+502	CD-Import-Einstellungen
+504	KAPITEL wiederholen
+507	FERTIG
+509	BESTÄTIGEN
+512	Kairo
+513	Kalkutta
+514	Kambodschanisch
+515	Kamera
+516	Nicht möglich.
+517	Kanada
+518	Kanarische Inseln
+519	Abbrechen
+520	Auswahl aufheben?
+521	Aktuelle Auswahl aufheben.
+522	Auswahl aufheben
+523	Start- und Endpunkt aufheben.
+524	Löschen abbrechen.
+525	Abgebrochen – Beenden
+526	Abbrechen
+527	Abbruch
+528	Wird abgebrochen ...
+529	Wird abgebrochen...
+530	Kopieren auf diese Speicherkarte nicht möglich.
+531	Dieser Titel kann nicht überspielt werden.
+532	Keine weitere Bearbeitung möglich.
+533	Diese Disc kann nicht formatiert werden.\nFormatierung abgebrochen.
+534	Diese Disc kann nicht formatiert werden.\nBitte eine DVD-RW einlegen.
+535	Verschieben auf diese Speicherkarte nicht möglich.
+536	Nicht genügend Platz im Spielebereich.\n Bitte DJ-Registrierung nicht benötigter Titel aufheben\n oder Spiele löschen.
+537	Nicht genügend Festplattenspeicher.\n Bitte nicht benötigte Titel oder Fotos löschen.
+538	Nicht genügend Festplattenspeicher.\n Bitte Titel oder Fotos löschen.
+541	Keine Kassette im DV-Gerät.\n Aufnahme wird beendet.
+542	Katalanisch
+543	Kategorie
+544	Zentral (Kan)
+545	Zentral (USA)
+546	Ändern
+547	Blickwinkel ändern
+548	Eingabemodus ändern
+549	Namensänderung
+550	Einstellungen, Telefonbuch und Programmführer ändern.\n Sind Sie sicher?
+551	Einstellungen ändern.\n Sind Sie sicher?
+552	Albumnamen ändern.
+553	Titelnamen ändern.
+555	Sender
+556	Sender überspringen
+557	Kapitelanzeige
+558	Kapitel
+559	Kapitel     （    ）
+560	Kapitel 1
+561	Kapitelliste
+562	Kapitelanzeige
+563	Kapitelgrenze überschritten.
+564	Kapitelsuchlauf-Anzeige
+565	Kapitelsuchlauf-Anzeige beenden
+566	Kapitelsuchlauf-Anzeige fehlgeschlagen
+567	Kapitelsuchlauf-Anzeige fehlgeschlagen, Ende
+568	Das angegebene Kapitel ist ungültig.
+569	Prüfen
+570	Einchecken
+571	Auschecken
+572	Router und Modem prüfen
+573	Router und Modem prüfen.
+574	Bearbeitetes Video prüfen.
+575	Prüfen Sie, ob der Memory Stick vollständig eingesteckt ist.
+576	Kabelverbindung prüfen.
+577	Lizenzbedingungen prüfen,
+578	Benutzer-ID und Passwort für PPPoE prüfen.
+579	Prüfung wird beendet.
+580	Netzwerkeinstellungen prüfen.
+581	Auschecken abgeschlossen.
+582	Einchecken abgeschlossen.
+583	Freier Speicher auf dem Memory Stick wird geprüft, bitte warten...
+584	Freier Speicher auf dem Memory Stick wird geprüft, bitte warten...
+585	Freier Festplattenspeicher wird geprüft.\nBitte warten...\nKonsole nicht ausschalten.
+586	Freier Festplattenspeicher wird geprüft...
+587	Freier Festplattenspeicher wird geprüft.
+588	Wird eingecheckt...
+589	Wird ausgecheckt...
+590	Disc wird geprüft...
+591	Update-Software wird geprüft.
+593	Kinder
+595	Chinesisch
+596	Klassik
+597	Klassifizierung
+598	Löschen
+599	A-Punkt löschen
+600	A-B-Wiederholpunkt löschen
+601	Clipname
+602	Uhreinstellung
+603	Schließen
+604	Kommunikationsfehler.
+605	Zeitüberschreitung bei der Kommunikation.
+606	Zeitüberschreitung bei der Kommunikation.
+607	Aufgeführte Firmen- und Produktnamen sind Marken oder eingetragene Marken der jeweiligen Inhaber.
+608	Fertig!
+609	Komponiert von
+611	Konfiguration
+612	Bestätigen
+613	Einstellungen prüfen und drücken Sie
+614	Wiedergabe zur Bestätigung
+615	Bestätigt – Beenden
+616	Netzwerkkabel anschließen.
+617	Angeschlossenes Gerät:
+618	Auto-Sendersuche fortsetzen?
+619	Systemsteuerung
+620	Konvertieren
+621	Kopenhagen
+622	Kopieren
+623	Ordner kopieren
+624	Kopiergeschützt
+625	Alle übernehmbaren Musikstücke kopieren.
+626	Kopier- und Verschiebeschutz
+627	Kopieren abgebrochen.
+628	Kopieren abgeschlossen.
+629	Kopiervorgang.
+630	Wird kopiert...
+631	Wird kopiert....
+634	Fehler bei der Core-Initialisierung.
+635	Richtig
+636	Richtig.
+637	Korrektur
+638	Beschädigte Daten
+639	Korsisch
+640	Import nicht möglich.
+641	Löschen nicht möglich
+642	Programmierungen konnten nicht gelöscht werden.
+643	Aufnahme konnte nicht beendet werden.\nÜberspielen kann nicht gestartet werden.
+644	Land
+645	Gerät erstellen
+646	Ordner erstellen
+647	Neu erstellen
+648	Auswahl erstellen und ändern
+649	Ordner erstellen
+650	Erstellt
+651	Erstellungsdatum:
+652	Erstellen der DVD wurde nicht abgeschlossen.
+653	Kroatisch
+654	Der &#34;DNAS&#34;-Server nimmt die Verarbeitung derzeit an
+655	Der &#34;DNAS&#34;-Server nimmt die Verarbeitung derzeit an
+656	Andere Titel werden gerade optimiert.
+657	Tschechisch
+660	TT/MM/JJJJ
+661	DISC wiederholen
+662	DJ-Registrierung.
+663	DJ-Registrierung.\n Sind Sie sicher?
+664	DJ- und Simulator-Engine von DJbox
+665	DJ-Registrierung aufgehoben.
+666	DJ-Registrierung aufheben
+667	DJ-Registrierungsbildschirm
+668	DJ-Registrierung
+669	DJ-Registrierung :
+670	DJ-Registrierung abgeschlossen.
+671	DJ-Registrierung.
+672	DJ-Reg. aufheben
+673	DJ-Registrierung aufgehoben.
+674	DJ wurde registriert.
+680	DNS-Fehler.
+681	DNS-Server antwortet nicht.
+682	DNS-Server nicht gefunden.
+683	INLAND
+684	HERUNTERLADEN
+686	DTS :
+687	DTS-Ausgang
+688	DTS-Einstellung
+689	DV-Audioeingang
+690	DV-Aufnahme
+691	DV → HDD-Aufnahme
+692	DV-Gerät nicht angeschlossen.\nAufnahme wird beendet.
+696	DVD-Einstellungen
+699	DVD-Zugriff

@@ -1,0 +1,992 @@
+1	Back	Zurück	Wstecz
+2	Disc space 100%	Speicher 100 %	Miejsce 100%
+3	There is no data.	Keine Daten vorhanden.	Brak danych.
+4	There are no tracks.	Keine Titel vorhanden.	Brak utworów.
+5	There are no photos.	Keine Fotos vorhanden.	Brak zdjęć.
+6	Open	Öffnen	Otwórz
+7	Rotate (left)	Drehen (links)	Obróć (w lewo)
+8	Rotate (right)	Drehen (rechts)	Obróć (w prawo)
+9	Digital camera	Digitalkamera	Aparat cyfrowy
+10	Memory Stick	Memory Stick	Memory Stick
+11	Music CD	Musik-CD	Płyta CD audio
+12	DVD	DVD	DVD
+13	Busy.	Beschäftigt.	Zajęte.
+14	Video	Video	Wideo
+15	TV	TV	TV
+16	=	=	=
+17	'PSX' and 'PlayStation'	„PSX“ und „PlayStation“	„PSX” i „PlayStation”
+18	are registered trademarks of Sony Computer Entertainment Inc.	sind eingetragene Marken der Sony Computer Entertainment Inc.	są zastrzeżonymi znakami towarowymi Sony Computer Entertainment Inc.
+19	=	=	=
+20	and the Memory Stick logo	sowie das Memory Stick-Logo	oraz logo Memory Stick
+21	are trademarks or registered trademarks of Sony Corporation.	sind Marken oder eingetragene Marken der Sony Corporation.	są znakami towarowymi lub zastrzeżonymi znakami towarowymi Sony Corporation.
+22	=	DTS und DTS Digital Out sind Marken von Digital Theater Systems, Inc.	DTS i DTS Digital Out są znakami towarowymi Digital Theater Systems, Inc.
+23	This software is based in part on the work of the FreeType Team.	Diese Software basiert teilweise auf der Arbeit des FreeType Teams.	To oprogramowanie jest częściowo oparte na pracy zespołu FreeType.
+24	ATOK is a registered trademark of JUSTSYSTEM Corporation.	ATOK ist eine eingetragene Marke der JUSTSYSTEM Corporation.	ATOK jest zastrzeżonym znakiem towarowym JUSTSYSTEM Corporation.
+25	This product incorporates copyright protection technology that is protected by	Dieses Produkt enthält Kopierschutztechnologie, die durch US-Patente	Ten produkt zawiera technologię ochrony przed kopiowaniem chronioną
+26	U.S. patents and other intellectual property rights. Use of this technology	und andere Schutzrechte geschützt ist. Ihre Nutzung muss von Macrovision	patentami USA i innymi prawami. Jej użycie musi być autoryzowane przez
+27	must be authorized by Macrovision and is intended for home and other limited	genehmigt werden und ist nur für den Heimgebrauch und andere begrenzte	Macrovision i jest przeznaczone wyłącznie do użytku domowego i innego
+28	viewing uses only. Reverse engineering or disassembly is prohibited.	Vorführungen bestimmt. Reverse Engineering und Disassemblierung sind verboten.	ograniczonego. Inżynieria wsteczna i dezasemblacja są zabronione.
+29	=	=	=
+30	=	=	=
+31	=	=	=
+32	libjpeg   This software is based in part on the work of the Independent JPEG Group	libjpeg   Diese Software basiert teilweise auf der Arbeit der Independent JPEG Group	libjpeg   To oprogramowanie jest częściowo oparte na pracy Independent JPEG Group
+33	=	Teile dieses Produkts sind urheberrechtlich geschützt und werden	Części tego produktu są chronione prawem autorskim i są
+34	=	unter Lizenz von ARIS/Solana/4C bereitgestellt.	udostępniane na licencji ARIS/Solana/4C.
+35	=	=	=
+36	=	=	=
+37	The communication functions of this product use software developed by	Die Kommunikationsfunktionen dieses Produkts nutzen Software der	Funkcje komunikacyjne tego produktu wykorzystują oprogramowanie
+38	the NetBSD Foundation, Inc. and its contributors.	NetBSD Foundation, Inc. und ihrer Mitwirkenden.	NetBSD Foundation, Inc. i jej współtwórców.
+39	For details see the BSD license after 'About PSX'.	Details siehe BSD-Lizenz nach „Über PSX“.	Szczegóły w licencji BSD po „Informacje o PSX”.
+40	=	=	=
+41	=	=	=
+42	This product uses DNAS (Dynamic Network Authentication System),	Dieses Produkt verwendet DNAS (Dynamic Network Authentication System),	Ten produkt używa DNAS (Dynamic Network Authentication System),
+43	a proprietary authentication system of Sony Computer Entertainment Inc.	ein Authentifizierungssystem der Sony Computer Entertainment Inc.	systemu uwierzytelniania firmy Sony Computer Entertainment Inc.
+44	to protect copyrights and security. Distributing programs or devices that disable it,	zum Schutz von Urheberrecht und Sicherheit. Verbreitung von Programmen oder Geräten,	chroniącego prawa autorskie i bezpieczeństwo. Rozpowszechnianie programów lub urządzeń,
+45	or exhibiting, exporting, transmitting or importing them, may be prohibited by law.	die es umgehen, sowie deren Export, Übertragung oder Import kann gesetzlich verboten sein.	które go wyłączają, ich eksport, przesyłanie lub import mogą być zabronione prawem.
+46	DNAS is a trademark of Sony Computer Entertainment Inc.	DNAS ist eine Marke der Sony Computer Entertainment Inc.	DNAS jest znakiem towarowym Sony Computer Entertainment Inc.
+47	This product contains RSA(R) BSAFE TM Crypt-C	Dieses Produkt enthält RSA(R) BSAFE TM Crypt-C	Ten produkt zawiera RSA(R) BSAFE TM Crypt-C
+48	and RSA(R) BSAFE TM SSL-C from RSA Security Inc.	und RSA(R) BSAFE TM SSL-C von RSA Security Inc.	oraz RSA(R) BSAFE TM SSL-C firmy RSA Security Inc.
+49	RSA and BSAFE are registered trademarks of RSA Security Inc.	RSA und BSAFE sind eingetragene Marken der RSA Security Inc.	RSA i BSAFE są zastrzeżonymi znakami towarowymi RSA Security Inc.
+50	in the United States and other countries.	in den USA und anderen Ländern.	w Stanach Zjednoczonych i innych krajach.
+51	Other company and product names are trademarks or registered trademarks of their owners.	Andere Firmen- und Produktnamen sind Marken oder eingetragene Marken ihrer Inhaber.	Inne nazwy firm i produktów są znakami towarowymi lub zastrzeżonymi ich właścicieli.
+52	About the BSD license	Zur BSD-Lizenz	O licencji BSD
+53	Settings / BS antenna level display	Einstellungen / BS-Antennenpegel	Ustawienia / Poziom anteny BS
+54	No	Nein	Nie
+55	Yes	Ja	Tak
+56	Channel skip	Kanal überspringen	Pomijanie kanałów
+57	Saving the channel settings.	Kanaleinstellungen werden gespeichert.	Zapisywanie ustawień kanałów.
+58	Settings / BS channel skip	Einstellungen / BS-Kanäle überspringen	Ustawienia / Pomijanie kanałów BS
+59	Start	Start	Start
+60	Auto Tune	Sendersuchlauf	Strojenie auto.
+61	=	=	=
+62	=	=	=
+63	Summary	Übersicht	Podsumowanie
+64	Hard disk space	Festplattenbereich	Miejsce na dysku
+65	Finish	Fertig	Koniec
+66	Basic settings for using this unit.	Grundeinstellungen für dieses Gerät.	Podstawowe ustawienia urządzenia.
+67	Press right to begin	Nach rechts, um die	W prawo, aby rozpocząć
+68	the Easy Setup.	Einrichtung zu starten.	szybką konfigurację.
+69	Select BS antenna power	BS-Antennenstrom wählen	Wybierz zasilanie anteny BS
+70	with up/down.	mit oben/unten.	strzałkami góra/dół.
+71	Press right for the next screen.	Nach rechts: nächster Bildschirm.	W prawo: następny ekran.
+72	Change the time:	Uhrzeit ändern:	Zmiana czasu:
+73	Press to change.	Drücken zum Ändern.	Naciśnij, aby zmienić.
+74	Press right	Nach rechts	W prawo
+75	for next screen	nächster Schritt	następny ekran
+76	Select the item to change	Zu ändernde Stelle wählen	Wybierz element do zmiany
+77	Change the value.	Wert ändern.	Zmień wartość.
+78	When the time is set	Wenn die Zeit stimmt,	Po ustawieniu czasu
+79	press.	drücken.	naciśnij.
+80	Select your region	Region auswählen	Wybierz region
+81	Press right for the next screen.	Nach rechts: nächster Bildschirm.	W prawo: następny ekran.
+82	Select Auto Tune	Sendersuchlauf wählen	Wybierz strojenie
+83	or manual tuning,	oder manuell,	auto. lub ręczne,
+84	press right for the next screen.	nach rechts: nächster Bildschirm.	w prawo: następny ekran.
+85	Manual Tuning	Manuelle Suche	Strojenie ręczne
+86	Select TV screen type	Bildschirmtyp wählen	Wybierz typ ekranu
+87	(aspect ratio),	(Seitenverhältnis),	(proporcje),
+88	press right for	nach rechts:	w prawo:
+89	the next screen.	nächster Bildschirm.	następny ekran.
+90	4:3 Letterbox	4:3 Letterbox	4:3 Letterbox
+91	4:3 Pan &amp; Scan	4:3 Pan &amp; Scan	4:3 Pan &amp; Scan
+92	Select digital out	Digitalausgang	Wybierz wyjście cyfr.
+93	On or Off,	Ein oder Aus,	Wł. lub Wył.,
+94	press right for the next screen.	nach rechts: nächster Bildschirm.	w prawo: następny ekran.
+95	Select Dolby Digital,	Dolby Digital wählen,	Wybierz Dolby Digital,
+96	press right for the next screen.	nach rechts: nächster Bildschirm.	w prawo: następny ekran.
+97	Select DTS,	DTS wählen,	Wybierz DTS,
+98	press right for the next screen.	nach rechts: nächster Bildschirm.	w prawo: następny ekran.
+99	Settings summary.	Übersicht der Einstellungen.	Podsumowanie ustawień.
+100	To accept, press	Zum Übernehmen	Aby zatwierdzić,
+101	Time setting	Uhrzeit	Ustawienie czasu
+102	Area code	Vorwahl	Numer kier.
+103	Dolby Digital	Dolby Digital	Dolby Digital
+104	Off (On failed)	Aus (Ein fehlgeschl.)	Wył. (błąd Wł.)
+105	HDD area for games	HDD-Bereich für Spiele	Obszar HDD dla gier
+106	=	=	=
+107	Press right for the next screen.	Nach rechts: nächster Bildschirm.	W prawo: następny ekran.
+108	Game area	Spielbereich	Obszar gier
+109	To change it,	Zum Ändern bitte	Aby to zmienić,
+110	use HDD setting in Settings.	HDD-Einstellung verwenden.	użyj ustawienia HDD.
+111	Changing it deletes video, music, photos	Dabei werden Videos, Musik, Fotos	Zmiana usunie wideo, muzykę, zdjęcia
+112	and the program guide.	und Programmführer gelöscht.	i przewodnik po programach.
+113	Easy Setup finished.	Einrichtung abgeschlossen.	Szybka konfiguracja zakończona.
+114	Initializing settings.	Einstellungen werden initialisiert.	Inicjalizacja ustawień.
+115	Do not turn off the PSX during initialization.	PSX während der Initialisierung nicht ausschalten.	Nie wyłączaj PSX podczas inicjalizacji.
+116	Cancel the Easy Setup?	Einrichtung abbrechen?	Anulować szybką konfigurację?
+117	Continue	Fortsetzen	Kontynuuj
+118	10 minutes left until a timer recording starts.	Noch 10 Minuten bis zu einer Timer-Aufnahme.	10 minut do rozpoczęcia nagrywania z timera.
+119	The wizard will close when the recording starts.	Der Assistent wird bei Aufnahmebeginn beendet.	Kreator zamknie się przy starcie nagrywania.
+120	Cancel the wizard?	Assistent abbrechen?	Anulować kreatora?
+121	Easy Setup / 	Einrichtung / 	Szybka konfig. /
+122	=	=	=
+123	=	=	=
+124	=	=	=
+125	=	=	=
+126	The hard disk will now be initialized.	Die Festplatte wird jetzt initialisiert.	Dysk twardy zostanie teraz zainicjalizowany.
+127	All contents of the hard disk will be erased	Alle Inhalte der Festplatte werden gelöscht	Cała zawartość dysku zostanie usunięta
+128	and it returns to its factory state.	und sie wird in den Auslieferungszustand versetzt.	i powróci on do stanu fabrycznego.
+129	Initialize?	Initialisieren?	Zainicjalizować?
+130	Do not initialize	Nicht initialisieren	Nie inicjalizuj
+131	Initializing the hard disk. Please wait.	Festplatte wird initialisiert. Bitte warten.	Inicjalizacja dysku. Proszę czekać.
+132	Hard disk initialization was cancelled.	Initialisierung der Festplatte abgebrochen.	Anulowano inicjalizację dysku.
+133	Hard disk initialization completed.	Initialisierung der Festplatte abgeschlossen.	Inicjalizacja dysku zakończona.
+134	Once started, initialization cannot be interrupted.	Die Initialisierung kann nach dem Start nicht abgebrochen werden.	Po rozpoczęciu inicjalizacji nie można przerwać.
+135	Are you sure you want to initialize?	Wirklich initialisieren?	Na pewno zainicjalizować?
+136	Start	Starten	Rozpocznij
+137	Do not start	Nicht starten	Nie rozpoczynaj
+138	Cancel the hard disk initialization?	Initialisierung der Festplatte abbrechen?	Anulować inicjalizację dysku?
+139	10 minutes left until a timer recording starts.	Noch 10 Minuten bis zu einer Timer-Aufnahme.	10 minut do rozpoczęcia nagrywania z timera.
+140	Settings / Initialize hard disk	Einstellungen / Festplatte initialisieren	Ustawienia / Inicjalizacja dysku
+141	HDD setting will now start.	Die HDD-Einstellung wird gestartet.	Rozpoczyna się ustawienie HDD.
+142	In HDD setting you can change	In der HDD-Einstellung kann der	W ustawieniu HDD możesz zmienić
+143	the game area.	Spielbereich geändert werden.	obszar gier.
+144	Changing the HDD setting erases the hard disk	Dabei wird der Inhalt der Festplatte	Zmiana ustawienia HDD usunie
+145	contents.	gelöscht.	zawartość dysku.
+146	You can change the hard disk areas.	Hier können die Festplattenbereiche geändert werden.	Tu można zmienić obszary dysku.
+147	Game area	Spielbereich	Obszar gier
+148	Game area :	Spielbereich :	Obszar gier :
+149	Delete the game area?	Spielbereich löschen?	Usunąć obszar gier?
+150	Press to delete the game area.	Drücken, um den Spielbereich zu löschen.	Naciśnij, aby usunąć obszar gier.
+151	Note	Hinweis	Uwaga
+152	If you delete the game area,	Wenn der Spielbereich gelöscht wird,	Po usunięciu obszaru gier
+153	games that use the hard disk	können Spiele, die die Festplatte nutzen,	gry korzystające z dysku
+154	can no longer be played.	nicht mehr gespielt werden.	nie będą działać.
+155	Create a game area?	Spielbereich anlegen?	Utworzyć obszar gier?
+156	Press to create a game area.	Drücken, um einen Spielbereich anzulegen.	Naciśnij, aby utworzyć obszar gier.
+157	Creating a game area reduces the	Ein Spielbereich verkürzt die	Utworzenie obszaru gier skróci
+158	recording time (SP) by about 17 hours.	Aufnahmezeit (SP) um ca. 17 Stunden.	czas nagrywania (SP) o ok. 17 godzin.
+159	<EMPTY>	<EMPTY>	<EMPTY>
+160	Press to restart.	Drücken zum Neustart.	Naciśnij, aby uruchomić ponownie.
+161	After the restart, the hard disk area setting	Nach dem Neustart beginnt die	Po ponownym uruchomieniu rozpocznie się
+162	will start.	Einstellung der Festplattenbereiche.	ustawianie obszarów dysku.
+163	If you change the hard disk areas,	Beim Ändern der Festplattenbereiche	Zmiana obszarów dysku
+164	video, music, photos and the program guide	werden Videos, Musik, Fotos und Programmführer	usunie wideo, muzykę, zdjęcia i przewodnik
+165	will be deleted.	gelöscht.	po programach.
+166	Do you want to continue?	Fortfahren?	Kontynuować?
+167	Cancel the hard disk area setting?	Einstellung der Festplattenbereiche abbrechen?	Anulować ustawienie obszarów dysku?
+168	Do not stop	Nicht abbrechen	Nie przerywaj
+169	Settings / HDD area setting	Einstellungen / HDD-Bereiche	Ustawienia / Obszary HDD
+170	Reset to factory settings?	Auf Werkseinstellungen zurücksetzen?	Przywrócić ustawienia fabryczne?
+171	and press.	und drücken.	i naciśnij.
+172	Do not reset	Nicht zurücksetzen	Nie przywracaj
+173	Restoring factory settings.	Werkseinstellungen werden wiederhergestellt.	Przywracanie ustawień fabrycznych.
+174	Do not turn off the console.	Konsole nicht ausschalten.	Nie wyłączaj konsoli.
+175	This cannot be undone.	Dies kann nicht rückgängig gemacht werden.	Tego nie można cofnąć.
+176	If you are sure,	Wenn Sie sicher sind,	Jeśli jesteś pewien,
+177	press.	drücken.	naciśnij.
+178	Factory settings restored.	Werkseinstellungen wiederhergestellt.	Przywrócono ustawienia fabryczne.
+179	Factory reset returns	Beim Zurücksetzen werden alle	Przywrócenie ustawień fabrycznych
+180	all settings of this unit to their defaults.	Einstellungen auf den Ausgangszustand gesetzt.	resetuje wszystkie ustawienia urządzenia.
+181	Photos, videos and other data on the hard disk,	Fotos, Videos und andere Daten auf der Festplatte,	Zdjęcia, wideo i inne dane na dysku,
+182	such as music, will not be deleted.	etwa Musik, werden nicht gelöscht.	np. muzyka, nie zostaną usunięte.
+183	Cancel the factory reset?	Zurücksetzen abbrechen?	Anulować przywracanie ustawień?
+184	Settings / Factory reset	Einstellungen / Werkseinstellungen	Ustawienia / Ustawienia fabryczne
+185	=	=	=
+186	=	=	=
+187	=	=	=
+188	Settings for connecting to the network:	Einstellungen für die Netzwerkverbindung:	Ustawienia połączenia z siecią:
+189	Review and change settings	Einstellungen prüfen und ändern	Przeglądanie i zmiana ustawień
+190	Test the current connection.	Aktuelle Verbindung testen.	Test bieżącego połączenia.
+191	Connect the Ethernet cable and	Ethernet-Kabel anschließen und	Podłącz kabel Ethernet i
+192	start the network setup.	Netzwerkeinrichtung starten.	rozpocznij konfigurację sieci.
+193	Do you use PPPoE?	PPPoE verwenden?	Czy używasz PPPoE?
+194	Right: next screen.	Rechts: weiter.	W prawo: dalej.
+195	Do not use	Nicht verwenden	Nie używaj
+196	Use	Verwenden	Używaj
+197	press.	drücken.	naciśnij.
+198	To continue	Weiter mit	Aby kontynuować
+199	IP address setting.	IP-Adresse einstellen.	Ustawienie adresu IP.
+200	Auto	Automatisch	Auto
+201	DNS (Domain Name System) setting.	DNS (Domain Name System) einstellen.	Ustawienie DNS (Domain Name System).
+202	Right: next screen	Rechts: weiter	W prawo: dalej
+203	Change the DNS (Domain Name System) setting.	DNS (Domain Name System) ändern.	Zmiana ustawienia DNS (Domain Name System).
+204	Select with	Wählen mit	Wybierz
+205	to change.	zum Ändern.	aby zmienić.
+206	Auto	Automatisch	Auto
+207	To continue,	Weiter mit	Aby kontynuować,
+208	Use	Mit	Użyj
+209	to move,	bewegen,	do ruchu,
+210	to change.	ändern.	aby zmienić.
+211	for the next screen.	nächster Bildschirm.	następny ekran.
+212	Change the DNS (Domain Name System) setting.	DNS (Domain Name System) ändern.	Zmiana ustawienia DNS (Domain Name System).
+213	Save the settings to the hard disk	Einstellungen auf der Festplatte speichern	Zapisz ustawienia na dysku
+214	and check the Internet connection.	und Internetverbindung prüfen.	i sprawdź połączenie z Internetem.
+215	Press to start the connection test.	Drücken für den Verbindungstest.	Naciśnij, aby przetestować połączenie.
+216	Press to start the connection test.	Drücken für den Verbindungstest.	Naciśnij, aby przetestować połączenie.
+217	Select with	Wählen mit	Wybierz
+218	Press to start the connection test.	Drücken für den Verbindungstest.	Naciśnij, aby przetestować połączenie.
+219	Press to start the connection test.	Drücken für den Verbindungstest.	Naciśnij, aby przetestować połączenie.
+220	Cancel the network setup?	Netzwerkeinrichtung abbrechen?	Anulować konfigurację sieci?
+221	If you cancel, your changes will not be saved.	Beim Abbrechen werden die Änderungen nicht gespeichert.	Po anulowaniu zmiany nie zostaną zapisane.
+222	Network connection cancelled.	Netzwerkverbindung abgebrochen.	Anulowano połączenie z siecią.
+223	Failed to save the settings.	Einstellungen konnten nicht gespeichert werden.	Nie udało się zapisać ustawień.
+224	Failed to connect to the network.	Verbindung zum Netzwerk fehlgeschlagen.	Nie udało się połączyć z siecią.
+225	DNAS authentication error	DNAS-Authentifizierungsfehler	Błąd uwierzytelniania DNAS
+226	Cannot read the network settings.	Netzwerkeinstellungen nicht lesbar.	Nie można odczytać ustawień sieci.
+227	10 minutes left until a timer recording starts.	Noch 10 Minuten bis zu einer Timer-Aufnahme.	10 minut do rozpoczęcia nagrywania z timera.
+228	This will close automatically when the recording starts.	Wird bei Aufnahmebeginn automatisch beendet.	Zamknie się automatycznie przy starcie nagrywania.
+229	Are you sure you want to cancel?	Wirklich abbrechen?	Na pewno anulować?
+230	DNAS authentication.	DNAS-Authentifizierung.	Uwierzytelnianie DNAS.
+231	The DNAS server cannot accept requests	Der DNAS-Server kann derzeit	Serwer DNAS nie może teraz
+232	at the moment.	keine Anfragen annehmen.	przyjmować żądań.
+233	Please wait a while and reconnect.	Bitte später erneut verbinden.	Połącz ponownie za chwilę.
+234	The DNAS authentication period for this title has not started yet.	Der DNAS-Zeitraum für diesen Titel hat noch nicht begonnen.	Okres uwierzytelniania DNAS dla tego tytułu jeszcze się nie zaczął.
+235	The DNAS authentication period for this title has ended.	Der DNAS-Zeitraum für diesen Titel ist abgelaufen.	Okres uwierzytelniania DNAS dla tego tytułu zakończył się.
+236	All DNAS services have ended.	Alle DNAS-Dienste wurden eingestellt.	Wszystkie usługi DNAS zakończono.
+237	DNAS: connection to the server timed out.	DNAS: Zeitüberschreitung beim Server.	DNAS: przekroczono czas połączenia z serwerem.
+238	Server is not working	Server funktioniert nicht	Serwer nie działa
+239	DNAS error.	DNAS-Fehler.	Błąd DNAS.
+240	DNAS server error.	DNAS-Serverfehler.	Błąd serwera DNAS.
+241	Unique ID error.	Fehler der eindeutigen ID.	Błąd unikalnego ID.
+242	Device information error.	Fehler der Geräteinformationen.	Błąd informacji o urządzeniu.
+243	Network connection cancelled	Netzwerkverbindung abgebrochen	Anulowano połączenie z siecią
+244	Proxy settings error.	Fehler in den Proxy-Einstellungen.	Błąd ustawień proxy.
+245	DNS error.	DNS-Fehler.	Błąd DNS.
+246	DNAS: failed to connect to the server.	DNAS: Verbindung zum Server fehlgeschlagen.	DNAS: nie udało się połączyć z serwerem.
+247	Connection complete.	Verbindung hergestellt.	Połączono.
+248	Abort connection.	Verbindung abbrechen.	Przerwij połączenie.
+249	Failed to connect.	Verbindung fehlgeschlagen.	Nie udało się połączyć.
+250	Network settings	Netzwerkeinstellungen	Ustawienia sieci
+251	Standard	Standard	Standardowa
+252	=	=	=
+253	=	=	=
+254	MAC address	MAC-Adresse	Adres MAC
+255	Firmware	Firmware	Oprogramowanie
+256	=	=	=
+257	Restore factory settings	Werkseinstellungen	Ustawienia fabryczne
+258	HDD setting	HDD-Einstellung	Ustawienie HDD
+259	4:3 Letterbox	4:3 Letterbox	4:3 Letterbox
+260	=	=	=
+261	=	=	=
+262	On the hour	Zur vollen Stunde	O pełnej godzinie
+263	Channel setting	Kanaleinstellung	Ustawienie kanałów
+264	Repeat delay	Wiederholverzögerung	Opóźnienie powtarzania
+265	Repeat rate	Wiederholrate	Szybkość powtarzania
+266	Settings / System information	Einstellungen / Systeminformationen	Ustawienia / Informacje o systemie
+267	=	=	=
+268	Save these settings?	Diese Einstellungen speichern?	Zapisać te ustawienia?
+269	If you do not save, you return to the previous screen.	Ohne Speichern kehren Sie zum vorherigen Bildschirm zurück.	Bez zapisania nastąpi powrót do poprzedniego ekranu.
+270	Saving the channel settings.	Kanaleinstellungen werden gespeichert.	Zapisywanie ustawień kanałów.
+271	The menu will close when the timer recording starts.	Das Menü wird bei Beginn der Timer-Aufnahme geschlossen.	Menu zamknie się przy starcie nagrywania z timera.
+272	Cancel the manual channel setting?	Manuelle Kanaleinstellung abbrechen?	Anulować ręczne ustawianie kanałów?
+273	Settings / TV / Manual channel setting	Einstellungen / TV / Manuelle Kanaleinstellung	Ustawienia / TV / Ręczne ustawianie kanałów
+274	Accept	Übernehmen	Zatwierdź
+275	Do not turn off the PSX during setup.	PSX während der Einrichtung nicht ausschalten.	Nie wyłączaj PSX podczas konfiguracji.
+276	Start Auto Tune?	Sendersuchlauf starten?	Rozpocząć strojenie automatyczne?
+277	Settings / TV / Auto Tune	Einstellungen / TV / Sendersuchlauf	Ustawienia / TV / Strojenie automatyczne
+278	Easy Setup / Auto Tune	Einrichtung / Sendersuchlauf	Szybka konfig. / Strojenie auto.
+279	Settings / TV / Manual channel setting / Fine tuning	Einstellungen / TV / Manuelle Kanaleinstellung / Feinabstimmung	Ustawienia / TV / Ręczne ustawianie / Dostrajanie
+280	Mute	Stumm	Wycisz
+281	Auto stereo reception	Automatischer Stereoempfang	Automatyczny odbiór stereo
+282	Program guide channel	Programmführer-Kanal	Kanał przewodnika po programach
+283	Program guide time	Programmführer-Zeit	Czas przewodnika po programach
+284	Network update will now start.	Die Netzwerk-Aktualisierung wird gestartet.	Rozpoczyna się aktualizacja przez sieć.
+285	Press to start the download.	Drücken, um den Download zu starten.	Naciśnij, aby rozpocząć pobieranie.
+286	The latest software has been downloaded.	Die neueste Software wurde heruntergeladen.	Pobrano najnowsze oprogramowanie.
+287	Until the download is finished, do not turn off the unit	Bis zum Ende des Downloads das Gerät nicht ausschalten	Do końca pobierania nie wyłączaj urządzenia
+288	or disconnect the network.	und das Netzwerk nicht trennen.	ani nie odłączaj sieci.
+289	Download status	Download-Status	Stan pobierania
+290	Please read the license agreement,	Bitte die Lizenzvereinbarung lesen	Przeczytaj umowę licencyjną
+291	then press to go to the next screen.	und zum nächsten Bildschirm drücken.	i naciśnij, aby przejść dalej.
+292	Do you accept the license agreement?	Akzeptieren Sie die Lizenzvereinbarung?	Czy akceptujesz umowę licencyjną?
+293	Select	Wählen Sie	Wybierz
+294	with and press	mit und drücken	i naciśnij
+295	Installation will now start.	Die Installation wird gestartet.	Rozpoczyna się instalacja.
+296	The screen may stay blank for a while during installation.	Während der Installation bleibt der Bildschirm eine Weile leer.	Podczas instalacji ekran może być przez chwilę pusty.
+297	Do not turn off this unit or disconnect it from the network.	Gerät nicht ausschalten und nicht vom Netzwerk trennen.	Nie wyłączaj urządzenia ani nie odłączaj go od sieci.
+298	<EMPTY>	<EMPTY>	<EMPTY>
+299	Press the button to start the installation.	Taste drücken, um die Installation zu starten.	Naciśnij przycisk, aby rozpocząć instalację.
+300	If you do not accept the license agreement,	Ohne Zustimmung zur Lizenzvereinbarung	Bez akceptacji umowy licencyjnej
+301	the software cannot be updated.	kann die Software nicht aktualisiert werden.	nie można zaktualizować oprogramowania.
+302	Network update finished.	Netzwerk-Aktualisierung beendet.	Aktualizacja przez sieć zakończona.
+303	Updating.	Aktualisierung läuft.	Trwa aktualizacja.
+304	Do not turn off the PSX or disconnect the network.	PSX nicht ausschalten und Netzwerk nicht trennen.	Nie wyłączaj PSX ani nie odłączaj sieci.
+305	Software update complete.	Software-Aktualisierung abgeschlossen.	Aktualizacja oprogramowania zakończona.
+306	=	=	=
+307	Checking for the latest software.	Suche nach neuester Software.	Sprawdzanie najnowszego oprogramowania.
+308	DNAS authentication.	DNAS-Authentifizierung.	Uwierzytelnianie DNAS.
+309	Updated to the latest software.	Auf die neueste Software aktualisiert.	Zaktualizowano do najnowszego oprogramowania.
+310	The software update will finish.	Die Software-Aktualisierung wird beendet.	Aktualizacja oprogramowania zostanie zakończona.
+311	DNAS authentication error.	DNAS-Authentifizierungsfehler.	Błąd uwierzytelniania DNAS.
+312	The update server is currently busy	Der Update-Server ist derzeit ausgelastet	Serwer aktualizacji jest zajęty
+313	or unavailable for maintenance.	oder wegen Wartung nicht verfügbar.	lub niedostępny z powodu konserwacji.
+314	Failed to connect to the server.	Verbindung zum Server fehlgeschlagen.	Nie udało się połączyć z serwerem.
+315	Download failed.	Download fehlgeschlagen.	Pobieranie nie powiodło się.
+316	Update failed.	Aktualisierung fehlgeschlagen.	Aktualizacja nie powiodła się.
+317	The DNAS authentication period for this title has ended.	Der DNAS-Zeitraum für diesen Titel ist abgelaufen.	Okres uwierzytelniania DNAS dla tego tytułu zakończył się.
+318	All DNAS services have ended.	Alle DNAS-Dienste wurden eingestellt.	Wszystkie usługi DNAS zakończono.
+319	DNAS: connection to the server timed out	DNAS: Zeitüberschreitung beim Server	DNAS: przekroczono czas połączenia z serwerem
+320	The server is not working properly.	Der Server funktioniert nicht richtig.	Serwer nie działa prawidłowo.
+321	DNAS: an error has occurred.	DNAS: Ein Fehler ist aufgetreten.	DNAS: wystąpił błąd.
+322	Device information error.	Fehler der Geräteinformationen.	Błąd informacji o urządzeniu.
+323	Network connection cancelled.	Netzwerkverbindung abgebrochen.	Anulowano połączenie z siecią.
+324	There is an error in the proxy settings.	Fehler in den Proxy-Einstellungen.	Błąd w ustawieniach proxy.
+325	Communication timed out.	Zeitüberschreitung bei der Kommunikation.	Przekroczono czas komunikacji.
+326	Invalid response from the DNS server.	Ungültige Antwort vom DNS-Server.	Nieprawidłowa odpowiedź serwera DNS.
+327	DNAS: failed to connect to the server.	DNAS: Verbindung zum Server fehlgeschlagen.	DNAS: nie udało się połączyć z serwerem.
+328	Communication error.	Kommunikationsfehler.	Błąd komunikacji.
+329	Cannot read the network settings.	Netzwerkeinstellungen nicht lesbar.	Nie można odczytać ustawień sieci.
+330	The scheduled recording start time has passed.	Die Startzeit der Timer-Aufnahme ist überschritten.	Minął czas rozpoczęcia nagrywania z timera.
+331	The network update will be stopped.	Die Netzwerk-Aktualisierung wird abgebrochen.	Aktualizacja przez sieć zostanie przerwana.
+332	Cancel the network update?	Netzwerk-Aktualisierung abbrechen?	Anulować aktualizację przez sieć?
+333	Less than one hour until a timer recording starts.	Weniger als eine Stunde bis zu einer Timer-Aufnahme.	Mniej niż godzina do nagrywania z timera.
+334	This will close automatically when the timer recording starts.	Wird bei Beginn der Timer-Aufnahme automatisch beendet.	Zamknie się automatycznie przy starcie nagrywania z timera.
+335	The latest software is already	Die neueste Software ist bereits	Najnowsze oprogramowanie jest już
+336	installed.	installiert.	zainstalowane.
+337	No update is needed.	Keine Aktualisierung nötig.	Aktualizacja nie jest potrzebna.
+338	Connected successfully.	Verbindung erfolgreich.	Połączono pomyślnie.
+339	Connection cancelled.	Verbindung abgebrochen.	Anulowano połączenie.
+340	Failed to connect.	Verbindung fehlgeschlagen.	Nie udało się połączyć.
+341	     Quality 1	     Qualität 1	     Jakość 1
+342	     Quality 2	     Qualität 2	     Jakość 2
+343	     Quality 3	     Qualität 3	     Jakość 3
+344	     Quality 4	     Qualität 4	     Jakość 4
+345	     Quality 5	     Qualität 5	     Jakość 5
+346	     Quality 6	     Qualität 6	     Jakość 6
+347	Do not create	Nicht erstellen	Nie twórz
+348	Composite	Composite	Kompozytowe
+349	S-Video	S-Video	S-Video
+350	Stereo	Stereo	Stereo
+351	Bilingual	Zweikanalton	Dwujęzyczny
+352	Main+Sub	Haupt+Neben	Główny+dodatk.
+353	Flash	Flash	Flash
+354	The PIN is incorrect.	Die PIN ist falsch.	Kod PIN jest nieprawidłowy.
+355	Option	Option	Opcja
+356	←Genre→	←Genre→	←Gatunek→
+357	There is no such data	Keine Daten vorhanden	Brak takich danych
+358	--:--xM - --:--xM Station name	--:--xM - --:--xM Sendername	--:--xM - --:--xM Nazwa stacji
+359	..:..xM - ..:..xM Station name	..:..xM - ..:..xM Sendername	..:..xM - ..:..xM Nazwa stacji
+360	First detail display area.	Erster Detailbereich.	Pierwszy obszar szczegółów.
+361	Detail display area.	Detailbereich.	Obszar szczegółów.
+362	OK	OK	OK
+363	Select the destination	Ziel auswählen	Wybierz miejsce docelowe
+364	KB	KB	KB
+365	Copying the saved data.	Gespeicherte Daten werden kopiert.	Kopiowanie zapisanych danych.
+366	Do not turn off the power during copying.	Während des Kopierens nicht ausschalten.	Nie wyłączaj zasilania podczas kopiowania.
+367	Copying complete.	Kopieren abgeschlossen.	Kopiowanie zakończone.
+368	Could not copy.	Kopieren nicht möglich.	Nie udało się skopiować.
+369	Copy saved game	Spielstand kopieren	Kopiuj zapis gry
+370	Overwrite?	Überschreiben?	Nadpisać?
+371	Cannot copy to this media.	Auf dieses Medium kann nicht kopiert werden.	Nie można kopiować na ten nośnik.
+372	Not enough free space to copy.	Nicht genug Speicherplatz zum Kopieren.	Za mało miejsca do skopiowania.
+373	No destination.	Kein Ziel.	Brak miejsca docelowego.
+374	Move	Verschieben	Przenieś
+375	Moving the saved data.	Gespeicherte Daten werden verschoben.	Przenoszenie zapisanych danych.
+376	Do not turn off the power while moving.	Während des Verschiebens nicht ausschalten.	Nie wyłączaj zasilania podczas przenoszenia.
+377	Move complete.	Verschieben abgeschlossen.	Przenoszenie zakończone.
+378	Could not move.	Verschieben nicht möglich.	Nie udało się przenieść.
+379	Move saved game	Spielstand verschieben	Przenieś zapis gry
+380	Move?	Verschieben?	Przenieść?
+381	Cannot move to this media.	Auf dieses Medium kann nicht verschoben werden.	Nie można przenieść na ten nośnik.
+382	Not enough free space.	Nicht genug Speicherplatz.	Za mało miejsca.
+383	There is no destination.	Kein Ziel vorhanden.	Brak miejsca docelowego.
+384	This data cannot be moved.	Diese Daten können nicht verschoben werden.	Tych danych nie można przenieść.
+385	Deleting the saved data.	Gespeicherte Daten werden gelöscht.	Usuwanie zapisanych danych.
+386	Do not turn off the power while deleting.	Während des Löschens nicht ausschalten.	Nie wyłączaj zasilania podczas usuwania.
+387	Deleted.	Gelöscht.	Usunięto.
+388	Could not delete.	Löschen nicht möglich.	Nie udało się usunąć.
+389	Delete it?	Wirklich löschen?	Usunąć?
+390	Date updated	Aktualisiert am	Data aktualizacji
+391	Saved games (PlayStation®)	Spielstände (PlayStation®)	Zapisy gier (PlayStation®)
+392	Saved games (PlayStation®2)	Spielstände (PlayStation®2)	Zapisy gier (PlayStation®2)
+393	Settings file (PlayStation®2)	Einstellungsdatei (PlayStation®2)	Plik ustawień (PlayStation®2)
+394	System driver (PlayStation®2)	Systemtreiber (PlayStation®2)	Sterownik systemowy (PlayStation®2)
+395	Corrupted data	Beschädigte Daten	Uszkodzone dane
+396	PlayStation®2 format software	PlayStation®2-Software	Oprogramowanie PlayStation®2
+397	Copying not allowed	Kopieren nicht erlaubt	Kopiowanie niedozwolone
+398	Copying and moving not allowed	Kopieren und Verschieben nicht erlaubt	Kopiowanie i przenoszenie niedozwolone
+399	Initializing.	Wird initialisiert.	Inicjalizacja.
+400	Initialization complete.	Initialisierung abgeschlossen.	Inicjalizacja zakończona.
+401	Not initialized.	Nicht initialisiert.	Nie zainicjalizowano.
+402	Initialize?	Initialisieren?	Zainicjalizować?
+403	Copying...	Kopiere...	Kopiowanie...
+404	A folder with this name already exists at the destination.	Am Ziel gibt es bereits einen Ordner mit diesem Namen.	W miejscu docelowym istnieje folder o tej nazwie.
+405	Out of free space.	Kein freier Speicher.	Brak wolnego miejsca.
+406	Delete unneeded data.	Nicht benötigte Daten löschen.	Usuń niepotrzebne dane.
+407	All data in this folder	Alle Daten in diesem Ordner	Wszystkie dane w tym folderze
+408	will be deleted.	werden gelöscht.	zostaną usunięte.
+409	Are you sure you want to delete?	Wirklich löschen?	Na pewno usunąć?
+410	Deleting...	Lösche...	Usuwanie...
+411	Deleted.	Gelöscht.	Usunięto.
+412	The name entered is too long.	Der eingegebene Name ist zu lang.	Wprowadzona nazwa jest za długa.
+413	Create a folder	Ordner erstellen	Utwórz folder
+414	Date modified	Geändert am	Data modyfikacji
+415	=	=	=
+416	There is no next track.	Kein nächster Titel.	Brak następnego utworu.
+417	There is no previous track.	Kein vorheriger Titel.	Brak poprzedniego utworu.
+418	=	=	=
+419	=	=	=
+420	=	=	=
+421	=	=	=
+422	=	=	=
+423	Album thumbnail	Album-Miniaturbild	Miniatura albumu
+424	Previous photo	Vorheriges Foto	Poprzednie zdjęcie
+425	Next photo	Nächstes Foto	Następne zdjęcie
+426	Pause	Pause	Pauza
+427	There is no slideshow.	Keine Diashow vorhanden.	Brak pokazu slajdów.
+428	First frame used as album thumbnail.	Erstes Bild als Album-Miniaturbild verwendet.	Pierwsza klatka jako miniatura albumu.
+429	There is no next photo.	Kein nächstes Foto.	Brak następnego zdjęcia.
+430	There is no previous photo.	Kein vorheriges Foto.	Brak poprzedniego zdjęcia.
+431	Select the titles to dub	Titel zum Überspielen wählen	Wybierz tytuły do kopiowania
+432	Disc title	Disc-Titel	Tytuł płyty
+433	Select the DVD menu type	DVD-Menütyp wählen	Wybierz typ menu DVD
+434	Check the order of the titles to be written to DVD.	Reihenfolge der Titel für die DVD prüfen.	Sprawdź kolejność tytułów do zapisu na DVD.
+435	Press to start writing.	Drücken, um das Schreiben zu starten.	Naciśnij, aby rozpocząć zapis.
+436	Start point	Startpunkt	Punkt początkowy
+437	End point	Endpunkt	Punkt końcowy
+438	Press to choose the edit range to cancel.	Drücken, um den aufzuhebenden Bereich zu wählen.	Naciśnij, aby wybrać zakres do anulowania.
+439	Press to return to the edit screen.	Drücken, um zum Bearbeiten zurückzukehren.	Naciśnij, aby wrócić do edycji.
+440	Start point	Startpunkt	Punkt początkowy
+441	Press at the start of the scene you want to skip.	Am Anfang der zu überspringenden Szene drücken.	Naciśnij na początku sceny do pominięcia.
+442	Press at the end of the scene you want to skip.	Am Ende der zu überspringenden Szene drücken.	Naciśnij na końcu sceny do pominięcia.
+443	Finish editing. Are you sure?<CRLF>The selected parts will be skipped<CRLF>during playback.<CRLF>Chapter marks set inside the edit range<CRLF>will be removed.	Bearbeitung beenden. Sind Sie sicher?<CRLF>Die gewählten Teile werden bei der<CRLF>Wiedergabe übersprungen.<CRLF>Kapitelmarken im bearbeiteten Bereich<CRLF>werden entfernt.	Zakończyć edycję. Na pewno?<CRLF>Wybrane fragmenty będą pomijane<CRLF>podczas odtwarzania.<CRLF>Znaczniki rozdziałów w zakresie edycji<CRLF>zostaną usunięte.
+444	Exit without saving your edits. Are you sure?	Ohne Speichern beenden. Sind Sie sicher?	Wyjść bez zapisywania zmian. Na pewno?
+445	Preview playback.<CRLF>To finish the preview, press the button<CRLF>　 again.	Vorschau-Wiedergabe.<CRLF>Zum Beenden der Vorschau die Taste<CRLF>　 erneut drücken.	Podgląd odtwarzania.<CRLF>Aby zakończyć podgląd, naciśnij przycisk<CRLF>　 ponownie.
+446	Cancel the selected range. Are you sure?	Gewählten Bereich aufheben. Sind Sie sicher?	Anulować wybrany zakres. Na pewno?
+447	Undo	Rückgängig	Cofnij
+448	Do not undo	Nicht rückgängig	Nie cofaj
+449	<CRLF>If you select Save and Exit, the selected<CRLF>parts will be skipped from now on.<CRLF>Chapter marks set inside the edit range<CRLF>will be removed.	<CRLF>Bei „Speichern und beenden“ werden die gewählten<CRLF>Teile künftig übersprungen.<CRLF>Kapitelmarken im bearbeiteten Bereich<CRLF>werden entfernt.	<CRLF>Po wybraniu „Zapisz i zamknij” wybrane<CRLF>fragmenty będą odtąd pomijane.<CRLF>Znaczniki rozdziałów w zakresie edycji<CRLF>zostaną usunięte.
+450	Save and exit	Speichern und beenden	Zapisz i zamknij
+451	Exit without saving	Ohne Speichern beenden	Wyjdź bez zapisywania
+452	The maximum number of chapter marks and edit ranges<CRLF>has been reached. No more chapter marks or<CRLF>edit ranges can be set.<CRLF>To continue editing, delete some chapter marks<CRLF>or edit ranges.	Die maximale Anzahl an Kapitelmarken und Bereichen<CRLF>ist erreicht. Es können keine weiteren<CRLF>gesetzt werden.<CRLF>Zum Weiterbearbeiten bitte Kapitelmarken<CRLF>oder Bereiche löschen.	Osiągnięto limit znaczników rozdziałów i zakresów<CRLF>edycji. Nie można ustawić<CRLF>kolejnych.<CRLF>Aby kontynuować, usuń część znaczników<CRLF>lub zakresów.
+453	Your edits could not be saved.<CRLF>There may not be enough space on the hard disk,<CRLF>or there may be a problem with the hard disk.	Die Bearbeitung konnte nicht gespeichert werden.<CRLF>Eventuell ist nicht genug Platz frei oder<CRLF>es gibt ein Problem mit der Festplatte.	Nie udało się zapisać edycji.<CRLF>Może brakować miejsca na dysku<CRLF>lub wystąpił problem z dyskiem.
+454	Optimized title	Optimierter Titel	Zoptymalizowany tytuł
+455	Audio	Audio	Dźwięk
+456	Original title	Originaltitel	Tytuł oryginalny
+457	Cancel	Abbrechen	Anuluj
+458	Start time	Startzeit	Czas rozpoczęcia
+459	End time	Endzeit	Czas zakończenia
+460	 Channel	 Kanal	 Kanał
+461	Ext	Ext	Zew
+462	Confirmed	Bestätigt	Potwierdzone
+463	Disc usage when dubbing to DVD:	Platzbedarf beim Überspielen auf DVD:	Użycie płyty przy kopiowaniu na DVD:
+464	Estimate for dubbing this title to DVD later.	Richtwert für späteres Überspielen auf DVD.	Szacunek dla późniejszego kopiowania na DVD.
+465	Current recording mode	Aktueller Aufnahmemodus	Bieżący tryb nagrywania
+466	=	=	=
+467	Update	Aktualisieren	Aktualizuj
+468	Install	Installieren	Instaluj
+469	Uninstall	Deinstallieren	Odinstaluj
+470	Restore last configuration	Letzte Konfiguration	Przywróć ostatnią konfigurację
+471	Restore factory default	Werkseinstellung	Przywróć ustawienia fabryczne
+472	=	=	=
+473	Reload	Neu laden	Odśwież
+474	　This game will be deleted from the PSX.	　Dieses Spiel wird vom PSX gelöscht.	　Ta gra zostanie usunięta z PSX.
+475	Delete it?	Löschen?	Usunąć?
+476	Game deleted.	Spiel gelöscht.	Gra usunięta.
+477	Loading the game. Do not turn	Spiel wird geladen. PSX nicht	Ładowanie gry. Nie wyłączaj
+478	off or restart your PSX.	ausschalten oder neu starten.	ani nie restartuj PSX.
+479	Do not remove the disc.	Disc nicht entnehmen.	Nie wyjmuj płyty.
+480	Loading the game.	Spiel wird geladen.	Ładowanie gry.
+481	Do not turn off the power.	Nicht ausschalten.	Nie wyłączaj zasilania.
+482	Failed to read the disc.	Disc konnte nicht gelesen werden.	Nie udało się odczytać płyty.
+483	This disc cannot be started.	Diese Disc kann nicht gestartet werden.	Nie można uruchomić tej płyty.
+484	This is not a PlayStation® or PlayStation®2	Dies ist keine PlayStation®- oder PlayStation®2-	To nie jest płyta w formacie
+485	format disc.	Disc.	PlayStation® ani PlayStation®2.
+486	The game cannot be started.	Das Spiel kann nicht gestartet werden.	Nie można uruchomić gry.
+487	This game requires a disc to start.	Dieses Spiel benötigt zum Start eine Disc.	Ta gra wymaga płyty do uruchomienia.
+488	Please insert the disc.	Bitte Disc einlegen.	Włóż płytę.
+489	Wrong disc.	Falsche Disc.	Niewłaściwa płyta.
+490	Publisher	Hersteller	Wydawca
+491	Disc number	Disc-Nr.	Numer płyty
+492	Date and time created	Erstellt am	Data utworzenia
+493	Permanently delete this album?	Dieses Album endgültig löschen?	Trwale usunąć ten album?
+494	Do not delete	Nicht löschen	Nie usuwaj
+495	Permanently delete this track?	Diesen Titel endgültig löschen?	Trwale usunąć ten utwór?
+496	Do not remove the Memory Stick or turn off the PSX.	Memory Stick nicht entnehmen, PSX nicht ausschalten.	Nie wyjmuj Memory Stick ani nie wyłączaj PSX.
+497	Progress	Fortschritt	Postęp
+498	Finished	Fertig	Zakończono
+499	Do not disconnect the portable device.	Tragbares Gerät nicht trennen.	Nie odłączaj urządzenia przenośnego.
+500	Do not turn off the PSX.	PSX nicht ausschalten.	Nie wyłączaj PSX.
+501	Do not turn off the PSX.	PSX nicht ausschalten.	Nie wyłączaj PSX.
+502	Deletion complete.	Löschen abgeschlossen.	Usuwanie zakończone.
+503	Error while deleting	Fehler beim Löschen	Błąd usuwania
+504	=	=	=
+505	=	=	=
+506	OK	OK	OK
+507	=	=	=
+508	Not enough space ( tmp )	Zu wenig Platz ( tmp )	Za mało miejsca ( tmp )
+509	Do not remove the Memory Stick	Memory Stick nicht entnehmen	Nie wyjmuj Memory Stick
+510	or turn off the PSX.	und PSX nicht ausschalten.	ani nie wyłączaj PSX.
+511	Album	Album	Album
+512	Import complete.	Import abgeschlossen.	Import zakończony.
+513	Failed. The import is incomplete due to an internal error.	Fehler. Import wegen internem Fehler unvollständig.	Błąd. Import niepełny z powodu błędu wewnętrznego.
+514	Initializing the Memory Stick will erase	Beim Initialisieren werden alle Daten	Inicjalizacja Memory Stick usunie
+515	all data on it.	auf dem Memory Stick gelöscht.	wszystkie dane.
+516	Initializing. Please wait.	Wird initialisiert. Bitte warten.	Inicjalizacja. Proszę czekać.
+517	Do not turn off the PSX.	PSX nicht ausschalten.	Nie wyłączaj PSX.
+518	Delete this track. Are you sure?	Diesen Titel löschen. Sind Sie sicher?	Usunąć ten utwór. Na pewno?
+519	Deleting. Please wait.	Wird gelöscht. Bitte warten.	Usuwanie. Proszę czekać.
+520	Do not turn off the PSX while deleting.	PSX beim Löschen nicht ausschalten.	Nie wyłączaj PSX podczas usuwania.
+521	Could not delete	Löschen nicht möglich	Nie udało się usunąć
+522	Check that the Memory Stick is inserted correctly.	Prüfen Sie, ob der Memory Stick richtig eingesteckt ist.	Sprawdź, czy Memory Stick jest włożony prawidłowo.
+523	=	=	=
+524	All tracks in this album will be deleted.	Alle Titel dieses Albums werden gelöscht.	Wszystkie utwory w tym albumie zostaną usunięte.
+525	Deletion complete.	Löschen abgeschlossen.	Usuwanie zakończone.
+526	Optimizing.	Optimierung läuft.	Trwa optymalizacja.
+527	To import, stop the optimization first.	Zum Importieren zuerst die Optimierung beenden.	Aby importować, najpierw zatrzymaj optymalizację.
+528	=	=	=
+529	There are no tracks to import.	Keine Titel zum Importieren.	Brak utworów do importu.
+530	Checking free hard disk space.	Freier Festplattenspeicher wird geprüft.	Sprawdzanie wolnego miejsca na dysku.
+531	Do not turn off the PSX.	PSX nicht ausschalten.	Nie wyłączaj PSX.
+532	Not enough free hard disk space.	Nicht genug freier Festplattenspeicher.	Za mało wolnego miejsca na dysku.
+533	Delete unneeded tracks and photos.	Nicht benötigte Titel und Fotos löschen.	Usuń niepotrzebne utwory i zdjęcia.
+534	Select the album for the	Album für die importierten	Wybierz album dla
+535	imported tracks.	Titel auswählen.	importowanych utworów.
+536	Cannot create a new album.	Kein neues Album möglich.	Nie można utworzyć nowego albumu.
+537	Please select another album.	Bitte anderes Album wählen.	Wybierz inny album.
+538	Select album	Album wählen	Wybierz album
+539	The selected album contains	Das gewählte Album enthält	Wybrany album zawiera
+540	too many tracks. Import stopped.	zu viele Titel. Import abgebrochen.	za dużo utworów. Import przerwany.
+541	=	=	=
+542	The entered name is not valid.	Der eingegebene Name ist ungültig.	Wprowadzona nazwa jest nieprawidłowa.
+543	Please change the album name.	Bitte Albumnamen ändern.	Zmień nazwę albumu.
+544	The following characters cannot be used	Folgende Zeichen sind nicht erlaubt	Nie można użyć następujących znaków
+545	=	=	=
+546	Busy. Do not turn off the PSX.	Beschäftigt. PSX nicht ausschalten.	Zajęte. Nie wyłączaj PSX.
+547	Importing. Do not turn off the PSX.	Import läuft. PSX nicht ausschalten.	Importowanie. Nie wyłączaj PSX.
+548	Track %i	Titel %i	Utwór %i
+549	Do not turn off the PSX.	PSX nicht ausschalten.	Nie wyłączaj PSX.
+550	=	=	=
+551	Not enough space ( invisible )	Zu wenig Platz ( invisible )	Za mało miejsca ( invisible )
+552	Please select an existing album.	Bitte vorhandenes Album wählen.	Wybierz istniejący album.
+553	Copying track %i.	Titel %i wird kopiert.	Kopiowanie utworu %i.
+554	Do not remove the CD.	CD nicht entnehmen.	Nie wyjmuj płyty CD.
+555	Import stopped.	Import abgebrochen.	Import przerwany.
+556	Import failed.	Import fehlgeschlagen.	Import nie powiódł się.
+557	Some tracks could not be imported.	Einige Titel konnten nicht importiert werden.	Niektórych utworów nie udało się zaimportować.
+558	Copy stopped:	Kopieren abgebrochen:	Kopiowanie przerwane:
+559	maximum tracks per album reached (99 max).	max. Titelanzahl im Album erreicht (99).	osiągnięto limit utworów w albumie (99).
+560	Some tracks could not be imported.	Einige Titel konnten nicht importiert werden.	Niektórych utworów nie udało się zaimportować.
+561	Cancel the import. Are you sure?	Import abbrechen. Sind Sie sicher?	Anulować import. Na pewno?
+562	This disc cannot be imported.	Diese Disc kann nicht importiert werden.	Nie można importować z tej płyty.
+563	Copy all music from the Memory Stick?	Alle Musik vom Memory Stick kopieren?	Skopiować całą muzykę z Memory Stick?
+564	No music files available to import.	Keine Musikdateien zum Importieren.	Brak plików muzycznych do importu.
+565	Checking free hard disk space,	Freier Festplattenspeicher wird geprüft,	Sprawdzanie wolnego miejsca na dysku,
+566	please wait.	bitte warten.	proszę czekać.
+567	Select an album for the imported music.	Album für die importierte Musik wählen.	Wybierz album dla importowanej muzyki.
+568	Album name:	Albumname:	Nazwa albumu:
+569	is invalid or already used.	ist ungültig oder schon vergeben.	jest nieprawidłowa lub już używana.
+570	Choose a new name...	Neuen Namen wählen...	Wybierz nową nazwę...
+571	Importing	Importiere	Importowanie
+572	Importing the music.	Musik wird importiert.	Importowanie muzyki.
+573	Transferring MP3 files. Do not turn off the PSX.	MP3-Dateien werden übertragen. PSX nicht ausschalten.	Przesyłanie plików MP3. Nie wyłączaj PSX.
+574	Do not turn off the PSX or remove the Memory Stick.	PSX nicht ausschalten, Memory Stick nicht entnehmen.	Nie wyłączaj PSX ani nie wyjmuj Memory Stick.
+575	Import status	Importstatus	Stan importu
+576	Transfer the music?	Musik übertragen?	Przesłać muzykę?
+577	Delete unneeded tracks and photos.	Nicht benötigte Titel und Fotos löschen.	Usuń niepotrzebne utwory i zdjęcia.
+578	 Please.	 Bitte.	 Proszę.
+579	Importing xxx.mp3	Importiere xxx.mp3	Importowanie xxx.mp3
+580	Importing.	Import läuft.	Importowanie.
+581	Status	Status	Stan
+582	Do not turn off the PSX.	PSX nicht ausschalten.	Nie wyłączaj PSX.
+583	Please delete unused audio and photo files.	Bitte unbenutzte Audio- und Fotodateien löschen.	Usuń nieużywane pliki audio i zdjęcia.
+584	Cannot create more albums.	Keine weiteren Alben möglich.	Nie można utworzyć więcej albumów.
+585	Please select an existing album.	Bitte vorhandenes Album wählen.	Wybierz istniejący album.
+586	Select album	Album wählen	Wybór albumu
+587	Maximum reached. Operation stopped.	Maximum erreicht. Vorgang abgebrochen.	Osiągnięto limit. Operacja przerwana.
+588	The entered name is not valid.	Der eingegebene Name ist ungültig.	Wprowadzona nazwa jest nieprawidłowa.
+589	Please rename the album.	Bitte Album umbenennen.	Zmień nazwę albumu.
+590	Copying MP3 files. Do not turn off the PSX.	MP3-Dateien werden kopiert. PSX nicht ausschalten.	Kopiowanie plików MP3. Nie wyłączaj PSX.
+591	Please do not turn off the PSX.	Bitte PSX nicht ausschalten.	Nie wyłączaj PSX.
+592	Please delete unneeded audio and photo files.	Bitte nicht benötigte Audio- und Fotodateien löschen.	Usuń niepotrzebne pliki audio i zdjęcia.
+593	Please select	Bitte wählen	Wybierz
+594	No more albums can be created.	Es können keine Alben mehr erstellt werden.	Nie można utworzyć więcej albumów.
+595	Importing track %i.	Titel %i wird importiert.	Importowanie utworu %i.
+596	Copying completed	Kopieren abgeschlossen	Kopiowanie zakończone
+597	Copy error	Kopierfehler	Błąd kopiowania
+598	MP3 copy error	MP3-Kopierfehler	Błąd kopiowania MP3
+599	MP3 copy stopped:	MP3-Kopieren abgebrochen:	Kopiowanie MP3 przerwane:
+600	maximum files per album reached (99 max).	max. Dateianzahl im Album erreicht (99).	osiągnięto limit plików w albumie (99).
+601	Album name	Albumname	Nazwa albumu
+602	Number of files	Anzahl Dateien	Liczba plików
+603	Import date and time	Importiert am	Data importu
+604	Genre	Genre	Gatunek
+605	Techno/Dance	Techno/Dance	Techno/Dance
+606	Rock	Rock	Rock
+607	Alternative/Indie	Alternative/Indie	Alternative/Indie
+608	Jazz/Fusion	Jazz/Fusion	Jazz/Fusion
+609	World Music	Weltmusik	Muzyka świata
+610	Folk/Blues	Folk/Blues	Folk/Blues
+611	Country	Country	Country
+612	Soundtrack/Easy Listening	Soundtrack/Easy Listening	Soundtrack/Easy Listening
+613	Hip-Hop	Hip-Hop	Hip-Hop
+614	Track name	Titelname	Nazwa utworu
+615	Track length	Titellänge	Długość utworu
+616	Sound quality	Tonqualität	Jakość dźwięku
+617	File format	Dateiformat	Format pliku
+618	Date and time created	Erstellt am	Data utworzenia
+619	Size after import	Größe nach Import	Rozmiar po imporcie
+620	Disc type	Disc-Typ	Typ płyty
+621	The entered name already exists.	Der eingegebene Name existiert bereits.	Wprowadzona nazwa już istnieje.
+622	The following characters cannot be used:	Folgende Zeichen sind nicht erlaubt:	Nie można użyć następujących znaków:
+623	The entered name is not valid.	Der eingegebene Name ist ungültig.	Wprowadzona nazwa jest nieprawidłowa.
+624	Please change the track name.	Bitte Titelnamen ändern.	Zmień nazwę utworu.
+625	Optimizing.	Optimierung läuft.	Trwa optymalizacja.
+626	To import, cancel the optimization first.	Zum Importieren zuerst die Optimierung abbrechen.	Aby importować, najpierw anuluj optymalizację.
+627	Not enough free space on the HDD.	Nicht genug freier Platz auf der HDD.	Za mało wolnego miejsca na HDD.
+628	Delete unneeded titles, tracks or photos.	Nicht benötigte Titel, Musik oder Fotos löschen.	Usuń niepotrzebne tytuły, utwory lub zdjęcia.
+629	Importing the photos.	Fotos werden importiert.	Importowanie zdjęć.
+630	Select album	Album wählen	Wybór albumu
+631	The entered name already exists	Der eingegebene Name existiert bereits	Wprowadzona nazwa już istnieje
+632	Copying... Do not turn off the PSX.	Kopiere... PSX nicht ausschalten.	Kopiowanie... Nie wyłączaj PSX.
+633	Do not turn off the PSX.	PSX nicht ausschalten.	Nie wyłączaj PSX.
+634	Please do not disconnect.	Bitte nicht trennen.	Nie odłączaj.
+635	Do not disconnect the external device.	Externes Gerät nicht trennen.	Nie odłączaj urządzenia zewnętrznego.
+636	Could not import.	Import nicht möglich.	Nie udało się zaimportować.
+637	Check that it is connected correctly.	Prüfen Sie, ob es richtig angeschlossen ist.	Sprawdź, czy jest prawidłowo podłączone.
+638	A photo with this name already exists.	Ein Foto mit diesem Namen existiert bereits.	Zdjęcie o tej nazwie już istnieje.
+639	Empty albums cannot be imported.	Leere Alben können nicht importiert werden.	Nie można importować pustych albumów.
+640	The album is full.	Das Album ist voll.	Album jest pełny.
+641	An album can hold up to 200 photos.	Ein Album fasst bis zu 200 Fotos.	Album może zawierać do 200 zdjęć.
+642	All photos in the album will be imported	Alle Fotos im Album werden importiert	Wszystkie zdjęcia w albumie zostaną zaimportowane
+643	The entered name is invalid or already used.	Der Name ist ungültig oder schon vergeben.	Nazwa jest nieprawidłowa lub już używana.
+644	Importing. Do not turn off the PSX.	Import läuft. PSX nicht ausschalten.	Importowanie. Nie wyłączaj PSX.
+645	All photos in this album will be deleted.	Alle Fotos in diesem Album werden gelöscht.	Wszystkie zdjęcia w tym albumie zostaną usunięte.
+646	Are you sure?	Sind Sie sicher?	Na pewno?
+647	Delete this photo. Are you sure?	Dieses Foto löschen. Sind Sie sicher?	Usunąć to zdjęcie. Na pewno?
+648	Deletion complete	Löschen abgeschlossen	Usuwanie zakończone
+649	Deletion failed	Löschen fehlgeschlagen	Usuwanie nie powiodło się
+650	The file could not be deleted.	Die Datei konnte nicht gelöscht werden.	Nie udało się usunąć pliku.
+651	Image name	Bildname	Nazwa obrazu
+652	File name	Dateiname	Nazwa pliku
+653	Play time	Spieldauer	Czas odtwarzania
+654	Date and time taken	Aufgenommen am	Data wykonania
+655	Number of frames	Anzahl Bilder	Liczba klatek
+656	Date created	Erstellt am	Data utworzenia
+657	Data CD	Daten-CD	Płyta CD z danymi
+658	This photo will be written to the Memory Stick.	Dieses Foto wird auf den Memory Stick geschrieben.	To zdjęcie zostanie zapisane na Memory Stick.
+659	All photos in this album	Alle Fotos dieses Albums	Wszystkie zdjęcia z tego albumu
+660	will be written to the Memory Stick.	werden auf den Memory Stick geschrieben.	zostaną zapisane na Memory Stick.
+661	Could not write.	Schreiben nicht möglich.	Nie udało się zapisać.
+662	Not enough space on the Memory Stick.	Nicht genug Platz auf dem Memory Stick.	Za mało miejsca na Memory Stick.
+663	You are about to export a single image.	Sie exportieren ein einzelnes Bild.	Eksportujesz pojedynczy obraz.
+664	Select the album to export.	Zu exportierendes Album wählen.	Wybierz album do eksportu.
+665	Writing. Do not turn off the PSX.	Schreibe. PSX nicht ausschalten.	Zapisywanie. Nie wyłączaj PSX.
+666	Writing finished.	Schreiben abgeschlossen.	Zapisywanie zakończone.
+667	Export failed	Export fehlgeschlagen	Eksport nie powiódł się
+668	The file could not be copied.	Die Datei konnte nicht kopiert werden.	Nie udało się skopiować pliku.
+669	The selected album has too many photos.	Das gewählte Album enthält zu viele Fotos.	Wybrany album zawiera za dużo zdjęć.
+670	Too many albums on the Memory Stick.	Zu viele Alben auf dem Memory Stick.	Za dużo albumów na Memory Stick.
+671	You are about to export a photo album.	Sie exportieren ein Fotoalbum.	Eksportujesz album ze zdjęciami.
+672	Please choose the destination folder.	Bitte Zielordner wählen.	Wybierz folder docelowy.
+673	Initializing the Memory Stick will	Beim Initialisieren des Memory Sticks	Inicjalizacja Memory Stick
+674	delete all data on it.	werden alle Daten gelöscht.	usunie wszystkie dane.
+675	Initializing. Please wait.	Wird initialisiert. Bitte warten.	Inicjalizacja. Proszę czekać.
+676	Do not turn off this unit or remove	Gerät nicht ausschalten und Memory Stick	Nie wyłączaj urządzenia ani nie wyjmuj
+677	the Memory Stick.	nicht entnehmen.	Memory Stick.
+678	Initialization finished.	Initialisierung abgeschlossen.	Inicjalizacja zakończona.
+679	Format failed	Formatieren fehlgeschlagen	Formatowanie nie powiodło się
+680	The Memory Stick has been removed.	Der Memory Stick wurde entnommen.	Wyjęto Memory Stick.
+681	Memory Stick format failed.	Formatieren des Memory Sticks fehlgeschlagen.	Formatowanie Memory Stick nie powiodło się.
+682	Please change the photo name.	Bitte Fotonamen ändern.	Zmień nazwę zdjęcia.
+683	Rename photo	Foto umbenennen	Zmień nazwę zdjęcia
+684	File name:	Dateiname:	Nazwa pliku:
+685	Rename album	Album umbenennen	Zmień nazwę albumu
+686	Album:	Album:	Album:
+687	Please set the time.	Bitte Zeit einstellen.	Ustaw czas.
+688	Manual setting	Manuelle Einstellung	Ustawienie ręczne
+689	Match program guide	An Programmführer anpassen	Dopasuj do przewodnika
+690	DVD format	DVD-Format	Format DVD
+691	Video format:<CRLF>  Plays on most DVD players.<CRLF>  Cannot be added to after finalizing.<CRLF>  A DVD menu can be created.<CRLF><CRLF>VR format:<CRLF>  Titles can be added later.<CRLF>  Playlists are supported.<CRLF>  Supports CPRM copy protection.<CRLF>  Plays only on VR-compatible players.<CRLF>  	Video-Format:<CRLF>  Läuft auf den meisten DVD-Playern.<CRLF>  Nach dem Abschließen nicht erweiterbar.<CRLF>  Ein DVD-Menü kann erstellt werden.<CRLF><CRLF>VR-Format:<CRLF>  Titel können später ergänzt werden.<CRLF>  Playlists werden unterstützt.<CRLF>  Unterstützt CPRM-Kopierschutz.<CRLF>  Nur auf VR-fähigen Playern abspielbar.<CRLF>  	Format Video:<CRLF>  Działa na większości odtwarzaczy DVD.<CRLF>  Po finalizacji nie można dopisywać.<CRLF>  Można utworzyć menu DVD.<CRLF><CRLF>Format VR:<CRLF>  Tytuły można dodawać później.<CRLF>  Obsługuje listy odtwarzania.<CRLF>  Obsługuje ochronę CPRM.<CRLF>  Działa tylko na odtwarzaczach VR.<CRLF>
+692	Video name	Videoname	Nazwa wideo
+693	Recording date	Aufnahmedatum	Data nagrania
+694	(After editing	(Nach Bearbeitung	(Po edycji
+695	Recording mode	Aufnahmemodus	Tryb nagrywania
+696	(For DVD+RW)	(Für DVD+RW)	(Dla DVD+RW)
+697	Audio mode	Tonmodus	Tryb dźwięku
+698	Play from beginning	Von Anfang an	Odtwórz od początku
+699	Protect	Schützen	Chroń
+700	Undo edit	Bearbeitung aufheben	Cofnij edycję
+701	Stop optimization	Optimierung stoppen	Zatrzymaj optymalizację
+702	Finalize	Abschließen	Finalizuj
+703	Delete this video. Are you sure?	Dieses Video löschen. Sind Sie sicher?	Usunąć to wideo. Na pewno?
+704	The video was not deleted.	Das Video wurde nicht gelöscht.	Wideo nie zostało usunięte.
+705	The video is protected.<CRLF>It cannot be renamed.	Das Video ist geschützt.<CRLF>Umbenennen nicht möglich.	Wideo jest chronione.<CRLF>Nie można zmienić nazwy.
+706	The video is protected.<CRLF>It cannot be edited.	Das Video ist geschützt.<CRLF>Bearbeiten nicht möglich.	Wideo jest chronione.<CRLF>Nie można edytować.
+707	The video is protected.<CRLF>The edit cannot be undone.	Das Video ist geschützt.<CRLF>Bearbeitung kann nicht aufgehoben werden.	Wideo jest chronione.<CRLF>Nie można cofnąć edycji.
+708	The video is protected.<CRLF>It cannot be deleted.	Das Video ist geschützt.<CRLF>Löschen nicht möglich.	Wideo jest chronione.<CRLF>Nie można usunąć.
+709	Undo the edit. Are you sure?	Bearbeitung aufheben. Sind Sie sicher?	Cofnąć edycję. Na pewno?
+710	Mon	Mo	Pn
+711	Tue	Di	Wt
+712	Wed	Mi	Śr
+713	Thu	Do	Cz
+714	Fri	Fr	Pt
+715	Sat	Sa	So
+716	Sun	So	Nd
+717	min	Min.	min
+718	Not possible	Nicht möglich	Niemożliwe
+719	DVD Video	DVD-Video	DVD Video
+720	DVD-VR	DVD-VR	DVD-VR
+721	DVD+VR	DVD+VR	DVD+VR
+722	Dubbing is not possible during<CRLF>recording or optimization.	Überspielen ist während Aufnahme<CRLF>oder Optimierung nicht möglich.	Kopiowanie jest niemożliwe podczas<CRLF>nagrywania lub optymalizacji.
+723	A timer recording is being prepared. To dub,<CRLF>please delete the timer recording first.	Eine Timer-Aufnahme wird vorbereitet. Zum Überspielen<CRLF>bitte zuerst die Timer-Aufnahme löschen.	Przygotowywane jest nagrywanie z timera. Aby kopiować,<CRLF>najpierw usuń nagrywanie z timera.
+724	Initialization is not possible during<CRLF>recording or optimization.	Initialisieren ist während Aufnahme<CRLF>oder Optimierung nicht möglich.	Inicjalizacja jest niemożliwa podczas<CRLF>nagrywania lub optymalizacji.
+725	A timer recording is being prepared. To initialize,<CRLF>please delete the timer recording first.	Eine Timer-Aufnahme wird vorbereitet. Zum Initialisieren<CRLF>bitte zuerst die Timer-Aufnahme löschen.	Przygotowywane jest nagrywanie z timera. Aby zainicjalizować,<CRLF>najpierw usuń nagrywanie z timera.
+726	This title is being recorded.<CRLF>The operation cannot be performed.	Dieser Titel wird gerade aufgenommen.<CRLF>Vorgang nicht möglich.	Ten tytuł jest nagrywany.<CRLF>Nie można wykonać operacji.
+727	Cannot undo because it has not been edited.	Nicht bearbeitet, daher nicht aufhebbar.	Nie można cofnąć, nie edytowano.
+728	An error has occurred.<CRLF>Turn the power off and on again.	Ein Fehler ist aufgetreten.<CRLF>Gerät aus- und wieder einschalten.	Wystąpił błąd.<CRLF>Wyłącz i ponownie włącz urządzenie.
+729	Cannot edit because the file is corrupted.	Datei beschädigt, Bearbeiten nicht möglich.	Nie można edytować, plik jest uszkodzony.
+730	Sort order	Sortierung	Kolejność sortowania
+731	Date (oldest first)	Datum (älteste zuerst)	Data (od najstarszych)
+732	Date (newest first)	Datum (neueste zuerst)	Data (od najnowszych)
+733	By name (▲)	Nach Name (▲)	Według nazwy (▲)
+734	By name (▼)	Nach Name (▼)	Według nazwy (▼)
+735	By genre	Nach Genre	Według gatunku
+736	Unwatched first	Ungesehene zuerst	Nieobejrzane najpierw
+737	Optimization finished.	Optimierung abgeschlossen.	Optymalizacja zakończona.
+738	Recording in progress. To optimize,<CRLF>please stop the recording first.	Aufnahme läuft. Zum Optimieren<CRLF>bitte zuerst die Aufnahme stoppen.	Trwa nagrywanie. Aby optymalizować,<CRLF>najpierw zatrzymaj nagrywanie.
+739	A timer recording is being prepared.<CRLF>To optimize, please delete the timer recording first.	Eine Timer-Aufnahme wird vorbereitet.<CRLF>Zum Optimieren bitte zuerst die Timer-Aufnahme löschen.	Przygotowywane jest nagrywanie z timera.<CRLF>Aby optymalizować, najpierw usuń nagrywanie z timera.
+740	Another title is currently being optimized.	Ein anderer Titel wird gerade optimiert.	Trwa optymalizacja innego tytułu.
+741	The optimization will be stopped.<CRLF>Are you sure?	Die Optimierung wird gestoppt.<CRLF>Sind Sie sicher?	Optymalizacja zostanie zatrzymana.<CRLF>Na pewno?
+742	This title is being optimized.<CRLF>The operation cannot be performed.	Dieser Titel wird gerade optimiert.<CRLF>Vorgang nicht möglich.	Ten tytuł jest optymalizowany.<CRLF>Nie można wykonać operacji.
+743	Timer time	Timer-Zeit	Czas timera
+744	Timer recording	Timer-Aufnahme	Nagrywanie z timera
+745	There are no timer recordings.	Keine Timer-Aufnahmen vorhanden.	Brak nagrań z timera.
+746	Record to the end of this program?<CRLF>(End	Bis zum Ende dieser Sendung aufnehmen?<CRLF>(Ende	Nagrywać do końca tego programu?<CRLF>(Koniec
+747	minutes later	Minuten später	minut później
+748	Could not get the program guide information.	Programmführer-Daten nicht verfügbar.	Nie udało się pobrać danych przewodnika.
+749	Cannot record to the end of this program.<CRLF>One title can be up to 6 hours.	Aufnahme bis Sendungsende nicht möglich.<CRLF>Ein Titel darf max. 6 Stunden lang sein.	Nie można nagrać do końca programu.<CRLF>Tytuł może mieć maks. 6 godzin.
+750	Edit - Preview	Bearbeiten - Vorschau	Edycja - Podgląd
+751	Edit - Cancel edit range	Bearbeiten - Bereich aufheben	Edycja - Anuluj zakres
+752	Preview the edited video.	Bearbeitetes Video ansehen.	Podgląd edytowanego wideo.
+753	Finish the preview.	Vorschau beenden.	Zakończ podgląd.
+754	Check the result of the selected values.	Ergebnis der gewählten Werte prüfen.	Sprawdź wynik wybranych wartości.
+755	Exit and discard the edits.	Beenden und Bearbeitung verwerfen.	Wyjdź i odrzuć zmiany.
+756	Flash －	Flash －	Flash －
+757	Flash ＋	Flash ＋	Flash ＋
+758	Cancel the start and end points.	Start- und Endpunkt aufheben.	Anuluj punkty początkowy i końcowy.
+759	Disc	Disc	Płyta
+760	Mark	Marke	Znacznik
+761	PlayStation&#174;2 format software	PlayStation&#174;2-Software	Oprogramowanie PlayStation&#174;2
+762	PlayStation&#174; format software	PlayStation&#174;-Software	Oprogramowanie PlayStation&#174;
+763	TV Settings	TV-Einstellungen	Ustawienia TV
+764	Video Settings	Video-Einstellungen	Ustawienia wideo
+765	Photo Settings	Foto-Einstellungen	Ustawienia zdjęć
+766	Music Settings	Musik-Einstellungen	Ustawienia muzyki
+767	Date and Time Settings	Datum und Uhrzeit	Data i czas
+768	Character Input Settings	Texteingabe	Wprowadzanie znaków
+769	Remote Control Settings	Fernbedienung	Ustawienia pilota
+770	=	=	=
+771	=	=	=
+772	=	=	=
+773	=	=	=
+774	=	=	=
+775	=	=	=
+776	=	=	=
+777	=	=	=
+778	=	=	=
+779	=	=	=
+780	=	=	=
+781	=	=	=
+782	=	=	=
+783	=	=	=
+784	Auto stereo	Auto-Stereo	Auto stereo
+785	DVD-RW recording mode	DVD-RW-Aufnahmemodus	Tryb nagrywania DVD-RW
+786	External video input	Externer Videoeingang	Zewnętrzne wejście wideo
+787	External audio input	Externer Audioeingang	Zewnętrzne wejście audio
+788	HDD recording	HDD-Aufnahme	Nagrywanie HDD
+789	DVD recording	DVD-Aufnahme	Nagrywanie DVD
+790	Recording noise reduction	Rauschunterdrückung (Aufnahme)	Redukcja szumów nagrywania
+791	L2 · R2 button setting	Belegung L2 · R2	Przyciski L2 · R2
+792	DVD menu language	DVD-Menüsprache	Język menu DVD
+793	Audio language	Audiosprache	Język dźwięku
+794	Progressive output	Progressive-Ausgabe	Wyjście progresywne
+795	Audio auto-select	Audio automatisch wählen	Automatyczny wybór dźwięku
+796	Parental control region	Kindersicherung Region	Region kontroli rodzicielskiej
+797	Parental control level	Kindersicherung Stufe	Poziom kontroli rodzicielskiej
+798	CD import settings	CD-Import	Ustawienia importu CD
+799	Fast load	Schnelles Laden	Szybkie ładowanie
+800	PlayStation&#174; disc	PlayStation&#174;-Disc	Płyta PlayStation&#174;
+801	Texture smoothing	Texturglättung	Wygładzanie tekstur
+802	PlayStation&#174; game	PlayStation&#174;-Spiel	Gra PlayStation&#174;
+803	Restore factory settings	Werkseinstellungen	Ustawienia fabryczne
+804	Repeat start delay	Wiederholverzögerung	Opóźnienie powtarzania
+805	Key repeat rate	Tastenwiederholrate	Szybkość powtarzania klawiszy
+806	Could not turn on the BS antenna power.	BS-Antennenstrom konnte nicht eingeschaltet werden.	Nie udało się włączyć zasilania anteny BS.
+807	Cannot be changed during recording or optimization.	Während Aufnahme oder Optimierung nicht änderbar.	Nie można zmienić podczas nagrywania lub optymalizacji.
+808	After changing this setting, the program guide will not be shown<CRLF>correctly until new program data is received. Are you sure?	Nach dieser Änderung wird der Programmführer erst nach<CRLF>neuen Programmdaten korrekt angezeigt. Sind Sie sicher?	Po tej zmianie przewodnik nie będzie poprawny<CRLF>do czasu pobrania nowych danych. Na pewno?
+809	You can assign the search function to the L2 · R2 buttons.	Die Suchfunktion kann auf L2 · R2 gelegt werden.	Możesz przypisać wyszukiwanie do przycisków L2 · R2.
+810	Are you sure? After this setting, flash	Sind Sie sicher? Danach wird Flash	Na pewno? Po tym ustawieniu flash
+811	is operated from the control panel.	über das Bedienfeld gesteuert.	obsługuje się z panelu sterowania.
+812	You can assign the flash function to the L2 · R2 buttons.	Die Flash-Funktion kann auf L2 · R2 gelegt werden.	Możesz przypisać flash do przycisków L2 · R2.
+813	Are you sure? After this setting, search	Sind Sie sicher? Danach erfolgt die Suche	Na pewno? Po tym ustawieniu wyszukiwanie
+814	uses joystick left/right.	mit dem Joystick links/rechts.	działa joystickiem w lewo/prawo.
+815	Change the bilingual audio recording for HDD. Are you sure?	Zweikanalton-Aufnahme für HDD ändern. Sind Sie sicher?	Zmienić nagrywanie dźwięku dwujęzycznego na HDD. Na pewno?
+816	After this change, dubbing to DVD-RW (other than VR mode)	Danach erfolgt Überspielen auf DVD-RW (außer VR-Modus)	Po tej zmianie kopiowanie na DVD-RW (poza trybem VR)
+817	uses the bilingual audio setting for DVD recording.	mit der Zweikanalton-Einstellung für DVD-Aufnahme.	użyje ustawienia dźwięku dwujęzycznego dla DVD.
+818	Parts set to be skipped during editing	Beim Bearbeiten übersprungene Teile	Fragmenty pominięte podczas edycji
+819	The dubbing will be deleted. Are you sure?	Die Überspielung wird gelöscht. Sind Sie sicher?	Kopia zostanie usunięta. Na pewno?
+820	Main / Sub	Haupt / Neben	Główny / dodatk.
+821	Point A has been set.	Punkt A gesetzt.	Ustawiono punkt A.
+822	Play mode cleared.	Wiedergabemodus zurückgesetzt.	Wyczyszczono tryb odtwarzania.
+823	The current settings will be cleared.	Die aktuellen Einstellungen werden gelöscht.	Bieżące ustawienia zostaną wyczyszczone.
+824	The operation cannot be performed.	Vorgang nicht möglich.	Nie można wykonać operacji.
+825	Audio switch	Audio wechseln	Zmiana dźwięku
+826	Subtitle switch	Untertitel wechseln	Zmiana napisów
+827	Time jump	Zeitsprung	Skok czasowy
+828	Register thumbnail	Miniaturbild speichern	Zapisz miniaturę
+829	Previous	Zurück	Poprzedni
+830	Quick play	Schnellwiedergabe	Szybkie odtwarzanie
+831	A-B repeat	A-B-Wiederholung	Powtarzanie A-B
+832	Top menu	Hauptmenü	Menu główne
+833	Angle switch	Winkel wechseln	Zmiana kąta
+834	Chapter jump	Kapitelsprung	Skok do rozdziału
+835	Jump	Springen	Skok
+836	Use this image as the video thumbnail.	Dieses Bild als Miniaturbild verwenden.	Użyj tego obrazu jako miniatury.
+837	Register. Are you sure?	Speichern. Sind Sie sicher?	Zapisać. Na pewno?
+838	Already registered. Overwrite?	Bereits gespeichert. Überschreiben?	Już zapisano. Nadpisać?
+839	Delete. Are you sure?	Löschen. Sind Sie sicher?	Usunąć. Na pewno?
+840	Parental control level changed temporarily	Kindersicherungsstufe vorübergehend geändert	Tymczasowo zmieniono poziom kontroli
+841	Add an entry point?	Einstiegspunkt hinzufügen?	Dodać punkt wejścia?
+842	Clear point A	Punkt A löschen	Wyczyść punkt A
+843	Store point A	Punkt A speichern	Zapamiętaj punkt A
+844	Go to point A	Zu Punkt A	Przejdź do punktu A
+845	Clear A-B repeat points	A-B-Punkte löschen	Wyczyść punkty A-B
+846	Store point B	Punkt B speichern	Zapamiętaj punkt B
+847	Show bookmarks	Lesezeichen anzeigen	Pokaż zakładki
+848	Cannot set a bookmark	Lesezeichen nicht möglich	Nie można ustawić zakładki
+849	Start first play	First Play starten	Uruchom pierwsze odtwarzanie
+850	Search first program	Erstes Programm suchen	Szukaj pierwszego programu
+851	Search previous program	Vorheriges Programm suchen	Szukaj poprzedniego programu
+852	Search next program	Nächstes Programm suchen	Szukaj następnego programu
+853	End picture memory	Bildspeicher beenden	Zakończ pamięć obrazu
+854	Store picture memory	Bildspeicher sichern	Zapisz pamięć obrazu
+855	Change the parental control level	Kindersicherungsstufe ändern	Zmień poziom kontroli rodzicielskiej
+856	No PSC error	Kein PSC-Fehler	Brak błędu PSC
+857	End chapter scan	Kapitelvorschau beenden	Zakończ przegląd rozdziałów
+858	Chapter scan failed	Kapitelvorschau fehlgeschlagen	Przegląd rozdziałów nie powiódł się
+859	Chapter scan failed (end)	Kapitelvorschau fehlgeschlagen (Ende)	Przegląd rozdziałów nie powiódł się (koniec)
+860	Parental control level set	Kindersicherungsstufe gesetzt	Ustawiono poziom kontroli
+861	Stopped	Gestoppt	Zatrzymano
+862	PLAY MODE CLEAR	WIEDERGABEMODUS ZURÜCK	WYCZYŚĆ TRYB ODTWARZANIA
+863	Repeat input	Wiederholung eingeben	Wprowadź powtarzanie
+864	Cannot read the disc.	Disc kann nicht gelesen werden.	Nie można odczytać płyty.
+865	Playback stopped due to an error.	Wiedergabe wegen eines Fehlers gestoppt.	Odtwarzanie zatrzymano z powodu błędu.
+866	Invalid disc format.	Ungültiges Disc-Format.	Nieprawidłowy format płyty.
+867	The specified chapter is not valid.	Das angegebene Kapitel ist ungültig.	Wskazany rozdział jest nieprawidłowy.
+868	The specified time is invalid.	Die angegebene Zeit ist ungültig.	Wskazany czas jest nieprawidłowy.
+869	The specified title is not valid.	Der angegebene Titel ist ungültig.	Wskazany tytuł jest nieprawidłowy.
+870	There is no audio.	Kein Ton vorhanden.	Brak dźwięku.
+871	There are no subtitles on this disc.	Keine Untertitel auf dieser Disc.	Na tej płycie nie ma napisów.
+872	There are no angles.	Keine Kamerawinkel vorhanden.	Brak kątów.
+873	Resume is prohibited.	Fortsetzen ist gesperrt.	Wznawianie jest zabronione.
+874	This operation is not available for this disc.	Bei dieser Disc nicht möglich.	Operacja niedostępna dla tej płyty.
+875	Cannot play because playback is restricted.	Wiedergabe eingeschränkt, nicht abspielbar.	Nie można odtworzyć z powodu ograniczeń.
+876	Program search error.	Fehler bei der Programmsuche.	Błąd wyszukiwania programu.
+877	This play mode cannot be used.	Dieser Wiedergabemodus ist nicht möglich.	Nie można użyć tego trybu odtwarzania.
+878	This operation is not available for this title.	Bei diesem Titel nicht möglich.	Operacja niedostępna dla tego tytułu.
+879	Chapter search error.	Fehler bei der Kapitelsuche.	Błąd wyszukiwania rozdziału.
+880	Playback of this disc is prohibited by region restriction.	Wiedergabe wegen Regionalcode gesperrt.	Odtwarzanie zabronione przez ograniczenie regionalne.
+881	Stop is prohibited.	Stopp ist gesperrt.	Zatrzymanie jest zabronione.
+882	Time display is prohibited.	Zeitanzeige ist gesperrt.	Wyświetlanie czasu jest zabronione.
+883	The TV system is different.	Anderes TV-System.	Inny system TV.
+884	User operation is prohibited.	Bedienung ist gesperrt.	Operacja użytkownika jest zabroniona.
+885	VIEWER is not available for this disc.	VIEWER bei dieser Disc nicht verfügbar.	VIEWER niedostępny dla tej płyty.
+886	VIEWER is not available for this title.	VIEWER bei diesem Titel nicht verfügbar.	VIEWER niedostępny dla tego tytułu.
+887	No disc inserted.	Keine Disc eingelegt.	Nie włożono płyty.
+888	There is only one audio track.	Nur eine Tonspur vorhanden.	Jest tylko jedna ścieżka dźwiękowa.
+889	This disc cannot be played.	Diese Disc kann nicht abgespielt werden.	Nie można odtworzyć tej płyty.
+890	BUSY time-out.	BUSY-Zeitüberschreitung.	Przekroczono czas BUSY.
+891	Could not play.<CRLF>Turn the power off and on again.	Wiedergabe nicht möglich.<CRLF>Gerät aus- und wieder einschalten.	Nie można odtworzyć.<CRLF>Wyłącz i ponownie włącz urządzenie.
+892	Abnormal playback (no message)	Fehlerhafte Wiedergabe (keine Meldung)	Nieprawidłowe odtwarzanie (brak komunikatu)
+893	The angle cannot be changed just before an angle block.	Winkel kann direkt vor einem Winkelblock nicht geändert werden.	Nie można zmienić kąta tuż przed blokiem kątów.
+894	Next time, playback will resume from here.	Beim nächsten Mal wird hier fortgesetzt.	Następnym razem odtwarzanie zostanie wznowione stąd.
+895	Cannot play due to temporary deletion (no message)	Wegen vorläufiger Löschung nicht abspielbar (keine Meldung)	Nie można odtworzyć z powodu tymczasowego usunięcia (brak komunikatu)
+896	Error code: TERMINATE	Fehlercode: TERMINATE	Kod błędu: TERMINATE
+897	Registered as thumbnail.	Als Miniaturbild gespeichert.	Zapisano jako miniaturę.
+898	Cannot register because it is protected.	Geschützt, Speichern nicht möglich.	Nie można zapisać, jest chronione.
+899	Setting a mark.	Marke wird gesetzt.	Ustawianie znacznika.
+900	This operation cannot be performed.	Dieser Vorgang ist nicht möglich.	Nie można wykonać tej operacji.
+901	Afar	Afar	Afar
+902	Afrikaans	Afrikaans	Afrikaans
+903	Aymara	Aymara	Ajmara
+904	Bihari	Bihari	Bihari
+905	Bislama	Bislama	Bislama
+906	Esperanto	Esperanto	Esperanto
+907	Faroese	Färöisch	Farerski
+908	Guarani	Guaraní	Guarani
+909	Gujarati	Gujarati	Gudżarati
+910	Hausa	Hausa	Hausa
+911	Hindi	Hindi	Hindi
+912	Interlingua	Interlingua	Interlingua
+913	Interlingue	Interlingue	Interlingue
+914	Inupiak	Inupiak	Inupiak
+915	Kannada	Kannada	Kannada
+916	Lingala	Lingala	Lingala
+917	Latvian	Lettisch	Łotewski
+918	Malagasy	Malagasy	Malgaski
+919	Maori	Maori	Maoryski
+920	Malayalam	Malayalam	Malajalam
+921	Nauruan	Nauruisch	Nauruański
+922	Oriya	Oriya	Orija
+923	Pashto	Paschtu	Paszto
+924	Quechua	Quechua	Keczua
+925	Kirundi	Kirundi	Kirundi
+926	Kinyarwanda	Kinyarwanda	Kinyarwanda
+927	Sanskrit	Sanskrit	Sanskryt
+928	Sindhi	Sindhi	Sindhi
+929	Sango	Sango	Sango
+930	Shona	Shona	Shona
+931	Somali	Somali	Somalijski
+932	Siswati	Siswati	Suazi
+933	Sesotho	Sesotho	Sotho
+934	Tamil	Tamil	Tamilski
+935	Telugu	Telugu	Telugu
+936	Tigrinya	Tigrinya	Tigrinia
+937	Tagalog	Tagalog	Tagalski
+938	Setswana	Setswana	Tswana
+939	Tonga	Tongaisch	Tonga
+940	Tsonga	Tsonga	Tsonga
+941	Twi	Twi	Twi
+942	Urdu	Urdu	Urdu
+943	Volapük	Volapük	Volapük
+944	Wolof	Wolof	Wolof
+945	Xhosa	Xhosa	Xhosa
+946	Yoruba	Yoruba	Joruba
+947	Zulu	Zulu	Zulu
+948	AUDIO	AUDIO	AUDIO
+949	Thailand	Thailand	Tajlandia
+950	Taiwan	Taiwan	Tajwan
+951	China	China	Chiny
+952	Japan	Japan	Japonia
+953	Malaysia	Malaysia	Malezja
+954	Russia	Russland	Rosja
+955	Optimizing.<CRLF>Timer recording cannot start during optimization.	Optimierung läuft.<CRLF>Während der Optimierung startet keine Timer-Aufnahme.	Trwa optymalizacja.<CRLF>Podczas optymalizacji nagrywanie z timera nie ruszy.
+956	Set the recording mode after optimization.<CRLF>A higher quality than the original is not possible.	Aufnahmemodus nach der Optimierung wählen.<CRLF>Höhere Qualität als das Original ist nicht möglich.	Ustaw tryb nagrywania po optymalizacji.<CRLF>Wyższa jakość niż oryginał jest niemożliwa.
+957	Sets how main + sub audio recorded on DVD-RW (Video mode) or DVD-R<CRLF>is dubbed to DVD+RW discs.	Legt fest, wie Haupt- + Nebenton von DVD-RW (Video) oder DVD-R<CRLF>auf DVD+RW überspielt wird.	Określa, jak dźwięk główny + dodatk. z DVD-RW (Video) lub DVD-R<CRLF>jest kopiowany na DVD+RW.
+958	Sets whether edited parts are kept in the title after optimization.<CRLF>Even if you select Keep, chapters and edit settings are<CRLF>not kept in the optimized title.	Legt fest, ob bearbeitete Teile nach der Optimierung erhalten bleiben.<CRLF>Auch bei „Behalten“ bleiben Kapitel und Bearbeitungen<CRLF>im optimierten Titel nicht erhalten.	Określa, czy edytowane fragmenty zostaną zachowane po optymalizacji.<CRLF>Nawet po wybraniu „Zachowaj” rozdziały i edycje<CRLF>nie zostaną zachowane.
+959	Sets whether the original title is kept after optimization.	Legt fest, ob der Originaltitel nach der Optimierung erhalten bleibt.	Określa, czy oryginalny tytuł zostanie zachowany po optymalizacji.
+960	Optimization will now start.<CRLF>Until it finishes	Die Optimierung startet jetzt.<CRLF>Bis zum Ende	Rozpoczyna się optymalizacja.<CRLF>Do jej zakończenia
+961	A timer recording is scheduled.<CRLF>Timer recording cannot start during optimization.	Eine Timer-Aufnahme ist geplant.<CRLF>Während der Optimierung startet keine Timer-Aufnahme.	Zaplanowano nagrywanie z timera.<CRLF>Podczas optymalizacji nagrywanie z timera nie ruszy.
+962	Start optimizing this title?	Optimierung dieses Titels starten?	Rozpocząć optymalizację tego tytułu?
+963	Timer recording has started.<CRLF>The optimization will be stopped.	Timer-Aufnahme hat begonnen.<CRLF>Die Optimierung wird beendet.	Rozpoczęto nagrywanie z timera.<CRLF>Optymalizacja zostanie przerwana.
+964	Same setting as the original title.	Gleiche Einstellung wie der Originaltitel.	To samo ustawienie co oryginalny tytuł.
+965	If a copy-once signal is included,<CRLF>a blue screen is recorded.	Enthält das Signal einen Kopierschutz (einmal kopieren),<CRLF>wird ein blauer Bildschirm aufgenommen.	Jeśli sygnał zawiera ochronę „kopiuj raz”,<CRLF>zostanie nagrany niebieski ekran.
+966	（for DVD+RW）	（für DVD+RW）	（dla DVD+RW）
+967	The title list is full.<CRLF>To optimize, you must delete a title.	Die Titelliste ist voll.<CRLF>Zum Optimieren bitte einen Titel löschen.	Lista tytułów jest pełna.<CRLF>Aby optymalizować, usuń tytuł.
+968	A timer recording has started or is being prepared.<CRLF>Optimization cannot start.	Eine Timer-Aufnahme läuft oder wird vorbereitet.<CRLF>Optimierung nicht möglich.	Nagrywanie z timera trwa lub jest przygotowywane.<CRLF>Nie można rozpocząć optymalizacji.
+969	Not enough hard disk space.<CRLF>Optimization cannot start.	Nicht genug Festplattenspeicher.<CRLF>Optimierung nicht möglich.	Za mało miejsca na dysku.<CRLF>Nie można rozpocząć optymalizacji.
+970	Aborted.	Abgebrochen.	Przerwano.
+971	Could not create the DVD.	DVD konnte nicht erstellt werden.	Nie udało się utworzyć DVD.
+972	%$3:Menu template '%3$s' not found.	%$3:Menüvorlage '%3$s' nicht gefunden.	%$3:Nie znaleziono szablonu menu '%3$s'.
+973	%$3:Menu template '%3$s' has no item %1$s.	%$3:Menüvorlage '%3$s' hat kein Element %1$s.	%$3:Szablon menu '%3$s' nie ma elementu %1$s.
+974	Recording. Cannot encode.	Aufnahme läuft. Kodieren nicht möglich.	Trwa nagrywanie. Nie można kodować.
+975	The DVD drive is in use.	Das DVD-Laufwerk wird verwendet.	Napęd DVD jest w użyciu.
+976	Playing.	Wiedergabe läuft.	Trwa odtwarzanie.
+977	No session to finalize was specified.	Keine abzuschließende Sitzung angegeben.	Nie wskazano sesji do finalizacji.
+978	%$3:Session to finalize '%3$s' is invalid.	%$3:Abzuschließende Sitzung '%3$s' ist ungültig.	%$3:Sesja do finalizacji '%3$s' jest nieprawidłowa.
+979	8 cm discs are not supported.	8-cm-Discs werden nicht unterstützt.	Płyty 8 cm nie są obsługiwane.
+980	Unknown disc size.	Unbekannte Disc-Größe.	Nieznany rozmiar płyty.
+981	Cannot access the DVD burner drive.	Kein Zugriff auf den DVD-Brenner.	Brak dostępu do nagrywarki DVD.
+982	A timer recording has priority.	Eine Timer-Aufnahme hat Vorrang.	Nagrywanie z timera ma pierwszeństwo.
+983	Could not stop the recording.	Aufnahme konnte nicht gestoppt werden.	Nie udało się zatrzymać nagrywania.
+984	Unknown DVD status.	Unbekannter DVD-Status.	Nieznany stan DVD.
+985	The tray does not close.	Die Lade schließt nicht.	Szuflada się nie zamyka.
+986	Cannot load the library.	Bibliothek kann nicht geladen werden.	Nie można załadować biblioteki.
+987	Cannot read the DVD status.	DVD-Status nicht lesbar.	Nie można odczytać stanu DVD.
+988	Failed to get the DVD status.	DVD-Status konnte nicht ermittelt werden.	Nie udało się pobrać stanu DVD.
+989	Failed to initialize the DVD.	DVD-Initialisierung fehlgeschlagen.	Nie udało się zainicjalizować DVD.
+990	Failed to release the DVD finalization.	Aufheben des DVD-Abschlusses fehlgeschlagen.	Nie udało się cofnąć finalizacji DVD.
+991	Cannot write the title to the DVD.	Titel kann nicht auf DVD geschrieben werden.	Nie można zapisać tytułu na DVD.
+992	Failed to finalize the DVD.	DVD-Abschluss fehlgeschlagen.	Nie udało się sfinalizować DVD.

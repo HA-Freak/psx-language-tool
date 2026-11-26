@@ -1,0 +1,2206 @@
+# file	id	English (must match DESR-5000 ENG folder)	German
+xosd/packages/barc_0/barc.xml	s1	Back	Zurück
+xosd/packages/barc_0/barc.xml	s2	Disc space 100%	Speicher 100 %
+xosd/packages/barc_0/barc.xml	s9	There is no data.	Keine Daten vorhanden.
+xosd/packages/barc_0/barc.xml	s10	There are no tracks.	Keine Titel vorhanden.
+xosd/packages/barc_0/barc.xml	s11	There are no photos.	Keine Fotos vorhanden.
+xosd/packages/barc_0/barc.xml	s13	Slide show	Diashow
+xosd/packages/barc_0/barc.xml	s14	Import	Importieren
+xosd/packages/barc_0/barc.xml	s15	Export	Exportieren
+xosd/packages/barc_0/barc.xml	s16	Delete	Löschen
+xosd/packages/barc_0/barc.xml	s17	Information	Informationen
+xosd/packages/barc_0/barc.xml	s18	Open	Öffnen
+xosd/packages/barc_0/barc.xml	s19	Rotate (left)	Drehen (links)
+xosd/packages/barc_0/barc.xml	s20	Rotate (right)	Drehen (rechts)
+xosd/packages/barc_0/barc.xml	s21	Initialization	Initialisierung
+xosd/packages/barc_0/barc.xml	s22	Rename	Umbenennen
+xosd/packages/barc_0/barc.xml	s23	Digital camera	Digitalkamera
+xosd/packages/barc_0/barc.xml	s25	Options	Optionen
+xosd/packages/barc_0/barc.xml	s26	Select	Auswählen
+xosd/packages/barc_0/barc.xml	s27	Play	Wiedergabe
+xosd/packages/barc_0/barc.xml	s28	Back	Zurück
+xosd/packages/barc_0/barc.xml	s29	Play	Wiedergabe
+xosd/packages/barc_0/barc.xml	s30	Import	Importieren
+xosd/packages/barc_0/barc.xml	s31	Delete	Löschen
+xosd/packages/barc_0/barc.xml	s32	Information	Informationen
+xosd/packages/barc_0/barc.xml	s33	Initialization	Initialisierung
+xosd/packages/barc_0/barc.xml	s34	Export	Exportieren
+xosd/packages/barc_0/barc.xml	s35	Music CD	Musik-CD
+xosd/packages/barc_0/barc.xml	s36	Data CD	Daten-CD
+xosd/packages/barc_0/barc.xml	s38	Rename	Umbenennen
+xosd/packages/barc_0/barc.xml	s39	Track	Titel
+xosd/packages/barc_0/barc.xml	s40	Busy.	Beschäftigt.
+xosd/packages/barc_0/barc.xml	s41	Select	Auswählen
+xosd/packages/barc_0/barc.xml	s42	Back	Zurück
+xosd/packages/barc_0/barc.xml	s43	Import	Importieren
+xosd/packages/barc_0/barc.xml	s44	Export	Exportieren
+xosd/packages/barc_0/barc.xml	s45	Delete	Löschen
+xosd/packages/barc_0/barc.xml	s46	Information	Informationen
+xosd/packages/barc_0/barc.xml	s47	Initialization	Initialisierung
+xosd/packages/barc_0/barc.xml	s48	Rename	Umbenennen
+xosd/packages/barc_0/barc.xml	s49	Options	Optionen
+xosd/packages/barc_0/barc.xml	s50	Setting	Einstellung
+xosd/packages/barc_0/barc.xml	s51	Photo	Foto
+xosd/packages/barc_0/barc.xml	s52	Music	Musik
+xosd/packages/barc_0/barc.xml	s55	Game	Spiel
+xosd/packages/Config_0/ConfigAboutPSX.xml	s3	About PSX	Über PSX
+xosd/packages/Config_0/ConfigAboutPSX.xml	s5	'PSX' and 'PlayStation'	„PSX“ und „PlayStation“
+xosd/packages/Config_0/ConfigAboutPSX.xml	s6	are registered trademarks of Sony Computer Entertainment Inc.	sind eingetragene Marken der Sony Computer Entertainment Inc.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s8	and the Memory Stick logo	sowie das Memory Stick-Logo
+xosd/packages/Config_0/ConfigAboutPSX.xml	s9	are trademarks or registered trademarks of Sony Corporation.	sind Marken oder eingetragene Marken der Sony Corporation.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s12	This product is manufactured under license from Dolby Laboratories.	Hergestellt unter Lizenz von Dolby Laboratories.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s13	Dolby, Dolby and the Double D symbol are trademarks of Dolby Laboratories.	Dolby und das Doppel-D-Symbol sind Marken von Dolby Laboratories.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s16	DTS and DTS Digital Out are trademarks of Digital Theater Systems, Inc.	DTS und DTS Digital Out sind Marken von Digital Theater Systems, Inc.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s19	This software is based in part on the work of the FreeType Team.	Diese Software basiert teilweise auf der Arbeit des FreeType Teams.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s22	ATOK is a registered trademark of JUSTSYSTEM Corporation.	ATOK ist eine eingetragene Marke der JUSTSYSTEM Corporation.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s25	This product incorporates copyright protection technology that is protected by	Dieses Produkt enthält Kopierschutztechnologie, die durch US-Patente
+xosd/packages/Config_0/ConfigAboutPSX.xml	s26	U.S. patents and other intellectual property rights. Use of this technology	und andere Schutzrechte geschützt ist. Ihre Nutzung muss von Macrovision
+xosd/packages/Config_0/ConfigAboutPSX.xml	s27	must be authorized by Macrovision and is intended for home and other limited	genehmigt werden und ist nur für den Heimgebrauch und andere begrenzte
+xosd/packages/Config_0/ConfigAboutPSX.xml	s28	viewing uses only. Reverse engineering or disassembly is prohibited.	Vorführungen bestimmt. Reverse Engineering und Disassemblierung sind verboten.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s38	libjpeg   This software is based in part on the work of the Independent JPEG Group	libjpeg   Diese Software basiert teilweise auf der Arbeit der Independent JPEG Group
+xosd/packages/Config_0/ConfigAboutPSX.xml	s41	Portions of this product are protected under copyright law and are 	Teile dieses Produkts sind urheberrechtlich geschützt und werden
+xosd/packages/Config_0/ConfigAboutPSX.xml	s42	provided under license by ARIS/Solana/4C.	unter Lizenz von ARIS/Solana/4C bereitgestellt.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s47	International Business Machines Corporation and others. All Rights Reserved.	International Business Machines Corporation und andere. Alle Rechte vorbehalten.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s50	The communication functions of this product use software developed by	Die Kommunikationsfunktionen dieses Produkts nutzen Software der
+xosd/packages/Config_0/ConfigAboutPSX.xml	s51	the NetBSD Foundation, Inc. and its contributors.	NetBSD Foundation, Inc. und ihrer Mitwirkenden.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s52	For details see the BSD license after 'About PSX'.	Details siehe BSD-Lizenz nach „Über PSX“.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s59	This product uses DNAS (Dynamic Network Authentication System),	Dieses Produkt verwendet DNAS (Dynamic Network Authentication System),
+xosd/packages/Config_0/ConfigAboutPSX.xml	s60	a proprietary authentication system of Sony Computer Entertainment Inc.	ein Authentifizierungssystem der Sony Computer Entertainment Inc.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s61	to protect copyrights and security. Distributing programs or devices that disable it,	zum Schutz von Urheberrecht und Sicherheit. Verbreitung von Programmen oder Geräten,
+xosd/packages/Config_0/ConfigAboutPSX.xml	s62	or exhibiting, exporting, transmitting or importing them, may be prohibited by law.	die es umgehen, sowie deren Export, Übertragung oder Import kann gesetzlich verboten sein.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s63	DNAS is a trademark of Sony Computer Entertainment Inc.	DNAS ist eine Marke der Sony Computer Entertainment Inc.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s66	This product contains RSA(R) BSAFE TM Crypt-C	Dieses Produkt enthält RSA(R) BSAFE TM Crypt-C
+xosd/packages/Config_0/ConfigAboutPSX.xml	s67	and RSA(R) BSAFE TM SSL-C from RSA Security Inc.	und RSA(R) BSAFE TM SSL-C von RSA Security Inc.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s68	RSA and BSAFE are registered trademarks of RSA Security Inc.	RSA und BSAFE sind eingetragene Marken der RSA Security Inc.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s69	in the United States and other countries.	in den USA und anderen Ländern.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s70	RSA Security Inc. All rights reserved.	RSA Security Inc. Alle Rechte vorbehalten.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s73	Other company and product names are trademarks or registered trademarks of their owners.	Andere Firmen- und Produktnamen sind Marken oder eingetragene Marken ihrer Inhaber.
+xosd/packages/Config_0/ConfigAboutPSX.xml	s76	About the BSD license	Zur BSD-Lizenz
+xosd/packages/Config_0/ConfigBSAntennaLevel.xml	s1	Settings / BS antenna level display	Einstellungen / BS-Antennenpegel
+xosd/packages/Config_0/ConfigBSAntennaLevel.xml	s5	Back	Zurück
+xosd/packages/Config_0/ConfigBSChannel.xml	s1	No	Nein
+xosd/packages/Config_0/ConfigBSChannel.xml	s2	Yes	Ja
+xosd/packages/Config_0/ConfigBSChannel.xml	s3	BS channel	BS-Sender
+xosd/packages/Config_0/ConfigBSChannel.xml	s4	Channel skip	Kanal überspringen
+xosd/packages/Config_0/ConfigBSChannel.xml	s27	Saving the channel settings.	Kanaleinstellungen werden gespeichert.
+xosd/packages/Config_0/ConfigBSChannel.xml	s28	Please wait.	Bitte warten.
+xosd/packages/Config_0/ConfigBSChannel.xml	s29	Settings / BS channel skip	Einstellungen / BS-Kanäle überspringen
+xosd/packages/Config_0/ConfigBSChannel.xml	s30	Back	Zurück
+xosd/packages/Config_0/ConfigBSChannel.xml	s31	Change	Ändern
+xosd/packages/Config_0/ConfigEasyWizard.xml	s2	BS antenna power	BS-Antennenstrom
+xosd/packages/Config_0/ConfigEasyWizard.xml	s3	Time setting	Zeiteinstellung
+xosd/packages/Config_0/ConfigEasyWizard.xml	s4	Area code	Vorwahl
+xosd/packages/Config_0/ConfigEasyWizard.xml	s5	Auto Tune	Sendersuchlauf
+xosd/packages/Config_0/ConfigEasyWizard.xml	s6	TV type	TV-Typ
+xosd/packages/Config_0/ConfigEasyWizard.xml	s7	Optical out	Optischer Ausgang
+xosd/packages/Config_0/ConfigEasyWizard.xml	s10	Summary	Übersicht
+xosd/packages/Config_0/ConfigEasyWizard.xml	s11	Hard disk space	Festplattenbereich
+xosd/packages/Config_0/ConfigEasyWizard.xml	s12	Finish	Fertig
+xosd/packages/Config_0/ConfigEasyWizard.xml	s13	Basic settings for using this unit.	Grundeinstellungen für dieses Gerät.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s14	Press right to begin	Nach rechts, um die
+xosd/packages/Config_0/ConfigEasyWizard.xml	s15	the Easy Setup.	Einrichtung zu starten.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s16	Select BS antenna power	BS-Antennenstrom wählen
+xosd/packages/Config_0/ConfigEasyWizard.xml	s17	with up/down.	mit oben/unten.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s18	Press right for the next screen.	Nach rechts: nächster Bildschirm.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s19	On	Ein
+xosd/packages/Config_0/ConfigEasyWizard.xml	s20	Off	Aus
+xosd/packages/Config_0/ConfigEasyWizard.xml	s21	Change the time:	Uhrzeit ändern:
+xosd/packages/Config_0/ConfigEasyWizard.xml	s22	Press to change.	Drücken zum Ändern.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s23	Press right	Nach rechts
+xosd/packages/Config_0/ConfigEasyWizard.xml	s24	for next screen	nächster Schritt
+xosd/packages/Config_0/ConfigEasyWizard.xml	s26	Select the item to change	Zu ändernde Stelle wählen
+xosd/packages/Config_0/ConfigEasyWizard.xml	s27	Change the value.	Wert ändern.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s28	When the time is set	Wenn die Zeit stimmt,
+xosd/packages/Config_0/ConfigEasyWizard.xml	s29	press.	drücken.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s41	Select your region	Region auswählen
+xosd/packages/Config_0/ConfigEasyWizard.xml	s42	Press right for the next screen.	Nach rechts: nächster Bildschirm.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s43	Select Auto Tune	Sendersuchlauf wählen
+xosd/packages/Config_0/ConfigEasyWizard.xml	s44	or manual tuning,	oder manuell,
+xosd/packages/Config_0/ConfigEasyWizard.xml	s45	press right for the next screen.	nach rechts: nächster Bildschirm.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s46	Auto Tuning	Auto-Suchlauf
+xosd/packages/Config_0/ConfigEasyWizard.xml	s47	Manual Tuning	Manuelle Suche
+xosd/packages/Config_0/ConfigEasyWizard.xml	s48	Select TV screen type	Bildschirmtyp wählen
+xosd/packages/Config_0/ConfigEasyWizard.xml	s49	(aspect ratio),	(Seitenverhältnis),
+xosd/packages/Config_0/ConfigEasyWizard.xml	s50	press right for	nach rechts:
+xosd/packages/Config_0/ConfigEasyWizard.xml	s51	the next screen.	nächster Bildschirm.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s55	Select digital out	Digitalausgang
+xosd/packages/Config_0/ConfigEasyWizard.xml	s56	On or Off,	Ein oder Aus,
+xosd/packages/Config_0/ConfigEasyWizard.xml	s57	press right for the next screen.	nach rechts: nächster Bildschirm.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s58	On	Ein
+xosd/packages/Config_0/ConfigEasyWizard.xml	s59	Off	Aus
+xosd/packages/Config_0/ConfigEasyWizard.xml	s60	Select Dolby Digital,	Dolby Digital wählen,
+xosd/packages/Config_0/ConfigEasyWizard.xml	s61	press right for the next screen.	nach rechts: nächster Bildschirm.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s62	On	Ein
+xosd/packages/Config_0/ConfigEasyWizard.xml	s63	Off	Aus
+xosd/packages/Config_0/ConfigEasyWizard.xml	s64	Select DTS,	DTS wählen,
+xosd/packages/Config_0/ConfigEasyWizard.xml	s65	press right for the next screen.	nach rechts: nächster Bildschirm.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s66	On	Ein
+xosd/packages/Config_0/ConfigEasyWizard.xml	s67	Off	Aus
+xosd/packages/Config_0/ConfigEasyWizard.xml	s68	Settings summary.	Übersicht der Einstellungen.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s69	To accept, press	Zum Übernehmen
+xosd/packages/Config_0/ConfigEasyWizard.xml	s70	Press	Drücken Sie
+xosd/packages/Config_0/ConfigEasyWizard.xml	s71	press right for the next screen.	nach rechts: nächster Bildschirm.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s72	BS antenna power	BS-Antennenstrom
+xosd/packages/Config_0/ConfigEasyWizard.xml	s73	Time setting	Uhrzeit
+xosd/packages/Config_0/ConfigEasyWizard.xml	s74	Area code	Vorwahl
+xosd/packages/Config_0/ConfigEasyWizard.xml	s75	TV type	TV-Typ
+xosd/packages/Config_0/ConfigEasyWizard.xml	s76	Optical out	Optischer Ausgang
+xosd/packages/Config_0/ConfigEasyWizard.xml	s86	Off (On failed)	Aus (Ein fehlgeschl.)
+xosd/packages/Config_0/ConfigEasyWizard.xml	s87	HDD area for games	HDD-Bereich für Spiele
+xosd/packages/Config_0/ConfigEasyWizard.xml	s90	Press right for the next screen.	Nach rechts: nächster Bildschirm.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s91	Game area	Spielbereich
+xosd/packages/Config_0/ConfigEasyWizard.xml	s93	To change it,	Zum Ändern bitte
+xosd/packages/Config_0/ConfigEasyWizard.xml	s94	use HDD setting in Settings.	HDD-Einstellung verwenden.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s95	Changing it deletes video, music, photos	Dabei werden Videos, Musik, Fotos
+xosd/packages/Config_0/ConfigEasyWizard.xml	s96	and the program guide.	und Programmführer gelöscht.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s97	Easy Setup finished.	Einrichtung abgeschlossen.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s98	Initializing settings.	Einstellungen werden initialisiert.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s99	Do not turn off the PSX during initialization.	PSX während der Initialisierung nicht ausschalten.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s100	Progress status	Fortschritt
+xosd/packages/Config_0/ConfigEasyWizard.xml	s115	Cancel the Easy Setup?	Einrichtung abbrechen?
+xosd/packages/Config_0/ConfigEasyWizard.xml	s116	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigEasyWizard.xml	s117	Continue	Fortsetzen
+xosd/packages/Config_0/ConfigEasyWizard.xml	s118	10 minutes left until a timer recording starts.	Noch 10 Minuten bis zu einer Timer-Aufnahme.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s119	The wizard will close when the recording starts.	Der Assistent wird bei Aufnahmebeginn beendet.
+xosd/packages/Config_0/ConfigEasyWizard.xml	s120	Cancel the wizard?	Assistent abbrechen?
+xosd/packages/Config_0/ConfigEasyWizard.xml	s121	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigEasyWizard.xml	s122	Continue	Fortsetzen
+xosd/packages/Config_0/ConfigEasyWizard.xml	s123	Easy Setup / 	Einrichtung / 
+xosd/packages/Config_0/ConfigEasyWizard.xml	s126	Back	Zurück
+xosd/packages/Config_0/ConfigEasyWizard.xml	s127	Change	Ändern
+xosd/packages/Config_0/ConfigEasyWizard.xml	s128	Enter	Eingabe
+xosd/packages/Config_0/ConfigGame.xml	s5	On	Ein
+xosd/packages/Config_0/ConfigGame.xml	s6	Off	Aus
+xosd/packages/Config_0/ConfigGame.xml	s7	On	Ein
+xosd/packages/Config_0/ConfigGame.xml	s8	Off	Aus
+xosd/packages/Config_0/ConfigHddFormat.xml	s1	The hard disk will now be initialized.	Die Festplatte wird jetzt initialisiert.
+xosd/packages/Config_0/ConfigHddFormat.xml	s2	All contents of the hard disk will be erased	Alle Inhalte der Festplatte werden gelöscht
+xosd/packages/Config_0/ConfigHddFormat.xml	s3	and it returns to its factory state.	und sie wird in den Auslieferungszustand versetzt.
+xosd/packages/Config_0/ConfigHddFormat.xml	s4	Initialize?	Initialisieren?
+xosd/packages/Config_0/ConfigHddFormat.xml	s5	Initialize	Initialisieren
+xosd/packages/Config_0/ConfigHddFormat.xml	s6	Do not initialize	Nicht initialisieren
+xosd/packages/Config_0/ConfigHddFormat.xml	s7	Initializing the hard disk. Please wait.	Festplatte wird initialisiert. Bitte warten.
+xosd/packages/Config_0/ConfigHddFormat.xml	s8	Hard disk initialization was cancelled.	Initialisierung der Festplatte abgebrochen.
+xosd/packages/Config_0/ConfigHddFormat.xml	s9	Hard disk initialization completed.	Initialisierung der Festplatte abgeschlossen.
+xosd/packages/Config_0/ConfigHddFormat.xml	s10	Once started, initialization cannot be interrupted.	Die Initialisierung kann nach dem Start nicht abgebrochen werden.
+xosd/packages/Config_0/ConfigHddFormat.xml	s11	Are you sure you want to initialize?	Wirklich initialisieren?
+xosd/packages/Config_0/ConfigHddFormat.xml	s12	Start	Starten
+xosd/packages/Config_0/ConfigHddFormat.xml	s13	Do not start	Nicht starten
+xosd/packages/Config_0/ConfigHddFormat.xml	s14	Cancel the hard disk initialization?	Initialisierung der Festplatte abbrechen?
+xosd/packages/Config_0/ConfigHddFormat.xml	s15	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigHddFormat.xml	s16	Continue	Fortsetzen
+xosd/packages/Config_0/ConfigHddFormat.xml	s17	10 minutes left until a timer recording starts.	Noch 10 Minuten bis zu einer Timer-Aufnahme.
+xosd/packages/Config_0/ConfigHddFormat.xml	s18	The wizard will close when the recording starts.	Der Assistent wird bei Aufnahmebeginn beendet.
+xosd/packages/Config_0/ConfigHddFormat.xml	s19	Cancel the wizard?	Assistent abbrechen?
+xosd/packages/Config_0/ConfigHddFormat.xml	s20	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigHddFormat.xml	s21	Continue	Fortsetzen
+xosd/packages/Config_0/ConfigHddFormat.xml	s22	Settings / Initialize hard disk	Einstellungen / Festplatte initialisieren
+xosd/packages/Config_0/ConfigHddFormat.xml	s24	Back	Zurück
+xosd/packages/Config_0/ConfigHddFormat.xml	s25	Enter	Eingabe
+xosd/packages/Config_0/ConfigHddPartition.xml	s1	HDD setting will now start.	Die HDD-Einstellung wird gestartet.
+xosd/packages/Config_0/ConfigHddPartition.xml	s2	In HDD setting you can change	In der HDD-Einstellung kann der
+xosd/packages/Config_0/ConfigHddPartition.xml	s3	the game area.	Spielbereich geändert werden.
+xosd/packages/Config_0/ConfigHddPartition.xml	s4	Changing the HDD setting erases the hard disk	Dabei wird der Inhalt der Festplatte
+xosd/packages/Config_0/ConfigHddPartition.xml	s5	contents.	gelöscht.
+xosd/packages/Config_0/ConfigHddPartition.xml	s6	You can change the hard disk areas.	Hier können die Festplattenbereiche geändert werden.
+xosd/packages/Config_0/ConfigHddPartition.xml	s7	Press right for the next screen.	Nach rechts: nächster Bildschirm.
+xosd/packages/Config_0/ConfigHddPartition.xml	s8	Game area	Spielbereich
+xosd/packages/Config_0/ConfigHddPartition.xml	s9	Game area :	Spielbereich :
+xosd/packages/Config_0/ConfigHddPartition.xml	s11	Delete the game area?	Spielbereich löschen?
+xosd/packages/Config_0/ConfigHddPartition.xml	s12	Press to delete the game area.	Drücken, um den Spielbereich zu löschen.
+xosd/packages/Config_0/ConfigHddPartition.xml	s13	Note	Hinweis
+xosd/packages/Config_0/ConfigHddPartition.xml	s14	If you delete the game area,	Wenn der Spielbereich gelöscht wird,
+xosd/packages/Config_0/ConfigHddPartition.xml	s15	games that use the hard disk	können Spiele, die die Festplatte nutzen,
+xosd/packages/Config_0/ConfigHddPartition.xml	s16	can no longer be played.	nicht mehr gespielt werden.
+xosd/packages/Config_0/ConfigHddPartition.xml	s17	Create a game area?	Spielbereich anlegen?
+xosd/packages/Config_0/ConfigHddPartition.xml	s18	Press to create a game area.	Drücken, um einen Spielbereich anzulegen.
+xosd/packages/Config_0/ConfigHddPartition.xml	s19	No	Nein
+xosd/packages/Config_0/ConfigHddPartition.xml	s20	Creating a game area reduces the	Ein Spielbereich verkürzt die
+xosd/packages/Config_0/ConfigHddPartition.xml	s21	recording time (SP) by about 17 hours.	Aufnahmezeit (SP) um ca. 17 Stunden.
+xosd/packages/Config_0/ConfigHddPartition.xml	s23	Press to restart.	Drücken zum Neustart.
+xosd/packages/Config_0/ConfigHddPartition.xml	s24	After the restart, the hard disk area setting	Nach dem Neustart beginnt die
+xosd/packages/Config_0/ConfigHddPartition.xml	s25	will start.	Einstellung der Festplattenbereiche.
+xosd/packages/Config_0/ConfigHddPartition.xml	s26	If you change the hard disk areas,	Beim Ändern der Festplattenbereiche
+xosd/packages/Config_0/ConfigHddPartition.xml	s27	video, music, photos and the program guide	werden Videos, Musik, Fotos und Programmführer
+xosd/packages/Config_0/ConfigHddPartition.xml	s28	will be deleted.	gelöscht.
+xosd/packages/Config_0/ConfigHddPartition.xml	s29	Do you want to continue?	Fortfahren?
+xosd/packages/Config_0/ConfigHddPartition.xml	s30	Yes	Ja
+xosd/packages/Config_0/ConfigHddPartition.xml	s31	No	Nein
+xosd/packages/Config_0/ConfigHddPartition.xml	s32	Cancel the hard disk area setting?	Einstellung der Festplattenbereiche abbrechen?
+xosd/packages/Config_0/ConfigHddPartition.xml	s33	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigHddPartition.xml	s34	Do not stop	Nicht abbrechen
+xosd/packages/Config_0/ConfigHddPartition.xml	s35	10 minutes left until a timer recording starts.	Noch 10 Minuten bis zu einer Timer-Aufnahme.
+xosd/packages/Config_0/ConfigHddPartition.xml	s36	The wizard will close when the recording starts.	Der Assistent wird bei Aufnahmebeginn beendet.
+xosd/packages/Config_0/ConfigHddPartition.xml	s37	Cancel the wizard?	Assistent abbrechen?
+xosd/packages/Config_0/ConfigHddPartition.xml	s38	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigHddPartition.xml	s39	Do not stop	Nicht abbrechen
+xosd/packages/Config_0/ConfigHddPartition.xml	s40	Settings / HDD area setting	Einstellungen / HDD-Bereiche
+xosd/packages/Config_0/ConfigHddPartition.xml	s42	Back	Zurück
+xosd/packages/Config_0/ConfigHddPartition.xml	s43	Restart	Neustart
+xosd/packages/Config_0/ConfigHddPartition.xml	s44	Decision	Entscheidung
+xosd/packages/Config_0/ConfigInit.xml	s1	Reset to factory settings?	Auf Werkseinstellungen zurücksetzen?
+xosd/packages/Config_0/ConfigInit.xml	s2	Select	Auswählen
+xosd/packages/Config_0/ConfigInit.xml	s3	and press.	und drücken.
+xosd/packages/Config_0/ConfigInit.xml	s4	Back	Zurück
+xosd/packages/Config_0/ConfigInit.xml	s5	Do not reset	Nicht zurücksetzen
+xosd/packages/Config_0/ConfigInit.xml	s6	Restoring factory settings.	Werkseinstellungen werden wiederhergestellt.
+xosd/packages/Config_0/ConfigInit.xml	s7	Do not turn off the console.	Konsole nicht ausschalten.
+xosd/packages/Config_0/ConfigInit.xml	s8	Progress status	Fortschritt
+xosd/packages/Config_0/ConfigInit.xml	s10	This cannot be undone.	Dies kann nicht rückgängig gemacht werden.
+xosd/packages/Config_0/ConfigInit.xml	s11	If you are sure,	Wenn Sie sicher sind,
+xosd/packages/Config_0/ConfigInit.xml	s12	press.	drücken.
+xosd/packages/Config_0/ConfigInit.xml	s13	Factory settings restored.	Werkseinstellungen wiederhergestellt.
+xosd/packages/Config_0/ConfigInit.xml	s14	Factory reset returns	Beim Zurücksetzen werden alle
+xosd/packages/Config_0/ConfigInit.xml	s15	all settings of this unit to their defaults.	Einstellungen auf den Ausgangszustand gesetzt.
+xosd/packages/Config_0/ConfigInit.xml	s16	Are you sure?	Sind Sie sicher?
+xosd/packages/Config_0/ConfigInit.xml	s17	Photos, videos and other data on the hard disk,	Fotos, Videos und andere Daten auf der Festplatte,
+xosd/packages/Config_0/ConfigInit.xml	s18	such as music, will not be deleted.	etwa Musik, werden nicht gelöscht.
+xosd/packages/Config_0/ConfigInit.xml	s19	Start	Starten
+xosd/packages/Config_0/ConfigInit.xml	s20	Do not start	Nicht starten
+xosd/packages/Config_0/ConfigInit.xml	s21	Cancel the factory reset?	Zurücksetzen abbrechen?
+xosd/packages/Config_0/ConfigInit.xml	s22	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigInit.xml	s23	Continue	Fortsetzen
+xosd/packages/Config_0/ConfigInit.xml	s24	10 minutes left until a timer recording starts.	Noch 10 Minuten bis zu einer Timer-Aufnahme.
+xosd/packages/Config_0/ConfigInit.xml	s25	The wizard will close when the recording starts.	Der Assistent wird bei Aufnahmebeginn beendet.
+xosd/packages/Config_0/ConfigInit.xml	s26	Cancel the wizard?	Assistent abbrechen?
+xosd/packages/Config_0/ConfigInit.xml	s27	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigInit.xml	s28	Continue	Fortsetzen
+xosd/packages/Config_0/ConfigInit.xml	s29	Settings / Factory reset	Einstellungen / Werkseinstellungen
+xosd/packages/Config_0/ConfigInit.xml	s31	Back	Zurück
+xosd/packages/Config_0/ConfigInit.xml	s32	Enter	Eingabe
+xosd/packages/Config_0/ConfigNwSet.xml	s1	Settings for connecting to the network:	Einstellungen für die Netzwerkverbindung:
+xosd/packages/Config_0/ConfigNwSet.xml	s2	Review and change settings	Einstellungen prüfen und ändern
+xosd/packages/Config_0/ConfigNwSet.xml	s3	Test the current connection.	Aktuelle Verbindung testen.
+xosd/packages/Config_0/ConfigNwSet.xml	s4	Start network settings.	Netzwerkeinstellungen starten.
+xosd/packages/Config_0/ConfigNwSet.xml	s5	Connect the Ethernet cable and	Ethernet-Kabel anschließen und
+xosd/packages/Config_0/ConfigNwSet.xml	s7	start the network setup.	Netzwerkeinrichtung starten.
+xosd/packages/Config_0/ConfigNwSet.xml	s8	Do you use PPPoE?	PPPoE verwenden?
+xosd/packages/Config_0/ConfigNwSet.xml	s9	Select	Auswählen
+xosd/packages/Config_0/ConfigNwSet.xml	s10	Right: next screen.	Rechts: weiter.
+xosd/packages/Config_0/ConfigNwSet.xml	s11	Do not use	Nicht verwenden
+xosd/packages/Config_0/ConfigNwSet.xml	s12	Use	Verwenden
+xosd/packages/Config_0/ConfigNwSet.xml	s14	Select	Auswählen
+xosd/packages/Config_0/ConfigNwSet.xml	s15	press.	drücken.
+xosd/packages/Config_0/ConfigNwSet.xml	s16	To continue	Weiter mit
+xosd/packages/Config_0/ConfigNwSet.xml	s17	Right: next screen.	Rechts: weiter.
+xosd/packages/Config_0/ConfigNwSet.xml	s18	User ID	Benutzer-ID
+xosd/packages/Config_0/ConfigNwSet.xml	s19	Password	Passwort
+xosd/packages/Config_0/ConfigNwSet.xml	s20	IP address setting.	IP-Adresse einstellen.
+xosd/packages/Config_0/ConfigNwSet.xml	s21	Select	Auswählen
+xosd/packages/Config_0/ConfigNwSet.xml	s22	Right: next screen.	Rechts: weiter.
+xosd/packages/Config_0/ConfigNwSet.xml	s23	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s24	Manual	Manuell
+xosd/packages/Config_0/ConfigNwSet.xml	s25	DNS (Domain Name System) setting.	DNS (Domain Name System) einstellen.
+xosd/packages/Config_0/ConfigNwSet.xml	s26	Select	Auswählen
+xosd/packages/Config_0/ConfigNwSet.xml	s27	Right: next screen	Rechts: weiter
+xosd/packages/Config_0/ConfigNwSet.xml	s28	Change the DNS (Domain Name System) setting.	DNS (Domain Name System) ändern.
+xosd/packages/Config_0/ConfigNwSet.xml	s29	Select	Auswählen
+xosd/packages/Config_0/ConfigNwSet.xml	s30	Right: next screen	Rechts: weiter
+xosd/packages/Config_0/ConfigNwSet.xml	s31	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s32	Manual	Manuell
+xosd/packages/Config_0/ConfigNwSet.xml	s33	Select with	Wählen mit
+xosd/packages/Config_0/ConfigNwSet.xml	s34	Press	Drücken Sie
+xosd/packages/Config_0/ConfigNwSet.xml	s35	to change.	zum Ändern.
+xosd/packages/Config_0/ConfigNwSet.xml	s36	To continue	Weiter mit
+xosd/packages/Config_0/ConfigNwSet.xml	s37	Right: next screen.	Rechts: weiter.
+xosd/packages/Config_0/ConfigNwSet.xml	s59	IP address	IP-Adresse
+xosd/packages/Config_0/ConfigNwSet.xml	s60	Net mask	Netzmaske
+xosd/packages/Config_0/ConfigNwSet.xml	s61	Default router	Standard-Router
+xosd/packages/Config_0/ConfigNwSet.xml	s62	Settings list	Einstellungsliste
+xosd/packages/Config_0/ConfigNwSet.xml	s63	User ID	Benutzer-ID
+xosd/packages/Config_0/ConfigNwSet.xml	s64	Password	Passwort
+xosd/packages/Config_0/ConfigNwSet.xml	s65	Primary DNS	Primärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s66	Secondary DNS	Sekundärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s69	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s70	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s71	Settings list	Einstellungsliste
+xosd/packages/Config_0/ConfigNwSet.xml	s72	IP address	IP-Adresse
+xosd/packages/Config_0/ConfigNwSet.xml	s73	Net mask	Netzmaske
+xosd/packages/Config_0/ConfigNwSet.xml	s74	Default router	Standard-Router
+xosd/packages/Config_0/ConfigNwSet.xml	s75	Primary DNS	Primärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s76	Secondary DNS	Sekundärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s77	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s78	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s79	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s80	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s81	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s83	Select	Auswählen
+xosd/packages/Config_0/ConfigNwSet.xml	s84	press.	drücken.
+xosd/packages/Config_0/ConfigNwSet.xml	s85	To continue,	Weiter mit
+xosd/packages/Config_0/ConfigNwSet.xml	s86	Right: next screen.	Rechts: weiter.
+xosd/packages/Config_0/ConfigNwSet.xml	s87	Primary DNS	Primärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s88	Secondary DNS	Sekundärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s103	Use	Mit
+xosd/packages/Config_0/ConfigNwSet.xml	s104	to move,	bewegen,
+xosd/packages/Config_0/ConfigNwSet.xml	s105	to change.	ändern.
+xosd/packages/Config_0/ConfigNwSet.xml	s106	Press right	Nach rechts
+xosd/packages/Config_0/ConfigNwSet.xml	s107	for the next screen.	nächster Bildschirm.
+xosd/packages/Config_0/ConfigNwSet.xml	s108	Primary DNS	Primärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s109	Secondary DNS	Sekundärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s124	Change the DNS (Domain Name System) setting.	DNS (Domain Name System) ändern.
+xosd/packages/Config_0/ConfigNwSet.xml	s125	Select	Auswählen
+xosd/packages/Config_0/ConfigNwSet.xml	s126	Right: next screen.	Rechts: weiter.
+xosd/packages/Config_0/ConfigNwSet.xml	s127	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s128	Manual	Manuell
+xosd/packages/Config_0/ConfigNwSet.xml	s129	Save the settings to the hard disk	Einstellungen auf der Festplatte speichern
+xosd/packages/Config_0/ConfigNwSet.xml	s130	and check the Internet connection.	und Internetverbindung prüfen.
+xosd/packages/Config_0/ConfigNwSet.xml	s131	Press to start the connection test.	Drücken für den Verbindungstest.
+xosd/packages/Config_0/ConfigNwSet.xml	s132	Save the settings to the hard disk	Einstellungen auf der Festplatte speichern
+xosd/packages/Config_0/ConfigNwSet.xml	s133	and check the Internet connection.	und Internetverbindung prüfen.
+xosd/packages/Config_0/ConfigNwSet.xml	s134	Press to start the connection test.	Drücken für den Verbindungstest.
+xosd/packages/Config_0/ConfigNwSet.xml	s135	Settings list	Einstellungsliste
+xosd/packages/Config_0/ConfigNwSet.xml	s136	User ID	Benutzer-ID
+xosd/packages/Config_0/ConfigNwSet.xml	s137	Password	Passwort
+xosd/packages/Config_0/ConfigNwSet.xml	s138	Primary DNS	Primärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s139	Secondary DNS	Sekundärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s144	Settings list	Einstellungsliste
+xosd/packages/Config_0/ConfigNwSet.xml	s145	IP address	IP-Adresse
+xosd/packages/Config_0/ConfigNwSet.xml	s146	Net mask	Netzmaske
+xosd/packages/Config_0/ConfigNwSet.xml	s147	Default router	Standard-Router
+xosd/packages/Config_0/ConfigNwSet.xml	s148	Primary DNS	Primärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s149	Secondary DNS	Sekundärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s150	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s151	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s152	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s155	Settings list	Einstellungsliste
+xosd/packages/Config_0/ConfigNwSet.xml	s156	IP address	IP-Adresse
+xosd/packages/Config_0/ConfigNwSet.xml	s157	Net mask	Netzmaske
+xosd/packages/Config_0/ConfigNwSet.xml	s158	Default router	Standard-Router
+xosd/packages/Config_0/ConfigNwSet.xml	s159	Primary DNS	Primärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s160	Secondary DNS	Sekundärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s164	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s165	Auto	Automatisch
+xosd/packages/Config_0/ConfigNwSet.xml	s167	Select with	Wählen mit
+xosd/packages/Config_0/ConfigNwSet.xml	s168	press.	drücken.
+xosd/packages/Config_0/ConfigNwSet.xml	s169	To continue,	Weiter mit
+xosd/packages/Config_0/ConfigNwSet.xml	s170	Right: next screen	Rechts: weiter
+xosd/packages/Config_0/ConfigNwSet.xml	s171	Primary DNS	Primärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s172	Secondary DNS	Sekundärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s187	Save the settings to the hard disk	Einstellungen auf der Festplatte speichern
+xosd/packages/Config_0/ConfigNwSet.xml	s188	and check the Internet connection.	und Internetverbindung prüfen.
+xosd/packages/Config_0/ConfigNwSet.xml	s189	Press to start the connection test.	Drücken für den Verbindungstest.
+xosd/packages/Config_0/ConfigNwSet.xml	s190	Save the settings to the hard disk	Einstellungen auf der Festplatte speichern
+xosd/packages/Config_0/ConfigNwSet.xml	s191	and check the Internet connection.	und Internetverbindung prüfen.
+xosd/packages/Config_0/ConfigNwSet.xml	s192	Press to start the connection test.	Drücken für den Verbindungstest.
+xosd/packages/Config_0/ConfigNwSet.xml	s193	Save the settings to the hard disk	Einstellungen auf der Festplatte speichern
+xosd/packages/Config_0/ConfigNwSet.xml	s194	and check the Internet connection.	und Internetverbindung prüfen.
+xosd/packages/Config_0/ConfigNwSet.xml	s195	Press to start the connection test.	Drücken für den Verbindungstest.
+xosd/packages/Config_0/ConfigNwSet.xml	s196	Settings list	Einstellungsliste
+xosd/packages/Config_0/ConfigNwSet.xml	s197	IP address	IP-Adresse
+xosd/packages/Config_0/ConfigNwSet.xml	s198	Net mask	Netzmaske
+xosd/packages/Config_0/ConfigNwSet.xml	s199	Default router	Standard-Router
+xosd/packages/Config_0/ConfigNwSet.xml	s200	Primary DNS	Primärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s201	Secondary DNS	Sekundärer DNS
+xosd/packages/Config_0/ConfigNwSet.xml	s207	Save the settings to the hard disk	Einstellungen auf der Festplatte speichern
+xosd/packages/Config_0/ConfigNwSet.xml	s208	and check the Internet connection.	und Internetverbindung prüfen.
+xosd/packages/Config_0/ConfigNwSet.xml	s209	Press to start the connection test.	Drücken für den Verbindungstest.
+xosd/packages/Config_0/ConfigNwSet.xml	s210	and check the Internet connection.	und Internetverbindung prüfen.
+xosd/packages/Config_0/ConfigNwSet.xml	s211	Cancel the network setup?	Netzwerkeinrichtung abbrechen?
+xosd/packages/Config_0/ConfigNwSet.xml	s212	If you cancel, your changes will not be saved.	Beim Abbrechen werden die Änderungen nicht gespeichert.
+xosd/packages/Config_0/ConfigNwSet.xml	s213	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigNwSet.xml	s214	Continue	Fortsetzen
+xosd/packages/Config_0/ConfigNwSet.xml	s215	Network connection cancelled.	Netzwerkverbindung abgebrochen.
+xosd/packages/Config_0/ConfigNwSet.xml	s216	Failed to save the settings.	Einstellungen konnten nicht gespeichert werden.
+xosd/packages/Config_0/ConfigNwSet.xml	s218	Failed to connect to the network.	Verbindung zum Netzwerk fehlgeschlagen.
+xosd/packages/Config_0/ConfigNwSet.xml	s219	DNAS authentication error	DNAS-Authentifizierungsfehler
+xosd/packages/Config_0/ConfigNwSet.xml	s221	Cannot read the network settings.	Netzwerkeinstellungen nicht lesbar.
+xosd/packages/Config_0/ConfigNwSet.xml	s223	10 minutes left until a timer recording starts.	Noch 10 Minuten bis zu einer Timer-Aufnahme.
+xosd/packages/Config_0/ConfigNwSet.xml	s224	This will close automatically when the recording starts.	Wird bei Aufnahmebeginn automatisch beendet.
+xosd/packages/Config_0/ConfigNwSet.xml	s225	Are you sure you want to cancel?	Wirklich abbrechen?
+xosd/packages/Config_0/ConfigNwSet.xml	s226	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigNwSet.xml	s227	Continue	Fortsetzen
+xosd/packages/Config_0/ConfigNwSet.xml	s228	DNAS authentication.	DNAS-Authentifizierung.
+xosd/packages/Config_0/ConfigNwSet.xml	s229	Please wait.	Bitte warten.
+xosd/packages/Config_0/ConfigNwSet.xml	s231	The DNAS server cannot accept requests	Der DNAS-Server kann derzeit
+xosd/packages/Config_0/ConfigNwSet.xml	s232	at the moment.	keine Anfragen annehmen.
+xosd/packages/Config_0/ConfigNwSet.xml	s233	Please wait a while and reconnect.	Bitte später erneut verbinden.
+xosd/packages/Config_0/ConfigNwSet.xml	s234	The DNAS authentication period for this title has not started yet.	Der DNAS-Zeitraum für diesen Titel hat noch nicht begonnen.
+xosd/packages/Config_0/ConfigNwSet.xml	s235	The DNAS authentication period for this title has ended.	Der DNAS-Zeitraum für diesen Titel ist abgelaufen.
+xosd/packages/Config_0/ConfigNwSet.xml	s236	All DNAS services have ended.	Alle DNAS-Dienste wurden eingestellt.
+xosd/packages/Config_0/ConfigNwSet.xml	s237	DNAS: connection to the server timed out.	DNAS: Zeitüberschreitung beim Server.
+xosd/packages/Config_0/ConfigNwSet.xml	s238	Please wait a while and reconnect.	Bitte später erneut verbinden.
+xosd/packages/Config_0/ConfigNwSet.xml	s239	Server is not working	Server funktioniert nicht
+xosd/packages/Config_0/ConfigNwSet.xml	s240	Please wait a while and reconnect.	Bitte später erneut verbinden.
+xosd/packages/Config_0/ConfigNwSet.xml	s241	DNAS error.	DNAS-Fehler.
+xosd/packages/Config_0/ConfigNwSet.xml	s242	DNAS server error.	DNAS-Serverfehler.
+xosd/packages/Config_0/ConfigNwSet.xml	s243	Unique ID error.	Fehler der eindeutigen ID.
+xosd/packages/Config_0/ConfigNwSet.xml	s244	Download error.	Download-Fehler.
+xosd/packages/Config_0/ConfigNwSet.xml	s245	Device information error.	Fehler der Geräteinformationen.
+xosd/packages/Config_0/ConfigNwSet.xml	s246	DNAS error.	DNAS-Fehler.
+xosd/packages/Config_0/ConfigNwSet.xml	s247	Network connection cancelled	Netzwerkverbindung abgebrochen
+xosd/packages/Config_0/ConfigNwSet.xml	s248	Proxy settings error.	Fehler in den Proxy-Einstellungen.
+xosd/packages/Config_0/ConfigNwSet.xml	s249	Communication timed out.	Zeitüberschreitung bei der Kommunikation.
+xosd/packages/Config_0/ConfigNwSet.xml	s250	Please wait a while and reconnect.	Bitte später erneut verbinden.
+xosd/packages/Config_0/ConfigNwSet.xml	s251	DNS server not found.	DNS-Server nicht gefunden.
+xosd/packages/Config_0/ConfigNwSet.xml	s252	Please check your network settings.	Bitte Netzwerkeinstellungen prüfen.
+xosd/packages/Config_0/ConfigNwSet.xml	s253	Error DNS server.	DNS-Serverfehler.
+xosd/packages/Config_0/ConfigNwSet.xml	s254	Please check your network settings.	Bitte Netzwerkeinstellungen prüfen.
+xosd/packages/Config_0/ConfigNwSet.xml	s255	DNS error.	DNS-Fehler.
+xosd/packages/Config_0/ConfigNwSet.xml	s256	Please check your network settings.	Bitte Netzwerkeinstellungen prüfen.
+xosd/packages/Config_0/ConfigNwSet.xml	s257	DNAS: failed to connect to the server.	DNAS: Verbindung zum Server fehlgeschlagen.
+xosd/packages/Config_0/ConfigNwSet.xml	s258	Communication error.	Kommunikationsfehler.
+xosd/packages/Config_0/ConfigNwSet.xml	s263	Connection complete.	Verbindung hergestellt.
+xosd/packages/Config_0/ConfigNwSet.xml	s264	Abort connection.	Verbindung abbrechen.
+xosd/packages/Config_0/ConfigNwSet.xml	s265	Failed to connect.	Verbindung fehlgeschlagen.
+xosd/packages/Config_0/ConfigNwSet.xml	s267	Network settings	Netzwerkeinstellungen
+xosd/packages/Config_0/ConfigNwSet.xml	s268	Back	Zurück
+xosd/packages/Config_0/ConfigNwSet.xml	s269	Change	Ändern
+xosd/packages/Config_0/ConfigPhoto.xml	s5	Fast	Schnell
+xosd/packages/Config_0/ConfigPhoto.xml	s7	Slow	Langsam
+xosd/packages/Config_0/ConfigSystem.xml	s15	MAC address	MAC-Adresse
+xosd/packages/Config_0/ConfigSystem.xml	s17	IP address	IP-Adresse
+xosd/packages/Config_0/ConfigSystem.xml	s22	TV type	TV-Typ
+xosd/packages/Config_0/ConfigSystem.xml	s24	Edge enhancement	Kantenschärfung
+xosd/packages/Config_0/ConfigSystem.xml	s25	Pause mode	Pausenmodus
+xosd/packages/Config_0/ConfigSystem.xml	s26	Optical out	Optischer Ausgang
+xosd/packages/Config_0/ConfigSystem.xml	s27	Restore factory settings	Werkseinstellungen
+xosd/packages/Config_0/ConfigSystem.xml	s28	HDD setting	HDD-Einstellung
+xosd/packages/Config_0/ConfigSystem.xml	s29	System Information	Systeminformationen
+xosd/packages/Config_0/ConfigSystem.xml	s30	For PSX	Für PSX
+xosd/packages/Config_0/ConfigSystem.xml	s33	4:3 Pan Scan	4:3 Pan and Scan
+xosd/packages/Config_0/ConfigSystem.xml	s37	Off	Aus
+xosd/packages/Config_0/ConfigSystem.xml	s49	Automatic	Automatisch
+xosd/packages/Config_0/ConfigSystem.xml	s50	Frame	Bild
+xosd/packages/Config_0/ConfigSystem.xml	s53	On	Ein
+xosd/packages/Config_0/ConfigSystem.xml	s54	Off	Aus
+xosd/packages/Config_0/ConfigSystem.xml	s57	Time setting	Zeiteinstellung
+xosd/packages/Config_0/ConfigSystem.xml	s58	On the hour	Zur vollen Stunde
+xosd/packages/Config_0/ConfigSystem.xml	s59	Channel setting	Kanaleinstellung
+xosd/packages/Config_0/ConfigSystem.xml	s60	On	Ein
+xosd/packages/Config_0/ConfigSystem.xml	s61	Off	Aus
+xosd/packages/Config_0/ConfigSystem.xml	s64	Japanese input	Japanische Eingabe
+xosd/packages/Config_0/ConfigSystem.xml	s65	Key bindings	Tastenbelegung
+xosd/packages/Config_0/ConfigSystem.xml	s66	Roman character input	Lateinische Zeicheneingabe
+xosd/packages/Config_0/ConfigSystem.xml	s67	Kana input	Kana-Eingabe
+xosd/packages/Config_0/ConfigSystem.xml	s70	Setting 1	Einstellung 1
+xosd/packages/Config_0/ConfigSystem.xml	s71	Setting 2	Einstellung 2
+xosd/packages/Config_0/ConfigSystem.xml	s74	Remote control mode	Fernbedienungsmodus
+xosd/packages/Config_0/ConfigSystem.xml	s75	Game play function	Spielfunktion
+xosd/packages/Config_0/ConfigSystem.xml	s82	On	Ein
+xosd/packages/Config_0/ConfigSystem.xml	s83	Off	Aus
+xosd/packages/Config_0/ConfigSystem.xml	s86	Type	Typ
+xosd/packages/Config_0/ConfigSystem.xml	s87	Repeat delay	Wiederholverzögerung
+xosd/packages/Config_0/ConfigSystem.xml	s88	Repeat rate	Wiederholrate
+xosd/packages/Config_0/ConfigSystem.xml	s89	Japanese keyboard	Japanische Tastatur
+xosd/packages/Config_0/ConfigSystem.xml	s90	English keyboard	Englische Tastatur
+xosd/packages/Config_0/ConfigSystem.xml	s93	Short	Kurz
+xosd/packages/Config_0/ConfigSystem.xml	s95	Long	Lang
+xosd/packages/Config_0/ConfigSystem.xml	s99	Slow	Langsam
+xosd/packages/Config_0/ConfigSystem.xml	s101	Fast	Schnell
+xosd/packages/Config_0/ConfigSystem.xml	s105	Settings / System information	Einstellungen / Systeminformationen
+xosd/packages/Config_0/ConfigSystem.xml	s107	Back	Zurück
+xosd/packages/Config_0/ConfigTVChannel.xml	s1	No	Nein
+xosd/packages/Config_0/ConfigTVChannel.xml	s2	Yes	Ja
+xosd/packages/Config_0/ConfigTVChannel.xml	s3	Off	Aus
+xosd/packages/Config_0/ConfigTVChannel.xml	s4	On	Ein
+xosd/packages/Config_0/ConfigTVChannel.xml	s5	No	Nein
+xosd/packages/Config_0/ConfigTVChannel.xml	s6	Yes	Ja
+xosd/packages/Config_0/ConfigTVChannel.xml	s7	Select	Auswählen
+xosd/packages/Config_0/ConfigTVChannel.xml	s8	Channel	Sender
+xosd/packages/Config_0/ConfigTVChannel.xml	s9	Guide	Programmführer
+xosd/packages/Config_0/ConfigTVChannel.xml	s10	Channel	Sender
+xosd/packages/Config_0/ConfigTVChannel.xml	s11	Channel	Sender
+xosd/packages/Config_0/ConfigTVChannel.xml	s12	Skip	Überspringen
+xosd/packages/Config_0/ConfigTVChannel.xml	s14	Automatic	Automatisch
+xosd/packages/Config_0/ConfigTVChannel.xml	s15	Tuning	Sendersuche
+xosd/packages/Config_0/ConfigTVChannel.xml	s118	Save these settings?	Diese Einstellungen speichern?
+xosd/packages/Config_0/ConfigTVChannel.xml	s119	If you do not save, you return to the previous screen.	Ohne Speichern kehren Sie zum vorherigen Bildschirm zurück.
+xosd/packages/Config_0/ConfigTVChannel.xml	s120	Save	Speichern
+xosd/packages/Config_0/ConfigTVChannel.xml	s121	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigTVChannel.xml	s122	Saving the channel settings.	Kanaleinstellungen werden gespeichert.
+xosd/packages/Config_0/ConfigTVChannel.xml	s123	Please wait.	Bitte warten.
+xosd/packages/Config_0/ConfigTVChannel.xml	s124	10 minutes left until a timer recording starts.	Noch 10 Minuten bis zu einer Timer-Aufnahme.
+xosd/packages/Config_0/ConfigTVChannel.xml	s125	The menu will close when the timer recording starts.	Das Menü wird bei Beginn der Timer-Aufnahme geschlossen.
+xosd/packages/Config_0/ConfigTVChannel.xml	s126	Cancel the manual channel setting?	Manuelle Kanaleinstellung abbrechen?
+xosd/packages/Config_0/ConfigTVChannel.xml	s127	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigTVChannel.xml	s128	Continue	Fortsetzen
+xosd/packages/Config_0/ConfigTVChannel.xml	s129	Settings / TV / Manual channel setting	Einstellungen / TV / Manuelle Kanaleinstellung
+xosd/packages/Config_0/ConfigTVChannel.xml	s130	Back	Zurück
+xosd/packages/Config_0/ConfigTVChannel.xml	s131	Change	Ändern
+xosd/packages/Config_0/ConfigTVChannel.xml	s132	Accept	Übernehmen
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s2	Automatic channel setup.	Automatische Sendereinrichtung.
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s3	Do not turn off the PSX during setup.	PSX während der Einrichtung nicht ausschalten.
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s4	Start Auto Tune?	Sendersuchlauf starten?
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s5	Run	Ausführen
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s6	Back	Zurück
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s7	10 minutes left until a timer recording starts.	Noch 10 Minuten bis zu einer Timer-Aufnahme.
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s8	Start Auto Tune?	Sendersuchlauf starten?
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s9	Run	Ausführen
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s10	Back	Zurück
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s11	Settings / TV / Auto Tune	Einstellungen / TV / Sendersuchlauf
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s12	Easy Setup / Auto Tune	Einrichtung / Sendersuchlauf
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s13	Back	Zurück
+xosd/packages/Config_0/ConfigTVChannelAuto.xml	s14	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigTVChannelFineTune.xml	s2	Settings / TV / Manual channel setting / Fine tuning	Einstellungen / TV / Manuelle Kanaleinstellung / Feinabstimmung
+xosd/packages/Config_0/ConfigTVChannelFineTune.xml	s3	Back	Zurück
+xosd/packages/Config_0/ConfigTVChannelFineTune.xml	s4	Change	Ändern
+xosd/packages/Config_0/ConfigTv.xml	s32	Manual channel setting	Manuelle Sendereinstellung
+xosd/packages/Config_0/ConfigTv.xml	s33	Auto Tune	Sendersuchlauf
+xosd/packages/Config_0/ConfigTv.xml	s34	Mute	Stumm
+xosd/packages/Config_0/ConfigTv.xml	s35	Auto stereo reception	Automatischer Stereoempfang
+xosd/packages/Config_0/ConfigTv.xml	s36	Skip BS channel	BS-Sender überspringen
+xosd/packages/Config_0/ConfigTv.xml	s37	BS antenna level	BS-Antennenpegel
+xosd/packages/Config_0/ConfigTv.xml	s38	BS antenna power	BS-Antennenstrom
+xosd/packages/Config_0/ConfigTv.xml	s39	Area code setting	Vorwahl-Einstellung
+xosd/packages/Config_0/ConfigTv.xml	s40	Program guide channel	Programmführer-Kanal
+xosd/packages/Config_0/ConfigTv.xml	s41	Program guide time	Programmführer-Zeit
+xosd/packages/Config_0/ConfigTv.xml	s42	No	Nein
+xosd/packages/Config_0/ConfigTv.xml	s43	Yes	Ja
+xosd/packages/Config_0/ConfigTv.xml	s46	On	Ein
+xosd/packages/Config_0/ConfigTv.xml	s47	Off	Aus
+xosd/packages/Config_0/ConfigTv.xml	s50	On	Ein
+xosd/packages/Config_0/ConfigTv.xml	s51	Off	Aus
+xosd/packages/Config_0/ConfigUpdate.xml	s1	Network update will now start.	Die Netzwerk-Aktualisierung wird gestartet.
+xosd/packages/Config_0/ConfigUpdate.xml	s2	Press to start the download.	Drücken, um den Download zu starten.
+xosd/packages/Config_0/ConfigUpdate.xml	s3	The latest software has been downloaded.	Die neueste Software wurde heruntergeladen.
+xosd/packages/Config_0/ConfigUpdate.xml	s4	Until the download is finished, do not turn off the unit	Bis zum Ende des Downloads das Gerät nicht ausschalten
+xosd/packages/Config_0/ConfigUpdate.xml	s5	or disconnect the network.	und das Netzwerk nicht trennen.
+xosd/packages/Config_0/ConfigUpdate.xml	s6	Download status	Download-Status
+xosd/packages/Config_0/ConfigUpdate.xml	s8	License agreement	Lizenzvereinbarung
+xosd/packages/Config_0/ConfigUpdate.xml	s9	Please read the license agreement,	Bitte die Lizenzvereinbarung lesen
+xosd/packages/Config_0/ConfigUpdate.xml	s10	then press to go to the next screen.	und zum nächsten Bildschirm drücken.
+xosd/packages/Config_0/ConfigUpdate.xml	s12	Do you accept the license agreement?	Akzeptieren Sie die Lizenzvereinbarung?
+xosd/packages/Config_0/ConfigUpdate.xml	s13	Select	Wählen Sie
+xosd/packages/Config_0/ConfigUpdate.xml	s14	with and press	mit und drücken
+xosd/packages/Config_0/ConfigUpdate.xml	s15	press.	drücken.
+xosd/packages/Config_0/ConfigUpdate.xml	s16	Disagree	Ablehnen
+xosd/packages/Config_0/ConfigUpdate.xml	s17	Agree	Zustimmen
+xosd/packages/Config_0/ConfigUpdate.xml	s18	Installation will now start.	Die Installation wird gestartet.
+xosd/packages/Config_0/ConfigUpdate.xml	s19	The screen may stay blank for a while during installation.	Während der Installation bleibt der Bildschirm eine Weile leer.
+xosd/packages/Config_0/ConfigUpdate.xml	s20	Do not turn off this unit or disconnect it from the network.	Gerät nicht ausschalten und nicht vom Netzwerk trennen.
+xosd/packages/Config_0/ConfigUpdate.xml	s22	Press the button to start the installation.	Taste drücken, um die Installation zu starten.
+xosd/packages/Config_0/ConfigUpdate.xml	s23	If you do not accept the license agreement,	Ohne Zustimmung zur Lizenzvereinbarung
+xosd/packages/Config_0/ConfigUpdate.xml	s24	the software cannot be updated.	kann die Software nicht aktualisiert werden.
+xosd/packages/Config_0/ConfigUpdate.xml	s25	Network update finished.	Netzwerk-Aktualisierung beendet.
+xosd/packages/Config_0/ConfigUpdate.xml	s26	Updating.	Aktualisierung läuft.
+xosd/packages/Config_0/ConfigUpdate.xml	s27	Do not turn off the PSX or disconnect the network.	PSX nicht ausschalten und Netzwerk nicht trennen.
+xosd/packages/Config_0/ConfigUpdate.xml	s28	Software update complete.	Software-Aktualisierung abgeschlossen.
+xosd/packages/Config_0/ConfigUpdate.xml	s41	Checking for the latest software.	Suche nach neuester Software.
+xosd/packages/Config_0/ConfigUpdate.xml	s42	Please wait.	Bitte warten.
+xosd/packages/Config_0/ConfigUpdate.xml	s43	DNAS authentication.	DNAS-Authentifizierung.
+xosd/packages/Config_0/ConfigUpdate.xml	s44	Please wait.	Bitte warten.
+xosd/packages/Config_0/ConfigUpdate.xml	s45	Updated to the latest software.	Auf die neueste Software aktualisiert.
+xosd/packages/Config_0/ConfigUpdate.xml	s46	The software update will finish.	Die Software-Aktualisierung wird beendet.
+xosd/packages/Config_0/ConfigUpdate.xml	s47	Please check your network settings.	Bitte Netzwerkeinstellungen prüfen.
+xosd/packages/Config_0/ConfigUpdate.xml	s48	DNAS authentication error.	DNAS-Authentifizierungsfehler.
+xosd/packages/Config_0/ConfigUpdate.xml	s49	The update server is currently busy	Der Update-Server ist derzeit ausgelastet
+xosd/packages/Config_0/ConfigUpdate.xml	s50	or unavailable for maintenance.	oder wegen Wartung nicht verfügbar.
+xosd/packages/Config_0/ConfigUpdate.xml	s51	Failed to connect to the server.	Verbindung zum Server fehlgeschlagen.
+xosd/packages/Config_0/ConfigUpdate.xml	s52	Download failed.	Download fehlgeschlagen.
+xosd/packages/Config_0/ConfigUpdate.xml	s53	Update failed.	Aktualisierung fehlgeschlagen.
+xosd/packages/Config_0/ConfigUpdate.xml	s54	The DNAS server cannot accept requests	Der DNAS-Server kann derzeit
+xosd/packages/Config_0/ConfigUpdate.xml	s55	at the moment.	keine Anfragen annehmen.
+xosd/packages/Config_0/ConfigUpdate.xml	s56	Please wait a while and reconnect.	Bitte später erneut verbinden.
+xosd/packages/Config_0/ConfigUpdate.xml	s57	The DNAS authentication period for this title has not started yet.	Der DNAS-Zeitraum für diesen Titel hat noch nicht begonnen.
+xosd/packages/Config_0/ConfigUpdate.xml	s58	The DNAS authentication period for this title has ended.	Der DNAS-Zeitraum für diesen Titel ist abgelaufen.
+xosd/packages/Config_0/ConfigUpdate.xml	s59	All DNAS services have ended.	Alle DNAS-Dienste wurden eingestellt.
+xosd/packages/Config_0/ConfigUpdate.xml	s60	DNAS: connection to the server timed out	DNAS: Zeitüberschreitung beim Server
+xosd/packages/Config_0/ConfigUpdate.xml	s61	Please wait a while and reconnect.	Bitte später erneut verbinden.
+xosd/packages/Config_0/ConfigUpdate.xml	s62	The server is not working properly.	Der Server funktioniert nicht richtig.
+xosd/packages/Config_0/ConfigUpdate.xml	s63	Please wait a while and reconnect.	Bitte später erneut verbinden.
+xosd/packages/Config_0/ConfigUpdate.xml	s64	DNAS: an error has occurred.	DNAS: Ein Fehler ist aufgetreten.
+xosd/packages/Config_0/ConfigUpdate.xml	s65	DNAS server error.	DNAS-Serverfehler.
+xosd/packages/Config_0/ConfigUpdate.xml	s66	Unique ID error.	Fehler der eindeutigen ID.
+xosd/packages/Config_0/ConfigUpdate.xml	s67	Download error.	Download-Fehler.
+xosd/packages/Config_0/ConfigUpdate.xml	s68	Device information error.	Fehler der Geräteinformationen.
+xosd/packages/Config_0/ConfigUpdate.xml	s69	DNAS: an error has occurred.	DNAS: Ein Fehler ist aufgetreten.
+xosd/packages/Config_0/ConfigUpdate.xml	s70	Network connection cancelled.	Netzwerkverbindung abgebrochen.
+xosd/packages/Config_0/ConfigUpdate.xml	s71	There is an error in the proxy settings.	Fehler in den Proxy-Einstellungen.
+xosd/packages/Config_0/ConfigUpdate.xml	s72	Communication timed out.	Zeitüberschreitung bei der Kommunikation.
+xosd/packages/Config_0/ConfigUpdate.xml	s73	Please wait a while and reconnect.	Bitte später erneut verbinden.
+xosd/packages/Config_0/ConfigUpdate.xml	s74	DNS server not found.	DNS-Server nicht gefunden.
+xosd/packages/Config_0/ConfigUpdate.xml	s75	Please check your network settings.	Bitte Netzwerkeinstellungen prüfen.
+xosd/packages/Config_0/ConfigUpdate.xml	s76	Invalid response from the DNS server.	Ungültige Antwort vom DNS-Server.
+xosd/packages/Config_0/ConfigUpdate.xml	s77	Please check your network settings.	Bitte Netzwerkeinstellungen prüfen.
+xosd/packages/Config_0/ConfigUpdate.xml	s78	DNS error.	DNS-Fehler.
+xosd/packages/Config_0/ConfigUpdate.xml	s79	Please check your network settings.	Bitte Netzwerkeinstellungen prüfen.
+xosd/packages/Config_0/ConfigUpdate.xml	s80	DNAS: failed to connect to the server.	DNAS: Verbindung zum Server fehlgeschlagen.
+xosd/packages/Config_0/ConfigUpdate.xml	s81	Communication error.	Kommunikationsfehler.
+xosd/packages/Config_0/ConfigUpdate.xml	s82	Cannot read the network settings.	Netzwerkeinstellungen nicht lesbar.
+xosd/packages/Config_0/ConfigUpdate.xml	s83	The scheduled recording start time has passed.	Die Startzeit der Timer-Aufnahme ist überschritten.
+xosd/packages/Config_0/ConfigUpdate.xml	s84	The network update will be stopped.	Die Netzwerk-Aktualisierung wird abgebrochen.
+xosd/packages/Config_0/ConfigUpdate.xml	s86	Cancel the network update?	Netzwerk-Aktualisierung abbrechen?
+xosd/packages/Config_0/ConfigUpdate.xml	s87	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigUpdate.xml	s88	Continue	Fortsetzen
+xosd/packages/Config_0/ConfigUpdate.xml	s89	Less than one hour until a timer recording starts.	Weniger als eine Stunde bis zu einer Timer-Aufnahme.
+xosd/packages/Config_0/ConfigUpdate.xml	s90	This will close automatically when the timer recording starts.	Wird bei Beginn der Timer-Aufnahme automatisch beendet.
+xosd/packages/Config_0/ConfigUpdate.xml	s91	Are you sure you want to cancel?	Wirklich abbrechen?
+xosd/packages/Config_0/ConfigUpdate.xml	s92	Cancel	Abbrechen
+xosd/packages/Config_0/ConfigUpdate.xml	s93	Continue	Fortsetzen
+xosd/packages/Config_0/ConfigUpdate.xml	s94	The latest software is already	Die neueste Software ist bereits
+xosd/packages/Config_0/ConfigUpdate.xml	s95	installed.	installiert.
+xosd/packages/Config_0/ConfigUpdate.xml	s96	No update is needed.	Keine Aktualisierung nötig.
+xosd/packages/Config_0/ConfigUpdate.xml	s97	Connected successfully.	Verbindung erfolgreich.
+xosd/packages/Config_0/ConfigUpdate.xml	s98	Connection cancelled.	Verbindung abgebrochen.
+xosd/packages/Config_0/ConfigUpdate.xml	s99	Failed to connect.	Verbindung fehlgeschlagen.
+xosd/packages/Config_0/ConfigUpdate.xml	s100	Network Update	Netzwerk-Update
+xosd/packages/Config_0/ConfigUpdate.xml	s101	Back	Zurück
+xosd/packages/Config_0/ConfigUpdate.xml	s102	Change	Ändern
+xosd/packages/Config_0/ConfigVideo.xml	s2	     Quality 1	     Qualität 1
+xosd/packages/Config_0/ConfigVideo.xml	s3	     Quality 2	     Qualität 2
+xosd/packages/Config_0/ConfigVideo.xml	s4	     Quality 3	     Qualität 3
+xosd/packages/Config_0/ConfigVideo.xml	s5	     Quality 4	     Qualität 4
+xosd/packages/Config_0/ConfigVideo.xml	s6	     Quality 5	     Qualität 5
+xosd/packages/Config_0/ConfigVideo.xml	s7	     Quality 6	     Qualität 6
+xosd/packages/Config_0/ConfigVideo.xml	s8	Video mode	Video-Modus
+xosd/packages/Config_0/ConfigVideo.xml	s9	VR mode	VR-Modus
+xosd/packages/Config_0/ConfigVideo.xml	s10	Create	Erstellen
+xosd/packages/Config_0/ConfigVideo.xml	s11	Do not create	Nicht erstellen
+xosd/packages/Config_0/ConfigVideo.xml	s15	Bilingual	Zweikanalton
+xosd/packages/Config_0/ConfigVideo.xml	s16	Main audio	Hauptton
+xosd/packages/Config_0/ConfigVideo.xml	s17	Secondary audio	Nebenton
+xosd/packages/Config_0/ConfigVideo.xml	s18	Main+Sub	Haupt+Neben
+xosd/packages/Config_0/ConfigVideo.xml	s19	Main audio	Hauptton
+xosd/packages/Config_0/ConfigVideo.xml	s20	Secondary audio	Nebenton
+xosd/packages/Config_0/ConfigVideo.xml	s24	Off	Aus
+xosd/packages/Config_0/ConfigVideo.xml	s25	Search	Suche
+xosd/packages/Config_0/ConfigVideo.xml	s27	On	Ein
+xosd/packages/Config_0/ConfigVideo.xml	s28	Off	Aus
+xosd/packages/Config_0/ConfigVideo.xml	s29	On	Ein
+xosd/packages/Config_0/ConfigVideo.xml	s30	Off	Aus
+xosd/packages/Config_0/ConfigVideo.xml	s31	On	Ein
+xosd/packages/Config_0/ConfigVideo.xml	s32	Off	Aus
+xosd/packages/Config_0/ConfigVideo.xml	s33	On	Ein
+xosd/packages/Config_0/ConfigVideo.xml	s34	Off	Aus
+xosd/packages/Config_0/ConfigVideo.xml	s35	America	Amerika
+xosd/packages/Config_0/ConfigVideo.xml	s36	Other	Sonstige
+xosd/packages/Config_0/ConfigVideo.xml	s37	Please enter your 4-digit PIN.	Bitte 4-stellige PIN eingeben.
+xosd/packages/Config_0/ConfigVideo.xml	s38	The PIN is incorrect.	Die PIN ist falsch.
+xosd/packages/Config_0/ConfigVideo.xml	s66	Yes	Ja
+xosd/packages/Config_0/ConfigVideo.xml	s67	Yes	Ja
+xosd/packages/Config_0/ConfigVideo.xml	s68	No	Nein
+xosd/packages/Config_0/ConfigVideo.xml	s69	No	Nein
+xosd/packages/Config_0/ConfigVideo.xml	s72	Back	Zurück
+xosd/packages/Config_0/ConfigVideo.xml	s73	Decision	Entscheidung
+xosd/packages/epg_0/epg.xml	s1	Uninitialized	Nicht initialisiert
+xosd/packages/epg_0/epg.xml	s2	Back	Zurück
+xosd/packages/epg_0/epg.xml	s3	Select	Auswählen
+xosd/packages/epg_0/epg.xml	s11	There is no such data	Keine Daten vorhanden
+xosd/packages/epg_0/epg.xml	s12	--:--xM - --:--xM Station name	--:--xM - --:--xM Sendername
+xosd/packages/epg_0/epg.xml	s13	Detail View	Detailansicht
+xosd/packages/epg_0/epg.xml	s14	Classification	Klassifizierung
+xosd/packages/epg_0/epg.xml	s15	..:..xM - ..:..xM Station name	..:..xM - ..:..xM Sendername
+xosd/packages/epg_0/epg.xml	s16	First detail display area.	Erster Detailbereich.
+xosd/packages/epg_0/epg.xml	s17	Detail display area.	Detailbereich.
+xosd/packages/epg_0/epg.xml	s21	Yes	Ja
+xosd/packages/epg_0/epg.xml	s22	No	Nein
+xosd/packages/IconEditor_0/IconEditor.xml	s1	Yes	Ja
+xosd/packages/IconEditor_0/IconEditor.xml	s2	No	Nein
+xosd/packages/IconEditor_0/IconEditor.xml	s3	Back	Zurück
+xosd/packages/IconEditor_0/IconEditor.xml	s4	Select the destination	Ziel auswählen
+xosd/packages/IconEditor_0/IconEditor.xml	s7	Copying the saved data.	Gespeicherte Daten werden kopiert.
+xosd/packages/IconEditor_0/IconEditor.xml	s8	Do not turn off the power during copying.	Während des Kopierens nicht ausschalten.
+xosd/packages/IconEditor_0/IconEditor.xml	s9	Do not remove the memory card.	Speicherkarte nicht entfernen.
+xosd/packages/IconEditor_0/IconEditor.xml	s10	Copying complete.	Kopieren abgeschlossen.
+xosd/packages/IconEditor_0/IconEditor.xml	s11	Could not copy.	Kopieren nicht möglich.
+xosd/packages/IconEditor_0/IconEditor.xml	s12	Copy saved game	Spielstand kopieren
+xosd/packages/IconEditor_0/IconEditor.xml	s13	Overwrite?	Überschreiben?
+xosd/packages/IconEditor_0/IconEditor.xml	s14	Cannot copy to this media.	Auf dieses Medium kann nicht kopiert werden.
+xosd/packages/IconEditor_0/IconEditor.xml	s15	Not enough free space to copy.	Nicht genug Speicherplatz zum Kopieren.
+xosd/packages/IconEditor_0/IconEditor.xml	s16	No destination.	Kein Ziel.
+xosd/packages/IconEditor_0/IconEditor.xml	s17	This data cannot be copied.	Diese Daten können nicht kopiert werden.
+xosd/packages/IconEditor_0/IconEditor.xml	s18	Move	Verschieben
+xosd/packages/IconEditor_0/IconEditor.xml	s21	Moving the saved data.	Gespeicherte Daten werden verschoben.
+xosd/packages/IconEditor_0/IconEditor.xml	s22	Do not turn off the power while moving.	Während des Verschiebens nicht ausschalten.
+xosd/packages/IconEditor_0/IconEditor.xml	s23	Do not remove the memory card.	Speicherkarte nicht entfernen.
+xosd/packages/IconEditor_0/IconEditor.xml	s24	Move complete.	Verschieben abgeschlossen.
+xosd/packages/IconEditor_0/IconEditor.xml	s25	Could not move.	Verschieben nicht möglich.
+xosd/packages/IconEditor_0/IconEditor.xml	s26	Move saved game	Spielstand verschieben
+xosd/packages/IconEditor_0/IconEditor.xml	s27	Overwrite?	Überschreiben?
+xosd/packages/IconEditor_0/IconEditor.xml	s28	Move?	Verschieben?
+xosd/packages/IconEditor_0/IconEditor.xml	s29	Cannot move to this media.	Auf dieses Medium kann nicht verschoben werden.
+xosd/packages/IconEditor_0/IconEditor.xml	s30	Not enough free space.	Nicht genug Speicherplatz.
+xosd/packages/IconEditor_0/IconEditor.xml	s31	There is no destination.	Kein Ziel vorhanden.
+xosd/packages/IconEditor_0/IconEditor.xml	s32	This data cannot be moved.	Diese Daten können nicht verschoben werden.
+xosd/packages/IconEditor_0/IconEditor.xml	s33	Deleting the saved data.	Gespeicherte Daten werden gelöscht.
+xosd/packages/IconEditor_0/IconEditor.xml	s34	Do not turn off the power while deleting.	Während des Löschens nicht ausschalten.
+xosd/packages/IconEditor_0/IconEditor.xml	s35	Do not remove the memory card.	Speicherkarte nicht entfernen.
+xosd/packages/IconEditor_0/IconEditor.xml	s36	Deleted.	Gelöscht.
+xosd/packages/IconEditor_0/IconEditor.xml	s37	Could not delete.	Löschen nicht möglich.
+xosd/packages/IconEditor_0/IconEditor.xml	s40	Delete it?	Wirklich löschen?
+xosd/packages/IconEditor_0/IconEditor.xml	s41	Title	Titel
+xosd/packages/IconEditor_0/IconEditor.xml	s42	Location	Ort
+xosd/packages/IconEditor_0/IconEditor.xml	s43	Size	Größe
+xosd/packages/IconEditor_0/IconEditor.xml	s44	Date updated	Aktualisiert am
+xosd/packages/IconEditor_0/IconEditor.xml	s45	Type	Typ
+xosd/packages/IconEditor_0/IconEditor.xml	s46	Mode	Modus
+xosd/packages/IconEditor_0/IconEditor.xml	s47	Saved games (PlayStation®)	Spielstände (PlayStation®)
+xosd/packages/IconEditor_0/IconEditor.xml	s48	Saved games (PlayStation®2)	Spielstände (PlayStation®2)
+xosd/packages/IconEditor_0/IconEditor.xml	s49	Settings file (PlayStation®2)	Einstellungsdatei (PlayStation®2)
+xosd/packages/IconEditor_0/IconEditor.xml	s50	System driver (PlayStation®2)	Systemtreiber (PlayStation®2)
+xosd/packages/IconEditor_0/IconEditor.xml	s51	Corrupted data	Beschädigte Daten
+xosd/packages/IconEditor_0/IconEditor.xml	s52	PlayStation®2 format software	PlayStation®2-Software
+xosd/packages/IconEditor_0/IconEditor.xml	s53	None	Keine
+xosd/packages/IconEditor_0/IconEditor.xml	s54	Copying not allowed	Kopieren nicht erlaubt
+xosd/packages/IconEditor_0/IconEditor.xml	s55	Copying and moving not allowed	Kopieren und Verschieben nicht erlaubt
+xosd/packages/IconEditor_0/IconEditor.xml	s56	Initializing.	Wird initialisiert.
+xosd/packages/IconEditor_0/IconEditor.xml	s57	Initialization complete.	Initialisierung abgeschlossen.
+xosd/packages/IconEditor_0/IconEditor.xml	s58	Uninitialized	Nicht initialisiert
+xosd/packages/IconEditor_0/IconEditor.xml	s59	Not initialized.	Nicht initialisiert.
+xosd/packages/IconEditor_0/IconEditor.xml	s60	Initialize?	Initialisieren?
+xosd/packages/IconEditor_0/IconEditor.xml	s61	Copying...	Kopiere...
+xosd/packages/IconEditor_0/IconEditor.xml	s62	Copying complete.	Kopieren abgeschlossen.
+xosd/packages/IconEditor_0/IconEditor.xml	s63	Could not copy.	Kopieren nicht möglich.
+xosd/packages/IconEditor_0/IconEditor.xml	s64	A folder with this name already exists at the destination.	Am Ziel gibt es bereits einen Ordner mit diesem Namen.
+xosd/packages/IconEditor_0/IconEditor.xml	s65	Out of free space.	Kein freier Speicher.
+xosd/packages/IconEditor_0/IconEditor.xml	s66	Delete unneeded data.	Nicht benötigte Daten löschen.
+xosd/packages/IconEditor_0/IconEditor.xml	s67	All data in this folder	Alle Daten in diesem Ordner
+xosd/packages/IconEditor_0/IconEditor.xml	s68	will be deleted.	werden gelöscht.
+xosd/packages/IconEditor_0/IconEditor.xml	s69	Are you sure you want to delete?	Wirklich löschen?
+xosd/packages/IconEditor_0/IconEditor.xml	s70	Deleting...	Lösche...
+xosd/packages/IconEditor_0/IconEditor.xml	s71	Deleted.	Gelöscht.
+xosd/packages/IconEditor_0/IconEditor.xml	s72	The name entered is too long.	Der eingegebene Name ist zu lang.
+xosd/packages/IconEditor_0/IconEditor.xml	s73	Create a folder	Ordner erstellen
+xosd/packages/IconEditor_0/IconEditor.xml	s74	Out of free space.	Kein freier Speicher.
+xosd/packages/IconEditor_0/IconEditor.xml	s75	The name entered is too long.	Der eingegebene Name ist zu lang.
+xosd/packages/IconEditor_0/IconEditor.xml	s76	Title	Titel
+xosd/packages/IconEditor_0/IconEditor.xml	s77	Size	Größe
+xosd/packages/IconEditor_0/IconEditor.xml	s78	Date modified	Geändert am
+xosd/packages/IconEditor_0/IconEditor.xml	s79	New Folder	Neuer Ordner
+xosd/packages/IconEditor_0/IconEditor.xml	s81	Free space	Freier Speicher
+xosd/packages/MusicPlayer_0/MusicPlayer.xml	s3	There is no next track.	Kein nächster Titel.
+xosd/packages/MusicPlayer_0/MusicPlayer.xml	s4	There is no previous track.	Kein vorheriger Titel.
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s7	Rotate (left)	Drehen (links)
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s8	Rotate (right)	Drehen (rechts)
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s9	Trim	Zuschneiden
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s10	Album thumbnail	Album-Miniaturbild
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s11	Export	Exportieren
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s12	Import	Importieren
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s13	Delete	Löschen
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s14	Display	Anzeige
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s15	Previous photo	Vorheriges Foto
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s16	Next photo	Nächstes Foto
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s17	Play	Wiedergabe
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s19	Stop	Stopp
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s21	There is no slideshow.	Keine Diashow vorhanden.
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s23	First frame used as album thumbnail.	Erstes Bild als Album-Miniaturbild verwendet.
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s24	There is no next photo.	Kein nächstes Foto.
+xosd/packages/PhotoViewer_0/PhotoViewer.xml	s25	There is no previous photo.	Kein vorheriges Foto.
+xosd/packages/pvrBurn_0/pvrBurn.xml	s1	Free space	Freier Speicher
+xosd/packages/pvrBurn_0/pvrBurn.xml	s2	Select the titles to dub	Titel zum Überspielen wählen
+xosd/packages/pvrBurn_0/pvrBurn.xml	s3	press.	drücken.
+xosd/packages/pvrBurn_0/pvrBurn.xml	s4	Disc title	Disc-Titel
+xosd/packages/pvrBurn_0/pvrBurn.xml	s5	Select the DVD menu type	DVD-Menütyp wählen
+xosd/packages/pvrBurn_0/pvrBurn.xml	s6	press.	drücken.
+xosd/packages/pvrBurn_0/pvrBurn.xml	s7	Check the order of the titles to be written to DVD.	Reihenfolge der Titel für die DVD prüfen.
+xosd/packages/pvrBurn_0/pvrBurn.xml	s8	Press to start writing.	Drücken, um das Schreiben zu starten.
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s1	Chapter	Kapitel
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s3	Start point	Startpunkt
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s5	End point	Endpunkt
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s7	Press to choose the edit range to cancel.	Drücken, um den aufzuhebenden Bereich zu wählen.
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s8	Press to return to the edit screen.	Drücken, um zum Bearbeiten zurückzukehren.
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s9	Start point	Startpunkt
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s11	End point	Endpunkt
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s13	Start point	Startpunkt
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s14	End point	Endpunkt
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s15	End point	Endpunkt
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s16	Start point	Startpunkt
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s17	End point	Endpunkt
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s18	Cancel	Abbrechen
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s19	Play	Wiedergabe
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s20	Stop	Stopp
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s21	End	Ende
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s23	Press at the start of the scene you want to skip.	Am Anfang der zu überspringenden Szene drücken.
+xosd/packages/pvrEdit_0/xml/pvrEdit.xml	s24	Press at the end of the scene you want to skip.	Am Ende der zu überspringenden Szene drücken.
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s1	Finish editing. Are you sure?<CRLF>The selected parts will be skipped<CRLF>during playback.<CRLF>Chapter marks set inside the edit range<CRLF>will be removed.	Bearbeitung beenden. Sind Sie sicher?<CRLF>Die gewählten Teile werden bei der<CRLF>Wiedergabe übersprungen.<CRLF>Kapitelmarken im bearbeiteten Bereich<CRLF>werden entfernt.
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s2	Yes	Ja
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s3	Yes	Ja
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s4	No	Nein
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s5	No	Nein
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s6	Exit without saving your edits. Are you sure?	Ohne Speichern beenden. Sind Sie sicher?
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s7	Yes	Ja
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s8	Yes	Ja
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s9	No	Nein
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s10	No	Nein
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s11	Preview playback.<CRLF>To finish the preview, press the button<CRLF>　 again.	Vorschau-Wiedergabe.<CRLF>Zum Beenden der Vorschau die Taste<CRLF>　 erneut drücken.
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s12	Start	Starten
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s13	Start	Starten
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s14	Do not start	Nicht starten
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s15	Do not start	Nicht starten
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s16	Cancel the selected range. Are you sure?	Gewählten Bereich aufheben. Sind Sie sicher?
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s17	Undo	Rückgängig
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s18	Undo	Rückgängig
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s19	Do not undo	Nicht rückgängig
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s20	Do not undo	Nicht rückgängig
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s21	<CRLF>If you select Save and Exit, the selected<CRLF>parts will be skipped from now on.<CRLF>Chapter marks set inside the edit range<CRLF>will be removed.	<CRLF>Bei „Speichern und beenden“ werden die gewählten<CRLF>Teile künftig übersprungen.<CRLF>Kapitelmarken im bearbeiteten Bereich<CRLF>werden entfernt.
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s22	Save and exit	Speichern und beenden
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s23	Save and exit	Speichern und beenden
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s24	Exit without saving	Ohne Speichern beenden
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s25	Exit without saving	Ohne Speichern beenden
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s26	The maximum number of chapter marks and edit ranges<CRLF>has been reached. No more chapter marks or<CRLF>edit ranges can be set.<CRLF>To continue editing, delete some chapter marks<CRLF>or edit ranges.	Die maximale Anzahl an Kapitelmarken und Bereichen<CRLF>ist erreicht. Es können keine weiteren<CRLF>gesetzt werden.<CRLF>Zum Weiterbearbeiten bitte Kapitelmarken<CRLF>oder Bereiche löschen.
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s27	The maximum number of chapter marks and edit ranges<CRLF>has been reached. No more chapter marks or<CRLF>edit ranges can be set.<CRLF>To continue editing, delete some chapter marks<CRLF>or edit ranges.	Die maximale Anzahl an Kapitelmarken und Bereichen<CRLF>ist erreicht. Es können keine weiteren<CRLF>gesetzt werden.<CRLF>Zum Weiterbearbeiten bitte Kapitelmarken<CRLF>oder Bereiche löschen.
+xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	s28	Your edits could not be saved.<CRLF>There may not be enough space on the hard disk,<CRLF>or there may be a problem with the hard disk.	Die Bearbeitung konnte nicht gespeichert werden.<CRLF>Eventuell ist nicht genug Platz frei oder<CRLF>es gibt ein Problem mit der Festplatte.
+xosd/packages/pvrReEnco_0/pvrReEnco.xml	s1	Original title	Originaltitel
+xosd/packages/pvrReEnco_0/pvrReEnco.xml	s3	Optimized title	Optimierter Titel
+xosd/packages/pvrReEnco_0/pvrReEnco.xml	s4	Total playing time	Gesamtspielzeit
+xosd/packages/pvrReEnco_0/pvrReEnco.xml	s5	Total capacity	Gesamtkapazität
+xosd/packages/pvrReEnco_0/pvrReEnco.xml	s6	Recording mode	Aufnahmemodus
+xosd/packages/pvrReEnco_0/pvrReEnco.xml	s8	Edit range	Bearbeitungsbereich
+xosd/packages/pvrReEnco_0/pvrReEnco.xml	s9	Original title	Originaltitel
+xosd/packages/pvrReEnco_0/pvrReEnco.xml	s10	Optimization	Optimierung
+xosd/packages/pvrReEnco_0/pvrReEnco.xml	s11	Yes	Ja
+xosd/packages/pvrReEnco_0/pvrReEnco.xml	s12	Yes	Ja
+xosd/packages/pvrReEnco_0/pvrReEnco.xml	s13	No	Nein
+xosd/packages/pvrReEnco_0/pvrReEnco.xml	s14	No	Nein
+xosd/packages/pvrVideoApp_0/pvrVideoApp.xml	s13	Chapter 1	Kapitel 1
+xosd/packages/pvrVideoApp_0/pvrVideoApp.xml	s18	Please enter your 4-digit PIN.	Bitte 4-stellige PIN eingeben.
+xosd/packages/pvrVideoApp_0/pvrVideoApp.xml	s19	The PIN is incorrect.	Die PIN ist falsch.
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s1	Yes	Ja
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s2	Yes	Ja
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s3	No	Nein
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s4	No	Nein
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s5	Yes	Ja
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s6	Yes	Ja
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s7	No	Nein
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s8	No	Nein
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s9	Yes	Ja
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s10	Yes	Ja
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s11	No	Nein
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s12	No	Nein
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s13	Run	Ausführen
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s14	Run	Ausführen
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s15	Cancel	Abbrechen
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s16	Cancel	Abbrechen
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s17	Yes	Ja
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s18	Yes	Ja
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s19	No	Nein
+xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	s20	No	Nein
+xosd/packages/Sircs2_0/Sircs2.xml	s1	---- SIRCS2 Test ----	---- SIRCS2-Test ----
+xosd/packages/TimeReserve_0/TimeReserve.xml	s1	Date	Datum
+xosd/packages/TimeReserve_0/TimeReserve.xml	s2	Start time	Startzeit
+xosd/packages/TimeReserve_0/TimeReserve.xml	s3	End time	Endzeit
+xosd/packages/TimeReserve_0/TimeReserve.xml	s4	 Channel	 Kanal
+xosd/packages/TimeReserve_0/TimeReserve.xml	s6	Lock	Sperren
+xosd/packages/TimeReserve_0/TimeReserve.xml	s7	Mode	Modus
+xosd/packages/TimeReserve_0/TimeReserve.xml	s8	Confirmed	Bestätigt
+xosd/packages/TimeReserve_0/TimeReserve.xml	s10	Min	Min.
+xosd/packages/TimeReserve_0/TimeReserve.xml	s11	Disc usage when dubbing to DVD:	Platzbedarf beim Überspielen auf DVD:
+xosd/packages/TimeReserve_0/TimeReserve.xml	s12	Estimate for dubbing this title to DVD later.	Richtwert für späteres Überspielen auf DVD.
+xosd/packages/tv_0/tv.xml	s2	Current recording mode	Aktueller Aufnahmemodus
+xosd/packages/tv_0/tv.xml	s3	Back	Zurück
+xosd/packages/tv_0/tv.xml	s4	Select	Auswählen
+xosd/packages/tv_0/tv.xml	s5	Control panel	Bedienfeld
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s1	Source	Quelle
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s3	Date	Datum
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s5	Update	Aktualisieren
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s6	Update	Aktualisieren
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s7	Install	Installieren
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s8	Install	Installieren
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s9	Uninstall	Deinstallieren
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s10	Uninstall	Deinstallieren
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s11	Restore last configuration	Letzte Konfiguration
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s12	Restore last configuration	Letzte Konfiguration
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s13	Restore factory default	Werkseinstellung
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s14	Restore factory default	Werkseinstellung
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s17	Reload	Neu laden
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s18	Reload	Neu laden
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s19	Update	Aktualisieren
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s20	Update	Aktualisieren
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s21	Install	Installieren
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s22	Install	Installieren
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s23	Cancel	Abbrechen
+xosd/packages/UpdateCenter_0/UpdateCenter.xml	s24	Cancel	Abbrechen
+xosd/packages/xBarPluginConf_0/ConfigDialogs.xml	s1	Yes	Ja
+xosd/packages/xBarPluginConf_0/ConfigDialogs.xml	s2	Yes	Ja
+xosd/packages/xBarPluginConf_0/ConfigDialogs.xml	s3	No	Nein
+xosd/packages/xBarPluginConf_0/ConfigDialogs.xml	s4	No	Nein
+xosd/packages/xBarPluginConf_0/ConfigDialogs.xml	s7	Yes	Ja
+xosd/packages/xBarPluginConf_0/ConfigDialogs.xml	s8	Yes	Ja
+xosd/packages/xBarPluginConf_0/ConfigDialogs.xml	s9	No	Nein
+xosd/packages/xBarPluginConf_0/ConfigDialogs.xml	s10	No	Nein
+xosd/packages/xBarPluginGame_0/delete.xml	s1	　This game will be deleted from the PSX.	　Dieses Spiel wird vom PSX gelöscht.
+xosd/packages/xBarPluginGame_0/delete.xml	s4	Yes	Ja
+xosd/packages/xBarPluginGame_0/delete.xml	s5	Yes	Ja
+xosd/packages/xBarPluginGame_0/delete.xml	s6	No	Nein
+xosd/packages/xBarPluginGame_0/delete.xml	s7	No	Nein
+xosd/packages/xBarPluginGame_0/delete.xml	s8	This data is corrupted.	Diese Daten sind beschädigt.
+xosd/packages/xBarPluginGame_0/delete.xml	s9	Delete it?	Löschen?
+xosd/packages/xBarPluginGame_0/delete.xml	s11	Yes	Ja
+xosd/packages/xBarPluginGame_0/delete.xml	s12	Yes	Ja
+xosd/packages/xBarPluginGame_0/delete.xml	s13	No	Nein
+xosd/packages/xBarPluginGame_0/delete.xml	s14	No	Nein
+xosd/packages/xBarPluginGame_0/delete.xml	s15	Deleting.	Wird gelöscht.
+xosd/packages/xBarPluginGame_0/delete.xml	s16	Please do not turn off.	Bitte nicht ausschalten.
+xosd/packages/xBarPluginGame_0/delete.xml	s17	Game deleted.	Spiel gelöscht.
+xosd/packages/xBarPluginGame_0/delete.xml	s18	Could not delete.	Löschen nicht möglich.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s1	Loading the game. Do not turn	Spiel wird geladen. PSX nicht
+xosd/packages/xBarPluginGame_0/gameboot.xml	s2	off or restart your PSX.	ausschalten oder neu starten.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s3	Please do not turn off.	Bitte nicht ausschalten.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s4	Do not remove the disc.	Disc nicht entnehmen.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s5	Loading the game.	Spiel wird geladen.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s6	off or restart your PSX.	ausschalten oder neu starten.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s7	Do not turn off the power.	Nicht ausschalten.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s8	Failed to read the disc.	Disc konnte nicht gelesen werden.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s9	This disc cannot be started.	Diese Disc kann nicht gestartet werden.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s10	This is not a PlayStation® or PlayStation®2	Dies ist keine PlayStation®- oder PlayStation®2-
+xosd/packages/xBarPluginGame_0/gameboot.xml	s11	format disc.	Disc.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s12	The game cannot be started.	Das Spiel kann nicht gestartet werden.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s13	This game requires a disc to start.	Dieses Spiel benötigt zum Start eine Disc.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s14	Please insert the disc.	Bitte Disc einlegen.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s15	Wrong disc.	Falsche Disc.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s16	This data is corrupted.	Diese Daten sind beschädigt.
+xosd/packages/xBarPluginGame_0/gameboot.xml	s17	Delete it?	Löschen?
+xosd/packages/xBarPluginGame_0/information.xml	s1	Title	Titel
+xosd/packages/xBarPluginGame_0/information.xml	s5	Publisher	Hersteller
+xosd/packages/xBarPluginGame_0/information.xml	s7	Disc number	Disc-Nr.
+xosd/packages/xBarPluginGame_0/information.xml	s9	Type	Typ
+xosd/packages/xBarPluginGame_0/information.xml	s11	Date and time created	Erstellt am
+xosd/packages/xBarPluginGame_0/information.xml	s13	Size	Größe
+xosd/packages/xBarPluginMusic_0/checkin.xml	s1	Permanently delete this album?	Dieses Album endgültig löschen?
+xosd/packages/xBarPluginMusic_0/checkin.xml	s2	Delete	Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s3	Delete	Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s4	Do not delete	Nicht löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s5	Do not delete	Nicht löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s6	Permanently delete this track?	Diesen Titel endgültig löschen?
+xosd/packages/xBarPluginMusic_0/checkin.xml	s7	Delete	Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s8	Delete	Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s9	Do not delete	Nicht löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s10	Do not delete	Nicht löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s11	Deleting...	Wird gelöscht...
+xosd/packages/xBarPluginMusic_0/checkin.xml	s12	Do not remove the Memory Stick or turn off the PSX.	Memory Stick nicht entnehmen, PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/checkin.xml	s13	Progress	Fortschritt
+xosd/packages/xBarPluginMusic_0/checkin.xml	s15	Finished	Fertig
+xosd/packages/xBarPluginMusic_0/checkin.xml	s16	Finished	Fertig
+xosd/packages/xBarPluginMusic_0/checkin.xml	s17	Error	Fehler
+xosd/packages/xBarPluginMusic_0/checkin.xml	s18	Error	Fehler
+xosd/packages/xBarPluginMusic_0/checkin.xml	s19	Permanently delete this album?	Dieses Album endgültig löschen?
+xosd/packages/xBarPluginMusic_0/checkin.xml	s20	Delete	Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s21	Delete	Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s22	Do not delete	Nicht löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s23	Do not delete	Nicht löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s24	Permanently delete this track?	Diesen Titel endgültig löschen?
+xosd/packages/xBarPluginMusic_0/checkin.xml	s25	Delete	Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s26	Delete	Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s27	Do not delete	Nicht löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s28	Do not delete	Nicht löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s29	Deleting...	Wird gelöscht...
+xosd/packages/xBarPluginMusic_0/checkin.xml	s30	Do not disconnect the portable device.	Tragbares Gerät nicht trennen.
+xosd/packages/xBarPluginMusic_0/checkin.xml	s31	Do not turn off the PSX.	PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/checkin.xml	s32	Progress	Fortschritt
+xosd/packages/xBarPluginMusic_0/checkin.xml	s34	Finished	Fertig
+xosd/packages/xBarPluginMusic_0/checkin.xml	s35	Finished	Fertig
+xosd/packages/xBarPluginMusic_0/checkin.xml	s36	Error	Fehler
+xosd/packages/xBarPluginMusic_0/checkin.xml	s37	Error	Fehler
+xosd/packages/xBarPluginMusic_0/checkin.xml	s38	Permanently delete this album?	Dieses Album endgültig löschen?
+xosd/packages/xBarPluginMusic_0/checkin.xml	s39	Delete	Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s40	Delete	Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s41	Do not delete	Nicht löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s42	Do not delete	Nicht löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s43	Permanently delete this track?	Diesen Titel endgültig löschen?
+xosd/packages/xBarPluginMusic_0/checkin.xml	s44	Delete	Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s45	Delete	Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s46	Do not delete	Nicht löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s47	Do not delete	Nicht löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s48	Deleting...	Wird gelöscht...
+xosd/packages/xBarPluginMusic_0/checkin.xml	s49	Do not turn off the PSX.	PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/checkin.xml	s50	Progress	Fortschritt
+xosd/packages/xBarPluginMusic_0/checkin.xml	s52	Finished	Fertig
+xosd/packages/xBarPluginMusic_0/checkin.xml	s53	Finished	Fertig
+xosd/packages/xBarPluginMusic_0/checkin.xml	s54	Error	Fehler
+xosd/packages/xBarPluginMusic_0/checkin.xml	s55	Error	Fehler
+xosd/packages/xBarPluginMusic_0/checkin.xml	s56	Deletion complete.	Löschen abgeschlossen.
+xosd/packages/xBarPluginMusic_0/checkin.xml	s59	Error while deleting	Fehler beim Löschen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s60	Cancel	Abbrechen
+xosd/packages/xBarPluginMusic_0/checkin.xml	s61	Cancel	Abbrechen
+xosd/packages/xBarPluginMusic_0/checkout.xml	s1	Select the device	Gerät wählen
+xosd/packages/xBarPluginMusic_0/checkout.xml	s6	You are about to check out the entire directory tree to Memory Stick.	Der gesamte Verzeichnisbaum wird auf den Memory Stick ausgecheckt.
+xosd/packages/xBarPluginMusic_0/checkout.xml	s9	Checking available space on the Memory Stick, please wait...	Freier Speicher auf dem Memory Stick wird geprüft, bitte warten...
+xosd/packages/xBarPluginMusic_0/checkout.xml	s12	Not enough space ( tmp )	Zu wenig Platz ( tmp )
+xosd/packages/xBarPluginMusic_0/checkout.xml	s13	Not enough space ( tmp )	Zu wenig Platz ( tmp )
+xosd/packages/xBarPluginMusic_0/checkout.xml	s14	There is not enough available space on the Memory Stick	Nicht genügend freier Speicher auf dem Memory Stick
+xosd/packages/xBarPluginMusic_0/checkout.xml	s15	to perform the requested operation	um den angeforderten Vorgang auszuführen
+xosd/packages/xBarPluginMusic_0/checkout.xml	s16	Cancel	Abbrechen
+xosd/packages/xBarPluginMusic_0/checkout.xml	s17	Cancel	Abbrechen
+xosd/packages/xBarPluginMusic_0/checkout.xml	s18	Checking out...	Wird ausgecheckt...
+xosd/packages/xBarPluginMusic_0/checkout.xml	s19	Do not remove the Memory Stick	Memory Stick nicht entnehmen
+xosd/packages/xBarPluginMusic_0/checkout.xml	s20	or turn off the PSX.	und PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/checkout.xml	s23	Title 0	Titel 0
+xosd/packages/xBarPluginMusic_0/checkout.xml	s25	You are about to check out the entire directory tree to netmd.	Der gesamte Verzeichnisbaum wird auf NetMD ausgecheckt.
+xosd/packages/xBarPluginMusic_0/checkout.xml	s28	Checking available space on the Memory Stick, please wait...	Freier Speicher auf dem Memory Stick wird geprüft, bitte warten...
+xosd/packages/xBarPluginMusic_0/checkout.xml	s31	Not enough space ( tmp )	Zu wenig Platz ( tmp )
+xosd/packages/xBarPluginMusic_0/checkout.xml	s32	Not enough space ( tmp )	Zu wenig Platz ( tmp )
+xosd/packages/xBarPluginMusic_0/checkout.xml	s33	There is not enough available space on the Memory Stick	Nicht genügend freier Speicher auf dem Memory Stick
+xosd/packages/xBarPluginMusic_0/checkout.xml	s34	to perform the requested operation	um den angeforderten Vorgang auszuführen
+xosd/packages/xBarPluginMusic_0/checkout.xml	s35	Cancel	Abbrechen
+xosd/packages/xBarPluginMusic_0/checkout.xml	s36	Cancel	Abbrechen
+xosd/packages/xBarPluginMusic_0/checkout.xml	s37	Checking out...	Wird ausgecheckt...
+xosd/packages/xBarPluginMusic_0/checkout.xml	s38	Do not remove the Memory Stick	Memory Stick nicht entnehmen
+xosd/packages/xBarPluginMusic_0/checkout.xml	s39	or turn off the PSX.	und PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/checkout.xml	s42	Title 0	Titel 0
+xosd/packages/xBarPluginMusic_0/checkout.xml	s44	Import complete.	Import abgeschlossen.
+xosd/packages/xBarPluginMusic_0/checkout.xml	s47	Failed. The import is incomplete due to an internal error.	Fehler. Import wegen internem Fehler unvollständig.
+xosd/packages/xBarPluginMusic_0/checkout.xml	s48	Back	Zurück
+xosd/packages/xBarPluginMusic_0/checkout.xml	s49	Back	Zurück
+xosd/packages/xBarPluginMusic_0/delete.xml	s1	Initializing the Memory Stick will erase	Beim Initialisieren werden alle Daten
+xosd/packages/xBarPluginMusic_0/delete.xml	s2	all data on it.	auf dem Memory Stick gelöscht.
+xosd/packages/xBarPluginMusic_0/delete.xml	s3	Are you sure you want to initialize?	Wirklich initialisieren?
+xosd/packages/xBarPluginMusic_0/delete.xml	s4	Yes	Ja
+xosd/packages/xBarPluginMusic_0/delete.xml	s5	Yes	Ja
+xosd/packages/xBarPluginMusic_0/delete.xml	s6	No	Nein
+xosd/packages/xBarPluginMusic_0/delete.xml	s7	No	Nein
+xosd/packages/xBarPluginMusic_0/delete.xml	s8	Initializing. Please wait.	Wird initialisiert. Bitte warten.
+xosd/packages/xBarPluginMusic_0/delete.xml	s9	Do not turn off the PSX.	PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/delete.xml	s10	Please do not remove the Memory Stick.	Memory Stick bitte nicht entfernen.
+xosd/packages/xBarPluginMusic_0/delete.xml	s12	Delete this track. Are you sure?	Diesen Titel löschen. Sind Sie sicher?
+xosd/packages/xBarPluginMusic_0/delete.xml	s13	Yes	Ja
+xosd/packages/xBarPluginMusic_0/delete.xml	s14	Yes	Ja
+xosd/packages/xBarPluginMusic_0/delete.xml	s15	No	Nein
+xosd/packages/xBarPluginMusic_0/delete.xml	s16	No	Nein
+xosd/packages/xBarPluginMusic_0/delete.xml	s17	Deleting. Please wait.	Wird gelöscht. Bitte warten.
+xosd/packages/xBarPluginMusic_0/delete.xml	s18	Do not turn off the PSX while deleting.	PSX beim Löschen nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/delete.xml	s19	Could not delete	Löschen nicht möglich
+xosd/packages/xBarPluginMusic_0/delete.xml	s20	Check that the Memory Stick is inserted correctly.	Prüfen Sie, ob der Memory Stick richtig eingesteckt ist.
+xosd/packages/xBarPluginMusic_0/delete.xml	s21	Please check.	Bitte prüfen.
+xosd/packages/xBarPluginMusic_0/delete.xml	s24	All tracks in this album will be deleted.	Alle Titel dieses Albums werden gelöscht.
+xosd/packages/xBarPluginMusic_0/delete.xml	s25	Are you sure?	Sind Sie sicher?
+xosd/packages/xBarPluginMusic_0/delete.xml	s26	Yes	Ja
+xosd/packages/xBarPluginMusic_0/delete.xml	s27	Yes	Ja
+xosd/packages/xBarPluginMusic_0/delete.xml	s28	No	Nein
+xosd/packages/xBarPluginMusic_0/delete.xml	s29	No	Nein
+xosd/packages/xBarPluginMusic_0/delete.xml	s30	Deleting. Please wait.	Wird gelöscht. Bitte warten.
+xosd/packages/xBarPluginMusic_0/delete.xml	s31	Do not turn off the PSX while deleting.	PSX beim Löschen nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/delete.xml	s33	Delete this track. Are you sure?	Diesen Titel löschen. Sind Sie sicher?
+xosd/packages/xBarPluginMusic_0/delete.xml	s34	Yes	Ja
+xosd/packages/xBarPluginMusic_0/delete.xml	s35	Yes	Ja
+xosd/packages/xBarPluginMusic_0/delete.xml	s36	No	Nein
+xosd/packages/xBarPluginMusic_0/delete.xml	s37	No	Nein
+xosd/packages/xBarPluginMusic_0/delete.xml	s38	Deleting. Please wait.	Wird gelöscht. Bitte warten.
+xosd/packages/xBarPluginMusic_0/delete.xml	s39	Do not turn off the PSX while deleting.	PSX beim Löschen nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/delete.xml	s41	Deletion complete.	Löschen abgeschlossen.
+xosd/packages/xBarPluginMusic_0/delete.xml	s44	Could not delete	Löschen nicht möglich
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s1	Optimizing.	Optimierung läuft.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s2	To import, stop the optimization first.	Zum Importieren zuerst die Optimierung beenden.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s5	There are no tracks to import.	Keine Titel zum Importieren.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s6	Checking free hard disk space.	Freier Festplattenspeicher wird geprüft.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s7	Please wait.	Bitte warten.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s8	Do not turn off the PSX.	PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s11	Not enough space ( tmp )	Zu wenig Platz ( tmp )
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s12	Not enough space ( tmp )	Zu wenig Platz ( tmp )
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s13	Not enough free hard disk space.	Nicht genug freier Festplattenspeicher.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s14	Delete unneeded tracks and photos.	Nicht benötigte Titel und Fotos löschen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s15	Please.	Bitte.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s16	Select the album for the	Album für die importierten
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s17	imported tracks.	Titel auswählen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s22	Cannot create a new album.	Kein neues Album möglich.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s23	Please select another album.	Bitte anderes Album wählen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s24	Select album	Album wählen
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s25	Select album	Album wählen
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s26	The selected album contains	Das gewählte Album enthält
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s27	too many tracks. Import stopped.	zu viele Titel. Import abgebrochen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s30	The entered name is not valid.	Der eingegebene Name ist ungültig.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s31	Please change the album name.	Bitte Albumnamen ändern.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s32	The following characters cannot be used	Folgende Zeichen sind nicht erlaubt
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s35	Change	Ändern
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s36	Busy. Do not turn off the PSX.	Beschäftigt. PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s37	Importing. Do not turn off the PSX.	Import läuft. PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s38	Do not remove the disc.	Disc nicht entnehmen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s40	The entire	Das gesamte
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s43	Track %i	Titel %i
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s46	Checking free hard disk space.	Freier Festplattenspeicher wird geprüft.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s47	Please wait	Bitte warten
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s48	Do not turn off the PSX.	PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s51	Not enough space ( invisible )	Zu wenig Platz ( invisible )
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s52	Not enough space ( invisible )	Zu wenig Platz ( invisible )
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s53	Not enough free hard disk space.	Nicht genug freier Festplattenspeicher.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s54	Delete unneeded tracks and photos.	Nicht benötigte Titel und Fotos löschen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s55	Please.	Bitte.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s56	Select the album for the	Album für die importierten
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s57	imported tracks.	Titel auswählen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s62	Cannot create a new album.	Kein neues Album möglich.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s63	Please select an existing album.	Bitte vorhandenes Album wählen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s64	Select album	Album wählen
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s65	Select album	Album wählen
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s66	The entered name is not valid.	Der eingegebene Name ist ungültig.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s67	Please change the album name.	Bitte Albumnamen ändern.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s68	The following characters cannot be used	Folgende Zeichen sind nicht erlaubt
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s71	Change	Ändern
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s72	Copying track %i.	Titel %i wird kopiert.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s73	Do not turn off the PSX.	PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s74	Do not remove the CD.	CD nicht entnehmen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s75	Do not remove the disc.	Disc nicht entnehmen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s79	Import stopped.	Import abgebrochen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s80	Back	Zurück
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s81	Back	Zurück
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s82	Import stopped.	Import abgebrochen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s83	Back	Zurück
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s84	Back	Zurück
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s85	Import failed.	Import fehlgeschlagen.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s86	Some tracks could not be imported.	Einige Titel konnten nicht importiert werden.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s88	Copy stopped:	Kopieren abgebrochen:
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s89	maximum tracks per album reached (99 max).	max. Titelanzahl im Album erreicht (99).
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s90	Some tracks could not be imported.	Einige Titel konnten nicht importiert werden.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s91	Cancel the import. Are you sure?	Import abbrechen. Sind Sie sicher?
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s92	Yes	Ja
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s93	Yes	Ja
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s94	No	Nein
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s95	No	Nein
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s96	This disc cannot be imported.	Diese Disc kann nicht importiert werden.
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s97	Back	Zurück
+xosd/packages/xBarPluginMusic_0/importCDDA.xml	s98	Back	Zurück
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s1	Optimizing.	Optimierung läuft.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s2	To import, stop the optimization first.	Zum Importieren zuerst die Optimierung beenden.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s3	Copy all music from the Memory Stick?	Alle Musik vom Memory Stick kopieren?
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s4	Yes	Ja
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s5	Yes	Ja
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s6	No	Nein
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s7	No	Nein
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s8	No music files available to import.	Keine Musikdateien zum Importieren.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s9	Checking free hard disk space,	Freier Festplattenspeicher wird geprüft,
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s10	Please wait	Bitte warten
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s13	Not enough space ( tmp )	Zu wenig Platz ( tmp )
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s14	Not enough space ( tmp )	Zu wenig Platz ( tmp )
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s15	Not enough free hard disk space.	Nicht genug freier Festplattenspeicher.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s16	Delete unneeded tracks and photos.	Nicht benötigte Titel und Fotos löschen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s17	please wait.	bitte warten.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s18	Back	Zurück
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s19	Back	Zurück
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s20	Select an album for the imported music.	Album für die importierte Musik wählen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s21	New	Neu
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s22	New	Neu
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s25	New	Neu
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s26	Album name:	Albumname:
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s28	is invalid or already used.	ist ungültig oder schon vergeben.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s29	Choose a new name...	Neuen Namen wählen...
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s30	Importing	Importiere
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s31	Importing the music.	Musik wird importiert.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s32	Transferring MP3 files. Do not turn off the PSX.	MP3-Dateien werden übertragen. PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s33	Do not turn off the PSX or remove the Memory Stick.	PSX nicht ausschalten, Memory Stick nicht entnehmen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s34	Please do not remove the Memory Stick.	Memory Stick bitte nicht entfernen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s35	Import status	Importstatus
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s36	The entire	Das gesamte
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s38	Title	Titel
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s40	Transfer the music?	Musik übertragen?
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s41	Yes	Ja
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s42	Yes	Ja
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s43	No	Nein
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s44	No	Nein
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s45	Checking free hard disk space,	Freier Festplattenspeicher wird geprüft,
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s46	Please wait	Bitte warten
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s49	Not enough space ( tmp )	Zu wenig Platz ( tmp )
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s50	Not enough space ( tmp )	Zu wenig Platz ( tmp )
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s51	Not enough free hard disk space.	Nicht genug freier Festplattenspeicher.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s52	Delete unneeded tracks and photos.	Nicht benötigte Titel und Fotos löschen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s53	 Please.	 Bitte.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s54	Back	Zurück
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s55	Back	Zurück
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s56	Select an album for the imported music.	Album für die importierte Musik wählen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s57	New	Neu
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s58	New	Neu
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s61	New	Neu
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s62	Album name:	Albumname:
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s64	is invalid or already used.	ist ungültig oder schon vergeben.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s65	Choose a new name...	Neuen Namen wählen...
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s66	Importing xxx.mp3	Importiere xxx.mp3
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s67	Importing.	Import läuft.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s68	Title	Titel
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s69	Do not turn off the PSX or remove the Memory Stick.	PSX nicht ausschalten, Memory Stick nicht entnehmen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s70	Do not turn off the PSX.	PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s71	Please do not remove the Memory Stick.	Memory Stick bitte nicht entfernen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s74	No music files available to import.	Keine Musikdateien zum Importieren.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s75	Checking free hard disk space.	Freier Festplattenspeicher wird geprüft.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s76	Please wait	Bitte warten
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s77	Do not turn off the PSX.	PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s80	Not enough space ( tmp )	Zu wenig Platz ( tmp )
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s81	Not enough space ( tmp )	Zu wenig Platz ( tmp )
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s82	Not enough free hard disk space.	Nicht genug freier Festplattenspeicher.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s83	Please delete unused audio and photo files.	Bitte unbenutzte Audio- und Fotodateien löschen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s84	Please.	Bitte.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s85	Select the album for the	Album für die importierten
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s86	imported tracks.	Titel auswählen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s91	Cannot create more albums.	Keine weiteren Alben möglich.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s92	Please select an existing album.	Bitte vorhandenes Album wählen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s93	Select album	Album wählen
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s94	Select album	Album wählen
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s95	The selected album contains	Das gewählte Album enthält
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s96	Maximum reached. Operation stopped.	Maximum erreicht. Vorgang abgebrochen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s99	The entered name is not valid.	Der eingegebene Name ist ungültig.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s100	Please rename the album.	Bitte Album umbenennen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s101	The following characters cannot be used	Folgende Zeichen sind nicht erlaubt
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s104	Change	Ändern
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s105	Busy. Do not turn off the PSX.	Beschäftigt. PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s106	Copying MP3 files. Do not turn off the PSX.	MP3-Dateien werden kopiert. PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s107	Do not remove the CD.	CD nicht entnehmen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s108	Do not remove the disc.	Disc nicht entnehmen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s110	The entire	Das gesamte
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s116	Checking free hard disk space.	Freier Festplattenspeicher wird geprüft.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s117	Please wait.	Bitte warten.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s118	Please do not turn off the PSX.	Bitte PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s121	Not enough space ( invisible )	Zu wenig Platz ( invisible )
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s122	Not enough space ( invisible )	Zu wenig Platz ( invisible )
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s123	Not enough free hard disk space.	Nicht genug freier Festplattenspeicher.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s124	Please delete unneeded audio and photo files.	Bitte nicht benötigte Audio- und Fotodateien löschen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s125	Please.	Bitte.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s126	Select the album for the	Album für die importierten
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s127	Please select	Bitte wählen
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s132	No more albums can be created.	Es können keine Alben mehr erstellt werden.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s133	Please select an existing album.	Bitte vorhandenes Album wählen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s134	Select album	Album wählen
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s135	Select album	Album wählen
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s136	The entered name is not valid.	Der eingegebene Name ist ungültig.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s137	Please change the album name.	Bitte Albumnamen ändern.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s138	The following characters cannot be used	Folgende Zeichen sind nicht erlaubt
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s141	Change	Ändern
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s142	Importing track %i.	Titel %i wird importiert.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s143	Do not turn off the PSX.	PSX nicht ausschalten.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s144	Do not remove the CD.	CD nicht entnehmen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s145	Do not remove the disc.	Disc nicht entnehmen.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s150	Copying completed	Kopieren abgeschlossen
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s151	Back	Zurück
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s152	Back	Zurück
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s153	Copy error	Kopierfehler
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s154	MP3 copy error	MP3-Kopierfehler
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s156	MP3 copy stopped:	MP3-Kopieren abgebrochen:
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s157	maximum files per album reached (99 max).	max. Dateianzahl im Album erreicht (99).
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s158	Some tracks could not be imported.	Einige Titel konnten nicht importiert werden.
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s159	Cancel the import. Are you sure?	Import abbrechen. Sind Sie sicher?
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s160	Yes	Ja
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s161	Yes	Ja
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s162	No	Nein
+xosd/packages/xBarPluginMusic_0/importMP3.xml	s163	No	Nein
+xosd/packages/xBarPluginMusic_0/information.xml	s1	Album name	Albumname
+xosd/packages/xBarPluginMusic_0/information.xml	s3	Artist	Interpret
+xosd/packages/xBarPluginMusic_0/information.xml	s6	Number of files	Anzahl Dateien
+xosd/packages/xBarPluginMusic_0/information.xml	s8	Size	Größe
+xosd/packages/xBarPluginMusic_0/information.xml	s10	Import date and time	Importiert am
+xosd/packages/xBarPluginMusic_0/information.xml	s18	Classic	Klassik
+xosd/packages/xBarPluginMusic_0/information.xml	s19	World Music	Weltmusik
+xosd/packages/xBarPluginMusic_0/information.xml	s21	Japanese	Japanisch
+xosd/packages/xBarPluginMusic_0/information.xml	s25	Unknown	Unbekannt
+xosd/packages/xBarPluginMusic_0/information.xml	s27	Track name	Titelname
+xosd/packages/xBarPluginMusic_0/information.xml	s29	Size	Größe
+xosd/packages/xBarPluginMusic_0/information.xml	s31	Import date and time	Importiert am
+xosd/packages/xBarPluginMusic_0/information.xml	s33	Track length	Titellänge
+xosd/packages/xBarPluginMusic_0/information.xml	s35	Sound quality	Tonqualität
+xosd/packages/xBarPluginMusic_0/information.xml	s37	File format	Dateiformat
+xosd/packages/xBarPluginMusic_0/information.xml	s38	Audio track	Tonspur
+xosd/packages/xBarPluginMusic_0/information.xml	s42	Track name	Titelname
+xosd/packages/xBarPluginMusic_0/information.xml	s44	Size	Größe
+xosd/packages/xBarPluginMusic_0/information.xml	s46	Date and time created	Erstellt am
+xosd/packages/xBarPluginMusic_0/information.xml	s48	Track length	Titellänge
+xosd/packages/xBarPluginMusic_0/information.xml	s50	Sound quality	Tonqualität
+xosd/packages/xBarPluginMusic_0/information.xml	s52	File format	Dateiformat
+xosd/packages/xBarPluginMusic_0/information.xml	s53	Audio track	Tonspur
+xosd/packages/xBarPluginMusic_0/information.xml	s56	Track length	Titellänge
+xosd/packages/xBarPluginMusic_0/information.xml	s58	Size after import	Größe nach Import
+xosd/packages/xBarPluginMusic_0/information.xml	s60	Disc type	Disc-Typ
+xosd/packages/xBarPluginMusic_0/information.xml	s61	Audio CD	Audio-CD
+xosd/packages/xBarPluginMusic_0/information.xml	s63	Track name	Titelname
+xosd/packages/xBarPluginMusic_0/information.xml	s65	Track length	Titellänge
+xosd/packages/xBarPluginMusic_0/information.xml	s67	Size after import	Größe nach Import
+xosd/packages/xBarPluginMusic_0/information.xml	s69	File format	Dateiformat
+xosd/packages/xBarPluginMusic_0/information.xml	s70	Audio track	Tonspur
+xosd/packages/xBarPluginMusic_0/information.xml	s71	Number of files	Anzahl Dateien
+xosd/packages/xBarPluginMusic_0/information.xml	s73	Size	Größe
+xosd/packages/xBarPluginMusic_0/information.xml	s75	Disc type	Disc-Typ
+xosd/packages/xBarPluginMusic_0/information.xml	s76	Data CD	Daten-CD
+xosd/packages/xBarPluginMusic_0/information.xml	s77	Album name	Albumname
+xosd/packages/xBarPluginMusic_0/information.xml	s79	Date and time created	Erstellt am
+xosd/packages/xBarPluginMusic_0/information.xml	s81	Number of files	Anzahl Dateien
+xosd/packages/xBarPluginMusic_0/information.xml	s83	Size	Größe
+xosd/packages/xBarPluginMusic_0/information.xml	s85	Disc type	Disc-Typ
+xosd/packages/xBarPluginMusic_0/information.xml	s86	Data CD	Daten-CD
+xosd/packages/xBarPluginMusic_0/information.xml	s88	Track name	Titelname
+xosd/packages/xBarPluginMusic_0/information.xml	s90	Size	Größe
+xosd/packages/xBarPluginMusic_0/information.xml	s92	Date and time created	Erstellt am
+xosd/packages/xBarPluginMusic_0/information.xml	s94	Track length	Titellänge
+xosd/packages/xBarPluginMusic_0/information.xml	s96	Sound quality	Tonqualität
+xosd/packages/xBarPluginMusic_0/information.xml	s98	File format	Dateiformat
+xosd/packages/xBarPluginMusic_0/information.xml	s99	Audio track	Tonspur
+xosd/packages/xBarPluginMusic_0/information.xml	s102	Size	Größe
+xosd/packages/xBarPluginMusic_0/information.xml	s105	Track name	Titelname
+xosd/packages/xBarPluginMusic_0/information.xml	s107	Size	Größe
+xosd/packages/xBarPluginMusic_0/information.xml	s109	Date and time created	Erstellt am
+xosd/packages/xBarPluginMusic_0/information.xml	s111	Track length	Titellänge
+xosd/packages/xBarPluginMusic_0/information.xml	s113	Sound quality	Tonqualität
+xosd/packages/xBarPluginMusic_0/information.xml	s115	File format	Dateiformat
+xosd/packages/xBarPluginMusic_0/information.xml	s116	Audio track	Tonspur
+xosd/packages/xBarPluginMusic_0/rename.xml	s1	The entered name already exists.	Der eingegebene Name existiert bereits.
+xosd/packages/xBarPluginMusic_0/rename.xml	s2	Please change the album name.	Bitte Albumnamen ändern.
+xosd/packages/xBarPluginMusic_0/rename.xml	s3	The following characters cannot be used:	Folgende Zeichen sind nicht erlaubt:
+xosd/packages/xBarPluginMusic_0/rename.xml	s7	Change	Ändern
+xosd/packages/xBarPluginMusic_0/rename.xml	s8	The entered name is not valid.	Der eingegebene Name ist ungültig.
+xosd/packages/xBarPluginMusic_0/rename.xml	s9	Please change the track name.	Bitte Titelnamen ändern.
+xosd/packages/xBarPluginMusic_0/rename.xml	s10	The following characters cannot be used:	Folgende Zeichen sind nicht erlaubt:
+xosd/packages/xBarPluginMusic_0/rename.xml	s15	Change	Ändern
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s1	Optimizing.	Optimierung läuft.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s2	To import, cancel the optimization first.	Zum Importieren zuerst die Optimierung abbrechen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s3	Not enough free space on the HDD.	Nicht genug freier Platz auf der HDD.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s4	Delete unneeded titles, tracks or photos.	Nicht benötigte Titel, Musik oder Fotos löschen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s5	Please.	Bitte.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s6	Back	Zurück
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s7	Importing the photos.	Fotos werden importiert.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s8	Please select an album.	Bitte ein Album wählen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s13	No more albums can be created.	Es können keine Alben mehr erstellt werden.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s14	Please select another album.	Bitte anderes Album wählen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s15	Select album	Album wählen
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s16	Select album	Album wählen
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s17	The entered name already exists	Der eingegebene Name existiert bereits
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s18	Please change the album name.	Bitte Albumnamen ändern.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s19	The following characters cannot be used	Folgende Zeichen sind nicht erlaubt
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s23	Change	Ändern
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s24	Copying... Do not turn off the PSX.	Kopiere... PSX nicht ausschalten.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s25	Please do not remove the Memory Stick.	Memory Stick bitte nicht entfernen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s27	Do not turn off the PSX.	PSX nicht ausschalten.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s28	Please do not disconnect.	Bitte nicht trennen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s29	Please do not remove the Memory Stick.	Memory Stick bitte nicht entfernen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s30	Please do not remove the Memory Stick.	Memory Stick bitte nicht entfernen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s31	Do not remove the CD.	CD nicht entnehmen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s32	Do not remove the disc.	Disc nicht entnehmen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s33	Do not disconnect the external device.	Externes Gerät nicht trennen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s35	Import stopped.	Import abgebrochen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s36	Back	Zurück
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s37	Could not import.	Import nicht möglich.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s38	Check that it is connected correctly.	Prüfen Sie, ob es richtig angeschlossen ist.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s40	Check that it is connected correctly.	Prüfen Sie, ob es richtig angeschlossen ist.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s41	A photo with this name already exists.	Ein Foto mit diesem Namen existiert bereits.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s42	Empty albums cannot be imported.	Leere Alben können nicht importiert werden.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s43	The album is full.	Das Album ist voll.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s44	An album can hold up to 200 photos.	Ein Album fasst bis zu 200 Fotos.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s45	Exit	Beenden
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s46	All photos in the album will be imported	Alle Fotos im Album werden importiert
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s47	Please select an album.	Bitte ein Album wählen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s52	No more albums can be created.	Es können keine Alben mehr erstellt werden.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s53	Please select another album.	Bitte anderes Album wählen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s54	Select album	Album wählen
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s55	Select album	Album wählen
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s56	The entered name is invalid or already used.	Der Name ist ungültig oder schon vergeben.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s57	Please change the album name.	Bitte Albumnamen ändern.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s58	The following characters cannot be used	Folgende Zeichen sind nicht erlaubt
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s62	Change	Ändern
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s63	Importing. Do not turn off the PSX.	Import läuft. PSX nicht ausschalten.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s64	Please do not remove the Memory Stick.	Memory Stick bitte nicht entfernen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s65	Please do not remove the Memory Stick.	Memory Stick bitte nicht entfernen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s67	Do not turn off the PSX.	PSX nicht ausschalten.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s68	Please do not disconnect.	Bitte nicht trennen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s69	Please do not remove the Memory Stick.	Memory Stick bitte nicht entfernen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s70	Please do not remove the Memory Stick.	Memory Stick bitte nicht entfernen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s71	Do not remove the CD.	CD nicht entnehmen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s72	Do not remove the disc.	Disc nicht entnehmen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s73	Do not disconnect the external device.	Externes Gerät nicht trennen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s76	Photo	Foto
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s78	All photos in this album will be deleted.	Alle Fotos in diesem Album werden gelöscht.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s79	Are you sure?	Sind Sie sicher?
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s80	Yes	Ja
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s81	Yes	Ja
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s82	No	Nein
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s83	No	Nein
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s84	Delete this photo. Are you sure?	Dieses Foto löschen. Sind Sie sicher?
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s85	Yes	Ja
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s86	Yes	Ja
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s87	No	Nein
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s88	No	Nein
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s89	Deleting. Please wait.	Wird gelöscht. Bitte warten.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s90	Do not turn off the PSX while deleting.	PSX beim Löschen nicht ausschalten.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s92	Deletion complete	Löschen abgeschlossen
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s93	Back	Zurück
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s94	Deletion failed	Löschen fehlgeschlagen
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s96	The file could not be deleted.	Die Datei konnte nicht gelöscht werden.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s98	Image name	Bildname
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s101	Size	Größe
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s103	Date and time created	Erstellt am
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s105	File format	Dateiformat
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s108	Image name	Bildname
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s111	Size	Größe
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s113	Date and time created	Erstellt am
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s115	File format	Dateiformat
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s118	Image name	Bildname
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s119	File name	Dateiname
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s122	Size	Größe
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s124	Date and time created	Erstellt am
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s126	Play time	Spieldauer
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s128	File format	Dateiformat
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s131	Image name	Bildname
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s134	Size	Größe
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s136	Date and time taken	Aufgenommen am
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s138	Date and time created	Erstellt am
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s140	Resolution	Auflösung
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s142	File format	Dateiformat
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s145	File name	Dateiname
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s148	Size	Größe
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s150	Date and time created	Erstellt am
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s152	File format	Dateiformat
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s155	Number of frames	Anzahl Bilder
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s157	Album name	Albumname
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s160	Number of files	Anzahl Dateien
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s162	Size	Größe
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s164	Date created	Erstellt am
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s166	Album name	Albumname
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s169	Number of files	Anzahl Dateien
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s171	Size	Größe
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s173	Date created	Erstellt am
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s175	Number of files	Anzahl Dateien
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s177	Size	Größe
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s179	Disc type	Disc-Typ
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s180	Data CD	Daten-CD
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s181	Size	Größe
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s183	This photo will be written to the Memory Stick.	Dieses Foto wird auf den Memory Stick geschrieben.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s184	Are you sure?	Sind Sie sicher?
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s185	Yes	Ja
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s186	Yes	Ja
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s187	No	Nein
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s188	No	Nein
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s189	All photos in this album	Alle Fotos dieses Albums
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s190	will be written to the Memory Stick.	werden auf den Memory Stick geschrieben.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s191	Are you sure?	Sind Sie sicher?
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s192	Yes	Ja
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s193	Yes	Ja
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s194	No	Nein
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s195	No	Nein
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s196	Could not write.	Schreiben nicht möglich.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s197	Not enough space on the Memory Stick.	Nicht genug Platz auf dem Memory Stick.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s198	Back	Zurück
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s199	You are about to export a single image.	Sie exportieren ein einzelnes Bild.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s200	Select the album to export.	Zu exportierendes Album wählen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s201	New	Neu
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s202	New	Neu
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s203	Writing. Do not turn off the PSX.	Schreibe. PSX nicht ausschalten.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s204	Please do not remove the Memory Stick.	Memory Stick bitte nicht entfernen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s205	Writing finished.	Schreiben abgeschlossen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s206	Back	Zurück
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s207	Export failed	Export fehlgeschlagen
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s209	The file could not be copied.	Die Datei konnte nicht kopiert werden.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s210	The selected album has too many photos.	Das gewählte Album enthält zu viele Fotos.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s211	Too many albums on the Memory Stick.	Zu viele Alben auf dem Memory Stick.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s212	Exit	Beenden
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s213	You are about to export a photo album.	Sie exportieren ein Fotoalbum.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s214	Please choose the destination folder.	Bitte Zielordner wählen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s215	New	Neu
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s216	New	Neu
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s217	Writing. Do not turn off the PSX.	Schreibe. PSX nicht ausschalten.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s218	Please do not remove the Memory Stick.	Memory Stick bitte nicht entfernen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s220	Photo	Foto
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s221	Initializing the Memory Stick will	Beim Initialisieren des Memory Sticks
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s222	delete all data on it.	werden alle Daten gelöscht.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s223	Are you sure you want to initialize?	Wirklich initialisieren?
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s224	Yes	Ja
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s225	Yes	Ja
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s226	No	Nein
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s227	No	Nein
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s228	Initializing. Please wait.	Wird initialisiert. Bitte warten.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s229	Do not turn off this unit or remove	Gerät nicht ausschalten und Memory Stick
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s230	the Memory Stick.	nicht entnehmen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s231	Initialization finished.	Initialisierung abgeschlossen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s232	Back	Zurück
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s233	Format failed	Formatieren fehlgeschlagen
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s234	Check that the Memory Stick is inserted correctly.	Prüfen Sie, ob der Memory Stick richtig eingesteckt ist.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s235	Please check.	Bitte prüfen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s236	The Memory Stick has been removed.	Der Memory Stick wurde entnommen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s237	Memory Stick format failed.	Formatieren des Memory Sticks fehlgeschlagen.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s240	The entered name is invalid or already used.	Der Name ist ungültig oder schon vergeben.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s241	Please change the album name.	Bitte Albumnamen ändern.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s242	The following characters cannot be used	Folgende Zeichen sind nicht erlaubt
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s245	The entered name is invalid or already used.	Der Name ist ungültig oder schon vergeben.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s246	Please change the photo name.	Bitte Fotonamen ändern.
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s247	The following characters cannot be used	Folgende Zeichen sind nicht erlaubt
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s252	Rename photo	Foto umbenennen
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s253	File name:	Dateiname:
+xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	s257	Rename album	Album umbenennen
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s1	Please set the time.	Bitte Zeit einstellen.
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s3	Select	Auswählen
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s4	Select	Auswählen
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s7	Manual setting	Manuelle Einstellung
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s8	Manual setting	Manuelle Einstellung
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s9	Match program guide	An Programmführer anpassen
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s10	Match program guide	An Programmführer anpassen
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s11	Yes	Ja
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s12	Yes	Ja
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s13	No	Nein
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s14	No	Nein
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s15	Yes	Ja
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s16	Yes	Ja
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s17	Change DVD-RW recording mode	DVD-RW-Aufnahmemodus ändern
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s18	Change DVD-RW recording mode	DVD-RW-Aufnahmemodus ändern
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s19	Video mode	Video-Modus
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s20	Video mode	Video-Modus
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s21	VR mode	VR-Modus
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s22	VR mode	VR-Modus
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s23	DVD format	DVD-Format
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s24	DVD format	DVD-Format
+xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	s25	Video format:<CRLF>  Plays on most DVD players.<CRLF>  Cannot be added to after finalizing.<CRLF>  A DVD menu can be created.<CRLF><CRLF>VR format:<CRLF>  Titles can be added later.<CRLF>  Playlists are supported.<CRLF>  Supports CPRM copy protection.<CRLF>  Plays only on VR-compatible players.<CRLF>  	Video-Format:<CRLF>  Läuft auf den meisten DVD-Playern.<CRLF>  Nach dem Abschließen nicht erweiterbar.<CRLF>  Ein DVD-Menü kann erstellt werden.<CRLF><CRLF>VR-Format:<CRLF>  Titel können später ergänzt werden.<CRLF>  Playlists werden unterstützt.<CRLF>  Unterstützt CPRM-Kopierschutz.<CRLF>  Nur auf VR-fähigen Playern abspielbar.<CRLF>  
+xosd/packages/xBarPluginVideo_0/VideoInfo.xml	s1	Video name	Videoname
+xosd/packages/xBarPluginVideo_0/VideoInfo.xml	s2	Recording date	Aufnahmedatum
+xosd/packages/xBarPluginVideo_0/VideoInfo.xml	s3	Play time	Spieldauer
+xosd/packages/xBarPluginVideo_0/VideoInfo.xml	s4	(After editing	(Nach Bearbeitung
+xosd/packages/xBarPluginVideo_0/VideoInfo.xml	s5	Recording mode	Aufnahmemodus
+xosd/packages/xBarPluginVideo_0/VideoInfo.xml	s6	(For DVD+RW)	(Für DVD+RW)
+xosd/packages/xBarPluginVideo_0/VideoInfo.xml	s7	Audio mode	Tonmodus
+xosd/packages/xBarPluginVideo_0/VideoInfo.xml	s8	Protect	Schützen
+xosd/packages/xBarPluginVideo_0/VideoInfo.xml	s9	Source	Quelle
+xosd/packages/xBar_0/mongon.xml	s2	Play from beginning	Von Anfang an
+xosd/packages/xBar_0/mongon.xml	s3	Play	Wiedergabe
+xosd/packages/xBar_0/mongon.xml	s4	Information	Informationen
+xosd/packages/xBar_0/mongon.xml	s5	Protect	Schützen
+xosd/packages/xBar_0/mongon.xml	s6	Unprotect	Schutz aufheben
+xosd/packages/xBar_0/mongon.xml	s7	Rename	Umbenennen
+xosd/packages/xBar_0/mongon.xml	s8	Edit	Bearbeiten
+xosd/packages/xBar_0/mongon.xml	s9	Undo edit	Bearbeitung aufheben
+xosd/packages/xBar_0/mongon.xml	s10	Optimization	Optimierung
+xosd/packages/xBar_0/mongon.xml	s11	Stop optimization	Optimierung stoppen
+xosd/packages/xBar_0/mongon.xml	s12	Delete	Löschen
+xosd/packages/xBar_0/mongon.xml	s13	Initialization	Initialisierung
+xosd/packages/xBar_0/mongon.xml	s14	Finalize	Abschließen
+xosd/packages/xBar_0/mongon.xml	s15	Delete this video. Are you sure?	Dieses Video löschen. Sind Sie sicher?
+xosd/packages/xBar_0/mongon.xml	s16	The video was not deleted.	Das Video wurde nicht gelöscht.
+xosd/packages/xBar_0/mongon.xml	s17	The video is protected.<CRLF>It cannot be renamed.	Das Video ist geschützt.<CRLF>Umbenennen nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s18	The video is protected.<CRLF>It cannot be edited.	Das Video ist geschützt.<CRLF>Bearbeiten nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s19	The video is protected.<CRLF>The edit cannot be undone.	Das Video ist geschützt.<CRLF>Bearbeitung kann nicht aufgehoben werden.
+xosd/packages/xBar_0/mongon.xml	s20	The video is protected.<CRLF>It cannot be deleted.	Das Video ist geschützt.<CRLF>Löschen nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s21	Undo the edit. Are you sure?	Bearbeitung aufheben. Sind Sie sicher?
+xosd/packages/xBar_0/mongon.xml	s22	Mon	Mo
+xosd/packages/xBar_0/mongon.xml	s23	Tue	Di
+xosd/packages/xBar_0/mongon.xml	s24	Wed	Mi
+xosd/packages/xBar_0/mongon.xml	s25	Thu	Do
+xosd/packages/xBar_0/mongon.xml	s26	Fri	Fr
+xosd/packages/xBar_0/mongon.xml	s27	Sat	Sa
+xosd/packages/xBar_0/mongon.xml	s28	Sun	So
+xosd/packages/xBar_0/mongon.xml	s30	min	Min.
+xosd/packages/xBar_0/mongon.xml	s31	Not possible	Nicht möglich
+xosd/packages/xBar_0/mongon.xml	s32	Yes	Ja
+xosd/packages/xBar_0/mongon.xml	s33	Weekly	Wöchentlich
+xosd/packages/xBar_0/mongon.xml	s34	Every day	Täglich
+xosd/packages/xBar_0/mongon.xml	s35	Dubbing	Überspielung
+xosd/packages/xBar_0/mongon.xml	s36	Import	Importieren
+xosd/packages/xBar_0/mongon.xml	s37	DVD Video	DVD-Video
+xosd/packages/xBar_0/mongon.xml	s40	DVD Video	DVD-Video
+xosd/packages/xBar_0/mongon.xml	s41	Unformatted	Nicht formatiert
+xosd/packages/xBar_0/mongon.xml	s42	Enter	Eingabe
+xosd/packages/xBar_0/mongon.xml	s43	Back	Zurück
+xosd/packages/xBar_0/mongon.xml	s45	Title List	Titelliste
+xosd/packages/xBar_0/mongon.xml	s46	Dubbing is not possible during<CRLF>recording or optimization.	Überspielen ist während Aufnahme<CRLF>oder Optimierung nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s47	A timer recording is being prepared. To dub,<CRLF>please delete the timer recording first.	Eine Timer-Aufnahme wird vorbereitet. Zum Überspielen<CRLF>bitte zuerst die Timer-Aufnahme löschen.
+xosd/packages/xBar_0/mongon.xml	s48	Initialization is not possible during<CRLF>recording or optimization.	Initialisieren ist während Aufnahme<CRLF>oder Optimierung nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s49	A timer recording is being prepared. To initialize,<CRLF>please delete the timer recording first.	Eine Timer-Aufnahme wird vorbereitet. Zum Initialisieren<CRLF>bitte zuerst die Timer-Aufnahme löschen.
+xosd/packages/xBar_0/mongon.xml	s50	This title is being recorded.<CRLF>The operation cannot be performed.	Dieser Titel wird gerade aufgenommen.<CRLF>Vorgang nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s51	Cannot undo because it has not been edited.	Nicht bearbeitet, daher nicht aufhebbar.
+xosd/packages/xBar_0/mongon.xml	s52	An error has occurred.<CRLF>Turn the power off and on again.	Ein Fehler ist aufgetreten.<CRLF>Gerät aus- und wieder einschalten.
+xosd/packages/xBar_0/mongon.xml	s53	Cannot edit because the file is corrupted.	Datei beschädigt, Bearbeiten nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s54	Please wait.	Bitte warten.
+xosd/packages/xBar_0/mongon.xml	s55	Sort order	Sortierung
+xosd/packages/xBar_0/mongon.xml	s56	Date (oldest first)	Datum (älteste zuerst)
+xosd/packages/xBar_0/mongon.xml	s57	Date (newest first)	Datum (neueste zuerst)
+xosd/packages/xBar_0/mongon.xml	s58	By name (▲)	Nach Name (▲)
+xosd/packages/xBar_0/mongon.xml	s59	By name (▼)	Nach Name (▼)
+xosd/packages/xBar_0/mongon.xml	s60	By genre	Nach Genre
+xosd/packages/xBar_0/mongon.xml	s61	Unwatched first	Ungesehene zuerst
+xosd/packages/xBar_0/mongon.xml	s62	Optimization finished.	Optimierung abgeschlossen.
+xosd/packages/xBar_0/mongon.xml	s63	Recording in progress. To optimize,<CRLF>please stop the recording first.	Aufnahme läuft. Zum Optimieren<CRLF>bitte zuerst die Aufnahme stoppen.
+xosd/packages/xBar_0/mongon.xml	s64	A timer recording is being prepared.<CRLF>To optimize, please delete the timer recording first.	Eine Timer-Aufnahme wird vorbereitet.<CRLF>Zum Optimieren bitte zuerst die Timer-Aufnahme löschen.
+xosd/packages/xBar_0/mongon.xml	s65	Another title is currently being optimized.	Ein anderer Titel wird gerade optimiert.
+xosd/packages/xBar_0/mongon.xml	s66	The optimization will be stopped.<CRLF>Are you sure?	Die Optimierung wird gestoppt.<CRLF>Sind Sie sicher?
+xosd/packages/xBar_0/mongon.xml	s67	This title is being optimized.<CRLF>The operation cannot be performed.	Dieser Titel wird gerade optimiert.<CRLF>Vorgang nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s69	Program guide	Programmführer
+xosd/packages/xBar_0/mongon.xml	s70	Timer time	Timer-Zeit
+xosd/packages/xBar_0/mongon.xml	s71	Timer recording	Timer-Aufnahme
+xosd/packages/xBar_0/mongon.xml	s72	Mon	Mo
+xosd/packages/xBar_0/mongon.xml	s73	Tue	Di
+xosd/packages/xBar_0/mongon.xml	s74	Wed	Mi
+xosd/packages/xBar_0/mongon.xml	s75	Thu	Do
+xosd/packages/xBar_0/mongon.xml	s76	Fri	Fr
+xosd/packages/xBar_0/mongon.xml	s77	Sat	Sa
+xosd/packages/xBar_0/mongon.xml	s78	Sun	So
+xosd/packages/xBar_0/mongon.xml	s80	min	Min.
+xosd/packages/xBar_0/mongon.xml	s81	On	Ein
+xosd/packages/xBar_0/mongon.xml	s82	Off	Aus
+xosd/packages/xBar_0/mongon.xml	s83	Weekly	Wöchentlich
+xosd/packages/xBar_0/mongon.xml	s84	Every day	Täglich
+xosd/packages/xBar_0/mongon.xml	s85	There are no timer recordings.	Keine Timer-Aufnahmen vorhanden.
+xosd/packages/xBar_0/mongon.xml	s86	Enter	Eingabe
+xosd/packages/xBar_0/mongon.xml	s87	Back	Zurück
+xosd/packages/xBar_0/mongon.xml	s88	Record to the end of this program?<CRLF>(End	Bis zum Ende dieser Sendung aufnehmen?<CRLF>(Ende
+xosd/packages/xBar_0/mongon.xml	s89	Time	Zeit
+xosd/packages/xBar_0/mongon.xml	s90	minutes later	Minuten später
+xosd/packages/xBar_0/mongon.xml	s91	Could not get the program guide information.	Programmführer-Daten nicht verfügbar.
+xosd/packages/xBar_0/mongon.xml	s92	Cannot record to the end of this program.<CRLF>One title can be up to 6 hours.	Aufnahme bis Sendungsende nicht möglich.<CRLF>Ein Titel darf max. 6 Stunden lang sein.
+xosd/packages/xBar_0/mongon.xml	s93	Edit	Bearbeiten
+xosd/packages/xBar_0/mongon.xml	s94	Edit - Preview	Bearbeiten - Vorschau
+xosd/packages/xBar_0/mongon.xml	s95	Edit - Cancel edit range	Bearbeiten - Bereich aufheben
+xosd/packages/xBar_0/mongon.xml	s96	Preview the edited video.	Bearbeitetes Video ansehen.
+xosd/packages/xBar_0/mongon.xml	s97	Finish the preview.	Vorschau beenden.
+xosd/packages/xBar_0/mongon.xml	s98	Check the result of the selected values.	Ergebnis der gewählten Werte prüfen.
+xosd/packages/xBar_0/mongon.xml	s99	Exit and discard the edits.	Beenden und Bearbeitung verwerfen.
+xosd/packages/xBar_0/mongon.xml	s100	Search	Suche
+xosd/packages/xBar_0/mongon.xml	s101	Search	Suche
+xosd/packages/xBar_0/mongon.xml	s102	Help	Hilfe
+xosd/packages/xBar_0/mongon.xml	s105	Play	Wiedergabe
+xosd/packages/xBar_0/mongon.xml	s107	Slow	Langsam
+xosd/packages/xBar_0/mongon.xml	s108	Cancel the start and end points.	Start- und Endpunkt aufheben.
+xosd/packages/xBar_0/mongon.xml	s109	Play	Wiedergabe
+xosd/packages/xBar_0/mongon.xml	s110	End	Ende
+xosd/packages/xBar_0/mongon.xml	s111	Enter	Eingabe
+xosd/packages/xBar_0/mongon.xml	s112	Back	Zurück
+xosd/packages/xBar_0/mongon.xml	s114	Memory Card Utility	Speicherkarten-Verwaltung
+xosd/packages/xBar_0/mongon.xml	s115	Start	Starten
+xosd/packages/xBar_0/mongon.xml	s116	Delete	Löschen
+xosd/packages/xBar_0/mongon.xml	s117	Information	Informationen
+xosd/packages/xBar_0/mongon.xml	s118	Create Folder	Ordner erstellen
+xosd/packages/xBar_0/mongon.xml	s119	Format	Formatieren
+xosd/packages/xBar_0/mongon.xml	s120	Rename	Umbenennen
+xosd/packages/xBar_0/mongon.xml	s121	Move	Verschieben
+xosd/packages/xBar_0/mongon.xml	s122	Copy	Kopieren
+xosd/packages/xBar_0/mongon.xml	s123	Sort	Sortieren
+xosd/packages/xBar_0/mongon.xml	s124	Mark	Marke
+xosd/packages/xBar_0/mongon.xml	s125	Back	Zurück
+xosd/packages/xBar_0/mongon.xml	s126	Run	Ausführen
+xosd/packages/xBar_0/mongon.xml	s127	Unknown	Unbekannt
+xosd/packages/xBar_0/mongon.xml	s128	PlayStation&#174;2 format software	PlayStation&#174;2-Software
+xosd/packages/xBar_0/mongon.xml	s129	PlayStation&#174; format software	PlayStation&#174;-Software
+xosd/packages/xBar_0/mongon.xml	s130	Corrupted data	Beschädigte Daten
+xosd/packages/xBar_0/mongon.xml	s131	Setting	Einstellung
+xosd/packages/xBar_0/mongon.xml	s132	TV Settings	TV-Einstellungen
+xosd/packages/xBar_0/mongon.xml	s133	Video Settings	Video-Einstellungen
+xosd/packages/xBar_0/mongon.xml	s134	DVD Settings	DVD-Einstellungen
+xosd/packages/xBar_0/mongon.xml	s135	Photo Settings	Foto-Einstellungen
+xosd/packages/xBar_0/mongon.xml	s136	Music Settings	Musik-Einstellungen
+xosd/packages/xBar_0/mongon.xml	s137	Game Settings	Spieleinstellungen
+xosd/packages/xBar_0/mongon.xml	s138	System Configuration	Systemkonfiguration
+xosd/packages/xBar_0/mongon.xml	s139	Date and Time Settings	Datum und Uhrzeit
+xosd/packages/xBar_0/mongon.xml	s140	Character Input Settings	Texteingabe
+xosd/packages/xBar_0/mongon.xml	s141	Remote Control Settings	Fernbedienung
+xosd/packages/xBar_0/mongon.xml	s142	Keyboard settings	Tastatureinstellungen
+xosd/packages/xBar_0/mongon.xml	s143	Network settings	Netzwerkeinstellungen
+xosd/packages/xBar_0/mongon.xml	s144	Network Update	Netzwerk-Update
+xosd/packages/xBar_0/mongon.xml	s145	Easy Setup	Schnelleinrichtung
+xosd/packages/xBar_0/mongon.xml	s160	Manual channel setting	Manuelle Sendereinstellung
+xosd/packages/xBar_0/mongon.xml	s161	Auto Tune	Sendersuchlauf
+xosd/packages/xBar_0/mongon.xml	s162	Mute	Stumm
+xosd/packages/xBar_0/mongon.xml	s163	Auto stereo	Auto-Stereo
+xosd/packages/xBar_0/mongon.xml	s164	Skip BS channel	BS-Sender überspringen
+xosd/packages/xBar_0/mongon.xml	s165	BS antenna level	BS-Antennenpegel
+xosd/packages/xBar_0/mongon.xml	s166	BS antenna power	BS-Antennenstrom
+xosd/packages/xBar_0/mongon.xml	s167	Area code setting	Vorwahl-Einstellung
+xosd/packages/xBar_0/mongon.xml	s168	Program guide	Programmführer
+xosd/packages/xBar_0/mongon.xml	s169	Program guide time	Programmführer-Zeit
+xosd/packages/xBar_0/mongon.xml	s170	Recording mode	Aufnahmemodus
+xosd/packages/xBar_0/mongon.xml	s171	DVD-RW recording mode	DVD-RW-Aufnahmemodus
+xosd/packages/xBar_0/mongon.xml	s172	VR mode playlist	VR-Modus-Wiedergabeliste
+xosd/packages/xBar_0/mongon.xml	s173	External video input	Externer Videoeingang
+xosd/packages/xBar_0/mongon.xml	s174	External audio input	Externer Audioeingang
+xosd/packages/xBar_0/mongon.xml	s175	HDD recording	HDD-Aufnahme
+xosd/packages/xBar_0/mongon.xml	s176	DVD recording	DVD-Aufnahme
+xosd/packages/xBar_0/mongon.xml	s177	Recording noise reduction	Rauschunterdrückung (Aufnahme)
+xosd/packages/xBar_0/mongon.xml	s178	L2 · R2 button setting	Belegung L2 · R2
+xosd/packages/xBar_0/mongon.xml	s179	DVD menu language	DVD-Menüsprache
+xosd/packages/xBar_0/mongon.xml	s180	Audio language	Audiosprache
+xosd/packages/xBar_0/mongon.xml	s181	Subtitle Language	Untertitelsprache
+xosd/packages/xBar_0/mongon.xml	s182	Progressive output	Progressive-Ausgabe
+xosd/packages/xBar_0/mongon.xml	s185	Audio auto-select	Audio automatisch wählen
+xosd/packages/xBar_0/mongon.xml	s186	Parental Control PIN	Jugendschutz-PIN
+xosd/packages/xBar_0/mongon.xml	s187	Parental control region	Kindersicherung Region
+xosd/packages/xBar_0/mongon.xml	s188	Parental control level	Kindersicherung Stufe
+xosd/packages/xBar_0/mongon.xml	s189	Slideshow Speed	Diashow-Geschwindigkeit
+xosd/packages/xBar_0/mongon.xml	s190	CD import settings	CD-Import
+xosd/packages/xBar_0/mongon.xml	s191	Fast load	Schnelles Laden
+xosd/packages/xBar_0/mongon.xml	s192	PlayStation&#174; disc	PlayStation&#174;-Disc
+xosd/packages/xBar_0/mongon.xml	s193	Texture smoothing	Texturglättung
+xosd/packages/xBar_0/mongon.xml	s194	PlayStation&#174; game	PlayStation&#174;-Spiel
+xosd/packages/xBar_0/mongon.xml	s195	TV type	TV-Typ
+xosd/packages/xBar_0/mongon.xml	s197	Edge enhancement	Kantenschärfung
+xosd/packages/xBar_0/mongon.xml	s198	Pause mode	Pausenmodus
+xosd/packages/xBar_0/mongon.xml	s199	Optical out	Optischer Ausgang
+xosd/packages/xBar_0/mongon.xml	s200	Restore factory settings	Werkseinstellungen
+xosd/packages/xBar_0/mongon.xml	s201	HDD setting	HDD-Einstellung
+xosd/packages/xBar_0/mongon.xml	s202	System Information	Systeminformationen
+xosd/packages/xBar_0/mongon.xml	s203	For PSX	Für PSX
+xosd/packages/xBar_0/mongon.xml	s204	Time setting	Zeiteinstellung
+xosd/packages/xBar_0/mongon.xml	s205	On the hour	Zur vollen Stunde
+xosd/packages/xBar_0/mongon.xml	s206	Channel setting	Kanaleinstellung
+xosd/packages/xBar_0/mongon.xml	s207	Japanese input	Japanische Eingabe
+xosd/packages/xBar_0/mongon.xml	s208	Key bindings	Tastenbelegung
+xosd/packages/xBar_0/mongon.xml	s209	Remote control mode	Fernbedienungsmodus
+xosd/packages/xBar_0/mongon.xml	s210	Game play function	Spielfunktion
+xosd/packages/xBar_0/mongon.xml	s211	Type	Typ
+xosd/packages/xBar_0/mongon.xml	s212	Repeat start delay	Wiederholverzögerung
+xosd/packages/xBar_0/mongon.xml	s213	Key repeat rate	Tastenwiederholrate
+xosd/packages/xBar_0/mongon.xml	s214	Select	Auswählen
+xosd/packages/xBar_0/mongon.xml	s215	Back	Zurück
+xosd/packages/xBar_0/mongon.xml	s216	Could not turn on the BS antenna power.	BS-Antennenstrom konnte nicht eingeschaltet werden.
+xosd/packages/xBar_0/mongon.xml	s217	Cannot be changed during recording or optimization.	Während Aufnahme oder Optimierung nicht änderbar.
+xosd/packages/xBar_0/mongon.xml	s218	After changing this setting, the program guide will not be shown<CRLF>correctly until new program data is received. Are you sure?	Nach dieser Änderung wird der Programmführer erst nach<CRLF>neuen Programmdaten korrekt angezeigt. Sind Sie sicher?
+xosd/packages/xBar_0/mongon.xml	s219	You can assign the search function to the L2 · R2 buttons.	Die Suchfunktion kann auf L2 · R2 gelegt werden.
+xosd/packages/xBar_0/mongon.xml	s220	Are you sure? After this setting, flash	Sind Sie sicher? Danach wird Flash
+xosd/packages/xBar_0/mongon.xml	s221	is operated from the control panel.	über das Bedienfeld gesteuert.
+xosd/packages/xBar_0/mongon.xml	s222	You can assign the flash function to the L2 · R2 buttons.	Die Flash-Funktion kann auf L2 · R2 gelegt werden.
+xosd/packages/xBar_0/mongon.xml	s223	Are you sure? After this setting, search	Sind Sie sicher? Danach erfolgt die Suche
+xosd/packages/xBar_0/mongon.xml	s224	uses joystick left/right.	mit dem Joystick links/rechts.
+xosd/packages/xBar_0/mongon.xml	s225	Change the bilingual audio recording for HDD. Are you sure?	Zweikanalton-Aufnahme für HDD ändern. Sind Sie sicher?
+xosd/packages/xBar_0/mongon.xml	s226	After this change, dubbing to DVD-RW (other than VR mode)	Danach erfolgt Überspielen auf DVD-RW (außer VR-Modus)
+xosd/packages/xBar_0/mongon.xml	s227	uses the bilingual audio setting for DVD recording.	mit der Zweikanalton-Einstellung für DVD-Aufnahme.
+xosd/packages/xBar_0/mongon.xml	s228	Parts set to be skipped during editing	Beim Bearbeiten übersprungene Teile
+xosd/packages/xBar_0/mongon.xml	s229	The dubbing will be deleted. Are you sure?	Die Überspielung wird gelöscht. Sind Sie sicher?
+xosd/packages/xBar_0/mongon.xml	s230	Select	Auswählen
+xosd/packages/xBar_0/mongon.xml	s231	Back	Zurück
+xosd/packages/xBar_0/mongon.xml	s232	Off	Aus
+xosd/packages/xBar_0/mongon.xml	s233	Other	Sonstige
+xosd/packages/xBar_0/mongon.xml	s234	Voice	Ton
+xosd/packages/xBar_0/mongon.xml	s235	Angle	Blickwinkel
+xosd/packages/xBar_0/mongon.xml	s236	Subtitle	Untertitel
+xosd/packages/xBar_0/mongon.xml	s237	Repeat	Wiederholen
+xosd/packages/xBar_0/mongon.xml	s239	Title	Titel
+xosd/packages/xBar_0/mongon.xml	s240	Chapter	Kapitel
+xosd/packages/xBar_0/mongon.xml	s241	Main / Sub	Haupt / Neben
+xosd/packages/xBar_0/mongon.xml	s242	Main audio	Hauptton
+xosd/packages/xBar_0/mongon.xml	s243	Secondary audio	Nebenton
+xosd/packages/xBar_0/mongon.xml	s244	Select	Auswählen
+xosd/packages/xBar_0/mongon.xml	s245	Control panel	Bedienfeld
+xosd/packages/xBar_0/mongon.xml	s246	Back	Zurück
+xosd/packages/xBar_0/mongon.xml	s248	Point A has been set.	Punkt A gesetzt.
+xosd/packages/xBar_0/mongon.xml	s249	Play mode cleared.	Wiedergabemodus zurückgesetzt.
+xosd/packages/xBar_0/mongon.xml	s250	The current settings will be cleared.	Die aktuellen Einstellungen werden gelöscht.
+xosd/packages/xBar_0/mongon.xml	s251	The operation cannot be performed.	Vorgang nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s252	Audio switch	Audio wechseln
+xosd/packages/xBar_0/mongon.xml	s253	Subtitle switch	Untertitel wechseln
+xosd/packages/xBar_0/mongon.xml	s254	Time jump	Zeitsprung
+xosd/packages/xBar_0/mongon.xml	s255	Register thumbnail	Miniaturbild speichern
+xosd/packages/xBar_0/mongon.xml	s256	Screen display	Bildschirmanzeige
+xosd/packages/xBar_0/mongon.xml	s257	Previous	Zurück
+xosd/packages/xBar_0/mongon.xml	s258	Next	Weiter
+xosd/packages/xBar_0/mongon.xml	s259	Search	Suche
+xosd/packages/xBar_0/mongon.xml	s260	Search	Suche
+xosd/packages/xBar_0/mongon.xml	s261	Slow	Langsam
+xosd/packages/xBar_0/mongon.xml	s264	Quick play	Schnellwiedergabe
+xosd/packages/xBar_0/mongon.xml	s265	Play	Wiedergabe
+xosd/packages/xBar_0/mongon.xml	s267	Stop	Stopp
+xosd/packages/xBar_0/mongon.xml	s268	A-B repeat	A-B-Wiederholung
+xosd/packages/xBar_0/mongon.xml	s269	Repeat	Wiederholen
+xosd/packages/xBar_0/mongon.xml	s270	Clear	Löschen
+xosd/packages/xBar_0/mongon.xml	s271	Menu	Menü
+xosd/packages/xBar_0/mongon.xml	s272	Top menu	Hauptmenü
+xosd/packages/xBar_0/mongon.xml	s273	Back	Zurück
+xosd/packages/xBar_0/mongon.xml	s274	Audio switch	Audio wechseln
+xosd/packages/xBar_0/mongon.xml	s275	Angle switch	Winkel wechseln
+xosd/packages/xBar_0/mongon.xml	s276	Subtitle switch	Untertitel wechseln
+xosd/packages/xBar_0/mongon.xml	s277	Time jump	Zeitsprung
+xosd/packages/xBar_0/mongon.xml	s278	Screen display	Bildschirmanzeige
+xosd/packages/xBar_0/mongon.xml	s279	Previous	Zurück
+xosd/packages/xBar_0/mongon.xml	s280	Next	Weiter
+xosd/packages/xBar_0/mongon.xml	s281	Search	Suche
+xosd/packages/xBar_0/mongon.xml	s282	Search	Suche
+xosd/packages/xBar_0/mongon.xml	s283	Slow	Langsam
+xosd/packages/xBar_0/mongon.xml	s286	Quick play	Schnellwiedergabe
+xosd/packages/xBar_0/mongon.xml	s287	Play	Wiedergabe
+xosd/packages/xBar_0/mongon.xml	s289	Stop	Stopp
+xosd/packages/xBar_0/mongon.xml	s290	A-B repeat	A-B-Wiederholung
+xosd/packages/xBar_0/mongon.xml	s291	Repeat	Wiederholen
+xosd/packages/xBar_0/mongon.xml	s292	Clear	Löschen
+xosd/packages/xBar_0/mongon.xml	s293	Chapter jump	Kapitelsprung
+xosd/packages/xBar_0/mongon.xml	s294	Chapter jump	Kapitelsprung
+xosd/packages/xBar_0/mongon.xml	s295	Chapter jump	Kapitelsprung
+xosd/packages/xBar_0/mongon.xml	s296	Chapter jump	Kapitelsprung
+xosd/packages/xBar_0/mongon.xml	s297	Chapter jump	Kapitelsprung
+xosd/packages/xBar_0/mongon.xml	s298	Chapter jump	Kapitelsprung
+xosd/packages/xBar_0/mongon.xml	s299	Chapter jump	Kapitelsprung
+xosd/packages/xBar_0/mongon.xml	s300	Chapter jump	Kapitelsprung
+xosd/packages/xBar_0/mongon.xml	s301	Chapter jump	Kapitelsprung
+xosd/packages/xBar_0/mongon.xml	s302	Chapter jump	Kapitelsprung
+xosd/packages/xBar_0/mongon.xml	s303	Menu	Menü
+xosd/packages/xBar_0/mongon.xml	s304	Top menu	Hauptmenü
+xosd/packages/xBar_0/mongon.xml	s305	Back	Zurück
+xosd/packages/xBar_0/mongon.xml	s306	Audio switch	Audio wechseln
+xosd/packages/xBar_0/mongon.xml	s307	Angle switch	Winkel wechseln
+xosd/packages/xBar_0/mongon.xml	s308	Subtitle switch	Untertitel wechseln
+xosd/packages/xBar_0/mongon.xml	s309	Jump	Springen
+xosd/packages/xBar_0/mongon.xml	s310	Screen display	Bildschirmanzeige
+xosd/packages/xBar_0/mongon.xml	s311	Previous	Zurück
+xosd/packages/xBar_0/mongon.xml	s312	Next	Weiter
+xosd/packages/xBar_0/mongon.xml	s313	Search	Suche
+xosd/packages/xBar_0/mongon.xml	s314	Search	Suche
+xosd/packages/xBar_0/mongon.xml	s315	Slow	Langsam
+xosd/packages/xBar_0/mongon.xml	s316	Play	Wiedergabe
+xosd/packages/xBar_0/mongon.xml	s318	Stop	Stopp
+xosd/packages/xBar_0/mongon.xml	s319	A-B repeat	A-B-Wiederholung
+xosd/packages/xBar_0/mongon.xml	s320	Repeat	Wiederholen
+xosd/packages/xBar_0/mongon.xml	s321	Clear	Löschen
+xosd/packages/xBar_0/mongon.xml	s322	Use this image as the video thumbnail.	Dieses Bild als Miniaturbild verwenden.
+xosd/packages/xBar_0/mongon.xml	s323	Register. Are you sure?	Speichern. Sind Sie sicher?
+xosd/packages/xBar_0/mongon.xml	s324	Already registered. Overwrite?	Bereits gespeichert. Überschreiben?
+xosd/packages/xBar_0/mongon.xml	s325	Delete. Are you sure?	Löschen. Sind Sie sicher?
+xosd/packages/xBar_0/mongon.xml	s326	Parental control level changed temporarily	Kindersicherungsstufe vorübergehend geändert
+xosd/packages/xBar_0/mongon.xml	s327	Do you want to change?	Möchten Sie ändern?
+xosd/packages/xBar_0/mongon.xml	s328	Add an entry point?	Einstiegspunkt hinzufügen?
+xosd/packages/xBar_0/mongon.xml	s329	There is no error	Kein Fehler
+xosd/packages/xBar_0/mongon.xml	s330	Clear point A	Punkt A löschen
+xosd/packages/xBar_0/mongon.xml	s331	Store point A	Punkt A speichern
+xosd/packages/xBar_0/mongon.xml	s332	Go to point A	Zu Punkt A
+xosd/packages/xBar_0/mongon.xml	s333	Clear A-B repeat points	A-B-Punkte löschen
+xosd/packages/xBar_0/mongon.xml	s334	Store point B	Punkt B speichern
+xosd/packages/xBar_0/mongon.xml	s335	Show bookmarks	Lesezeichen anzeigen
+xosd/packages/xBar_0/mongon.xml	s336	Cannot set a bookmark	Lesezeichen nicht möglich
+xosd/packages/xBar_0/mongon.xml	s337	Bookmark	Lesezeichen
+xosd/packages/xBar_0/mongon.xml	s338	Start first play	First Play starten
+xosd/packages/xBar_0/mongon.xml	s339	Multi-screen display Cancel	Mehrfachbildanzeige abbrechen
+xosd/packages/xBar_0/mongon.xml	s340	Multi-screen display	Mehrfachbildanzeige
+xosd/packages/xBar_0/mongon.xml	s341	Search first program	Erstes Programm suchen
+xosd/packages/xBar_0/mongon.xml	s342	Search previous program	Vorheriges Programm suchen
+xosd/packages/xBar_0/mongon.xml	s343	Search next program	Nächstes Programm suchen
+xosd/packages/xBar_0/mongon.xml	s344	End picture memory	Bildspeicher beenden
+xosd/packages/xBar_0/mongon.xml	s345	Store picture memory	Bildspeicher sichern
+xosd/packages/xBar_0/mongon.xml	s346	Change the parental control level	Kindersicherungsstufe ändern
+xosd/packages/xBar_0/mongon.xml	s347	No PSC error	Kein PSC-Fehler
+xosd/packages/xBar_0/mongon.xml	s348	RESUME OFF	FORTSETZEN AUS
+xosd/packages/xBar_0/mongon.xml	s349	RESUME ON	FORTSETZEN EIN
+xosd/packages/xBar_0/mongon.xml	s350	End chapter scan	Kapitelvorschau beenden
+xosd/packages/xBar_0/mongon.xml	s351	Chapter scan failed	Kapitelvorschau fehlgeschlagen
+xosd/packages/xBar_0/mongon.xml	s352	Chapter scan failed (end)	Kapitelvorschau fehlgeschlagen (Ende)
+xosd/packages/xBar_0/mongon.xml	s353	Chapter scan display	Kapitelsuchlauf-Anzeige
+xosd/packages/xBar_0/mongon.xml	s354	Parental control level set	Kindersicherungsstufe gesetzt
+xosd/packages/xBar_0/mongon.xml	s355	Stopped	Gestoppt
+xosd/packages/xBar_0/mongon.xml	s356	VIEWER RESUME	VIEWER FORTSETZEN
+xosd/packages/xBar_0/mongon.xml	s357	VIEWER TITLE	VIEWER-TITEL
+xosd/packages/xBar_0/mongon.xml	s358	PLAY MODE CLEAR	WIEDERGABEMODUS ZURÜCK
+xosd/packages/xBar_0/mongon.xml	s359	Repeat off	Wiederholen aus
+xosd/packages/xBar_0/mongon.xml	s360	Repeat input	Wiederholung eingeben
+xosd/packages/xBar_0/mongon.xml	s361	DISC repeat	DISC wiederholen
+xosd/packages/xBar_0/mongon.xml	s362	TITLE repeat	TITEL wiederholen
+xosd/packages/xBar_0/mongon.xml	s363	CHAPTER repeat	KAPITEL wiederholen
+xosd/packages/xBar_0/mongon.xml	s364	PSC error.	PSC-Fehler.
+xosd/packages/xBar_0/mongon.xml	s365	Cannot read the disc.	Disc kann nicht gelesen werden.
+xosd/packages/xBar_0/mongon.xml	s366	Playback stopped due to an error.	Wiedergabe wegen eines Fehlers gestoppt.
+xosd/packages/xBar_0/mongon.xml	s367	Invalid disc format.	Ungültiges Disc-Format.
+xosd/packages/xBar_0/mongon.xml	s368	The specified chapter is not valid.	Das angegebene Kapitel ist ungültig.
+xosd/packages/xBar_0/mongon.xml	s369	The specified time is invalid.	Die angegebene Zeit ist ungültig.
+xosd/packages/xBar_0/mongon.xml	s370	The specified title is not valid.	Der angegebene Titel ist ungültig.
+xosd/packages/xBar_0/mongon.xml	s371	The specified value is invalid.	Der angegebene Wert ist ungültig.
+xosd/packages/xBar_0/mongon.xml	s372	The following program is invalid.	Die folgende Sendung ist ungültig.
+xosd/packages/xBar_0/mongon.xml	s373	The following program does not match.	Die folgende Sendung stimmt nicht überein.
+xosd/packages/xBar_0/mongon.xml	s374	There is no audio.	Kein Ton vorhanden.
+xosd/packages/xBar_0/mongon.xml	s375	There is no menu.	Kein Menü vorhanden.
+xosd/packages/xBar_0/mongon.xml	s376	There are no subtitles on this disc.	Keine Untertitel auf dieser Disc.
+xosd/packages/xBar_0/mongon.xml	s377	There are no angles.	Keine Kamerawinkel vorhanden.
+xosd/packages/xBar_0/mongon.xml	s378	Resume is prohibited.	Fortsetzen ist gesperrt.
+xosd/packages/xBar_0/mongon.xml	s379	This operation is not available for this disc.	Bei dieser Disc nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s380	Cannot play because playback is restricted.	Wiedergabe eingeschränkt, nicht abspielbar.
+xosd/packages/xBar_0/mongon.xml	s381	Program search error.	Fehler bei der Programmsuche.
+xosd/packages/xBar_0/mongon.xml	s382	This play mode cannot be used.	Dieser Wiedergabemodus ist nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s383	The previous program is invalid.	Die vorherige Sendung ist ungültig.
+xosd/packages/xBar_0/mongon.xml	s384	The previous program does not match.	Die vorherige Sendung stimmt nicht überein.
+xosd/packages/xBar_0/mongon.xml	s385	This operation is not available for this disc.	Bei dieser Disc nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s386	This operation is not available for this title.	Bei diesem Titel nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s387	Chapter search error.	Fehler bei der Kapitelsuche.
+xosd/packages/xBar_0/mongon.xml	s388	Playback of this disc is prohibited by region restriction.	Wiedergabe wegen Regionalcode gesperrt.
+xosd/packages/xBar_0/mongon.xml	s389	Stop is prohibited.	Stopp ist gesperrt.
+xosd/packages/xBar_0/mongon.xml	s390	Time display is prohibited.	Zeitanzeige ist gesperrt.
+xosd/packages/xBar_0/mongon.xml	s391	The TV system is different.	Anderes TV-System.
+xosd/packages/xBar_0/mongon.xml	s392	User operation is prohibited.	Bedienung ist gesperrt.
+xosd/packages/xBar_0/mongon.xml	s393	VIEWER is not available for this disc.	VIEWER bei dieser Disc nicht verfügbar.
+xosd/packages/xBar_0/mongon.xml	s394	VIEWER is not available for this title.	VIEWER bei diesem Titel nicht verfügbar.
+xosd/packages/xBar_0/mongon.xml	s395	VIEWER prohibited.	VIEWER nicht zulässig.
+xosd/packages/xBar_0/mongon.xml	s396	No disc inserted.	Keine Disc eingelegt.
+xosd/packages/xBar_0/mongon.xml	s397	There is only one audio track.	Nur eine Tonspur vorhanden.
+xosd/packages/xBar_0/mongon.xml	s398	Playback stopped due to an error.	Wiedergabe wegen eines Fehlers gestoppt.
+xosd/packages/xBar_0/mongon.xml	s399	This disc cannot be played.	Diese Disc kann nicht abgespielt werden.
+xosd/packages/xBar_0/mongon.xml	s400	Cannot play because playback is restricted.	Wiedergabe eingeschränkt, nicht abspielbar.
+xosd/packages/xBar_0/mongon.xml	s401	Core initialization error.	Fehler bei der Core-Initialisierung.
+xosd/packages/xBar_0/mongon.xml	s402	HDD read error.	HDD-Lesefehler.
+xosd/packages/xBar_0/mongon.xml	s403	Memory allocation error.	Speicherzuweisungsfehler.
+xosd/packages/xBar_0/mongon.xml	s404	BUSY time-out.	BUSY-Zeitüberschreitung.
+xosd/packages/xBar_0/mongon.xml	s405	Could not play.<CRLF>Turn the power off and on again.	Wiedergabe nicht möglich.<CRLF>Gerät aus- und wieder einschalten.
+xosd/packages/xBar_0/mongon.xml	s406	HDD read error.	HDD-Lesefehler.
+xosd/packages/xBar_0/mongon.xml	s407	Could not play.<CRLF>Turn the power off and on again.	Wiedergabe nicht möglich.<CRLF>Gerät aus- und wieder einschalten.
+xosd/packages/xBar_0/mongon.xml	s408	Could not play.<CRLF>Turn the power off and on again.	Wiedergabe nicht möglich.<CRLF>Gerät aus- und wieder einschalten.
+xosd/packages/xBar_0/mongon.xml	s409	Abnormal playback (no message)	Fehlerhafte Wiedergabe (keine Meldung)
+xosd/packages/xBar_0/mongon.xml	s410	The angle cannot be changed just before an angle block.	Winkel kann direkt vor einem Winkelblock nicht geändert werden.
+xosd/packages/xBar_0/mongon.xml	s411	Next time, playback will resume from here.	Beim nächsten Mal wird hier fortgesetzt.
+xosd/packages/xBar_0/mongon.xml	s412	Cannot play due to temporary deletion (no message)	Wegen vorläufiger Löschung nicht abspielbar (keine Meldung)
+xosd/packages/xBar_0/mongon.xml	s413	Error code: TERMINATE	Fehlercode: TERMINATE
+xosd/packages/xBar_0/mongon.xml	s414	Registered as thumbnail.	Als Miniaturbild gespeichert.
+xosd/packages/xBar_0/mongon.xml	s415	Cannot register because it is protected.	Geschützt, Speichern nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s416	Setting a mark.	Marke wird gesetzt.
+xosd/packages/xBar_0/mongon.xml	s417	This operation cannot be performed.	Dieser Vorgang ist nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s418	Japanese	Japanisch
+xosd/packages/xBar_0/mongon.xml	s419	English	Englisch
+xosd/packages/xBar_0/mongon.xml	s420	Chinese	Chinesisch
+xosd/packages/xBar_0/mongon.xml	s421	German	Deutsch
+xosd/packages/xBar_0/mongon.xml	s422	French	Französisch
+xosd/packages/xBar_0/mongon.xml	s423	Italian	Italienisch
+xosd/packages/xBar_0/mongon.xml	s424	Spanish	Spanisch
+xosd/packages/xBar_0/mongon.xml	s425	Portuguese	Portugiesisch
+xosd/packages/xBar_0/mongon.xml	s426	Dutch	Niederländisch
+xosd/packages/xBar_0/mongon.xml	s427	Danish	Dänisch
+xosd/packages/xBar_0/mongon.xml	s428	Swedish	Schwedisch
+xosd/packages/xBar_0/mongon.xml	s429	Finnish	Finnisch
+xosd/packages/xBar_0/mongon.xml	s430	Norwegian	Norwegisch
+xosd/packages/xBar_0/mongon.xml	s431	Russian	Russisch
+xosd/packages/xBar_0/mongon.xml	s432	Korean	Koreanisch
+xosd/packages/xBar_0/mongon.xml	s434	Abkhazian	Abchasisch
+xosd/packages/xBar_0/mongon.xml	s436	Amharic	Amharisch
+xosd/packages/xBar_0/mongon.xml	s437	Arabic	Arabisch
+xosd/packages/xBar_0/mongon.xml	s438	Assamese	Assamesisch
+xosd/packages/xBar_0/mongon.xml	s440	Azerbaijani	Aserbaidschanisch
+xosd/packages/xBar_0/mongon.xml	s441	Bashkir	Baschkirisch
+xosd/packages/xBar_0/mongon.xml	s442	Byelorussian	Weißrussisch
+xosd/packages/xBar_0/mongon.xml	s443	Bulgarian	Bulgarisch
+xosd/packages/xBar_0/mongon.xml	s446	Bengali; Bangla	Bengalisch
+xosd/packages/xBar_0/mongon.xml	s447	Tibetan	Tibetisch
+xosd/packages/xBar_0/mongon.xml	s448	Breton	Bretonisch
+xosd/packages/xBar_0/mongon.xml	s449	Catalan	Katalanisch
+xosd/packages/xBar_0/mongon.xml	s450	Corsican	Korsisch
+xosd/packages/xBar_0/mongon.xml	s451	Czech	Tschechisch
+xosd/packages/xBar_0/mongon.xml	s452	Welsh	Walisisch
+xosd/packages/xBar_0/mongon.xml	s453	Danish	Dänisch
+xosd/packages/xBar_0/mongon.xml	s454	German	Deutsch
+xosd/packages/xBar_0/mongon.xml	s455	Bhutani	Bhutanisch
+xosd/packages/xBar_0/mongon.xml	s456	Greek	Griechisch
+xosd/packages/xBar_0/mongon.xml	s457	English	Englisch
+xosd/packages/xBar_0/mongon.xml	s459	Spanish	Spanisch
+xosd/packages/xBar_0/mongon.xml	s460	Estonian	Estnisch
+xosd/packages/xBar_0/mongon.xml	s461	Basque	Baskisch
+xosd/packages/xBar_0/mongon.xml	s462	Persian	Persisch
+xosd/packages/xBar_0/mongon.xml	s463	Finnish	Finnisch
+xosd/packages/xBar_0/mongon.xml	s464	Fiji	Fidschi
+xosd/packages/xBar_0/mongon.xml	s465	Faroese	Färöisch
+xosd/packages/xBar_0/mongon.xml	s466	French	Französisch
+xosd/packages/xBar_0/mongon.xml	s467	Frisian	Friesisch
+xosd/packages/xBar_0/mongon.xml	s468	Irish	Irisch
+xosd/packages/xBar_0/mongon.xml	s469	Scots Gaelic	Schottisch-Gälisch
+xosd/packages/xBar_0/mongon.xml	s470	Galician	Galicisch
+xosd/packages/xBar_0/mongon.xml	s471	Guarani	Guaraní
+xosd/packages/xBar_0/mongon.xml	s475	Croatian	Kroatisch
+xosd/packages/xBar_0/mongon.xml	s476	Hungarian	Ungarisch
+xosd/packages/xBar_0/mongon.xml	s477	Armenian	Armenisch
+xosd/packages/xBar_0/mongon.xml	s481	Indonesian	Indonesisch
+xosd/packages/xBar_0/mongon.xml	s482	Icelandic	Isländisch
+xosd/packages/xBar_0/mongon.xml	s483	Italian	Italienisch
+xosd/packages/xBar_0/mongon.xml	s484	Hebrew	Hebräisch
+xosd/packages/xBar_0/mongon.xml	s485	Japanese	Japanisch
+xosd/packages/xBar_0/mongon.xml	s486	Yiddish	Jiddisch
+xosd/packages/xBar_0/mongon.xml	s487	Javanese	Javanisch
+xosd/packages/xBar_0/mongon.xml	s488	Georgian	Georgisch
+xosd/packages/xBar_0/mongon.xml	s489	Kazakh	Kasachisch
+xosd/packages/xBar_0/mongon.xml	s490	Greenlandic	Grönländisch
+xosd/packages/xBar_0/mongon.xml	s491	Cambodian	Kambodschanisch
+xosd/packages/xBar_0/mongon.xml	s493	Korean	Koreanisch
+xosd/packages/xBar_0/mongon.xml	s494	Kashmiri	Kaschmiri
+xosd/packages/xBar_0/mongon.xml	s495	Kurdish	Kurdisch
+xosd/packages/xBar_0/mongon.xml	s496	Kirghiz	Kirgisisch
+xosd/packages/xBar_0/mongon.xml	s497	Latin	Latein
+xosd/packages/xBar_0/mongon.xml	s499	Laothian	Laotisch
+xosd/packages/xBar_0/mongon.xml	s500	Lithuanian	Litauisch
+xosd/packages/xBar_0/mongon.xml	s501	Latvian	Lettisch
+xosd/packages/xBar_0/mongon.xml	s504	Macedonian	Mazedonisch
+xosd/packages/xBar_0/mongon.xml	s506	Mongolian	Mongolisch
+xosd/packages/xBar_0/mongon.xml	s507	Moldavian	Moldauisch
+xosd/packages/xBar_0/mongon.xml	s508	Marathi	Marthi
+xosd/packages/xBar_0/mongon.xml	s509	Malay	Malaiisch
+xosd/packages/xBar_0/mongon.xml	s510	Maltese	Maltesisch
+xosd/packages/xBar_0/mongon.xml	s511	Burmese	Birmanisch
+xosd/packages/xBar_0/mongon.xml	s512	Nauruan	Nauruisch
+xosd/packages/xBar_0/mongon.xml	s513	Nepali	Nepalesisch
+xosd/packages/xBar_0/mongon.xml	s514	Dutch	Niederländisch
+xosd/packages/xBar_0/mongon.xml	s515	Norwegian	Norwegisch
+xosd/packages/xBar_0/mongon.xml	s516	Occitan	Okzitanisch
+xosd/packages/xBar_0/mongon.xml	s517	(Afan) Oromo	(Afan),Oromo
+xosd/packages/xBar_0/mongon.xml	s519	Punjabi	Pandschabi
+xosd/packages/xBar_0/mongon.xml	s520	Polish	Polnisch
+xosd/packages/xBar_0/mongon.xml	s521	Pashto	Paschtu
+xosd/packages/xBar_0/mongon.xml	s522	Portuguese	Portugiesisch
+xosd/packages/xBar_0/mongon.xml	s524	Rhaeto-Romance	Rätoromanisch
+xosd/packages/xBar_0/mongon.xml	s526	Romanian	Rumänisch
+xosd/packages/xBar_0/mongon.xml	s527	Russian	Russisch
+xosd/packages/xBar_0/mongon.xml	s532	Serbo-Croatian	Serbokroatisch
+xosd/packages/xBar_0/mongon.xml	s533	Singhalese	Singhalesisch
+xosd/packages/xBar_0/mongon.xml	s534	Slovak	Slowakisch
+xosd/packages/xBar_0/mongon.xml	s535	Slovenian	Slowenisch
+xosd/packages/xBar_0/mongon.xml	s536	Samoan	Samoanisch
+xosd/packages/xBar_0/mongon.xml	s539	Albanian	Albanisch
+xosd/packages/xBar_0/mongon.xml	s540	Serbian	Serbisch
+xosd/packages/xBar_0/mongon.xml	s543	Sundanese	Sundanesisch
+xosd/packages/xBar_0/mongon.xml	s544	Swedish	Schwedisch
+xosd/packages/xBar_0/mongon.xml	s545	Swahili	Suaheli
+xosd/packages/xBar_0/mongon.xml	s548	Tajik	Tadschikisch
+xosd/packages/xBar_0/mongon.xml	s549	Thai	Thailändisch
+xosd/packages/xBar_0/mongon.xml	s551	Turkmen	Turkmenisch
+xosd/packages/xBar_0/mongon.xml	s554	Tonga	Tongaisch
+xosd/packages/xBar_0/mongon.xml	s555	Turkish	Türkisch
+xosd/packages/xBar_0/mongon.xml	s557	Tatar	Tatarisch
+xosd/packages/xBar_0/mongon.xml	s559	Ukrainian	Ukrainisch
+xosd/packages/xBar_0/mongon.xml	s561	Uzbek	Usbekisch
+xosd/packages/xBar_0/mongon.xml	s562	Vietnamese	Vietnamesisch
+xosd/packages/xBar_0/mongon.xml	s567	Chinese	Chinesisch
+xosd/packages/xBar_0/mongon.xml	s569	Japanese	Japanisch
+xosd/packages/xBar_0/mongon.xml	s570	English	Englisch
+xosd/packages/xBar_0/mongon.xml	s571	Chinese	Chinesisch
+xosd/packages/xBar_0/mongon.xml	s572	German	Deutsch
+xosd/packages/xBar_0/mongon.xml	s573	French	Französisch
+xosd/packages/xBar_0/mongon.xml	s574	Italian	Italienisch
+xosd/packages/xBar_0/mongon.xml	s575	Spanish	Spanisch
+xosd/packages/xBar_0/mongon.xml	s576	Portuguese	Portugiesisch
+xosd/packages/xBar_0/mongon.xml	s577	Dutch	Niederländisch
+xosd/packages/xBar_0/mongon.xml	s578	Danish	Dänisch
+xosd/packages/xBar_0/mongon.xml	s579	Swedish	Schwedisch
+xosd/packages/xBar_0/mongon.xml	s580	Finnish	Finnisch
+xosd/packages/xBar_0/mongon.xml	s581	Norwegian	Norwegisch
+xosd/packages/xBar_0/mongon.xml	s582	Russian	Russisch
+xosd/packages/xBar_0/mongon.xml	s583	Korean	Koreanisch
+xosd/packages/xBar_0/mongon.xml	s586	Abkhazian	Abchasisch
+xosd/packages/xBar_0/mongon.xml	s588	Amharic	Amharisch
+xosd/packages/xBar_0/mongon.xml	s589	Arabic	Arabisch
+xosd/packages/xBar_0/mongon.xml	s590	Assamese	Assamesisch
+xosd/packages/xBar_0/mongon.xml	s592	Azerbaijani	Aserbaidschanisch
+xosd/packages/xBar_0/mongon.xml	s593	Bashkir	Baschkirisch
+xosd/packages/xBar_0/mongon.xml	s594	Byelorussian	Weißrussisch
+xosd/packages/xBar_0/mongon.xml	s595	Bulgarian	Bulgarisch
+xosd/packages/xBar_0/mongon.xml	s598	Bengali; Bangla	Bengalisch
+xosd/packages/xBar_0/mongon.xml	s599	Tibetan	Tibetisch
+xosd/packages/xBar_0/mongon.xml	s600	Breton	Bretonisch
+xosd/packages/xBar_0/mongon.xml	s601	Catalan	Katalanisch
+xosd/packages/xBar_0/mongon.xml	s602	Corsican	Korsisch
+xosd/packages/xBar_0/mongon.xml	s603	Czech	Tschechisch
+xosd/packages/xBar_0/mongon.xml	s604	Welsh	Walisisch
+xosd/packages/xBar_0/mongon.xml	s605	Danish	Dänisch
+xosd/packages/xBar_0/mongon.xml	s606	German	Deutsch
+xosd/packages/xBar_0/mongon.xml	s607	Bhutani	Bhutanisch
+xosd/packages/xBar_0/mongon.xml	s608	Greek	Griechisch
+xosd/packages/xBar_0/mongon.xml	s609	English	Englisch
+xosd/packages/xBar_0/mongon.xml	s611	Spanish	Spanisch
+xosd/packages/xBar_0/mongon.xml	s612	Estonian	Estnisch
+xosd/packages/xBar_0/mongon.xml	s613	Basque	Baskisch
+xosd/packages/xBar_0/mongon.xml	s614	Persian	Persisch
+xosd/packages/xBar_0/mongon.xml	s615	Finnish	Finnisch
+xosd/packages/xBar_0/mongon.xml	s616	Fiji	Fidschi
+xosd/packages/xBar_0/mongon.xml	s617	Faroese	Färöisch
+xosd/packages/xBar_0/mongon.xml	s618	French	Französisch
+xosd/packages/xBar_0/mongon.xml	s619	Frisian	Friesisch
+xosd/packages/xBar_0/mongon.xml	s620	Irish	Irisch
+xosd/packages/xBar_0/mongon.xml	s621	Scots Gaelic	Schottisch-Gälisch
+xosd/packages/xBar_0/mongon.xml	s622	Galician	Galicisch
+xosd/packages/xBar_0/mongon.xml	s623	Guarani	Guaraní
+xosd/packages/xBar_0/mongon.xml	s627	Croatian	Kroatisch
+xosd/packages/xBar_0/mongon.xml	s628	Hungarian	Ungarisch
+xosd/packages/xBar_0/mongon.xml	s629	Armenian	Armenisch
+xosd/packages/xBar_0/mongon.xml	s633	Indonesian	Indonesisch
+xosd/packages/xBar_0/mongon.xml	s634	Icelandic	Isländisch
+xosd/packages/xBar_0/mongon.xml	s635	Italian	Italienisch
+xosd/packages/xBar_0/mongon.xml	s636	Hebrew	Hebräisch
+xosd/packages/xBar_0/mongon.xml	s637	Japanese	Japanisch
+xosd/packages/xBar_0/mongon.xml	s638	Yiddish	Jiddisch
+xosd/packages/xBar_0/mongon.xml	s639	Javanese	Javanisch
+xosd/packages/xBar_0/mongon.xml	s640	Georgian	Georgisch
+xosd/packages/xBar_0/mongon.xml	s641	Kazakh	Kasachisch
+xosd/packages/xBar_0/mongon.xml	s642	Greenlandic	Grönländisch
+xosd/packages/xBar_0/mongon.xml	s643	Cambodian	Kambodschanisch
+xosd/packages/xBar_0/mongon.xml	s645	Korean	Koreanisch
+xosd/packages/xBar_0/mongon.xml	s646	Kashmiri	Kaschmiri
+xosd/packages/xBar_0/mongon.xml	s647	Kurdish	Kurdisch
+xosd/packages/xBar_0/mongon.xml	s648	Kirghiz	Kirgisisch
+xosd/packages/xBar_0/mongon.xml	s649	Latin	Latein
+xosd/packages/xBar_0/mongon.xml	s651	Laothian	Laotisch
+xosd/packages/xBar_0/mongon.xml	s652	Lithuanian	Litauisch
+xosd/packages/xBar_0/mongon.xml	s653	Latvian	Lettisch
+xosd/packages/xBar_0/mongon.xml	s656	Macedonian	Mazedonisch
+xosd/packages/xBar_0/mongon.xml	s658	Mongolian	Mongolisch
+xosd/packages/xBar_0/mongon.xml	s659	Moldavian	Moldauisch
+xosd/packages/xBar_0/mongon.xml	s660	Marathi	Marthi
+xosd/packages/xBar_0/mongon.xml	s661	Malay	Malaiisch
+xosd/packages/xBar_0/mongon.xml	s662	Maltese	Maltesisch
+xosd/packages/xBar_0/mongon.xml	s663	Burmese	Birmanisch
+xosd/packages/xBar_0/mongon.xml	s664	Nauruan	Nauruisch
+xosd/packages/xBar_0/mongon.xml	s665	Nepali	Nepalesisch
+xosd/packages/xBar_0/mongon.xml	s666	Dutch	Niederländisch
+xosd/packages/xBar_0/mongon.xml	s667	Norwegian	Norwegisch
+xosd/packages/xBar_0/mongon.xml	s668	Occitan	Okzitanisch
+xosd/packages/xBar_0/mongon.xml	s669	(Afan) Oromo	(Afan),Oromo
+xosd/packages/xBar_0/mongon.xml	s671	Punjabi	Pandschabi
+xosd/packages/xBar_0/mongon.xml	s672	Polish	Polnisch
+xosd/packages/xBar_0/mongon.xml	s673	Pashto	Paschtu
+xosd/packages/xBar_0/mongon.xml	s674	Portuguese	Portugiesisch
+xosd/packages/xBar_0/mongon.xml	s676	Rhaeto-Romance	Rätoromanisch
+xosd/packages/xBar_0/mongon.xml	s678	Romanian	Rumänisch
+xosd/packages/xBar_0/mongon.xml	s679	Russian	Russisch
+xosd/packages/xBar_0/mongon.xml	s684	Serbo-Croatian	Serbokroatisch
+xosd/packages/xBar_0/mongon.xml	s685	Singhalese	Singhalesisch
+xosd/packages/xBar_0/mongon.xml	s686	Slovak	Slowakisch
+xosd/packages/xBar_0/mongon.xml	s687	Slovenian	Slowenisch
+xosd/packages/xBar_0/mongon.xml	s688	Samoan	Samoanisch
+xosd/packages/xBar_0/mongon.xml	s691	Albanian	Albanisch
+xosd/packages/xBar_0/mongon.xml	s692	Serbian	Serbisch
+xosd/packages/xBar_0/mongon.xml	s695	Sundanese	Sundanesisch
+xosd/packages/xBar_0/mongon.xml	s696	Swedish	Schwedisch
+xosd/packages/xBar_0/mongon.xml	s697	Swahili	Suaheli
+xosd/packages/xBar_0/mongon.xml	s700	Tajik	Tadschikisch
+xosd/packages/xBar_0/mongon.xml	s701	Thai	Thailändisch
+xosd/packages/xBar_0/mongon.xml	s703	Turkmen	Turkmenisch
+xosd/packages/xBar_0/mongon.xml	s706	Tonga	Tongaisch
+xosd/packages/xBar_0/mongon.xml	s707	Turkish	Türkisch
+xosd/packages/xBar_0/mongon.xml	s709	Tatar	Tatarisch
+xosd/packages/xBar_0/mongon.xml	s711	Ukrainian	Ukrainisch
+xosd/packages/xBar_0/mongon.xml	s713	Uzbek	Usbekisch
+xosd/packages/xBar_0/mongon.xml	s714	Vietnamese	Vietnamesisch
+xosd/packages/xBar_0/mongon.xml	s719	Chinese	Chinesisch
+xosd/packages/xBar_0/mongon.xml	s721	America	Amerika
+xosd/packages/xBar_0/mongon.xml	s722	United Kingdom	Vereinigtes Königreich
+xosd/packages/xBar_0/mongon.xml	s723	Italy	Italien
+xosd/packages/xBar_0/mongon.xml	s724	Indonesia	Indonesien
+xosd/packages/xBar_0/mongon.xml	s725	Austria	Österreich
+xosd/packages/xBar_0/mongon.xml	s726	Netherlands	Niederlande
+xosd/packages/xBar_0/mongon.xml	s727	Canada	Kanada
+xosd/packages/xBar_0/mongon.xml	s728	Singapore	Singapur
+xosd/packages/xBar_0/mongon.xml	s729	Switzerland	Schweiz
+xosd/packages/xBar_0/mongon.xml	s730	Sweden	Schweden
+xosd/packages/xBar_0/mongon.xml	s731	Spain	Spanien
+xosd/packages/xBar_0/mongon.xml	s735	Denmark	Dänemark
+xosd/packages/xBar_0/mongon.xml	s736	Germany	Deutschland
+xosd/packages/xBar_0/mongon.xml	s738	Norway	Norwegen
+xosd/packages/xBar_0/mongon.xml	s739	Philippines	Philippinen
+xosd/packages/xBar_0/mongon.xml	s740	Finland	Finnland
+xosd/packages/xBar_0/mongon.xml	s741	France	Frankreich
+xosd/packages/xBar_0/mongon.xml	s742	Belgium	Belgien
+xosd/packages/xBar_0/mongon.xml	s743	Hong Kong	Hongkong
+xosd/packages/xBar_0/mongon.xml	s745	Russia	Russland
+xosd/packages/xBar_0/mongon.xml	s746	Optimization	Optimierung
+xosd/packages/xBar_0/mongon.xml	s748	Optimizing.<CRLF>Timer recording cannot start during optimization.	Optimierung läuft.<CRLF>Während der Optimierung startet keine Timer-Aufnahme.
+xosd/packages/xBar_0/mongon.xml	s749	Set the recording mode after optimization.<CRLF>A higher quality than the original is not possible.	Aufnahmemodus nach der Optimierung wählen.<CRLF>Höhere Qualität als das Original ist nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s750	Sets how main + sub audio recorded on DVD-RW (Video mode) or DVD-R<CRLF>is dubbed to DVD+RW discs.	Legt fest, wie Haupt- + Nebenton von DVD-RW (Video) oder DVD-R<CRLF>auf DVD+RW überspielt wird.
+xosd/packages/xBar_0/mongon.xml	s751	Sets whether edited parts are kept in the title after optimization.<CRLF>Even if you select Keep, chapters and edit settings are<CRLF>not kept in the optimized title.	Legt fest, ob bearbeitete Teile nach der Optimierung erhalten bleiben.<CRLF>Auch bei „Behalten“ bleiben Kapitel und Bearbeitungen<CRLF>im optimierten Titel nicht erhalten.
+xosd/packages/xBar_0/mongon.xml	s752	Sets whether the original title is kept after optimization.	Legt fest, ob der Originaltitel nach der Optimierung erhalten bleibt.
+xosd/packages/xBar_0/mongon.xml	s753	Save	Speichern
+xosd/packages/xBar_0/mongon.xml	s754	Delete	Löschen
+xosd/packages/xBar_0/mongon.xml	s755	Optimization will now start.<CRLF>Until it finishes	Die Optimierung startet jetzt.<CRLF>Bis zum Ende
+xosd/packages/xBar_0/mongon.xml	s756	Will take.	Dauert.
+xosd/packages/xBar_0/mongon.xml	s757	A timer recording is scheduled.<CRLF>Timer recording cannot start during optimization.	Eine Timer-Aufnahme ist geplant.<CRLF>Während der Optimierung startet keine Timer-Aufnahme.
+xosd/packages/xBar_0/mongon.xml	s758	Start optimizing this title?	Optimierung dieses Titels starten?
+xosd/packages/xBar_0/mongon.xml	s759	Timer recording has started.<CRLF>The optimization will be stopped.	Timer-Aufnahme hat begonnen.<CRLF>Die Optimierung wird beendet.
+xosd/packages/xBar_0/mongon.xml	s760	Hour	Stunde
+xosd/packages/xBar_0/mongon.xml	s761	min	Min.
+xosd/packages/xBar_0/mongon.xml	s762	Second	Sekunde
+xosd/packages/xBar_0/mongon.xml	s763	Time	Zeit
+xosd/packages/xBar_0/mongon.xml	s764	About	Ca.
+xosd/packages/xBar_0/mongon.xml	s765	Same setting as the original title.	Gleiche Einstellung wie der Originaltitel.
+xosd/packages/xBar_0/mongon.xml	s766	If a copy-once signal is included,<CRLF>a blue screen is recorded.	Enthält das Signal einen Kopierschutz (einmal kopieren),<CRLF>wird ein blauer Bildschirm aufgenommen.
+xosd/packages/xBar_0/mongon.xml	s767	（for DVD+RW）	（für DVD+RW）
+xosd/packages/xBar_0/mongon.xml	s768	The title list is full.<CRLF>To optimize, you must delete a title.	Die Titelliste ist voll.<CRLF>Zum Optimieren bitte einen Titel löschen.
+xosd/packages/xBar_0/mongon.xml	s769	A timer recording has started or is being prepared.<CRLF>Optimization cannot start.	Eine Timer-Aufnahme läuft oder wird vorbereitet.<CRLF>Optimierung nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s770	Not enough hard disk space.<CRLF>Optimization cannot start.	Nicht genug Festplattenspeicher.<CRLF>Optimierung nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s771	Failed to start optimization.	Optimierung konnte nicht gestartet werden.
+xosd/packages/xBar_0/mongon.xml	s772	Aborted.	Abgebrochen.
+xosd/packages/xBar_0/mongon.xml	s773	Could not create the DVD.	DVD konnte nicht erstellt werden.
+xosd/packages/xBar_0/mongon.xml	s774	%$3:Menu template '%3$s' not found.	%$3:Menüvorlage '%3$s' nicht gefunden.
+xosd/packages/xBar_0/mongon.xml	s775	%$3:Menu template '%3$s' has no item %1$s.	%$3:Menüvorlage '%3$s' hat kein Element %1$s.
+xosd/packages/xBar_0/mongon.xml	s776	Recording. Cannot encode.	Aufnahme läuft. Kodieren nicht möglich.
+xosd/packages/xBar_0/mongon.xml	s777	The DVD drive is in use.	Das DVD-Laufwerk wird verwendet.
+xosd/packages/xBar_0/mongon.xml	s778	Playing.	Wiedergabe läuft.
+xosd/packages/xBar_0/mongon.xml	s779	No session to finalize was specified.	Keine abzuschließende Sitzung angegeben.
+xosd/packages/xBar_0/mongon.xml	s780	%$3:Session to finalize '%3$s' is invalid.	%$3:Abzuschließende Sitzung '%3$s' ist ungültig.
+xosd/packages/xBar_0/mongon.xml	s781	8 cm discs are not supported.	8-cm-Discs werden nicht unterstützt.
+xosd/packages/xBar_0/mongon.xml	s782	Unknown disc size.	Unbekannte Disc-Größe.
+xosd/packages/xBar_0/mongon.xml	s783	Cannot access the DVD burner drive.	Kein Zugriff auf den DVD-Brenner.
+xosd/packages/xBar_0/mongon.xml	s784	A timer recording has priority.	Eine Timer-Aufnahme hat Vorrang.
+xosd/packages/xBar_0/mongon.xml	s785	Could not stop the recording.	Aufnahme konnte nicht gestoppt werden.
+xosd/packages/xBar_0/mongon.xml	s786	DVD burner	DVD-Brenner
+xosd/packages/xBar_0/mongon.xml	s787	DVD driver error	DVD-Treiberfehler
+xosd/packages/xBar_0/mongon.xml	s788	Unknown DVD status.	Unbekannter DVD-Status.
+xosd/packages/xBar_0/mongon.xml	s789	The tray does not close.	Die Lade schließt nicht.
+xosd/packages/xBar_0/mongon.xml	s790	ATAPI driver	ATAPI-Treiber
+xosd/packages/xBar_0/mongon.xml	s791	Cannot load the library.	Bibliothek kann nicht geladen werden.
+xosd/packages/xBar_0/mongon.xml	s792	Authoring error	Authoring-Fehler
+xosd/packages/xBar_0/mongon.xml	s793	Cannot read the DVD status.	DVD-Status nicht lesbar.
+xosd/packages/xBar_0/mongon.xml	s794	Failed to get the DVD status.	DVD-Status konnte nicht ermittelt werden.
+xosd/packages/xBar_0/mongon.xml	s795	Failed to initialize the DVD.	DVD-Initialisierung fehlgeschlagen.
+xosd/packages/xBar_0/mongon.xml	s796	Failed to release the DVD finalization.	Aufheben des DVD-Abschlusses fehlgeschlagen.
+xosd/packages/xBar_0/mongon.xml	s797	Cannot write the title to the DVD.	Titel kann nicht auf DVD geschrieben werden.
+xosd/packages/xBar_0/mongon.xml	s798	Failed to finalize the DVD.	DVD-Abschluss fehlgeschlagen.
+xosd/packages/xBar_0/mongon.xml	s799	Authoring component	Authoring-Komponente
+xosd/packages/xBar_0/mongon.xml	s800	ATAPI error	ATAPI-Fehler
+xosd/packages/xBar_0/mongon.xml	s801	Unknown DVD status.	Unbekannter DVD-Status.
+xosd/packages/xBar_0/mongon.xml	s802	The tray does not close.	Die Lade schließt nicht.
+xosd/packages/xBar_0/mongon.xml	s803	ATAPI protocol	ATAPI-Protokoll
+xosd/packages/xBar_0/mongon.xml	s804	DVD access	DVD-Zugriff

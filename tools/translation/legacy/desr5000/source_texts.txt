@@ -1,0 +1,1037 @@
+## xosd/packages/barc_0/barc.xml
+1	Return
+2	The disc space 100%
+3	There is no data.
+4	There is no track.
+5	There is no photo.
+6	Open
+7	Rotation (left)
+8	Rotation (right)
+9	Digital camera
+10	Memory Stick
+11	Music CD
+12	DVD
+13	Busy is the.
+14	Video
+15	TV
+## xosd/packages/Config_0/ConfigAboutPSX.xml
+16	lol
+17	The PSX and Playstation
+18	Is a registered trademark of Sony Computer Entertainment Inc..
+19	MagicGate,MEMORY STICK, ATRAC3, ATRAC3plus, OpenMG
+20	And also Memory Stick logo, each,
+21	Are trademarks or registered trademarks of Sony Corporation.
+22	DTS and DTS Digital Out are trademarks of Digital Theater Systems, Inc.
+23	This software is based in part of the work of the FreeType Team.
+24	ATOK is a registered trademark of Netscape Communications Corporation.
+25	This product incorporates copyright protection technology, Macrovision Corporation and other rights owners
+26	And are protected by U.S. patents and other intellectual property rights. Use of this copyright protection technology,
+27	In addition, must be authorized by Macrovision, and household unless otherwise authorized by Macrovision
+28	It is limited to the use of appreciation for some of the other. And decomposition, be modified also forbidden.
+29	TIFF Software Copyright (c) 1988-1997 Sam Leffler
+30	Copyright (c) 1991-1997 Silicon Graphics,Inc.
+31	GIF decoder　　(c)1997 Eric S. Raymond
+32	libjpeg   This software is based in part on the work of the independent JPEG Group
+33	Portions of this product are protected under copyright law and are 
+34	provided under license by ARIS/Solana/4C.
+35	The International Components for Unicode-Internationalization Classes
+36	for Unix Copyright 2000
+37	And by its contributors NetBSD Foundation, and Inc. The communication function of this product
+38	Software that has been developed has been used.
+39	Please see after the About PSX, and BSD license for more information.
+40	d3des  Copyright 1988, 1989, 1990, 1991, 1992 by Richard Outerbridge. 
+41	(GEnie : OUTER; CIS : [71755:204]) Graven Imagery, 1992.
+42	This product DNAS (Dynamic Network Authentication System)Copyright and that
+43	Of Sony Computer Entertainment Inc. own that allows for the protection of security
+44	I am using the authentication system. The transference of the programs or disabling device of the system,
+45	That the delivery, exhibition, export, and transmits or imported, is prohibited by law.
+46	In addition,DNAS Is a trademark of the company.
+47	This product,RSA Security Inc.Of RSA(R) BSAFE TM Crypt-C
+48	And RSA(R) BSAFE TM SSL-C I am equipped with.
+49	RSA And BSAFE The,RSA Security Inc.Japan, the United States and
+50	Are trademarks or registered trademarks in the United States and other countries.
+51	Company names are listed other product names are registered trademarks or trademarks of their respective owners
+52	BSD About the license
+## xosd/packages/Config_0/ConfigBSAntennaLevel.xml
+53	Settings for a TV / BS antenna level display
+## xosd/packages/Config_0/ConfigBSChannel.xml
+54	Not
+55	Make
+56	The channel skip
+57	It is saving the channel setting.
+58	The skip setting / BS TV channels
+## xosd/packages/Config_0/ConfigEasyWizard.xml
+59	Setting start
+60	Auto Tune
+61	Dolby Digital
+62	DTS
+63	Set Values
+64	Hard disk space
+65	End of setting
+66	The basic settings for using the machine.
+67	Easy setting by pressing the
+68	Please start.
+69	At the BS antenna power
+70	select and move
+71	move next screen press right.
+72	Changing time
+73	Press to change.
+74	press right
+75	To next screen
+76	Press to select item you want to change
+77	In Please change the number.
+78	Once you have set the time
+79	Please Press.
+80	Select your location
+81	Press right move to next screen.
+82	In the Auto Tune
+83	Select the city,
+84	Please right to move next screen.
+85	Manual Tuning
+86	TV screen type
+87	Aspect ratio,
+88	Press rigt to move  
+89	next screen
+90	4:3 Letter box
+91	4:3 Pan AND Scan
+92	Digital out
+93	Select to use, not the use,
+94	Please press right move to next screen.
+95	Select Dolby Digital,
+96	Please press right move t next screen.
+97	Select DTS,
+98	Please press right move to the next screen.
+99	Settings list.
+100	To accept
+101	Time adjustment
+102	Area number
+103	Dolby digital
+104	(ON is failed) OFF
+105	Game used HDD area
+106	?GB
+107	Please move to the next screen by pressing.
+108	Game used
+109	If you want to change it,
+110	Please change Settings in HDD setting
+111	If you change, the video data, music, photos
+112	and program guide will be deleted.
+113	Simple setting finished.
+114	Settings are initializing.
+115	Please do not turn off the power of PSX DVR is initializing.
+116	Are you sure you want to cancel the simple setting?
+117	Continue
+118	10 minutes cutted from scheduled recording start time.
+119	To exit it stops become a scheduled recording start time.
+120	Are you sure you want to cancel the wizard?
+121	Easy Setup / 
+## xosd/packages/Config_0/ConfigGame.xml
+122	art/ZabTrackThick.tga
+123	art/ZabTrackThin.tga
+124	art/GT000006.tga
+125	art/TitleZab1.tga
+## xosd/packages/Config_0/ConfigHddFormat.xml
+126	I begins to initialize the hard disk now.
+127	To erase all the contents of the hard disk
+128	Returns the state of purchase.
+129	Do you want to initialize?
+130	Do not initialize
+131	Initialization of the hard disk until the end, please wait.
+132	I aborted the initialization of the hard disk.
+133	Initialization of the hard disk has been completed.
+134	You can not break when you start the initialization.
+135	Are you sure you want to initialize?
+136	Start
+137	Not start
+138	Are you sure you want to cancel the initialization of the hard disk?
+139	I cut 10 minutes from scheduled recording start time.
+140	Initialization of setting/hard disk of the body
+## xosd/packages/Config_0/ConfigHddPartition.xml
+141	I will start the HDD setting now.
+142	In the HDD setting, and change the game used
+143	You can be.
+144	If you do HDD setting, the contents of the hard disk
+145	It will be erased.
+146	I can change the area of ​​the hard disk.
+147	Game area
+148	Game used :
+149	Are you sure you want to delete the game area?
+150	If you press, you can delete the game area.
+151	Note
+152	If you delete a game area,
+153	Game is to use the hard disk
+154	Will not play.
+155	Do you want to create a game area?
+156	If you press, you can create a game area.
+157	Create a game area,
+158	(SP recording) recording time is short about 17 hours
+159	Will.
+160	Please restart Press.
+161	After the restart, the hard disk space setting
+162	To start.
+163	When you do the region setting of the hard disk,
+164	Video data, music, photos and program guide
+165	Although will be deleted,
+166	Are you sure you want to do?
+167	Are you sure you want to cancel the setting area of the hard disk?
+168	No stop
+169	Setup/HDD region setting of the body
+## xosd/packages/Config_0/ConfigInit.xml
+170	Are you sure to reset factory settings?
+171	and press.
+172	Not return
+173	We are back to the factory settings.
+174	Please do not turn off the power of the console.
+175	This cannot be undone
+176	If you are sure
+177	and Press.
+178	Factory settings restored.
+179	Return to factory settings,
+180	Setting of this unit to the initial state all
+181	Photos and video that you saved to your hard disk, and
+182	Data, such as music will not be deleted.
+183	Do you want to abort the restore to factory settings?
+184	To return to the Setting / factory of the body
+## xosd/packages/Config_0/ConfigMusic.xml
+185	132kbps
+186	105kbps
+187	  66kbps
+## xosd/packages/Config_0/ConfigNwSet.xml
+188	The for connecting to the network
+189	Reviewing and Modifying Settings
+190	Connection test current configuration.
+191	Connect the Ethernet cable and
+192	start network configuration.
+193	Are you sure you want to use the PPPoE?
+194	Press right to move next screen.
+195	Not use
+196	Use
+197	Press to.
+198	to continue
+199	Setting IP address.
+200	Auto
+201	Setting DNS (Domain Name System).
+202	Press right to move next screen
+203	Changing the setting of the DNS (Domain Name System).
+204	select use
+205	to change.
+206	Auto setting
+207	to continue,
+208	use keys
+209	move
+210	Press change.
+211	to move next screen.
+212	Changing setting DNS (Domain Name System).
+213	Save content to the hard disk,
+214	Checking Internet connections
+215	Press, please start the connection test.
+216	Press, to start the connection test.
+217	In select
+218	Press to start the connection test.
+219	Press to start connection test.
+220	Are you sure you want to cancel the network settings?
+221	If you cancel, work up to now will not be saved
+222	I aborted the connection network.
+223	Failed save settings.
+224	Failed connect network.
+225	DNAS authentication error
+226	Not read network settings.
+227	I got off the 10 minutes to the scheduled recording start time.
+228	And will automatically terminate when it comes to recording start time.
+229	Are you sure you want to cancel?
+230	 DNAS authentication.
+231	Current DNAS That the server will accept the processing
+232	Can not.
+233	Please reconnect you wait a while.
+234	Of title DNAS Is an authentication service period before.
+235	Of title DNAS Authentication service period ended.
+236	All DNAS Service terminated.
+237	 DNAS Connection with the server has timed out.
+238	Server not work
+239	 DNAS error.
+240	 DNAS Is a server error.
+241	Is a unique ID error.
+242	Device error information.
+243	I aborted the network connection
+244	Error proxy settings.
+245	DNS Error.
+246	 DNAS failed connect to the server.
+247	Conection complete.
+248	Abort connection.
+249	Failed to connect.
+250	Network setting
+## xosd/packages/Config_0/ConfigPhoto.xml
+251	Standard
+## xosd/packages/Config_0/ConfigSystem.xml
+252	CH
+253	PSX
+254	MAC address
+255	Firmware
+256	DNR
+257	Return to factory settings
+258	HDD setting
+259	4:3 letterbox
+260	DNR1
+261	DNR2
+262	Just clock
+263	Setting channel
+264	Repeat delay
+265	Repeat rate
+266	Set/Display information of the body
+## xosd/packages/Config_0/ConfigTVChannel.xml
+267	GRT
+268	Do you want to save these settings?
+269	If you do not save you will return to the previous screen.
+270	Channel settings is saving.
+271	Menu to ensure the values ​​you selected are canceled when it comes to recording reservation start time.
+272	Are you sure you want to cancel the manual channel setting?
+273	Set / manual channel on the TV settings
+274	Accept
+## xosd/packages/Config_0/ConfigTVChannelAuto.xml
+275	Please do not turn off the power of PSX DVR during setting.
+276	Are you sure you want to run Auto Tune?
+277	Set / Auto Tune the TV
+278	Easy Set / Auto Tune
+## xosd/packages/Config_0/ConfigTVChannelFineTune.xml
+279	Fine adjustment of the set / manual channel setting / TV channels
+## xosd/packages/Config_0/ConfigTv.xml
+280	Mute
+281	Auto stereo reception
+282	Program table channel
+283	Show table time
+## xosd/packages/Config_0/ConfigUpdate.xml
+284	I will start a network update.
+285	Press, please start the download.
+286	I have downloaded the latest software.
+287	Download until after, and power of the unit,
+288	Please do not disconnect the network.
+289	Download status
+290	After you review the license agreement
+291	Please proceed to the next screen press
+292	Are you sure you want to accept the license agreement?
+293	The terms you enter
+294	The selected with the
+295	I will now start the installation.
+296	Nothing is displayed on the screen for a while during the installation.
+297	Can be used to turn off the power of this machine, you disconnect from the network
+298	Please do not.
+299	Start installation press the button.
+300	If you do not agree to the license agreement, the software
+301	It is not possible to update.
+302	I will finish the network update.
+303	Update is working.
+304	Please do not turn off power to the PSX, the network connection.
+305	Software update complete.
+306	xxx
+307	I am sure the latest software.
+308	DNAS authentication.
+309	It has been updated to the latest software.
+310	Ill finish the software update.
+311	 DNAS Authentication error.
+312	Update server now or are very busy,
+313	Is not available for maintenance.
+314	I failed to connect to the server.
+315	I failed to download.
+316	I failed to update.
+317	Of title DNAS Authentication service period has ended.
+318	All DNAS Service was terminated.
+319	 DNAS Connection with the server has timed out
+320	Server does not work properly.
+321	 DNAS An error has occurred.
+322	Is a device error information.
+323	I aborted the network connection.
+324	There is an error in the proxy settings.
+325	Communication has timed out.
+326	There is an error in the response to a DNS server.
+327	 DNAS I failed to connect to the server.
+328	Is a communication error.
+329	Can not read the network settings.
+330	I was past the scheduled recording start time.
+331	I will stop the network update.
+332	Are you sure you want to cancel the network update?
+333	I got off to one hours recording schedule start time.
+334	And will automatically terminate when it comes to recording reservation start time.
+335	The latest software installed
+336	Has been.
+337	You do not need to be updated.
+338	I have successfully connected.
+339	I aborted the connection.
+340	I failed to connect.
+## xosd/packages/Config_0/ConfigVideo.xml
+341	     quality 1
+342	     quality 2
+343	     quality 3
+344	     quality 4
+345	     quality 5
+346	     quality 6
+347	Not create
+348	Composite
+349	S-Video
+350	Stereo
+351	Duplex voice
+352	Main+secondary
+353	Flash
+354	Personal identification number is different.
+## xosd/packages/epg_0/epg.xml
+355	Option
+356	←classification→
+357	There is no such data
+358	--:--xM - --:--xM The station name
+359	..:..xM - ..:..xM The station name
+360	1st display area of ​​detail.
+361	A display area of ​​detail.
+362	OK
+## xosd/packages/IconEditor_0/IconEditor.xml
+363	Select the destination
+364	KB
+365	Copy the saved data.
+366	Power off during the copy,
+367	Copying is complete.
+368	Could not be copied.
+369	Copy saved game
+370	Do you want to overwrite?
+371	In this media cannot be copied.
+372	Insufficient disk space to copy.
+373	No destination.
+374	Go to selection
+375	Move the saved games.
+376	Power off while moving,
+377	Move is completed.
+378	Could not be moved.
+379	Go to saved game
+380	Do you want to move?
+381	You can not move in this media.
+382	Insufficient disk space.
+383	There is no destination.
+384	You can not move this data.
+385	I have to delete the save data.
+386	Power off while is being removed.
+387	Have been deleted.
+388	Could not be deleted.
+389	Are you sure to remove it?
+390	Update date
+391	Saved games(PlayStation®)
+392	Saved games(PlayStation®2)
+393	Settings file(PlayStation®2)
+394	System drivers(PlayStation®2)
+395	Corrupted data
+396	PlayStation®2 Standard software
+397	Copy not available
+398	Copy inhibit movement inhibition
+399	It is being initialized.
+400	Initialization is complete.
+401	Not initialized.
+402	Are you sure to initialize?
+403	Is being copied...
+404	Duplicate destination folder name.
+405	Out of disk space.
+406	Delete the unwanted data.
+407	All data in this folder
+408	will be removed.
+409	Are you sure you want to delete?
+410	Is being deleted...
+411	Video has been removed.
+412	The name entered is too long.
+413	Create a folder for
+414	Date Modified
+415	Foo
+## xosd/packages/MusicPlayer_0/MusicPlayer.xml
+416	There is no next track.
+417	There is no previous track.
+## xosd/packages/PhotoViewer_0/PhotoViewer.xml
+418	fadein
+419	fallin
+420	slidein
+421	fadeout
+422	rotateout
+423	The album thumbnail
+424	Previous photo
+425	Next photo
+426	Pause
+427	There is no slidesow.
+428	First frame used as algum thumbnail.
+429	There is no next photo.
+430	There is no previous photo.
+## xosd/packages/pvrBurn_0/pvrBurn.xml
+431	In Select the title you want to dub
+432	Disc title
+433	In selecting the type of DVD menu
+434	Please check the order to be record to DVD.
+435	You can start record press the.
+## xosd/packages/pvrEdit_0/xml/pvrEdit.xml
+436	Starting point
+437	End point
+438	Press, choose Edit in range to cancel.
+439	If you press you want to return to the Edit screen.
+440	Start point
+441	Please Press, at the beginning of the scene you do not want to play.
+442	Please Press, at the end of the scene that you do not want to play.
+## xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml
+443	Finish editing. Are You Sure?<CRLF>When complete, not playing the selected part of the next<CRLF>Will.<CRLF>In addition, chapter mark that was set to edit within the range<CRLF>Will be canceled.
+444	To exit without saving your edits. Are You Sure?
+445	Start playing confirmation.<CRLF>If you want to finish checking playback, you can either check the end button,<CRLF>　 Please Press.
+446	Cancel the selected range. Are You Sure?
+447	Undo
+448	Not revoked
+449	<CRLF>Select Save and Exit, select from the next time<CRLF>I will not play the part.<CRLF>In addition, chapter mark that was set to edit within the range<CRLF>Will be canceled.
+450	Save and close
+451	Exit without saving
+452	Setting of chapter marks and editing range is full.<CRLF>More, the setting of the chapter marks and editing range<CRLF>Can not.<CRLF>To continue the editing, the chapter mark and edit range<CRLF>Please delete it.
+453	It was not able to save your edits.<CRLF>Remaining capacity of the hard disk or not enough,<CRLF>There may be a problem with the hard disk.
+## xosd/packages/pvrReEnco_0/pvrReEnco.xml
+454	Optimized title
+455	Speech
+456	Previous title
+## xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml
+457	Cancell
+## xosd/packages/TimeReserve_0/TimeReserve.xml
+458	Start time
+459	End time
+460	 Channel
+461	Ext
+462	confirmed
+463	Disk usage of DVD dubbing:
+464	It is an aim of when dubbing to DVD later this title.
+## xosd/packages/tv_0/tv.xml
+465	The current recording mode
+## xosd/packages/UpdateCenter_0/UpdateCenter.xml
+466	host0:~/../../../Images/1
+467	Update
+468	Install
+469	Uninstall
+470	Restore Last Configuration
+471	Restore Factory Default
+472	Run Dummy
+473	Reload
+## xosd/packages/xBarPluginGame_0/delete.xml
+474	　This game will be removed from the PSX
+475	Please delete.
+476	Game deleted.
+## xosd/packages/xBarPluginGame_0/gameboot.xml
+477	Loading the game, please do not turn
+478	off the power or restart your PSX DVR
+479	Please do not remove the disk.
+480	Loading the game, please do not turn 
+481	Do not turn off.
+482	Failed to read from the disk.
+483	The disk is unbootable.
+484	No PlayStation® or Playstation®2
+485	standard disk.
+486	The game cannot be started.
+487	This game requires disk at startup.
+488	Please insert the disk.
+489	Disk is different.
+## xosd/packages/xBarPluginGame_0/information.xml
+490	Game Publisher
+491	Game Disc Nr
+492	Creation date and time
+## xosd/packages/xBarPluginMusic_0/checkin.xml
+493	Do you want to delete permanently this album ?
+494	Do not delete
+495	Do you want to delete permanently this track ?
+496	Do not remove the Memory Stick or turn off the PSX
+497	Progress
+498	Finished
+499	Do not disconnect the portable device.
+500	Do not turn off the PSX.
+501	Do not turn off the PSX DVR.
+502	Delete complete.
+503	Deleting error
+## xosd/packages/xBarPluginMusic_0/checkout.xml
+504	MagicGate Memory Stick
+505	NetMD
+506	Ok
+507	OK ( tmp )
+508	Not enough space ( tmp )
+509	Please don't remove the Memory Stick
+510	or turn off the power of PSX DVR.
+511	Album
+512	Import complete.
+513	Failure. The import is incomplete due to an internal error.
+## xosd/packages/xBarPluginMusic_0/delete.xml
+514	Has entered the Memory Stick If you initialize
+515	All data will be erased.
+516	Has been initialized. Please wait.
+517	If you turn off the power of PSX DVR,
+518	I you want to delete this track. Are You Sure?
+519	Deleting. Please wait.
+520	Please do not turn off the power of PSX DVR is being deleted.
+521	Could not delete
+522	That the Memory Stick is inserted correctly
+523	Back(invisible)
+524	I will delete all tracks of this album.
+525	Delete Complete.
+## xosd/packages/xBarPluginMusic_0/importCDDA.xml
+526	Is optimization.
+527	If you do uptake, please go after the stop optimization.
+528	TEST
+529	There is no track to capture.
+530	I'm sure the remaining capacity of the hard disk.
+531	Please do not turn off the power of PSX DVR
+532	Remaining capacity of the hard disk is not enough.
+533	Delete track title and unused photo
+534	The album that contains the track captured
+535	Please select.
+536	You can not create a new album.
+537	Please select a different album.
+538	Select album
+539	The number of tracks contained in the selected album
+540	Too many. I will stop the acquisition
+541	Back ( invisible)
+542	The entered name is not valid.
+543	Please change the album name.
+544	You can not use the following characters
+545	/\:*?&quot;&lt;&gt;|'
+546	Busy is the track. If you turn off the power of PSX DVR,
+547	Process import. No turn off the power of PSX DVR,
+548	Track %i
+549	Please do not turn off the power of the PSX DVR
+550	OK ( invisible )
+551	Not enough space ( invisible )
+552	Please select existing album.
+553	Track %i I am copies process.
+554	Please do not remove the CD.
+555	Uptake was terminated.
+556	I failed to capture.
+557	There is a track that could not be imported.
+558	Copy stopped,
+559	Maximum tracks in the album(Max 99 tracks)
+560	Could not be captured several tracks.
+561	Cancel import. Are You Sure?
+562	You can not capture this disk.
+## xosd/packages/xBarPluginMusic_0/importMP3.xml
+563	Are you sure you copy all music of Memory Stick?
+564	No music files availble to import
+565	I'm sure the free space of the hard disk
+566	, Please.
+567	Please select an album to put the music captured.
+568	Album Name:
+569	is invalid or already used.
+570	Choose a new name...
+571	I am captures
+572	I capture the music.
+573	Transferring MP3 files. If you turn off the power of PSX DVR,
+574	If you turn off the power of PSX DVR, please do not remove the Memory Stick.
+575	Incorporation status
+576	You want to transfer the music?
+577	Delete track title and unwanted photo
+578	 Please.
+579	I capture the xxx.mp3
+580	I am captures.
+581	status
+582	Please do not turn off the power of the PSX.
+583	Please delete unused audio and photo files
+584	can't create more albums.
+585	Please select a existing album.
+586	The select of album
+587	Too maximum.Stop operation.
+588	The name entered is not valid.
+589	Please rename the album
+590	Сopying MP3-Files. If you turn off the power of PSX DVR,
+591	please do not turn off the power of PSX DVR
+592	Please delete unwanted audio and photo files
+593	Please select
+594	You can not create a new album any more.
+595	Track %i I am captures.
+596	copying is completed
+597	error copying
+598	Copying MP3 error
+599	Copy MP3-Files stop,
+600	maximum number of files in the album (99 Tracks max)
+## xosd/packages/xBarPluginMusic_0/information.xml
+601	Album name
+602	Number of files
+603	Capture date and time
+604	Genre
+605	Techno/Dance
+606	Rock
+607	Alternative/Indies
+608	Jazz/Fusion
+609	World Music
+610	Folk/Blues
+611	Country Music
+612	Soundtrack/Easy
+613	HipHop
+614	Track name
+615	Length of the song
+616	Sound quality
+617	File format
+618	Date and time of creation
+619	Size after incorporation
+620	Disk type
+## xosd/packages/xBarPluginMusic_0/rename.xml
+621	the entered name already exists.
+622	You can not use the following characters:.
+623	The name enetered not correct.
+624	Please change the track name.
+## xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml
+625	Is being optimized
+626	When I perform uptake, please go after canceling optimization.
+627	Not enough free space on hdd.
+628	Delete the unwanted title, tracks, photos
+629	I will capture the photo.
+630	The choice of album
+631	the entered name already exists
+632	Copy... If you turn off the power of PSX DVR,
+633	Please do not remove PSX DVR.
+634	Please do not disconnect.
+635	Please do not disconnect the external device.
+636	Could not be imported.
+637	Please confirm that it is connected correctly.
+638	The name of the photo is a duplicate.
+639	Album of empty can not be imported.
+640	Photo in the album is full.
+641	Photo that can be incorporated into a single album is 200 pieces.
+642	I will capture all the photos in the album
+643	The name that you enter or overlap, it is illegal.
+644	Which capture. If you turn off the power of PSX DVR,
+645	I will remove the photo of all of this album.
+646	Are You Sure?
+647	I you want to delete this photo. Are You Sure?
+648	Delete complete
+649	Delete failed
+650	File could not be deleted.
+651	Image Name
+652	File name
+653	Play time
+654	Shooting date and time
+655	Number of frames
+656	Date when made
+657	データCD
+658	I will write to Memory Stick this photo.
+659	A photo of all of this album
+660	I will write to Memory Stick.
+661	I could not write.
+662	The remaining amount of the Memory Stick is missing.
+663	You are about to export a single image.
+664	Please select the album you want to export the photo.
+665	I write. If you turn off the power of PSX DVR,
+666	Writing has ended.
+667	Export failed
+668	It was not possible to copy the file
+669	Photo of album in the selected too many.
+670	Album of Memory Stick Too many.
+671	You are about to export a photo album.
+672	Please choose destination folder.
+673	Has entered the Memory Stick If you do initialization
+674	All data will be deleted.
+675	Has been initialized. Please be patient.
+676	Turn off the power of this unit, the Memory Stick
+677	Please do not remove.
+678	Initialization has ended.
+679	Format failed
+680	Memory Stick has been removed.
+681	Memory Stick format failed.
+682	Please change the name of the photo.
+683	Rename Photo
+684	Filename:
+685	Rename Album
+686	Album:
+## xosd/packages/xBarPluginVideo_0/VideoDialogs.xml
+687	Please set time.
+688	Manual settings
+689	Fit the Guide listings
+690	DVD format
+691	And the video format:<CRLF>  It is a useless format. Other's don't.<CRLF>  It is unappendable for now.<CRLF>  I can make a DVD menu.<CRLF><CRLF>-VR The format is:<CRLF>  You can add. DVD menu.<CRLF>  There is a playlist.<CRLF>  CPRM is garbage.<CRLF>  It is great people do not know it.<CRLF>  <CRLF>…… Find the proper wording.
+## xosd/packages/xBarPluginVideo_0/VideoInfo.xml
+692	Video name
+693	Record date
+694	(After editing
+695	Record mode
+696	(For DVD+RW)
+697	Audio mode
+## xosd/packages/xBar_0/mongon.xml
+698	Start begin
+699	Protection
+700	Unedit
+701	Optimization stop
+702	Finalization
+703	I you want to delete video. Are You Sure?
+704	Not delete the video.
+705	Video is protected,<CRLF>not name change.
+706	Video is protected,<CRLF>Can not run edit.
+707	Video is protected,<CRLF>Can not perform an edit cancellation.
+708	Video is protected,<CRLF>Can not perform a delete.
+709	Cancel edit. Are You Sure?
+710	Month
+711	Fire
+712	Water
+713	Tree
+714	Gold
+715	Soil
+716	Day
+717	Minute
+718	Not possible
+719	DVD Video
+720	DVD -VR
+721	DVD +VR
+722	During recording, and optimization in<CRLF>It is not possible to perform dubbing.
+723	It is a scheduled recording currently in preparation. When dubb<CRLF>Please go after reservation Delete.
+724	During recording, and optimization in<CRLF>It is not possible to perform the initialization
+725	It is a scheduled recording currently in preparation. When performing initi<CRLF>Please go after reservation Delete
+726	The title of the recording.<CRLF>You can not perform the operation.
+727	Can not be canceled because it is not edite
+728	An error has occurred.<CRLF>After turning off the power once, please power cycle again.
+729	You can not edit because the file is corrupted
+730	Sort change
+731	(Oldest First) Most Recent
+732	(New) Most Recent
+733	By name (▲)
+734	By name (▼)
+735	Genre order
+736	Unviewed order
+737	Optimization ended.
+738	It is currently being recorded. When optimizing the<CRLF>Please go after stop.
+739	It is a scheduled recording currently in preparation.<CRLF>Please go after reservation removed if you want to optimize.
+740	Currently, the optimization of the other titles.
+741	I will stop the optimization.<CRLF>Would you like?
+742	The title of the optimization.<CRLF>You can not perform the operation.
+743	Reservation time
+744	Recording reservation
+745	There is no one book reviews.
+746	Are you sure you want recording to the end of this program?<CRLF>(End
+747	After a minute
+748	It was not possible to get the information of the program guide.
+749	It is not possible to record to the end of this program.<CRLF>One title is up to 6 hours.
+750	Edit - Check Play
+751	Cancellation of the edit range - edit
+752	I'll make sure the video edited.
+753	I will finish checking playback.
+754	Menu to ensure the values ​​you selected are to confirm the image that 
+755	Exit to cancel the video that you edited.
+756	Flash －
+757	Flash ＋
+758	Cancel the setting of the starting and ending points.
+759	Disk
+760	Mark
+761	PlayStation&#174;2 format software
+762	PlayStation&#174;1 format software
+763	TV Settings
+764	Video Settings
+765	Photo Setting
+766	Music Setting
+767	Date and Time Setting
+768	Character Input Setting
+769	Remote Control Setting
+770	pack:xBarPluginConf/0.1.0/art/nail-Conf-TV.png
+771	pack:xBarPluginConf/0.1.0/art/Nail-Conf-Video.png
+772	pack:xBarPluginConf/0.1.0/art/Nail-Conf-DVD.png
+773	pack:xBarPluginConf/0.1.0/art/Nail-Conf-Photo.png
+774	pack:xBarPluginConf/0.1.0/art/Nail-Conf-Music.png
+775	pack:xBarPluginConf/0.1.0/art/Nail-Conf-Game.png
+776	pack:xBarPluginConf/0.1.0/art/Nail-Conf-Console.png
+777	pack:xBarPluginConf/0.1.0/art/Nail-Conf-System.png
+778	pack:xBarPluginConf/0.1.0/art/Nail-Conf-IM.png
+779	pack:xBarPluginConf/0.1.0/art/Nail-Conf-Remocon.png
+780	pack:xBarPluginConf/0.1.0/art/Nail-Conf-Kbd.png
+781	pack:xBarPluginConf/0.1.0/art/Nail-Conf-Network.png
+782	pack:xBarPluginConf/0.1.0/art/Nail-Conf-SystemUpdate.png
+783	pack:xBarPluginConf/0.1.0/art/Nail-Conf-EasySettings.png
+784	Auto stereo
+785	DVD-RW recording mode
+786	External video input
+787	External audio input
+788	HDD recording
+789	DVD recording
+790	Recorded NR
+791	L2 · R2 button options
+792	DVD Menu Language
+793	Speech and Language
+794	Progressive out
+795	Audio autoselect
+796	Parental use area
+797	Level of parental control
+798	CD Capture Settings
+799	Fast Load
+800	PlayStation&#174; Disc
+801	Texture interpolation
+802	PlayStation&#174; Game
+803	Return factory settings
+804	Repeat start time
+805	Speed key repeat
+806	It was not possible to turn on BS antenna
+807	During recording, and can not be changed during optimization.
+808	If you change the settings, until you get the next program data<CRLF>Program guide will not be displayed correctly.Are you sure?
+809	You can set the function of the search in L2 · R2 button.
+810	Are you sure? After setting, the flash
+811	Do it from the control panel.
+812	You can set the function of flash in L2 · R2 button.
+813	Are you sure? After setting, the search of the joystick
+814	I will do the left and right.
+815	I change the voice recording bilingual HDD. Are you sure?
+816	Dubbing after changing DVD-RW to (VR mode) other than
+817	It takes place in the audio settings of bilingual voice recording DVD.
+818	A place that was set not to play in editing
+819	You dubbing Delete, but do you really want?
+820	Major / minor
+821	I set the A point.
+822	I was cleared to play mode.
+823	I have to clear the current settings.
+824	You can not perform the operation.
+825	Voice switching
+826	Subtitle switching
+827	Specified time jump
+828	Thumbnail registration
+829	Before
+830	Quick playback
+831	A-B repeat
+832	Top menu
+833	Angle switching
+834	Chapter jump
+835	Jump
+836	Thumbnail of video this image
+837	Register. Are you sure?
+838	It has already been registered. Are you sure you want to overwrite
+839	I delete the. Are you sure?
+840	The Parental Control Level one o'clock
+841	Are you sure you want to add an entry point?
+842	Clear A point
+843	The memory point A
+844	Find A point
+845	Clear AB repeat point
+846	The memory B-point
+847	Bookmarks Display
+848	You can not bookmark
+849	Run the first play
+850	Top search program
+851	Before program Search
+852	Next Program Search
+853	Picture memory end
+854	Picture memory storage
+855	I change the parental level
+856	There is no error of PSC
+857	Chapter scan display end
+858	Chapter scan display failure
+859	Chapter scan display failure end
+860	Parental level set
+861	Stopped state
+862	PLAY MODE CLEAR
+863	Repeat input
+864	Disk can not be read.
+865	I have to stop playing abnormality has occurred.
+866	Disk format is invalid.
+867	Chapter that has been specified is not valid.
+868	The specified time is invalid.
+869	Title specified was not valid.
+870	There is no sound.
+871	There is no subtitles on this disc.
+872	There is no angle.
+873	Resume operation is forbidden
+874	You can not operate in this disk.
+875	You can not play because the playback is restricted.
+876	Program Search is error.
+877	You can not run the playback mode.
+878	You can not operate in this title.
+879	This chapter search error.
+880	Are forbidden reproduced by region limit this disk.
+881	Stop is forbidden.
+882	Time display is forbidden.
+883	TV system is different.
+884	User interaction is forbidden.
+885	You can not VIEWER in this disk.
+886	You can not VIEWER in this title.
+887	Disk does not contain.
+888	Voice is only one.
+889	You can not play this disc.
+890	BUSY time-out.
+891	Could not be played.<CRLF>After turning off the power once, please power cycle again.
+892	It is not a normal play (no message)
+893	Angle not be changed for the angle block just before
+894	Play continues from now when you want to play next.
+895	You can not play for the Delete temporary state (without messages)
+896	Error code TERMINATE code
+897	I've registered with the thumbnail.
+898	Because it is protected setting, you can not register.
+899	We mark setting.
+900	You can not perform this operation.
+901	Afar
+902	Afrikaans
+903	Aymara
+904	Bihari
+905	Bislama
+906	Esperanto
+907	Faeroese
+908	Guarani
+909	Gujarati
+910	Hausa
+911	Hindi
+912	Interlingua
+913	Interlingue
+914	Inupiak
+915	Kannada
+916	Lingala
+917	Latvian, Lettish
+918	Malagasy
+919	Maori
+920	Malayalam
+921	Nauru
+922	Oriya
+923	Pashto, Pushto
+924	Quechua
+925	Kirundi
+926	Kinyarwanda
+927	Sanskrit
+928	Sindhi
+929	Sangro
+930	Shona
+931	Somali
+932	Siswati
+933	Sesotho
+934	Tamil
+935	Tegulu
+936	Tigrinya
+937	Tagalog
+938	Setswana
+939	Tonga
+940	Tsonga
+941	Twi
+942	Urdu
+943	Volapuk
+944	Wolof
+945	Xhosa
+946	Yoruba
+947	Zulu
+948	AUDIO
+949	Thailand
+950	Taiwan
+951	China
+952	Japan
+953	Malaysia
+954	Russia
+955	Start.<CRLF>It is not possible to start the timer recording is optimization.
+956	Set record mode after optimization.<CRLF>It is not possible to make HQ record mode than the original.
+957	DVD-RW (Video mode), DVD-R the sound that is recorded with the main + sub,<CRLF>You can determine how to dub to DVD + RW disc.
+958	These options determine whether or not to leave or leave the part that has been edited from the title after optimization.<CRLF>Even if you select Save, the title of the post-optimization, configuration or a chapter editing<CRLF>Not left.
+959	I set or not to leave or leave the title before optimization.
+960	I will start optimizing than this.<CRLF>Until the end
+961	There is a recording reservation.<CRLF>It is not possible to start the timer recording is optimization.
+962	Are you sure you want to start optimizing the title?
+963	Timer recording has started.<CRLF>I'll finish the optimization.
+964	This setting is the same as the title before optimization.
+965	If only once include recordable signal,<CRLF>It is recorded in the blue screen.
+966	（for DVD + RW）
+967	Title is full.<CRLF>In order to run the optimization, you must remove the title.
+968	Since the recording reservation is started or scheduled recording preparation,,<CRLF>It is not possible to start the optimization.
+969	Since the capacity of the hard disk is missing,<CRLF>It is not possible to start the optimization.
+970	Aborted.
+971	It was not possible to create a DVD.
+972	%$3:Menu template'%3$s'I do not have.
+973	%$3:Menu template'%3$s'The items to %1$s I do not have.
+974	Is recording. You can not encode
+975	DVD drive is in use.
+976	Is playing.
+977	Session to finalize is not specified.
+978	%$3:Session to be finalized'%3$s'This is incorrect.
+979	8cm media is not supported.
+980	I do not know the size of the media.
+981	I can not get the DVD burner drive.
+982	I have priority scheduled recording.
+983	It was not possible to stop recording.
+984	I do not know the status of DVD.
+985	Tray does not close.
+986	You can not load the library.
+987	Can not read the status of the DVD.
+988	I failed to get status of the DVD.
+989	I failed to initialize the DVD.
+990	I failed to finalize release of the DVD.
+991	Can not write a title for the DVD.
+992	I failed to finalize the DVD.

@@ -1,0 +1,1238 @@
+# file	id	English (must match ENG folder)	German
+AboutPSX_0/AboutPSX.xml	s5	&quot;、&quot;PSX&quot;And&quot;PlayStation&quot;	&quot;、&quot;PSX&quot; and &quot;PlayStation&quot;
+AboutPSX_0/AboutPSX.xml	s6	Is a registered trademark of Sony Computer Entertainment Inc..	is a registered trademark of Sony Computer Entertainment Inc.
+AboutPSX_0/AboutPSX.xml	s8	And also Memory Stick logo, each,	and the Memory Stick logo
+AboutPSX_0/AboutPSX.xml	s9	Are trademarks or registered trademarks of Sony Corporation.	are trademarks or registered trademarks of Sony Corporation.
+AboutPSX_0/AboutPSX.xml	s16	This software is based in part of the work of the FreeType Team.	This software is based in part on the work of the FreeType Team.
+AboutPSX_0/AboutPSX.xml	s18	ATOK is a registered trademark of Netscape Communications Corporation.	ATOK is a registered trademark of Justsystem Corporation.
+AboutPSX_0/AboutPSX.xml	s20	This product incorporates copyright protection technology, Macrovision Corporation and other rights owners	This product incorporates copyright protection technology that is protected by rights of Macrovision Corporation and other rights owners,
+AboutPSX_0/AboutPSX.xml	s21	And are protected by U.S. patents and other intellectual property rights. Use of this copyright protection technology,	and are protected by U.S. patents and other intellectual property rights. Use of this copy protection technology
+AboutPSX_0/AboutPSX.xml	s22	In addition, must be authorized by Macrovision, and household unless otherwise authorized by Macrovision	and must be authorized by Macrovision. It is intended for home use only unless otherwise authorized by Macrovision.
+AboutPSX_0/AboutPSX.xml	s23	It is limited to the use of appreciation for some of the other. And decomposition, be modified also forbidden.	For private use only. Disassembly and modification are also prohibited.
+AboutPSX_0/AboutPSX.xml	s25	libjpeg   This software is based in part on the work of the independent JPEG Group	libjpeg   This software is based in part on the work of the Independent JPEG Group
+AboutPSX_0/AboutPSX.xml	s35	They are installed in the machine xDJ function	The xDJ function installed in this unit
+AboutPSX_0/AboutPSX.xml	s37	It is achieved by AIDJ algorithm.	Realized by the AIDJ algorithm.
+AboutPSX_0/AboutPSX.xml	s39	AIDJ and DJbox is	AIDJ and DJbox are
+AboutPSX_0/AboutPSX.xml	s40	Is a trademark of Sony Computer Entertainment Inc..	is a trademark of Sony Computer Entertainment Inc.
+AboutPSX_0/AboutPSX.xml	s56	And by its contributors NetBSD Foundation, and Inc. The communication function of this product	and its contributors, The NetBSD Foundation, Inc. The communication function of this product
+AboutPSX_0/AboutPSX.xml	s57	Software that has been developed has been used.	is used in this software.
+AboutPSX_0/AboutPSX.xml	s58	Please see after the About PSX, and BSD license for more information.	For more information, see 'About PSX' and the BSD license.
+AboutPSX_0/AboutPSX.xml	s63	This product is&quot;DNAS&quot; (Dynamic Network Authentication System)Copyright and that	This product contains &quot;DNAS&quot; (Dynamic Network Authentication System), a proprietary authentication system
+AboutPSX_0/AboutPSX.xml	s64	Of Sony Computer Entertainment Inc. own that allows for the protection of security	of Sony Computer Entertainment Inc. for security protection
+AboutPSX_0/AboutPSX.xml	s65	I am using the authentication system. The transference of the programs or disabling device of the system,	This product uses an authentication system. Transferring the programs or disabling the system,
+AboutPSX_0/AboutPSX.xml	s66	That the delivery, exhibition, export, and transmits or imported, is prohibited by law.	Distribution, exhibition, export, transmission or import is prohibited by law.
+AboutPSX_0/AboutPSX.xml	s67	In addition,&quot;DNAS&quot;Is a trademark of the company.	&quot;DNAS&quot; is a trademark of the company.
+AboutPSX_0/AboutPSX.xml	s69	This product,RSA Security Inc.RSA(R) BSAFE TM Crypt-C	This product contains RSA(R) BSAFE TM Crypt-C from RSA Security Inc.
+AboutPSX_0/AboutPSX.xml	s70	And accounts RSA(R) BSAFE TM SSL-C I am equipped with.	This product contains RSA(R) BSAFE TM SSL-C.
+AboutPSX_0/AboutPSX.xml	s71	Japan, BSAFE RSA and, and the United States of RSA Security Inc.	BSAFE is a trademark of RSA Security Inc. in Japan and the United States.
+AboutPSX_0/AboutPSX.xml	s72	Are trademarks or registered trademarks in the United States and other countries.	are trademarks or registered trademarks in the United States and other countries.
+AboutPSX_0/AboutPSX.xml	s75	Company names are listed other product names are registered trademarks or trademarks of their respective owners.	Company names and product names mentioned herein are trademarks or registered trademarks of their respective owners.
+BSAntennaLevel_0/dic/jp.dic	MENU	Settings for a TV	TV settings
+BSAntennaLevel_0/dic/jp.dic	CANCEL	Return	Back
+BSAntennaLevel_0/dic/jp.dic	RECSTANDBYDIALOG_TEXT	Record reservation start.\n I will stop the current operation.	A timer recording is starting.\n The current operation will be stopped.
+BSAntennaLevel_0/dic/jp.dic	EPGSTANDBYDIALOG_TEXT	And you start getting the program information.\n I will stop the current operation.	Retrieving program information.\n The current operation will be stopped.
+BSChannelSkip_0/BSChannelSkip.xml	s2	Return	Back
+BSChannelSkip_0/BSChannelSkip.xml	s26	Make	Create
+BSChannelSkip_0/BSChannelSkip.xml	s27	Make	Create
+BSChannelSkip_0/BSChannelSkip.xml	s28	Make	Create
+BSChannelSkip_0/BSChannelSkip.xml	s29	Make	Create
+BSChannelSkip_0/BSChannelSkip.xml	s30	Make	Create
+BSChannelSkip_0/BSChannelSkip.xml	s31	Make	Create
+BSChannelSkip_0/BSChannelSkip.xml	s32	Make	Create
+BSChannelSkip_0/BSChannelSkip.xml	s33	Make	Create
+BSChannelSkip_0/dic/jp.dic	MENU	Settings for a TV	TV settings
+BSChannelSkip_0/dic/jp.dic	CANCEL	Cancell	Cancel
+BSChannelSkip_0/dic/jp.dic	SAVECONFIRM_TEXT	I save the settings.\n Are you sure?	The settings will be saved.\n Are you sure?
+BSChannelSkip_0/dic/jp.dic	FINISH_TEXT	It is saving the channel setting.\n Please wait	Saving the channel settings.\n Please wait
+BSChannelSkip_0/dic/jp.dic	GUIDECHEXIST_TEXT	Guide channel overlaps.\n Please check the settings.	Guide channels overlap.\n Please check the settings.
+BSChannelSkip_0/dic/jp.dic	RECSTANDBY_TEXT	Start of the recording reservation.\n I will stop the current operation.	A timer recording is starting.\n The current operation will be stopped.
+BSChannelSkip_0/dic/jp.dic	EPGSTANDBY_TEXT	And you start getting the program information shortly.\n I will stop the current operation.	Program information will be retrieved shortly.\n The current operation will be stopped.
+ChapterList_0/Dialog.xml	s1	It was not possible to get the thumbnail information.	Could not get the thumbnail information.
+ConfigEasy_0/ConfigEasy.xml	s1	Set to start	Set as start
+ConfigEasy_0/ConfigEasy.xml	s5	Entrust circle Phone Setting	Omakase phone setting
+ConfigEasy_0/ConfigEasy.xml	s6	Entrust circle Phone Setting	Omakase phone setting
+ConfigEasy_0/ConfigEasy.xml	s7	Geographical designation set	Region setting
+ConfigEasy_0/ConfigEasy.xml	s8	Auto Tune	Auto Tuning
+ConfigEasy_0/ConfigEasy.xml	s13	apply settings	Apply settings
+ConfigEasy_0/ConfigEasy.xml	s14	End of setting	End settings
+ConfigEasy_0/ConfigEasy.xml	s15	Auto Tune	Auto Tuning
+ConfigEasy_0/ConfigEasy.xml	s17	Please Press.	Please press.
+ConfigEasy_0/ConfigEasy.xml	s22	press,you can change the time.	Press to change the time.
+ConfigEasy_0/ConfigEasy.xml	s24	Please Press.	Please press.
+ConfigEasy_0/ConfigEasy.xml	s25	YYYY/MM/DD  hh:mm:mm	YYYY/MM/DD  hh:mm:ss
+ConfigEasy_0/ConfigEasy.xml	s26	In Select an item, please change.	Select an item and change it.
+ConfigEasy_0/ConfigEasy.xml	s28	Please Press.	Please press.
+ConfigEasy_0/ConfigEasy.xml	s29	Are you sure you want using the left-circle book?	Use the left circle button?
+ConfigEasy_0/ConfigEasy.xml	s33	Press,for select.	Press to select.
+ConfigEasy_0/ConfigEasy.xml	s39	Serial drama of the night	Evening drama series
+ConfigEasy_0/ConfigEasy.xml	s45	Auto Tune?	Start auto tuning?
+ConfigEasy_0/ConfigEasy.xml	s50	4:3 letter box	4:3 Letterbox
+ConfigEasy_0/ConfigEasy.xml	s52	Are you sure you want to use optical out?	Use the optical output?
+ConfigEasy_0/ConfigEasy.xml	s61	I have set the contents of the following.	The following settings have been made.
+ConfigEasy_0/ConfigEasy.xml	s64	Random-record :	Omakase recording :
+ConfigEasy_0/ConfigEasy.xml	s76	finish the easy setting.	Exit Easy Settings.
+ConfigEasy_0/ConfigEasy.xml	s107	Return	Back
+ConfigEasy_0/ConfigEasy.xml	s130	18 Two units	18 Ninohe
+ConfigEasy_0/ConfigEasy.xml	s147	35 Maebashi	34 Yaita
+ConfigEasy_0/ConfigEasy.xml	s177	65 Alpine	65 Takayama
+ConfigEasy_0/ConfigEasy.xml	s206	94 Hainan Tanabe	94 Nanki-Tanabe
+ConfigEasy_0/ConfigEasy.xml	s216	104 Wu	104 Kure
+ConfigEasy_0/ConfigEasy.xml	s239	127 Much	127 Oita
+ConfigEasy_0/dic/jp.dic	Title_SettingStart	Setting start	Start setup
+ConfigEasy_0/dic/jp.dic	Title_AutoChannel	Auto Tune	Auto Tuning
+ConfigEasy_0/dic/jp.dic	Title_Time	Setting the time	Time setting
+ConfigEasy_0/dic/jp.dic	Title_Omakase	Phone Setting	Phone settings
+ConfigEasy_0/dic/jp.dic	Title_Scart	Scart Setting	Scart setting
+ConfigEasy_0/dic/jp.dic	Title_SettingEnd	End of setting	End settings
+ConfigEasy_0/dic/jp.dic	Message_Cancel	Stop the easy setting.\n Are you sure?	Cancel Easy Settings.\n Are you sure?
+ConfigEasy_0/dic/jp.dic	Message_TVAutoChannel	I run the automatic channel setting.\n Are you sure?	Automatic channel setup will run.\n Are you sure?
+ConfigEasy_0/dic/jp.dic	Message_ACSAutoDate	I run the automatic time setting. Are you sure?	Automatic time setup will run. Are you sure?
+ConfigEasy_0/dic/jp.dic	Message_OmakaseDelete	Change settings,phonebook and program guide\n Are you sure?	Change settings? The phone book and program guide\n will be affected. Are you sure?
+ConfigEasy_0/dic/jp.dic	Message_AreaChange	If you change the settings,phonebook and program guide\n May not be available.\n Are you sure?	If you change the settings, the phone book and\n program guide may not be available.\n Are you sure?
+ConfigEasy_0/dic/jp.dic	Message_RecStanby	Start of the recording reservation.\n I will stop the current operation.	A timer recording is starting.\n The current operation will be stopped.
+ConfigEasy_0/dic/jp.dic	Message_RecRun	You can not change during recording and recording in preparation.	Cannot be changed while recording or preparing to record.
+ConfigEasy_0/dic/jp.dic	Message_EPGStanby	getting the program information.\n I will stop the current operation.	Retrieving program information.\n The current operation will be stopped.
+ConfigEasy_0/dic/jp.dic	Message_Time_Error	Value you have entered is invalid.	The value you entered is invalid.
+ConfigEasy_0/dic/jp.dic	Message_BS_Error	Not possible to turn on BS antenna power.	Could not turn on the BS antenna power.
+ConfigInit_0/dic/jp.dic	Title_SettingStart	To return to factory settings	Reset to factory settings
+ConfigInit_0/dic/jp.dic	BACK	Return	Back
+ConfigInit_0/dic/jp.dic	NStop	Not stop	Do not stop
+ConfigInit_0/dic/jp.dic	cell0_text0	To return to the factory default settings of all.\n Are you sure?	All settings will be reset to factory defaults.\n Are you sure?
+ConfigInit_0/dic/jp.dic	cell1_text0	Back to the factory default settings.	Reset to factory default settings.
+ConfigInit_0/dic/jp.dic	cell2_text0	I was back to the factory settings.	Reset to factory settings.
+ConfigInit_0/dic/jp.dic	Message_Cancel	Stops the return to factory settings.\n Are you sure?	Cancel the reset to factory settings.\n Are you sure?
+ConfigInit_0/dic/jp.dic	Message_RecStanby	Start of the recording reservation.\n I will stop the current operation.	A timer recording is starting.\n The current operation will be stopped.
+ConfigInit_0/dic/jp.dic	Message_EPGStanby	Getting the program information.\n I will stop the current operation.	Retrieving program information.\n The current operation will be stopped.
+ConfigInit_0/dic/jp.dic	Dialog_Warning	To clear the current settings, to return to the state at the time of shipment.\n Are you sure?\n data of the program guide, but also will be removed,\n Music and videos you have stored on the hard disk,\n and photo not be deleted.	The current settings will be cleared and reset to factory defaults.\n Are you sure?\n Program guide data will also be deleted.\n Music, videos and photos stored on the hard disk\n will not be deleted.
+ConfigOmakase_0/dic/jp.dic	Configuration of omakase	Random-record	Omakase recording
+ConfigOmakase_0/dic/jp.dic	Configuration of omakase/create user keyword	Random-round record / Random user-created keyword	Omakase recording / User-created keywords
+ConfigOmakase_0/dic/jp.dic	Except word	Exclusion word	Excluded word
+ConfigOmakase_0/dic/jp.dic	Confirm	Settlement	Payment
+ConfigOmakase_0/dic/jp.dic	Not set	None specified	Not specified
+ConfigOmakase_0/dic/jp.dic	morning	Morning : 5:00AM - 0:00PM	Morning : 5:00AM - 12:00PM
+ConfigOmakase_0/dic/jp.dic	daytime	Noon : 11:00AM - 6:00PM	Midday : 11:00AM - 6:00PM
+ConfigOmakase_0/dic/jp.dic	night	Night : 5:00PM - 0:00AM	Evening : 5:00PM - 12:00AM
+ConfigOmakase_0/dic/jp.dic	midnight	Late at night : 11:00PM - 5:00AM	Late night : 11:00PM - 5:00AM
+ConfigOmakase_0/dic/jp.dic	Delete keyword.OK?	remove a keyword.\n Are you sure?	Delete this keyword.\n Are you sure?
+ConfigOmakase_0/dic/jp.dic	Delete All keyword.OK?	delete all keywords.\n Are you sure?	Delete all keywords.\n Are you sure?
+ConfigOmakase_0/dic/jp.dic	Save settings.OK?	I save the settings.\n Are you sure?	The settings will be saved.\n Are you sure?
+ConfigOmakase_0/dic/jp.dic	Saved.	saved.	Saved.
+ConfigOmakase_0/dic/jp.dic	Deleted.	deleted.	Deleted.
+ConfigTVChannelAuto_0/ConfigTVChannelAuto.xml	s1	Auto Tune	Auto Tuning
+ConfigTVChannelAuto_0/ConfigTVChannelAuto.xml	s2	Auto Tune	Auto Tuning
+ConfigTVChannelAuto_0/ConfigTVChannelAuto.xml	s3	Auto Tune	Auto Tuning
+ConfigTVChannelAuto_0/ConfigTVChannelAuto.xml	s4	Auto setup channel.	Set up channels automatically.
+ConfigTVChannelAuto_0/ConfigTVChannelAuto.xml	s5	Not turn off the power.	Do not turn off the power.
+ConfigTVChannelAuto_0/ConfigTVChannelAuto.xml	s9	Settings for a TV	TV settings
+ConfigTVChannelAuto_0/dic/jp.dic	Main_Title	Settings for a TV	TV settings
+ConfigTVChannelAuto_0/dic/jp.dic	Title_SettingStart	Auto Tune	Auto Tuning
+ConfigTVChannelAuto_0/dic/jp.dic	Message_Cancel	I run the automatic channel setting.\n Are tou sure?	Automatic channel setup will run.\n Are you sure?
+ConfigTVChannelAuto_0/dic/jp.dic	Message_RecStanby	Start of the recording reservation.\n I will stop the current operation.	A timer recording is starting.\n The current operation will be stopped.
+ConfigTVChannelAuto_0/dic/jp.dic	Message_EPGStanby	And you start getting the program information shortly.\n I will stop the current operation.	Program information will be retrieved shortly.\n The current operation will be stopped.
+ConfigTVChannel_0/ConfigTVChannel.xml	s220	Settings for a TV / Manual channel setting / Fine-tune the channel	TV settings / Manual channel setting / Fine tuning
+ConfigTVChannel_0/ConfigTVChannel.xml	s221	Return	Back
+ConfigTVChannel_0/dic/en.dic	MENU	TV SETTING	TV SETUP
+ConfigTVChannel_0/dic/en.dic	TITLE	TV MANUAL SETTING	TV MANUAL SETUP
+ConfigTVChannel_0/dic/en.dic	SaveConfirmDialog_2	If you do not save,return to the previous setting.	If you do not save, the previous settings will be restored.
+ConfigTVChannel_0/dic/en.dic	SaveWaitingDialog_1	It is saving the channel setting.	Saving the channel settings.
+ConfigTVChannel_0/dic/en.dic	EditStopConfirmDialog_1	I cut 10 minutes from scheduled recording start time.	10 minutes before the timer recording starts.
+ConfigTVChannel_0/dic/en.dic	EditStopConfirmDialog_2	Menu to ensure the values ​​you selected are canceled when it comes to recording reservation start time.	The values selected in the menu will be cancelled when the timer recording starts.
+ConfigTVChannel_0/dic/en.dic	EditStopConfirmDialog_3	Are you sure you cancel the manual channel setting here?	Cancel manual channel setup now?
+ConfigTVChannel_0/dic/jp.dic	MENU	TV SETTING	TV SETUP
+ConfigTVChannel_0/dic/jp.dic	TITLE	TV MANUAL SETTING	TV MANUAL SETUP
+ConfigTVChannel_0/dic/jp.dic	SaveConfirmDialog_2	If you do not save,return to the previous setting.	If you do not save, the previous settings will be restored.
+ConfigTVChannel_0/dic/jp.dic	SaveWaitingDialog_1	It is saving the channel setting.	Saving the channel settings.
+ConfigTVChannel_0/dic/jp.dic	EditStopConfirmDialog_1	I cut 10 minutes from scheduled recording start time.	10 minutes before the timer recording starts.
+ConfigTVChannel_0/dic/jp.dic	EditStopConfirmDialog_2	Menu to ensure the values ​​you selected are canceled when it comes to recording reservation start time.	The values selected in the menu will be cancelled when the timer recording starts.
+ConfigTVChannel_0/dic/jp.dic	EditStopConfirmDialog_3	Are you sure you cancel the manual channel setting here?	Cancel manual channel setup now?
+DVDubbing_0/DVDubbing.xml	s12	The disc space 100%	Disc space 100%
+DVDubbing_0/dic/jp.dic	Main_Title	DV → HDD record	DV → HDD dubbing
+DVDubbing_0/dic/jp.dic	POP_START__TEXT_START	Start recording from DV-device.\nSet recording mode and sound,start the record.	Start dubbing from the DV device.\nSet the recording mode and audio, then start dubbing.
+DVDubbing_0/dic/jp.dic	POP_START__YES	Start record	Start dubbing
+DVDubbing_0/dic/jp.dic	DLG_ROLLING_BACK_TAPE	Is rewinding.\n Please wait.	Rewinding.\n Please wait.
+DVDubbing_0/dic/jp.dic	DLG_COPY_COMPLETE	Record complete.	Dubbing complete.
+DVDubbing_0/dic/jp.dic	DLG_STOP_COPY	Stop record.\n Are you sure?	Stop dubbing.\n Are you sure?
+DVDubbing_0/dic/jp.dic	DLG_STOPED_COPY	I have to stop record.	Dubbing will be stopped.
+DVDubbing_0/dic/jp.dic	DLG_PRE60_REC	Start record.\n There is a scheduled recording in MM AM: HH.\n During record, you can not perform timer recording.\n Are you sure?	Start dubbing.\n A timer recording is scheduled at MM AM: HH.\n Timer recordings cannot run during dubbing.\n Are you sure?
+DVDubbing_0/dic/jp.dic	DLG_PRE5_REC	Preparation recording.\n To do record, please delete the recording schedule.	Preparing for a timer recording.\n To dub, please delete the timer recording.
+DVDubbing_0/dic/jp.dic	DLG_PLAY_REC	Is recording.\n You can not dub.	Recording.\n Cannot dub.
+DVDubbing_0/dic/jp.dic	DLG_PLAY_REENCO	Is optimization.\n You can not dub.	Optimizing.\n Cannot dub.
+DVDubbing_0/dic/jp.dic	DLG_UNKNOWN_DV	DV-device not conect.\nStop record.	DV device not connected.\nDubbing stopped.
+DVDubbing_0/dic/jp.dic	DLG_NOINPUT_TAPE	Cassette is not in the DV device.\n I have to stop record.	There is no cassette in the DV device.\n Recording stopped.
+DVDubbing_0/dic/jp.dic	DLG_CANNOT_CONTROL_DV	You can not control the DV device\n I have to stop record.	The DV device cannot be controlled.\n Dubbing stopped.
+DVDubbing_0/dic/jp.dic	DLG_COPY_FAITAL	Failed record.	Dubbing failed.
+DVDubbing_0/dic/jp.dic	DLG_HDD_NO_CAPACITY	Capacity of the hard disk is insufficient.\n Please remove or track title,and photo.	Not enough hard disk space.\n Please delete titles, tracks or photos.
+DVDubbing_0/dic/jp.dic	DLG_TITLE_FULL	Title is full. Please delete title.	The title list is full. Please delete titles.
+DVDubbing_0/dic/jp.dic	DLG_END	Finish the record.	End dubbing.
+EasyWord_0/dic/jp.dic	edit registed word	Setting Input / Edit Registration phrase	Input settings / Edit registered phrase
+EasyWord_0/dic/jp.dic	There is same word.	Same word exists.	This word already exists.
+EasyWord_0/dic/jp.dic	Overwrite the word?	Overrides.\n Are you sure?	It will be overwritten.\n Are you sure?
+EasyWord_0/dic/jp.dic	Delete the word?	Delete the phrase.\n Are you sure?	Delete this phrase.\n Are you sure?
+EasyWord_0/dic/jp.dic	Word is registed.	I have registered the phrase.	The phrase has been registered.
+EasyWord_0/dic/jp.dic	Word is deleted.	I removed the word.	The word has been deleted.
+EasyWord_0/dic/jp.dic	There is no registed word.	There is no word that is registered.	There are no registered words.
+EasyWord_0/dic/jp.dic	Invalid word.	You can not use this phrase.	This phrase cannot be used.
+epg_0/epg.xml	s2	Return	Back
+epg_0/epg.xml	s10	classification 	Classification 
+epg_0/epg.xml	s12	--:--xM - --:--xM The station name	--:--xM - --:--xM Station name
+epg_0/epg.xml	s15	..:..xM - ..:..xM The station name	..:..xM - ..:..xM Station name
+epg_0/epg.xml	s16	A display area of detail 1.	Detail display area 1.
+epg_0/epg.xml	s17	A display area of detail 2.	Detail display area 2.
+epg_0/epg.xml	s24	Is not available program guide.	Program guide not available.
+epg_0/epg.xml	s25	Please edit the phrase to be registered.	Please edit the phrase to register.
+HDDPartition_0/HDDPartition.xml	s2	Return	Back
+HDDPartition_0/HDDPartition.xml	s3	Run the HDD area setting, you can change the game area.	Run the HDD area setting to change the game area.
+HDDPartition_0/HDDPartition.xml	s4	When you run, you can erase contents of the hard disk.	Running this can erase the contents of the hard disk.
+HDDPartition_0/HDDPartition.xml	s5	Game use HDD:	HDD used for games:
+HDDPartition_0/HDDPartition.xml	s8	Return	Back
+HDDPartition_0/HDDPartition.xml	s9	Run the HDD area setting, and delete the game area.	Run the HDD area setting to delete the game area.
+HDDPartition_0/HDDPartition.xml	s10	Please Press.	Please press.
+HDDPartition_0/HDDPartition.xml	s12	Delete a game area, and the game on the hard disk,	Delete the game area and the games on the hard disk,
+HDDPartition_0/HDDPartition.xml	s13	Some features music, the photo will be unavailable.	Some music and photo features will be unavailable.
+HDDPartition_0/HDDPartition.xml	s14	Run the HDD area setting, you can create a game area.	Run the HDD area setting to create a game area.
+HDDPartition_0/HDDPartition.xml	s15	Please Press.	Please press.
+HDDPartition_0/HDDPartition.xml	s17	If you create a game area, the recording time of the program	If you create a game area, the available recording time
+HDDPartition_0/HDDPartition.xml	s18	About 17 hours(SP at the time of recording)Will be shorter.	Will be about 17 hours shorter (in SP recording mode).
+HDDPartition_0/HDDPartition.xml	s20	Please restart Press.	Press to restart.
+HDDPartition_0/HDDPartition.xml	s21	Restart, and then start the hard disk space setting.	Restart, then start the HDD area setting.
+HDDPartition_0/dic/jp.dic	Message_Cancel	Stop the HDD area setting.\n Are you sure?	Cancel the HDD area setting.\n Are you sure?
+HDDPartition_0/dic/jp.dic	Message_RecStanby	Start of the recording reservation.\n I will stop the current operation.	A timer recording is starting.\n The current operation will be stopped.
+HDDPartition_0/dic/jp.dic	Message_EPGStanby	And you start getting the program information.\n I will stop the current operation.	Retrieving program information.\n The current operation will be stopped.
+HDDPartition_0/dic/jp.dic	Message_Warning0	If you run the region setting of the HDD, the hard disk\n the following contents will be cleared.\n Are you sure?	Running the HDD area setting will clear\n the following contents of the hard disk.\n Are you sure?
+HDDPartition_0/dic/jp.dic	Message_Warning1	Video<CRLF>Music<CRLF>Photo<CRLF>Game that uses a hard disk<CRLF>Data of the program guide	Videos<CRLF>Music<CRLF>Photos<CRLF>Games that use the hard disk<CRLF>Program guide data
+IconEdit_0/IconEdit.xml	s58	Unformat Completed.	Unformat completed.
+IconEdit_0/IconEdit.xml	s92	No Files to Copy.	No files to copy.
+IconEdit_0/dic/jp.dic	CopyIconTitle	Copying....	Copying...
+IconEdit_0/dic/jp.dic	InfoIconTpFormat	PlayStation®2 format software	PlayStation®2 Format Software
+MSDubbing_0/dic/jp.dic	MSDubTitle	HDD→M.S.Record	HDD→M.S. dubbing
+MSDubbing_0/dic/jp.dic	MSDubTitle_Start	HDD→M.S.Record / Start	HDD→M.S. dubbing / Start
+MSDubbing_0/dic/jp.dic	MSDubTitle_MSChk	HDD→M.S.Record / M.S.Check	HDD→M.S. dubbing / M.S. check
+MSDubbing_0/dic/jp.dic	MSDubTitle_Format	HDD→M.S.Record / Format	HDD→M.S. dubbing / Format
+MSDubbing_0/dic/jp.dic	MSDubTitle_MovieDel	HDD→M.S.Record / Delete all videos	HDD→M.S. dubbing / Delete all videos
+MSDubbing_0/dic/jp.dic	MSDubTitle_SelectTitle	HDD→M.S.Record / Title selection	HDD→M.S. dubbing / Title selection
+MSDubbing_0/dic/jp.dic	MSDubTitle_ConvCopyStart	HDD→M.S.Record/ confirm record	HDD→M.S. dubbing / Confirm
+MSDubbing_0/dic/jp.dic	MSDubTitle_ConvCopy	HDD→M.S.Record / Writing	HDD→M.S. dubbing / Writing
+MSDubbing_0/dic/jp.dic	HelpDiscont	Eror	Error
+MSDubbing_0/dic/jp.dic	StartMsg1	Memory Stick Video format	Format Memory Stick Video
+MSDubbing_0/dic/jp.dic	StartMsg2	The convert, and then record to the Memory Stick.	Convert and dub to the Memory Stick.
+MSDubbing_0/dic/jp.dic	StartMsg3	Insert a Memory Stick record possible	Insert a recordable Memory Stick
+MSDubbing_0/dic/jp.dic	StartMsg4	Please Press.	Please press.
+MSDubbing_0/dic/jp.dic	MSCheck	Memory Stick Checking%3d％	Checking Memory Stick %3d％
+MSDubbing_0/dic/jp.dic	MSDelete	Deleting%3d％	Deleting %3d％
+MSDubbing_0/dic/jp.dic	TtlSelect2	Select a title in record	Select titles to dub
+MSDubbing_0/dic/jp.dic	TtlSelect3	Please Press.	Please press.
+MSDubbing_0/dic/jp.dic	CopyStart1	Order to write to the memory stick	To write to the Memory Stick
+MSDubbing_0/dic/jp.dic	CopyStart3	You can start record by press the.	Press to start dubbing.
+MSDubbing_0/dic/jp.dic	CopySumTime	About to end record:%time%d	Recording ends in: %time%d
+MSDubbing_0/dic/jp.dic	CopyMsg1	I've been record the title.	The title has been dubbed.
+MSDubbing_0/dic/jp.dic	Remain1	About to end dubbing%dMinute%d	Dubbing ends in %d min %d
+MSDubbing_0/dic/jp.dic	Remain2	About to end dubbing%dTime%d	Dubbing ends in %d h %d
+MSDubbing_0/dic/jp.dic	ConvStatus	During the conversion ...	Converting...
+MSDubbing_0/dic/jp.dic	CopyStatus	Writing ...	Writing...
+MSDubbing_0/dic/jp.dic	CancelStatus	Cancelling ...	Cancelling...
+MSDubbing_0/dic/jp.dic	Func_Select	Free space on the Memory Stick%dMB Is.\n Please select a function.	Free space on the Memory Stick: %d MB.\n Please select a function.
+MSDubbing_0/dic/jp.dic	Chk_Delete	Memory Stick Video format\n I will delete all of the title.\n Are you sure?	Format Memory Stick Video.\n All titles will be deleted.\n Are you sure?
+MSDubbing_0/dic/jp.dic	Chk_Format	I do format. Memory Stick\n Data written will be deleted.\n Are you sure?	The Memory Stick will be formatted.\n All data on it will be deleted.\n Are you sure?
+MSDubbing_0/dic/jp.dic	Chk_Format2	Once formatted, it does not appear on the player\n Data will also be deleted.\n Are you sure?	Once formatted, the data will no longer appear on the player\n and will be deleted.\n Are you sure?
+MSDubbing_0/dic/jp.dic	Chk_FormatErr	This Memory Stick is required format.\n Data written to the Memory Stick\n It will be deleted.\n Are you sure?	This Memory Stick must be formatted.\n All data on the Memory Stick\n will be deleted.\n Are you sure?
+MSDubbing_0/dic/jp.dic	Chk_Writable	It is not possible to write to the memory stick any more.\n All videos delete, or Do you want to format?	No more data can be written to the Memory Stick.\n Delete all videos or format it?
+MSDubbing_0/dic/jp.dic	ConvCopy_End	Record ended.	Dubbing ended.
+MSDubbing_0/dic/jp.dic	Guide_Cancel	Stop record.\n Are you sure?	Stop dubbing.\n Are you sure?
+MSDubbing_0/dic/jp.dic	ConvCopy_Cancel	I have to stop record.	Dubbing will be stopped.
+MSDubbing_0/dic/jp.dic	Chk_Shutdown	Record completed, do you turn off the power?	Dubbing complete. Turn off the power?
+MSDubbing_0/dic/jp.dic	ConvCopy_End_Shutdown	Recordg ended.\n I turn off the power.	Dubbing ended.\n The power will be turned off.
+MSDubbing_0/dic/jp.dic	Err_Optimi	Is optimization.\n You can not record.	Optimizing.\n Cannot record.
+MSDubbing_0/dic/jp.dic	Err_NoTitle	There is no title to be record.\n I have to stop record.	There is no title to dub.\n Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_System	System error.\n stop record.	System error.\n Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_NoMemoStick	There is no Memory Stick.\n Stop record.	There is no Memory Stick.\n Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_NotPoss	You can not use this memory stick.\n Stop record.	This Memory Stick cannot be used.\n Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_Lock	Memory Stick is locked.\n I have to Stop record.	The Memory Stick is locked.\n Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_NoWrite	You can not write the Memory Stick error.\n Stop record.	Memory Stick write error.\n Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_ReadEx	It is a read-only Memory Stick. Stop record.	This Memory Stick is read-only. Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_NoAccess	It is a non-compliant Memory Stick.\n Stop record.	This Memory Stick is not supported.\n Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_FailWrite1	Because of a failure to write\n Stop record.	A write error occurred.\n Recording stopped.
+MSDubbing_0/dic/jp.dic	Err_FailWrite2	I failed to write.\n After this, it will be read-only.\n Stop record.	Write failed.\n The disc is now read-only.\n Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_FailDelete	Failure to remove all video\n Stop record.	Failed to delete all videos.\n Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_FailFormat	Format failed\n Stop record.	Formatting failed.\n Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_NoCopyTitle	You can not record the title.	This title cannot be dubbed.
+MSDubbing_0/dic/jp.dic	Err_Capacity	Because the free space on the Memory Stick is insufficient\n You can not record the this title.	Not enough free space on the Memory Stick.\n This title cannot be recorded.
+MSDubbing_0/dic/jp.dic	Err_OverTitle	You can not select a title any more.	No more titles can be selected.
+MSDubbing_0/dic/jp.dic	Err_OverTime	The total playing time of the edited%dOf the time or more\n You can not select a title.	The total playing time of the edit is %d or more.\n No more titles can be selected.
+MSDubbing_0/dic/jp.dic	Err_FailConv	Failure to convert the title\n I have to stop record.	Failed to convert the title.\n Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_MemoStick	Memory Stick is not inserted\n Memory Stick error.\n I have to stop record.	No Memory Stick inserted.\n Memory Stick error.\n Dubbing stopped.
+MSDubbing_0/dic/jp.dic	Err_EmpName	More, the title to the Memory Stick\n I can not write.	No more titles can be written\n to the Memory Stick.
+MSDubbing_0/dic/jp.dic	Err_RecTitle	The title of the recording.\n You can not record.	This title is being recorded.\n It cannot be dubbed.
+MSDubbing_0/dic/jp.dic	Err_HDDCapa	Since the capacity of the hard disk is missing,\n It is not possible to start record.\n It stops record, the unwanted title\n Please remove from the hard disk.	There is not enough hard disk space,\n so dubbing cannot start.\n Please stop dubbing and delete\n unwanted titles from the hard disk.
+MusicPlayer_0/dic/jp.dic	Created	Create Device	Create device
+MusicPlayer_0/dic/jp.dic	EmptyName	That is a blank name and cannot be used.	A blank name cannot be used.
+MusicPlayer_0/dic/jp.dic	SameName	No change to name, rename cancelled.	The name was not changed. Rename cancelled.
+MusicPlayer_0/dic/jp.dic	ImportExist	An album with this name already exists. If you continue with the Import the album will be overwritten.	An album with this name already exists. If you continue the import, the album will be overwritten.
+MusicPlayer_0/dic/jp.dic	CheckingForSpaceHD	Checking for free space on the hard disk�	Checking free hard disk space...
+MusicPlayer_0/dic/jp.dic	NoFiles	There is no item available to import.	There are no items to import.
+MusicPlayer_0/dic/jp.dic	CreateAlbum	Create New	Create new
+MusicPlayer_0/dic/jp.dic	NoNextTrack	There is no track available.	There are no tracks available.
+MusicPlayer_0/dic/jp.dic	NoPreviousTrack	There is no track available.	There are no tracks available.
+MusicPlayer_0/dic/jp.dic	Show.AddToShow	Add To Show	Add to Show
+MusicPlayer_0/dic/jp.dic	Show.NoFiles	There is no item available to add to show.	There are no items to add to the show.
+MusicPlayer_0/dic/jp.dic	Show.Checking	Checking for free space on the hard disk.\nPlease wait...\nDo not turn off the console.	Checking free hard disk space.\nPlease wait...\nDo not turn off the console.
+MusicPlayer_0/dic/jp.dic	Show.NewAlbum	Create New	Create new
+MusicPlayer_0/dic/jp.dic	Show.Processing	Adding�\nDo not turn off the console or remove the media.	Adding...\nDo not turn off the console or remove the media.
+NetworkSettings_0/NetworkSettings.xml	s1	Network setting / Setting start	Network Settings / Start setup
+NetworkSettings_0/NetworkSettings.xml	s5	Please Press.	Please press.
+NetworkSettings_0/NetworkSettings.xml	s6	Network setting / Setting the IP address	Network Settings / IP address setting
+NetworkSettings_0/NetworkSettings.xml	s9	Please Press.	Please press.
+NetworkSettings_0/NetworkSettings.xml	s13	Network setting / Configuring PPPoE	Network Settings / PPPoE configuration
+NetworkSettings_0/NetworkSettings.xml	s15	Press, you can change or enter a value.	Press to change or enter a value.
+NetworkSettings_0/NetworkSettings.xml	s22	Network setting / Setting the IP address	Network Settings / IP address setting
+NetworkSettings_0/NetworkSettings.xml	s23	Please select the items you want to input.	Please select the items to enter.
+NetworkSettings_0/NetworkSettings.xml	s24	Press, you can change the value.	Press to change the value.
+NetworkSettings_0/NetworkSettings.xml	s51	Network setting / Configuring DNS	Network Settings / DNS configuration
+NetworkSettings_0/NetworkSettings.xml	s54	Please Press.	Please press.
+NetworkSettings_0/NetworkSettings.xml	s57	Network setting / Configuring DNS	Network Settings / DNS configuration
+NetworkSettings_0/NetworkSettings.xml	s58	Please select the items you want to input.	Please select the items to enter.
+NetworkSettings_0/NetworkSettings.xml	s59	If you press, you can change the value.	Press to change the value.
+NetworkSettings_0/NetworkSettings.xml	s61	Please Press.	Please press.
+NetworkSettings_0/NetworkSettings.xml	s78	Network setting / Settings list	Network Settings / Settings list
+NetworkSettings_0/NetworkSettings.xml	s126	Network setting / Connection test	Network Settings / Connection test
+NetworkSettings_0/NetworkSettings.xml	s127	Save content to the hard disk	Save the content to the hard disk
+NetworkSettings_0/NetworkSettings.xml	s128	Test connection network.	Test the network connection.
+NetworkSettings_0/NetworkSettings.xml	s129	Please Press.	Please press.
+NetworkSettings_0/NetworkSettings.xml	s130	Network setting	Network Settings
+NetworkSettings_0/NetworkSettings.xml	s131	&#34;DNAS&#34;Authentication.	&#34;DNAS&#34;: Authenticating.
+NetworkSettings_0/NetworkSettings.xml	s132	You can not stop the process authentication.	The authentication process cannot be stopped.
+NetworkSettings_0/NetworkSettings.xml	s134	Network setting	Network Settings
+NetworkSettings_0/NetworkSettings.xml	s135	Network testing.	Testing the network.
+NetworkSettings_0/NetworkSettings.xml	s137	Network setting / Setting complete	Network Settings / Setup complete
+NetworkSettings_0/NetworkSettings.xml	s138	Network connection complete.	Network connection established.
+NetworkSettings_0/NetworkSettings.xml	s157	Network setting	Network Settings
+NetworkSettings_0/NetworkSettings.xml	s159	Return	Back
+NetworkSettings_0/NetworkSettingsDialogs.xml	s1	Stop the network settings.	Cancel the network settings.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s7	Not possible to save the settings.	The settings could not be saved.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s8	I did not read configuration.	Could not read the configuration.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s9	Error setting.	Settings error.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s10	Please contact your nearest office.	Please contact your nearest service center.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s13	Error setting.	Settings error.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s14	After a power cycle of the unit	After turning the unit off and on again
+NetworkSettings_0/NetworkSettingsDialogs.xml	s18	Not connect to network.	Not connected to the network.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s21	Not connect network.	Not connected to the network.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s22	Check the user ID and password of PPPoE.	Check the PPPoE user ID and password.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s25	&#34;DNAS&#34;error.	&#34;DNAS&#34;: Error.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s28	&#34;DNAS&#34;Server error.	&#34;DNAS&#34;: Server error.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s31	&#34;DNAS&#34;Authentication error.	&#34;DNAS&#34;: Authentication error.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s34	Current&#34;DNAS&#34;Server accept the processing	The &#34;DNAS&#34; server is currently processing
+NetworkSettings_0/NetworkSettingsDialogs.xml	s35	Can not.	Not possible.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s39	Of PSX&#34;DNAS&#34;Is an authentication service period before.	The PSX &#34;DNAS&#34; authentication service period has not started yet.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s42	Of PSX&#34;DNAS&#34;Authentication service period has ended.	The PSX &#34;DNAS&#34; authentication service period has ended.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s45	All&#34;DNAS&#34;Service terminated.	All &#34;DNAS&#34; services have been terminated.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s48	&#34;DNAS&#34;Connection server has timed out.	&#34;DNAS&#34;: Connection to the server timed out.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s49	Reconnect you wait a while.	Please wait a moment and reconnect.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s52	&#34;DNAS&#34;Failed connect to server.	&#34;DNAS&#34;: Failed to connect to the server.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s55	&#34;DNAS&#34;Server not work.	&#34;DNAS&#34;: Server is not working.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s56	Please reconnect you wait a while.	Please wait a moment and reconnect.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s59	Is a unique ID error.	Unique ID error.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s65	Eror device information.	Device information error.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s76	DNS Error.	DNS error.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s80	I aborted the network connection.	The network connection was aborted.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s87	Reconnect you wait a while.	Please wait a moment and reconnect.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s90	error autoset IP address.	Error in automatic IP address setting.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s91	If the router used to OFF and PPPoE	If the router is OFF and PPPoE
+NetworkSettings_0/NetworkSettingsDialogs.xml	s93	Reset the modem if the modem use.	Reset the modem if you use one.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s94	Check Router and Modem	Check the router and modem
+NetworkSettings_0/NetworkSettingsDialogs.xml	s96	For return.	To go back.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s97	press X to exit	Press X to exit
+NetworkSettings_0/NetworkSettingsDialogs.xml	s100	error proxy settings.	Proxy settings error.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s103	connection failed	Connection failed
+NetworkSettings_0/NetworkSettingsDialogs.xml	s104	Check Router and Modem.	Check the router and modem.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s107	press X to exit	Press X to exit
+NetworkSettings_0/NetworkSettingsDialogs.xml	s113	error of PPPoE.	PPPoE error.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s116	I failed to cancel.	Failed to cancel.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s117	Please check IP address.	Please check the IP address.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s118	Please check the input net mask.	Please check the net mask you entered.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s119	Please check the input default router.	Please check the default router you entered.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s123	Please check the input.	Please check your input.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s125	Please check the input.	Please check your input.
+NetworkSettings_0/NetworkSettingsDialogs.xml	s127	Please check the input.	Please check your input.
+OmakaseChannel_0/OmakaseChannel.xml	s1	Video settings / Random-record Channel setting	Video settings / Omakase recording channel setting
+OmakaseChannel_0/OmakaseChannel.xml	s3	Return	Back
+OmakaseChannel_0/OmakaseChannel.xml	s4	Display channel	Show channel
+OmakaseChannel_0/OmakaseChannel.xml	s6	Random-record	Omakase recording
+OmakaseChannel_0/dic/en.dic	MENU	TV SETTING	TV SETUP
+OmakaseChannel_0/dic/en.dic	TITLE	TV MANUAL SETTING	TV MANUAL SETUP
+OmakaseChannel_0/dic/en.dic	SaveConfirmDialog_2	If you do not save, to return to the previous setting.	If you do not save, the previous settings will be restored.
+OmakaseChannel_0/dic/en.dic	SaveWaitingDialog_1	It is saving the channel setting.	Saving the channel settings.
+OmakaseChannel_0/dic/en.dic	EditStopConfirmDialog_1	I cut 10 minutes from scheduled recording start time.	10 minutes before the timer recording starts.
+OmakaseChannel_0/dic/en.dic	EditStopConfirmDialog_2	Menu to ensure the values ​​you selected are canceled when it comes to recording reservation start time.	The values selected in the menu will be cancelled when the timer recording starts.
+OmakaseChannel_0/dic/en.dic	EditStopConfirmDialog_3	Are you sure you want to cancel the manual channel setting here?	Cancel manual channel setup now?
+OmakaseChannel_0/dic/jp.dic	MENU	TV SETTING	TV SETUP
+OmakaseChannel_0/dic/jp.dic	TITLE	TV MANUAL SETTING	TV MANUAL SETUP
+OmakaseChannel_0/dic/jp.dic	SaveConfirmDialog_2	If you do not save, to return to the previous setting.	If you do not save, the previous settings will be restored.
+OmakaseChannel_0/dic/jp.dic	SaveWaitingDialog_1	It is saving the channel setting.	Saving the channel settings.
+OmakaseChannel_0/dic/jp.dic	EditStopConfirmDialog_1	I cut 10 minutes from scheduled recording start time.	10 minutes before the timer recording starts.
+OmakaseChannel_0/dic/jp.dic	EditStopConfirmDialog_2	Menu to ensure the values ​​you selected are canceled when it comes to recording reservation start time.	The values selected in the menu will be cancelled when the timer recording starts.
+OmakaseChannel_0/dic/jp.dic	EditStopConfirmDialog_3	Are you sure you want to cancel the manual channel setting here?	Cancel manual channel setup now?
+PictClip_0/PictClip.xml	s1	Pict Story from the photo on the memory album	Pict Story from the photos in the album
+PictClip_0/PictClip.xml	s2	Or create, a, a Pict Story that you have already created	Or a Pict Story you have already created
+PictClip_0/PictClip.xml	s9	I will create a Pict Story with the following settings.	A Pict Story will be created with the following settings.
+PictClip_0/PictClip.xml	s16	I will save the Pict Story.　　　　　　　	The Pict Story will be saved.　　　　　　　
+PictClip_0/PictClip.xml	s17	If you want to save it as a new Pict Story is	To save it as a new Pict Story
+PictClip_0/PictClip.xml	s18	Please select the Save As.	Please select where to save.
+PictClip_0/PictClip.xml	s19	To Save	Save
+PictClip_0/PictClip.xml	s20	I wish to save the file as another name	Save the file under a different name
+PictClip_0/PictClip.xml	s21	I have been saved Pict Story.　　　　　　　　	The Pict Story has been saved.　　　　　　　　
+PictClip_0/PictClip.xml	s22	Allows you to create a video Pict Story in a row.　　	Lets you create video Pict Stories one after another.　　
+PictClip_0/PictClip.xml	s24	You can not operate the [Stop] other than the video being created.	[Stop] is only available for the video being created.
+PictClip_0/PictClip.xml	s25	You can not run a scheduled recording video creation.	Cannot create a video during a timer recording.
+PictClip_0/PictClip.xml	s28	There is a recording reservation.	A timer recording is scheduled.
+PictClip_0/PictClip.xml	s30	Pict Story editing end	End Pict Story editing
+PictClip_0/PictClip.xml	s31	You can not operate the [Stop] other than the video being created.	[Stop] is only available for the video being created.
+PictClip_0/PictClip.xml	s32	You can not run a scheduled recording video creation.	Cannot create a video during a timer recording.
+PictClip_0/PictClip.xml	s35	There is a recording reservation.	A timer recording is scheduled.
+PictClip_0/PictClip.xml	s37	Pict Story editing end	End Pict Story editing
+PictClip_0/PictClip.xml	s38	The Pict Story video that you created	The Pict Story video you created
+PictClip_0/PictClip.xml	s39	I have been saved to.	Saved to.
+PictClip_0/PictClip.xml	s40	I'll finish the Pict Story editing.	Pict Story editing will end.
+PictClip_0/PictClip.xml	s42	Approximately until the end	Approx. until the end
+PictClip_0/PictClip.xml	s43	It takes minutes.	This takes a few minutes.
+PictClip_0/PictClip.xml	s48	Setting confirmation	Confirm settings
+PictClip_0/PictClip.xml	s49	Confirmation Play	Preview playback
+PictClip_0/PictClipDialog.xml	s1	I will stop Pict Story editing.	Pict Story editing will be stopped.
+PictClip_0/PictClipErrDlg.xml	s1	There is no photo that can be used for Pict Story.	There are no photos that can be used for a Pict Story.
+PictClip_0/PictClipErrDlg.xml	s3	You can not modify this Pict Story.　　	This Pict Story cannot be modified.　　
+PictClip_0/PictClipErrDlg.xml	s4	Please select a Pict Story other.	Please select a different Pict Story.
+PictClip_0/PictClipErrDlg.xml	s5	Name you entered is either invalid or has already used.	The name you entered is invalid or already in use.
+PictClip_0/PictClipErrDlg.xml	s7	Any more, you can not create a Pict Story.	No more Pict Stories can be created.
+PictClip_0/PictClipErrDlg.xml	s8	Please delete unnecessary Pict Story.　	Please delete unneeded Pict Stories.　
+PictClip_0/PictClipErrDlg.xml	s9	I'll finish the Pict Story editing.　　　　　	Pict Story editing will end.　　　　　
+PictClip_0/PictClipErrDlg.xml	s10	There is no photo to create a Pict Story.	There are no photos to create a Pict Story.
+PictClip_0/PictClipErrDlg.xml	s11	I'll finish the Pict Story editing.　　　　　　　　　	Pict Story editing will end.　　　　　　　　　
+PictClip_0/PictClipErrDlg.xml	s12	The Ya album that you are using for this Pict Story	The album used for this Pict Story
+PictClip_0/PictClipErrDlg.xml	s13	There is no photo.	There are no photos.
+PictClip_0/PictClipErrDlg.xml	s14	I'll finish the Pict Story editing.　　　　　	Pict Story editing will end.　　　　　
+PictClip_0/PictClipErrDlg.xml	s15	I have been saved Pict Story.　　　　　	The Pict Story has been saved.　　　　　
+PictClip_0/PictClipErrDlg.xml	s16	For recording, you can not create the video.	Video cannot be created while recording.
+PictClip_0/PictClipErrDlg.xml	s17	After the end of the recording, from Pict Story　　　　	After recording ends, from Pict Story　　　　
+PictClip_0/PictClipErrDlg.xml	s18	Please to create video.	Please create a video.
+PictClip_0/PictClipErrDlg.xml	s19	I'll finish the Pict Story editing.　　　　	Pict Story editing will end.　　　　
+PictClip_0/PictClipErrDlg.xml	s20	I have been saved Pict Story.　　　　　　　　　　　　　	The Pict Story has been saved.　　　　　　　　　　　　　
+PictClip_0/PictClipErrDlg.xml	s21	Because hard disk space is insufficient	Because there is not enough hard disk space
+PictClip_0/PictClipErrDlg.xml	s22	Video can not be created.	The video cannot be created.
+PictClip_0/PictClipErrDlg.xml	s23	Please remove unnecessary title, track, a photo	Please delete unneeded titles, tracks or photos
+PictClip_0/PictClipErrDlg.xml	s24	I'll finish the Pict Story editing.　　　　　　　　　　　　	Pict Story editing will end.　　　　　　　　　　　　
+PictClip_0/PictClipErrDlg.xml	s25	I have been saved Pict Story.　　　　　　　	The Pict Story has been saved.　　　　　　　
+PictClip_0/PictClipErrDlg.xml	s26	You can not create a video title any more.	No more video titles can be created.
+PictClip_0/PictClipErrDlg.xml	s27	Please delete unwanted title.	Please delete unwanted titles.
+PictClip_0/PictClipErrDlg.xml	s28	I'll finish the Pict Story editing.　　　　　　	Pict Story editing will end.　　　　　　
+PictClip_0/PictClipErrDlg.xml	s29	I have been saved Pict Story.　　	The Pict Story has been saved.　　
+PictClip_0/PictClipErrDlg.xml	s30	For optimization of the video title	To optimize the video title
+PictClip_0/PictClipErrDlg.xml	s31	Video can not be created.	The video cannot be created.
+PictClip_0/PictClipErrDlg.xml	s32	After the optimization, the Pict Story	After optimization, the Pict Story
+PictClip_0/PictClipErrDlg.xml	s33	Please to create video.	Please create a video.
+PictClip_0/PictClipErrDlg.xml	s34	Pict I'll finish the Story editing.	Pict Story editing will end.
+PictClip_0/PictClipErrDlg.xml	s35	I have been saved Pict Story.　　　　　　　	The Pict Story has been saved.　　　　　　　
+PictClip_0/PictClipErrDlg.xml	s36	For recording construction and can not be created video.	Video cannot be created while recording.
+PictClip_0/PictClipErrDlg.xml	s37	After you delete a scheduled recording, from Pict Story　　	After deleting a timer recording, from Pict Story　　
+PictClip_0/PictClipErrDlg.xml	s38	Please to create video.	Please create a video.
+PictClip_0/PictClipErrDlg.xml	s39	I'll finish the Pict Story editing.　　　　　　	Pict Story editing will end.　　　　　　
+PictClip_0/PictClipErrDlg.xml	s40	For recording, you can not create the video.	Video cannot be created while recording.
+PictClip_0/PictClipErrDlg.xml	s41	After the end of the recording, from Pict Story　　　　	After recording ends, from Pict Story　　　　
+PictClip_0/PictClipErrDlg.xml	s42	Please to create video.	Please create a video.
+PictClip_0/PictClipErrDlg.xml	s43	I'll finish the Pict Story editing.　　　　	Pict Story editing will end.　　　　
+PictClip_0/PictClipErrDlg.xml	s44	Because hard disk space is insufficient	Because there is not enough hard disk space
+PictClip_0/PictClipErrDlg.xml	s45	Video can not be created.	The video cannot be created.
+PictClip_0/PictClipErrDlg.xml	s46	Please remove unnecessary title, track, a photo.	Please delete unneeded titles, tracks or photos.
+PictClip_0/PictClipErrDlg.xml	s47	I'll finish the Pict Story editing.　　　　　　　　　　　　	Pict Story editing will end.　　　　　　　　　　　　
+PictClip_0/PictClipErrDlg.xml	s48	You can not create a video title any more.	No more video titles can be created.
+PictClip_0/PictClipErrDlg.xml	s49	Please delete unwanted title.	Please delete unwanted titles.
+PictClip_0/PictClipErrDlg.xml	s50	I'll finish the Pict Story editing.　　　　　　	Pict Story editing will end.　　　　　　
+PictClip_0/PictClipErrDlg.xml	s51	For optimization of the video title	To optimize the video title
+PictClip_0/PictClipErrDlg.xml	s52	Video can not be created.	The video cannot be created.
+PictClip_0/PictClipErrDlg.xml	s53	After the optimization, the Pict Story	After optimization, the Pict Story
+PictClip_0/PictClipErrDlg.xml	s54	Please to create video.	Please create a video.
+PictClip_0/PictClipErrDlg.xml	s55	I'll finish the Pict Story editing.　	Pict Story editing will end.　
+PictClip_0/PictClipErrDlg.xml	s56	For recording construction and can not be created video.	Video cannot be created while recording.
+PictClip_0/PictClipErrDlg.xml	s57	After you delete a scheduled recording, from Pict Story　　	After deleting a timer recording, from Pict Story　　
+PictClip_0/PictClipErrDlg.xml	s58	Please to create video	Please create a video
+PictClip_0/PictClipErrDlg.xml	s59	I'll finish the Pict Story editing.　　　　　　	Pict Story editing will end.　　　　　　
+PictClip_0/PictClipErrDlg.xml	s60	I failed to read the photo.	Failed to read the photo.
+PictClip_0/PictClipErrDlg.xml	s61	Please check the photo from the album.	Please check the photos in the album.
+PictClip_0/PictClipErrDlg.xml	s62	Video can not be created.	The video cannot be created.
+PictClip_0/PictClipErrDlg.xml	s63	I'll finish the Pict Story editing.	Pict Story editing will end.
+PictClip_0/PictClipErrDlg.xml	s64	There is no photo that can be slide show.	There are no photos for a slideshow.
+PictClip_0/PictClipErrDlg.xml	s66	Because it has been modified or deleted, you can not play.	Cannot be played because it has been modified or deleted.
+PictClip_0/PictClipErrDlg.xml	s68	Please Turn power off and then back on.	Please turn the power off and on again.
+PictClip_0/dic/jp.dic	Title_SettingStart	start set up	Start setup
+PictClip_0/dic/jp.dic	Title_AutoChannelSetting	auto ch set up	Auto channel setup
+PictClip_0/dic/jp.dic	Title_ScartSetting	Scart Setting	Scart setting
+PictClip_0/dic/jp.dic	Title_HardDisk	Hard Disc Format Info	Hard disk format info
+PictClip_0/dic/jp.dic	Title_SettingEnd	End of Setup	End setup
+PictClip_0/dic/jp.dic	Dialog_SetupStoppedTitle	Quit Easy Setup?	Exit Easy Setup?
+PictClip_0/dic/jp.dic	SettingStart_text0	Starts basic setup. 	Starting basic setup. 
+PictClip_0/dic/jp.dic	SettingStart_text2	to start easy set up.	to start Easy Setup.
+PictClip_0/dic/jp.dic	DisplayLanguage_text1	to select lang	to select a language
+PictClip_0/dic/jp.dic	TunerSystem_text1	to select area	to select an area
+PictClip_0/dic/jp.dic	AutoChannelSetting_text2	auto ch setup	Auto channel setup
+PictClip_0/dic/jp.dic	AutoChannelSetting_list0	Auto Ch Setup	Auto Channel Setup
+PictClip_0/dic/jp.dic	Dialog_AutoChannelSetting_text0	Continue auto ch set up?	Continue auto channel setup?
+PictClip_0/dic/jp.dic	Dialog_AutoChannelSetting_list1	Return	Back
+PictClip_0/dic/jp.dic	Exec_AutoChannelSetting_text0	Setting up auto ch. 	Auto channel setup in progress. 
+PictClip_0/dic/jp.dic	TimeSetteing1_text1	to select method	to select a method
+PictClip_0/dic/jp.dic	Dialog_TimeSetteing_text0	Auto clock setup?	Set the clock automatically?
+PictClip_0/dic/jp.dic	Dialog_TimeSetteing_list1	Return	Back
+PictClip_0/dic/jp.dic	Exec_TimeSetteing_text0	Auto clock setting up now. 	Setting the clock automatically. 
+PictClip_0/dic/jp.dic	TimeSetteing2_text0	Time is set. 	The time has been set. 
+PictClip_0/dic/jp.dic	TimeSetteing4_text1	to sel item, 	to select an item, 
+PictClip_0/dic/jp.dic	TimeSetteing5_text0	To chng date/time, press	To change date/time, press
+PictClip_0/dic/jp.dic	TimeSetteing6_text1	to sel item, 	to select an item, 
+PictClip_0/dic/jp.dic	TVType_list2	4:3 Pan and Scan	4:3 Pan Scan
+PictClip_0/dic/jp.dic	OpticalOut_text2	select optical out.	Select optical output.
+PictClip_0/dic/jp.dic	SettingList_text0	This is the list of numbers created by easy setup. 	This is the list of channels created by Easy Setup. 
+PictClip_0/dic/jp.dic	SettingList_list2	Scart Setting	Scart setting
+PictClip_0/dic/jp.dic	SettingList_list4	Opt Output	Optical output
+PictClip_0/dic/jp.dic	HardDisk_text0	Game part is set to 	Game area is set to 
+PictClip_0/dic/jp.dic	HardDisk_text4	To change part to 	Change the range to 
+PictClip_0/dic/jp.dic	HardDisk_text6	and go to “Main Unit Setup/”HDD Format Setup”.	and go to 'Main Unit Setup' / 'HDD Format Setup'.
+PictClip_0/dic/jp.dic	SettingEnd_text0	Ends the Easy Setup	Exit Easy Setup
+PictClip_0/dic/jp.dic	Dialog_Prev10_Reserve0	Time rec starts in 10 min.	Timer recording starts in 10 min.
+PictClip_0/dic/jp.dic	Dialog_Prev10_Reserve1	Update will stop when rec starts. 	The update will stop when a recording starts. 
+pvrEdit_0/dic/en.dic	preview	Check edited video.	Check the edited video.
+pvrEdit_0/dic/en.dic	preview_stop	Check will end.	The check will end.
+pvrEdit_0/dic/en.dic	skip_f	Advance	Next
+pvrEdit_0/dic/en.dic	del_mode	Cancel start and end point.	Clear start and end points.
+pvrEdit_0/dic/en.dic	help3	ChangeScale	Change Scale
+pvrEdit_0/dic/en.dic	Msg_cancel_confirm1	Exit without saving ?	Exit without saving?
+pvrEdit_0/dic/en.dic	Msg_preview_confirm2	Start Check.	Start check.
+pvrEdit_0/dic/en.dic	Msg_delete_confirm1	Cancel Selection ?	Cancel selection?
+pvrEdit_0/dic/en.dic	Msg_home_confirm1	Exit Edit Application.	Exit editing.
+pvrEdit_0/dic/en.dic	Msg_finish_confirm1	Editing will be completed	Editing will be finished
+pvrEdit_0/dic/en.dic	Msg_finish_confirm2	Selected scene will not be played	The selected scene will not be played
+pvrEdit_0/dic/en.dic	interval1	interval : 0.5 sec	Interval : 0.5 sec
+pvrEdit_0/dic/en.dic	interval2	interval : 15 sec	Interval : 15 sec
+pvrEdit_0/dic/en.dic	interval3	interval : 6 min	Interval : 6 min
+pvrEdit_0/dic/en.dic	Msg_Err_invalidtime	invalid time	Invalid time
+pvrEdit_0/dic/jp.dic	preview	Check edited video.	Check the edited video.
+pvrEdit_0/dic/jp.dic	preview_stop	Check will end.	The check will end.
+pvrEdit_0/dic/jp.dic	skip_f	Advance	Next
+pvrEdit_0/dic/jp.dic	del_mode	Cancel start and end point.	Clear start and end points.
+pvrEdit_0/dic/jp.dic	help3	ChangeScale	Change Scale
+pvrEdit_0/dic/jp.dic	delete_prompt_line1_1	Select the editing to cancel using 	Select the edit to undo using 
+pvrEdit_0/dic/jp.dic	Msg_cancel_confirm1	Exit without saving ?	Exit without saving?
+pvrEdit_0/dic/jp.dic	Msg_preview_confirm2	Start Check.	Start check.
+pvrEdit_0/dic/jp.dic	Msg_delete_confirm1	Cancel Selection ?	Cancel selection?
+pvrEdit_0/dic/jp.dic	Msg_home_confirm1	Exit Edit Application.	Exit editing.
+pvrEdit_0/dic/jp.dic	Msg_finish_confirm1	Editing will be completed	Editing will be finished
+pvrEdit_0/dic/jp.dic	Msg_finish_confirm2	Selected scene will not be played	The selected scene will not be played
+pvrEdit_0/dic/jp.dic	interval1	interval : 0.5 sec	Interval : 0.5 sec
+pvrEdit_0/dic/jp.dic	interval2	interval : 15 sec	Interval : 15 sec
+pvrEdit_0/dic/jp.dic	interval3	interval : 6 min	Interval : 6 min
+pvrEdit_0/dic/jp.dic	Msg_Err_invalidtime	invalid time	Invalid time
+pvrReEnco_0/dic/en.dic	Help_Btn	I will start optimizing.\n During optimization, you can not perform a scheduled recording.	Starting optimization.\n Timer recordings cannot run during optimization.
+pvrReEnco_0/dic/en.dic	Help_Mode	I set the recording mode after optimization.\n It is not possible to make high-quality recording mode than the original.	Set the recording mode after optimization.\n It cannot be higher quality than the original.
+pvrReEnco_0/dic/en.dic	Help_Snd	DVD-RW (Video mode), DVD-R the sound that is recorded with the main + sub,\n You can determine how to dub to DVD + RW disc.	Sets how audio recorded as main + sub is dubbed\n to DVD-RW (Video mode), DVD-R and DVD+RW discs.
+pvrReEnco_0/dic/en.dic	Help_Edit	These options determine whether or not to leave or leave the part that has been edited from the title after optimization.\n Even if you select "Save", the title of the post-optimization, configuration or a chapter editing will not remain	These options determine whether the edited part of the title is kept after optimization.\n Even if you select 'Save', chapter edits will not remain in the optimized title.
+pvrReEnco_0/dic/en.dic	Help_Del	I set or not to leave or leave the title before optimization.	Sets whether to keep the title as it was before optimization.
+pvrReEnco_0/dic/en.dic	Help_Common	After optimization, to ensure the capacity, the deletion of the "Edit Range"\n Please select Delete "title before optimization".\n Please do not change the settings if you do not need to ensure capacity.	To free up space after optimization, select 'Delete title before optimization'\n under 'Edit Range'.\n Do not change this setting if you do not need more space.
+pvrReEnco_0/dic/en.dic	DlgStart	I run the optimization.\n Until the end	Running optimization.\n Until the end
+pvrReEnco_0/dic/en.dic	DlgNext	Recording reservation exists in.\nDuring optimization, you can not perform a scheduled recording.	A timer recording is scheduled.\nTimer recordings cannot run during optimization.
+pvrReEnco_0/dic/en.dic	DlgRec	Timer recording has started.\n I'll finish the optimization.	A timer recording has started.\n Optimization will end.
+pvrReEnco_0/dic/en.dic	StrCPRM	Recordable title only once,\n It will be recorded in the blue screen.	This title can only be recorded once (copy once).\n It will be recorded as a blue screen.
+pvrReEnco_0/dic/en.dic	ErrTtlOvr	Title is full.\n Please delete unwanted title.	The title list is full.\n Please delete unwanted titles.
+pvrReEnco_0/dic/en.dic	ErrRcding	Since the recording reservation is started or scheduled recording preparation,,\n It is not possible to start the optimization.	A timer recording is starting or being prepared,\n so optimization cannot start.
+pvrReEnco_0/dic/en.dic	ErrHDD	Capacity of the hard disk is insufficient.\n Please remove or track title, unwanted photo.	Not enough hard disk space.\n Please delete unwanted titles, tracks or photos.
+pvrReEnco_0/dic/en.dic	StrErr	I failed to start the optimization.	Failed to start optimization.
+pvrReEnco_0/dic/jp.dic	Help_Btn	Start optimizing.\n optimization, you can not perform  scheduled recording.	Starting optimization.\n Timer recordings cannot run during optimization.
+pvrReEnco_0/dic/jp.dic	Help_Mode	I set the recording mode after optimization.\n It is not possible to make high-quality recording mode than the original.	Set the recording mode after optimization.\n It cannot be higher quality than the original.
+pvrReEnco_0/dic/jp.dic	Help_Snd	DVD-RW (Video mode), DVD-R the sound that is recorded with the main + sub,\n You can determine how to dub to DVD + RW disc.	Sets how audio recorded as main + sub is dubbed\n to DVD-RW (Video mode), DVD-R and DVD+RW discs.
+pvrReEnco_0/dic/jp.dic	Help_Edit	These options determine whether or not to leave the part that has been edited from the after optimization.	These options determine whether the edited part is kept after optimization.
+pvrReEnco_0/dic/jp.dic	Help_Del	I set or not to leave or leave the title before optimization.	Sets whether to keep the title as it was before optimization.
+pvrReEnco_0/dic/jp.dic	Help_Common	Optimization,to ensure the capacity, the delete of Edit Range\n Select Delete "title optimization	To free up space, optimization deletes the edited range.\n Select 'Delete' in title optimization.
+pvrReEnco_0/dic/jp.dic	DlgNext	Recording reservation exists in.\nDuring optimization, you can not perform a scheduled recording.	A timer recording is scheduled.\nTimer recordings cannot run during optimization.
+pvrReEnco_0/dic/jp.dic	DlgRec	Timer recording started.\n I'll finish the optimization.	A timer recording has started.\n Optimization will end.
+pvrReEnco_0/dic/jp.dic	StrCPRM	Recordable title only once,\n It will be recorded in the blue screen.	This title can only be recorded once (copy once).\n It will be recorded as a blue screen.
+pvrReEnco_0/dic/jp.dic	ErrTtlOvr	Title is full.\n Please delete unwanted title.	The title list is full.\n Please delete unwanted titles.
+pvrReEnco_0/dic/jp.dic	ErrRcding	Since the recording reservation is started or scheduled recording preparation,,\n It is not possible to start the optimization.	A timer recording is starting or being prepared,\n so optimization cannot start.
+pvrReEnco_0/dic/jp.dic	ErrHDD	Capacity of the hard disk is insufficient.\n Please remove or track title, unwanted photo.	Not enough hard disk space.\n Please delete unwanted titles, tracks or photos.
+pvrReEnco_0/dic/jp.dic	StrErr	I failed to start the optimization.	Failed to start optimization.
+pvrReEnco_0/dic/jp.dic	Str_NewTitle	Optimization title	Optimize title
+pvrReEnco_0/dic/jp.dic	Str_TotalTime	Play time	Playing time
+pvrReEnco_0/dic/jp.dic	Str_RecMode	Record mode	Recording mode
+pvrVideoApp_0/pvrVideoApp.xml	s183	BUSY time-out.	BUSY timeout.
+pvrVideoApp_0/pvrVideoApp.xml	s243	Faeroese	Faroese
+pvrVideoApp_0/pvrVideoApp.xml	s279	Latvian, Lettish	Latvian; Lettish
+pvrVideoApp_0/pvrVideoApp.xml	s299	Pashto, Pushto	Pashto; Pushto
+pvrVideoApp_0/pvrVideoApp.xml	s309	Sangro	Sango
+pvrVideoApp_0/pvrVideoApp.xml	s325	Tegulu	Telugu
+pvrVideoApp_0/pvrVideoDialogs.xml	s17	Cancellation	Cancel
+pvrVideoApp_0/pvrVideoDialogs.xml	s18	Cancellation	Cancel
+pvrVideoApp_0/dic/jp.dic	ChangeSound	Voice switch	Switch audio
+pvrVideoApp_0/dic/jp.dic	ChangeSubtitle	Subtitle switch	Switch subtitles
+pvrVideoApp_0/dic/jp.dic	TimeJump	Specified time jump	Time jump
+pvrVideoApp_0/dic/jp.dic	ThumbnailRegistration	Thumbnail registration 	Register thumbnail 
+pvrVideoApp_0/dic/jp.dic	Return	Return	Back
+pvrVideoApp_0/dic/jp.dic	Msg2	Personal identification number is different.	The PIN does not match.
+pvrVideoApp_0/dic/jp.dic	dow0	Day	Sun
+pvrVideoApp_0/dic/jp.dic	dow1	Month	Mon
+pvrVideoApp_0/dic/jp.dic	dow2	Fire	Tue
+pvrVideoApp_0/dic/jp.dic	dow3	Water	Wed
+pvrVideoApp_0/dic/jp.dic	dow4	Tree	Thu
+pvrVideoApp_0/dic/jp.dic	dow5	Gold	Fri
+pvrVideoApp_0/dic/jp.dic	dow6	Soil	Sat
+pvrVideoApp_0/dic/jp.dic	disc	Disk	Disc
+pvrVideoApp_0/dic/jp.dic	audiomainsub	Main/Deputy	Main/Sub
+pvrVideoApp_0/dic/jp.dic	bhelp_back	Return	Back
+pvrVideoApp_0/dic/jp.dic	bhelp_option	Operation panel	Control panel
+pvrVideoApp_0/dic/jp.dic	A point is set.	I set the A point.	Point A has been set.
+pvrVideoApp_0/dic/jp.dic	Reproduction Mode is cleared.	I was cleared to play mode.	Play mode cleared.
+pvrVideoApp_0/dic/jp.dic	Setting is cleared.	I have to clear the current settings.	The current settings will be cleared.
+pvrVideoApp_0/dic/jp.dic	Can't set b point at the same point.	You can not set the point B in the same position as the A point.	Point B cannot be set at the same position as point A.
+pvrVideoApp_0/dic/jp.dic	Cannot execute.	You can not perform this operation.	This operation cannot be performed.
+pvrVideoApp_0/dic/jp.dic	OK to change Parental Control Level to	The Parental Control Level one o'clock	Parental control level
+pvrVideoApp_0/dic/jp.dic	Clear A point	Clear A point	Clear point A
+pvrVideoApp_0/dic/jp.dic	Memory A point	The memory point A	Memorize point A
+pvrVideoApp_0/dic/jp.dic	Search A point	Find A point	Go to point A
+pvrVideoApp_0/dic/jp.dic	Clear AB point	Clear AB repeat point	Clear A-B repeat points
+pvrVideoApp_0/dic/jp.dic	Memory B point	The memory B-point	Memorize point B
+pvrVideoApp_0/dic/jp.dic	Show bookmark	Bookmarks Display	Show bookmarks
+pvrVideoApp_0/dic/jp.dic	Cannot bookmark	You can not bookmark	Cannot set a bookmark
+pvrVideoApp_0/dic/jp.dic	Do First Play	Run the first play	Run first play
+pvrVideoApp_0/dic/jp.dic	Search top prog	Top search program	First program search
+pvrVideoApp_0/dic/jp.dic	Srch prev prog	Before program Search	Previous program search
+pvrVideoApp_0/dic/jp.dic	Srch next prog	Next Program Search	Next program search
+pvrVideoApp_0/dic/jp.dic	End pict mem	Picture memory end	End picture memory
+pvrVideoApp_0/dic/jp.dic	Save pict mem	Picture memory storage	Picture memory
+pvrVideoApp_0/dic/jp.dic	Chng paren lev	I change the parental level	Change the parental control level
+pvrVideoApp_0/dic/jp.dic	No PSC error	No PSC Error	No PSC error
+pvrVideoApp_0/dic/jp.dic	End chap scan	Chapter scan display end	End chapter scan display
+pvrVideoApp_0/dic/jp.dic	Fail chap scan	Chapter scan display failure	Chapter scan display failed
+pvrVideoApp_0/dic/jp.dic	End chap scan fail	Chapter scan display failure end	Chapter scan display failed (end)
+pvrVideoApp_0/dic/jp.dic	Setup paren lev	Parental level set	Parental control level set
+pvrVideoApp_0/dic/jp.dic	Stop condition	Stopped state	Stopped
+pvrVideoApp_0/dic/jp.dic	PLAY MODE CLEAR	PLAY MODE CLEAR	CLEAR PLAY MODE
+pvrVideoApp_0/dic/jp.dic	Failed to read disc.	Disk can not be read.	The disc cannot be read.
+pvrVideoApp_0/dic/jp.dic	Error. Stop play.	I have to stop playing abnormality has occurred.	Playback stopped because an error occurred.
+pvrVideoApp_0/dic/jp.dic	Disc format is wrong.	Disk format is invalid.	The disc format is invalid.
+pvrVideoApp_0/dic/jp.dic	Designated chapter invalid.	Chapter that has been specified is invalid.	The specified chapter is invalid.
+pvrVideoApp_0/dic/jp.dic	Designated time invalid.	Not valid for the time specified.	Not valid for the specified time.
+pvrVideoApp_0/dic/jp.dic	Designated title invalid.	The specified title is valid.	The specified title is invalid.
+pvrVideoApp_0/dic/jp.dic	There is no sound.	There is no sound.	No audio.
+pvrVideoApp_0/dic/jp.dic	No subtitle in this disc	There is no subtitles on this disc.	There are no subtitles on this disc.
+pvrVideoApp_0/dic/jp.dic	There is no angle.	There is no angle.	There are no angles.
+pvrVideoApp_0/dic/jp.dic	Resume operation prohibited.	Resume operation is forbidden.	Resume is prohibited.
+pvrVideoApp_0/dic/jp.dic	Cannot operate this disc.	You can not operate in this disk.	This operation is not available for this disc.
+pvrVideoApp_0/dic/jp.dic	Play restrict. Cannot play.	You can not play because the playback is restricted.	Playback is not possible because it is restricted.
+pvrVideoApp_0/dic/jp.dic	Program search prohibited.	Program Search is forbidden.	Program search is prohibited.
+pvrVideoApp_0/dic/jp.dic	Cannot play.	You can not run the playback mode.	The play mode cannot be used.
+pvrVideoApp_0/dic/jp.dic	Cannot operate this title.	You can not operate in this title.	This operation is not available for this title.
+pvrVideoApp_0/dic/jp.dic	Chapter search error.	This chapter search error.	Chapter search error.
+pvrVideoApp_0/dic/jp.dic	Disc prohibited: reg rest.	Are forbidden reproduced by region limit this disk.	Playback of this disc is prohibited by region restrictions.
+pvrVideoApp_0/dic/jp.dic	Stop prohibited.	Stop is forbidden.	Stop is prohibited.
+pvrVideoApp_0/dic/jp.dic	Time display prohibited.	Time display is forbidden.	Time display is prohibited.
+pvrVideoApp_0/dic/jp.dic	Wrong TV system.	TV system is different.	The TV system is different.
+pvrVideoApp_0/dic/jp.dic	User operation prohibited.	User interaction is forbidden.	User operation is prohibited.
+pvrVideoApp_0/dic/jp.dic	VIEWER is unavailable in this disc.	You can not VIEWER in this disk.	VIEWER is not available for this disc.
+pvrVideoApp_0/dic/jp.dic	VIEWER is unavailable in this title.	You can not VIEWER in this title.	VIEWER is not available for this title.
+pvrVideoApp_0/dic/jp.dic	No disc.	Disk does not contain.	No disc inserted.
+pvrVideoApp_0/dic/jp.dic	One sound only.	Voice is only one.	There is only one audio track.
+pvrVideoApp_0/dic/jp.dic	Cannot play this disc.	You can not play this disc.	This disc cannot be played.
+pvrVideoApp_0/dic/jp.dic	Unusual play (no message).	Not the normal playback(No messages)	Abnormal playback (no message)
+pvrVideoApp_0/dic/jp.dic	Cannot chng angl: angle blk	Angle not be changed for the angle block just before	The angle cannot be changed directly before an angle block.
+pvrVideoApp_0/dic/jp.dic	Resume play.	Play continues from now when you want to play next.	Playback will resume from here next time.
+pvrVideoApp_0/dic/jp.dic	Cannot play: temp del.	You can not play for the Delete temporary state(No messages)	Cannot play because of temporary deletion status (no message)
+pvrVideoApp_0/dic/jp.dic	Error: TERMINATE code.	Error code TERMINATE code	Error code: TERMINATE
+pvrVideoApp_0/dic/jp.dic	Cannot be played title.	You can not play this title	This title cannot be played
+pvrVideoApp_0/dic/jp.dic	Registered as thumbnail.	I have registered the thumbnail.	The thumbnail has been registered.
+pvrVideoApp_0/dic/jp.dic	Do you add the entry point?	Are you sure you want to add an entry point?	Add an entry point?
+pvrVideoApp_0/dic/jp.dic	Entry point is added.	We mark setting.	Set a mark.
+pvrVideoApp_0/dic/jp.dic	Thumbnail4	I will overwrite the thumbnail registered.	The registered thumbnail will be overwritten.
+pvrVideoApp_0/dic/jp.dic	Cannot reg: protect setup.1	Are protected.	are protected.
+pvrVideoApp_0/dic/jp.dic	Cannot reg: protect setup.2	Thumbnail can not register.	The thumbnail cannot be registered.
+RepairManager_0/dic/jp.dic	RepairMsg	Is the repair work.\n Please wait	Repairing.\n Please wait
+TimeReserve_0/dic/jp.dic	DVD dabingujino disc siyouryou:	Disk usage of DVD dubbing:	Disc usage of DVD dubbing:
+TimeReserve_0/dic/jp.dic	Expected capacity when you will burn this contents to DVD.	It is an aim of when record to DVD later this title.	Guideline for dubbing this title to DVD later.
+TimeReserve_0/dic/jp.dic	Tur	(Tur)	(Thu)
+TimeReserve_0/dic/jp.dic	Every Mon	Every(Mon)	Every Mon
+TimeReserve_0/dic/jp.dic	Every Tue	Every(Tue)	Every Tue
+TimeReserve_0/dic/jp.dic	Every Wed	Every(Wed)	Every Wed
+TimeReserve_0/dic/jp.dic	Every Tur	Every(Tur)	Every Thu
+TimeReserve_0/dic/jp.dic	Every Fri	Every(Fri)	Every Fri
+TimeReserve_0/dic/jp.dic	Every Sat	Every(Sat)	Every Sat
+TimeReserve_0/dic/jp.dic	Every Sun	Every(Sun)	Every Sun
+TimeReserve_0/dic/jp.dic	Everyday	EveryDay	Every day
+TimeReserve_0/dic/jp.dic	Timer	Specified reservation time	Specified timer time
+TimeReserve_0/dic/jp.dic	time reservation	Specified reservation time	Specified timer time
+TimeReserve_0/dic/jp.dic	epg reservation	Program table reservation	Timer from program guide
+TimeReserve_0/dic/jp.dic	omakase reservation	Random reservation	Omakase timer
+TimeReserve_0/dic/jp.dic	decide	Decide	Select
+TimeReserve_0/dic/jp.dic	Extend	Ext	Ext.
+TimeReserve_0/dic/jp.dic	Number of duplication:	Duplicate number:	Number of copies:
+TimeReserve_0/dic/jp.dic	items	Matter	Item
+TimeReserve_0/dic/jp.dic	capacity over!	Over-capacity	Capacity exceeded
+TimeReserve_0/dic/jp.dic	Title is full.	Title is full.\n Please delete unwanted title.	The title list is full.\n Please delete unwanted titles.
+TimeReserve_0/dic/jp.dic	HDD is full.	Not enough free space on the HDD.\n Please remove or track title, unwanted photo.	Not enough free space on the HDD.\n Please delete unwanted titles, tracks or photos.
+TimeReserve_0/dic/jp.dic	Title will be full.	%d %d Title will fill in the day.\n Please delete unwanted title.	%d %d Titles will be full on this day.\n Please delete unwanted titles.
+TimeReserve_0/dic/jp.dic	HDD will be full.	%d %d space on the hard disk runs out of day.\n Please remove or track title, unwanted photo.	%d %d Hard disk space will run out on this day.\n Please delete unwanted titles, tracks or photos.
+TimeReserve_0/dic/jp.dic	reservation complete.	I set the recording schedule.	The timer recording has been set.
+TimeReserve_0/dic/jp.dic	Modify complete.	I was fixed recording reservation.	The timer recording has been confirmed.
+TimeReserve_0/dic/jp.dic	Confirm complete.	I have to confirm the recording reservation.	Confirm the timer recording.
+TimeReserve_0/dic/jp.dic	Duplicate below reservations.	It overlaps with the following reservation.	It overlaps with the following timer recording.
+TimeReserve_0/dic/jp.dic	It is recording now.	Running a scheduled recording.\n If you delete, stop the recording.\n Are you sure?	A timer recording is in progress.\n Deleting it will stop the recording.\n Are you sure?
+TimeReserve_0/dic/jp.dic	Delete the reservation.OK?	I will delete the recording schedule.\n Are you sure?	The timer recording will be deleted.\n Are you sure?
+TimeReserve_0/dic/jp.dic	Invalid start time!	Please set the correct start time.	Please set a correct start time.
+TimeReserve_0/dic/jp.dic	Invalid end time!	Please set the correct end time.	Please set a correct end time.
+TimeReserve_0/dic/jp.dic	Invalid prolong time!	Please set the correct time extension.	Please set a correct time extension.
+TimeReserve_0/dic/jp.dic	Max recording hours are 6 hours.	It is not possible to recording reservation of 6 hours or more.\n Please set the correct start or end time.	Timer recordings of 6 hours or more are not possible.\n Please set a correct start or end time.
+TimeReserve_0/dic/jp.dic	Invalid date.	Please set the correct date.	Please set a correct date.
+TimeReserve_0/dic/jp.dic	Invalid channel.	Please set the correct channel.	Please set a correct channel.
+TimeReserve_0/dic/jp.dic	Invalid recording mode.	Please set corect recording mode.	Please set a correct recording mode.
+TimeReserve_0/dic/jp.dic	Invalid display size.	Please set the correct screen size.	Please set a correct screen size.
+TimeReserve_0/dic/jp.dic	Invalid audio mode.	Please set  correct recording method.	Please set a correct recording method.
+TimeReserve_0/dic/jp.dic	Invalid audio quality.	Please set corect recording quality.	Please set a correct recording quality.
+TimeReserve_0/dic/jp.dic	Invalid genre.	Please set correct genre.	Please set a correct genre.
+TimeReserve_0/dic/jp.dic	There is already an another reservation.	Another reservation has already been to this time	Another timer recording is already set for this time.
+TimeReserve_0/dic/jp.dic	I/O error occured.	I/O error occurred.	An I/O error occurred.
+TimeReserve_0/dic/jp.dic	There is more than 30 reservation.	Recording schedule is full.	The timer list is full.
+TimeReserve_0/dic/jp.dic	delete success.	Removed recording reservation.	Timer recording deleted.
+TimeReserve_0/dic/jp.dic	delete failed.	It was not possible to delete the recording schedule.	Could not delete the timer recording.
+TimeReserve_0/dic/jp.dic	This reservation is begun.	Scheduled recording is running.\n I will stop the modification of the reservation.	A timer recording is in progress.\n Modification of the timer will be cancelled.
+TimeReserve_0/dic/jp.dic	This reservation is end.	Timer recording is finished.\n I will stop the modification of the reservation.	The timer recording has finished.\n Modification of the timer will be cancelled.
+TimeReserve_0/dic/jp.dic	This reservation is lost.	Reservation status has changed.\n I will cancel the operation.	The timer status has changed.\n The operation will be cancelled.
+TV_Viewer_0/Dialogs.xml	s6	I recorded until the end of the program.	Recorded until the end of the program.
+TV_Viewer_0/Dialogs.xml	s7	Would you like?	Do you want to continue?
+TV_Viewer_0/Dialogs.xml	s13	Quick timer setting	Quick timer
+TV_Viewer_0/Dialogs.xml	s16	I fit the program guide	Adjust the program guide
+TV_Viewer_0/Dialogs.xml	s17	I fit the program guide	Adjust the program guide
+TV_Viewer_0/Dialogs.xml	s19	I recorded until the end of the program.	Recorded until the end of the program.
+TV_Viewer_0/Dialogs.xml	s20	Would you like?	Do you want to continue?
+TV_Viewer_0/Dialogs.xml	s27	Soon, The start time of entrusting recording.	The Omakase recording will start soon.
+TV_Viewer_0/Dialogs.xml	s28	To switch the channel, but do you really want?	Do you really want to change the channel?
+TV_Viewer_0/TV_Viewer.xml	s2	Recording mode of the current	Current recording mode
+TV_Viewer_0/TV_Viewer.xml	s6	The disc space 100%	Disc space 100%
+TV_Viewer_0/TV_Viewer.xml	s13	VPS/I have Scan the PDC.	Scanning VPS/PDC.
+TV_Viewer_0/TV_Viewer.xml	s14	From the operation panel to see the tuner	View the tuner from the control panel
+TV_Viewer_0/TV_Viewer.xml	s15	Please change the VPS/PDC Scan setting.	Please change the VPS/PDC scan setting.
+TV_Viewer_0/dic/jp.dic	WeekStr_0	Day	Sun
+TV_Viewer_0/dic/jp.dic	WeekStr_1	Month	Mon
+TV_Viewer_0/dic/jp.dic	WeekStr_2	Fire	Tue
+TV_Viewer_0/dic/jp.dic	WeekStr_3	Water	Wed
+TV_Viewer_0/dic/jp.dic	WeekStr_4	Tree	Thu
+TV_Viewer_0/dic/jp.dic	WeekStr_5	Gold	Fri
+TV_Viewer_0/dic/jp.dic	WeekStr_6	Soil	Sat
+TV_Viewer_0/dic/jp.dic	ERROR_DURING_REC	Is recording.\n It is not possible to switch the channel.	Recording.\n Cannot change the channel.
+TV_Viewer_0/dic/jp.dic	ERROR_STANDBY_REC	Recording is in preparation.\n It is not possible to switch the channel.	Preparing for a timer recording.\n Cannot change the channel.
+TV_Viewer_0/dic/jp.dic	ERROR_HDD_FULL	Hard disk is full.\n Please delete unwanted title.	The hard disk is full.\n Please delete unwanted titles.
+TV_Viewer_0/dic/jp.dic	ERROR_TITLE_FULL	Title is full.\n Please delete unwanted title.	The title list is full.\n Please delete unwanted titles.
+TV_Viewer_0/dic/jp.dic	ERROR_CANT_DUPLICATE_REC	Recording is in preparation.\n It is not possible to perform recording another.	Preparing for a timer recording.\n Another recording cannot be started.
+TV_Viewer_0/dic/jp.dic	ERROR_CANT_SET_QUICKTIMER	It was not possible to quick timer setting.	Could not set the quick timer.
+TV_Viewer_0/dic/jp.dic	ERROR_CANT_SET_OVER6HOUR	It is not possible to recording of six hours or more.	Recordings of 6 hours or more are not possible.
+TV_Viewer_0/dic/jp.dic	ERROR_CANT_CHANGE_RECMODE_RECORD	Is recording.\n You can not change the recording mode	Recording.\n Cannot change the recording mode.
+TV_Viewer_0/dic/jp.dic	ERROR_CANT_CHANGE_RECMODE_STANDBY	Recording is in preparation.\n You can not change the recording mode.	Preparing for a timer recording.\n Cannot change the recording mode.
+UpdateCenter_0/UpdateCenter.xml	s1	Update / Update start confirmation	Update / Confirm start
+UpdateCenter_0/UpdateCenter.xml	s2	I start the update.	Starting the update.
+UpdateCenter_0/UpdateCenter.xml	s3	Please Press.	Please press.
+UpdateCenter_0/UpdateCenter.xml	s4	Update / Software verification	Update / Software check
+UpdateCenter_0/UpdateCenter.xml	s5	Checking update software.	Checking the update software.
+UpdateCenter_0/UpdateCenter.xml	s7	Update / Licensing	Update / License
+UpdateCenter_0/UpdateCenter.xml	s8	There is the latest software.	The latest software is already installed.
+UpdateCenter_0/UpdateCenter.xml	s9	Check the terms of the license,	Check the license terms,
+UpdateCenter_0/UpdateCenter.xml	s10	Please Press.	Please press.
+UpdateCenter_0/UpdateCenter.xml	s13	Update / Licensing	Update / License
+UpdateCenter_0/UpdateCenter.xml	s17	Update / Update execution confirmation	Update / Confirm update
+UpdateCenter_0/UpdateCenter.xml	s18	I run the update.	Running the update.
+UpdateCenter_0/UpdateCenter.xml	s19	Please Press.	Please press.
+UpdateCenter_0/UpdateCenter.xml	s21	Please complete the work.	Please finish the operation.
+UpdateCenter_0/UpdateCenter.xml	s22	During the update, it will restart the unit	The unit will restart during the update
+UpdateCenter_0/UpdateCenter.xml	s23	You might not be able to run properly recording reservation.	Timer recordings may not run correctly.
+UpdateCenter_0/UpdateCenter.xml	s25	I will not back up your current software.	The current software will not be backed up.
+UpdateCenter_0/UpdateCenter.xml	s26	Network connections and power of this unit	the network connection and power of this unit
+UpdateCenter_0/UpdateCenter.xml	s29	&#34;DNAS&#34;Authentication.	&#34;DNAS&#34;: Authenticating.
+UpdateCenter_0/UpdateCenter.xml	s30	You can not stop the process of certification.	The certification process cannot be stopped.
+UpdateCenter_0/UpdateCenter.xml	s33	I have downloaded the software.	The software has been downloaded.
+UpdateCenter_0/UpdateCenter.xml	s34	Network connections and power of this unit	the network connection and power of this unit
+UpdateCenter_0/UpdateCenter.xml	s39	I have to install the software.	The software will be installed.
+UpdateCenter_0/UpdateCenter.xml	s40	Network connections and power of this unit	the network connection and power of this unit
+UpdateCenter_0/UpdateCenter.xml	s44	Update / Licensing	Update / License
+UpdateCenter_0/UpdateCenter.xml	s45	I did not agree to the license.	The license was not accepted.
+UpdateCenter_0/UpdateCenter.xml	s46	I'll finish the update.	The update will end.
+UpdateCenter_0/UpdateCenter.xml	s47	Please Press.	Please press.
+UpdateCenter_0/UpdateCenter.xml	s48	Update / Recovery process	Update / Recovery
+UpdateCenter_0/UpdateCenter.xml	s50	I will do the recovery process.	Running the recovery process.
+UpdateCenter_0/UpdateCenter.xml	s52	Update / End processing	Update / Finishing
+UpdateCenter_0/UpdateCenter.xml	s54	I'm going to end processing.	Processing will end.
+UpdateCenter_0/UpdateCenter.xml	s56	Update / Software verification	Update / Software check
+UpdateCenter_0/UpdateCenter.xml	s58	I'll finish the update.	The update will end.
+UpdateCenter_0/UpdateCenter.xml	s59	Please Press.	Please press.
+UpdateCenter_0/UpdateCenter.xml	s78	Return	Back
+UpdateCenter_0/UpdateCenterDialogs.xml	s1	I will cancel the update.	The update will be cancelled.
+UpdateCenter_0/UpdateCenterDialogs.xml	s7	I cancel the update, and then restart the PSX.	The update will be cancelled and the PSX restarted.
+UpdateCenter_0/UpdateCenterDialogs.xml	s13	I got off to an hour until the start of the recording reservation.	Less than one hour until the timer recording starts.
+UpdateCenter_0/UpdateCenterDialogs.xml	s14	I will stop the current operation.	The current operation will be stopped.
+UpdateCenter_0/UpdateCenterDialogs.xml	s15	And you start getting the program information shortly.	Program information will be retrieved shortly.
+UpdateCenter_0/UpdateCenterDialogs.xml	s16	I will stop the current operation.	The current operation will be stopped.
+UpdateCenter_0/UpdateCenterDialogs.xml	s17	I downloaded the software.	The software has been downloaded.
+UpdateCenter_0/UpdateCenterDialogs.xml	s18	After the restart, perform the update continues.	The update will continue after the restart.
+UpdateCenter_0/UpdateCenterDialogs.xml	s19	Please Press.	Please press.
+UpdateCenter_0/UpdateCenterDialogs.xml	s20	I have to cancel the update.	The update will be cancelled.
+UpdateCenter_0/UpdateCenterDialogs.xml	s21	Please wait without turning off the power.	Please wait and do not turn off the power.
+UpdateCenter_0/UpdateCenterDialogs.xml	s22	I will restart the unit.	The unit will restart.
+UpdateCenter_0/UpdateCenterDialogs.xml	s23	Please Press.	Please press.
+UpdateCenter_0/UpdateCenterDialogs.xml	s24	I will end this unit.	The unit will shut down.
+UpdateCenter_0/UpdateCenterDialogs.xml	s25	Please Press.	Please press.
+UpdateCenter_0/UpdateCenterDialogs.xml	s26	After the end of this unit, please power cycle.	After shutdown, please turn the unit off and on again.
+UpdateCenter_0/UpdateCenterDialogs.xml	s27	I will restart the unit.	The unit will restart.
+UpdateCenter_0/UpdateCenterDialogs.xml	s28	Please Press.	Please press.
+UpdateCenter_0/UpdateCenterDialogs.xml	s29	Update has been completed.	The update is complete.
+UpdateCenter_0/UpdateCenterDialogs.xml	s30	I will restart the unit.	The unit will restart.
+UpdateCenter_0/UpdateCenterDialogs.xml	s31	Please Press.	Please press.
+UpdateCenter_0/UpdateCenterDialogs.xml	s33	Exit the wizard, if you plan to restart.	Exit the wizard if you want to restart.
+UpdateCenter_0/UpdateCenterDialogs.xml	s35	I can not connect to the network.	Cannot connect to the network.
+UpdateCenter_0/UpdateCenterDialogs.xml	s39	Update server not available,	The update server is not available,
+UpdateCenter_0/UpdateCenterDialogs.xml	s40	For maintenance, is not available.	Not available due to maintenance.
+UpdateCenter_0/UpdateCenterDialogs.xml	s44	Please contact your nearest office.	Please contact your nearest service center.
+UpdateCenter_0/UpdateCenterDialogs.xml	s49	· DNS configuration of the router or the unit is the correct value	· The DNS configuration of the router or this unit is correct
+UpdateCenter_0/UpdateCenterDialogs.xml	s50	Has set	Set
+UpdateCenter_0/UpdateCenterDialogs.xml	s52	I have properly connected	Properly connected
+UpdateCenter_0/UpdateCenterDialogs.xml	s53	-I that the cable is connected to the correct type of	- that the cable is connected to the correct port
+UpdateCenter_0/UpdateCenterDialogs.xml	s56	During the update, I failed to connect to the server.	Connection to the server failed during the update.
+UpdateCenter_0/UpdateCenterDialogs.xml	s57	After a power cycle of the unit, at a later time	After turning the unit off and on again, at a later time
+UpdateCenter_0/UpdateCenterDialogs.xml	s61	During the update, communicate with the server was interrupted.	Communication with the server was interrupted during the update.
+UpdateCenter_0/UpdateCenterDialogs.xml	s62	After a power cycle of the unit	After turning the unit off and on again
+UpdateCenter_0/UpdateCenterDialogs.xml	s66	During the update, I failed to communicate with the server.	Communication with the server failed during the update.
+UpdateCenter_0/UpdateCenterDialogs.xml	s67	After a power cycle of the unit	After turning the unit off and on again
+UpdateCenter_0/UpdateCenterDialogs.xml	s72	After you turn the power of this unit,	After turning on the unit,
+UpdateCenter_0/UpdateCenterDialogs.xml	s76	&#34;DNAS&#34;An error has occurred.	&#34;DNAS&#34;: An error has occurred.
+UpdateCenter_0/UpdateCenterDialogs.xml	s79	&#34;DNAS&#34;Is a server error.	&#34;DNAS&#34;: Server error.
+UpdateCenter_0/UpdateCenterDialogs.xml	s82	&#34;DNAS&#34;Authentication error.	&#34;DNAS&#34;: Authentication error.
+UpdateCenter_0/UpdateCenterDialogs.xml	s85	Current&#34;DNAS&#34;That the server will accept the processing	The &#34;DNAS&#34; server is currently processing
+UpdateCenter_0/UpdateCenterDialogs.xml	s86	Can not.	Not possible.
+UpdateCenter_0/UpdateCenterDialogs.xml	s87	Please reconnect you wait a while.	Please wait a moment and reconnect.
+UpdateCenter_0/UpdateCenterDialogs.xml	s90	PSX &#34;DNAS&#34;Is an authentication service period before.	The PSX &#34;DNAS&#34; authentication service period has not started yet.
+UpdateCenter_0/UpdateCenterDialogs.xml	s93	PSX &#34;DNAS&#34;Authentication service period has ended.	The PSX &#34;DNAS&#34; authentication service period has ended.
+UpdateCenter_0/UpdateCenterDialogs.xml	s96	All&#34;DNAS&#34;Service was terminated.	All &#34;DNAS&#34; services have been terminated.
+UpdateCenter_0/UpdateCenterDialogs.xml	s99	&#34;DNAS&#34;Connection with the server has timed out.	&#34;DNAS&#34;: Connection to the server timed out.
+UpdateCenter_0/UpdateCenterDialogs.xml	s100	Please reconnect you wait a while.	Please wait a moment and reconnect.
+UpdateCenter_0/UpdateCenterDialogs.xml	s103	&#34;DNAS&#34;I failed to connect to the server.	&#34;DNAS&#34;: Failed to connect to the server.
+UpdateCenter_0/UpdateCenterDialogs.xml	s106	&#34;DNAS&#34;Server does not work properly.	&#34;DNAS&#34;: Server is not working properly.
+UpdateCenter_0/UpdateCenterDialogs.xml	s107	Please reconnect you wait a while.	Please wait a moment and reconnect.
+UpdateCenter_0/UpdateCenterDialogs.xml	s110	Is a unique ID error.	Unique ID error.
+UpdateCenter_0/UpdateCenterDialogs.xml	s116	Is a device error information.	Device information error.
+UpdateCenter_0/UpdateCenterDialogs.xml	s123	There is an error in the response to a DNS server.	The DNS server returned an invalid response.
+UpdateCenter_0/UpdateCenterDialogs.xml	s127	DNS Error.	DNS error.
+UpdateCenter_0/UpdateCenterDialogs.xml	s131	I aborted the network connection.	The network connection was aborted.
+UpdateCenter_0/UpdateCenterDialogs.xml	s134	Is a communication error.	Communication error.
+UpdateCenter_0/UpdateCenterDialogs.xml	s137	Communication has timed out.	Communication timed out.
+UpdateCenter_0/UpdateCenterDialogs.xml	s138	Please reconnect you wait a while.	Please wait a moment and reconnect.
+xDJB_0/data/user.sys	uninstallmes1	The DJ registration is cancelled.	The DJ registration will be cancelled.
+xDJCore_0/dic/jp.dic	DJBOX_BARC_UNREGIST	DJ deregistration	Cancel DJ registration
+xDJCore_0/dic/jp.dic	NoSpace	Capacity of the game area is insufficient.\n You can cancel the registration of DJ unnecessary track,\n Please delete the game.	Not enough space in the game area.\n Please cancel the DJ registration of unneeded tracks\n or delete games.
+xDJCore_0/dic/jp.dic	OverMaxNumber	Registration DJ music is full.\n Please cancel the registration of DJ unnecessary track.	DJ music registration is full.\n Please cancel the DJ registration of unneeded tracks.
+xDJCore_0/dic/jp.dic	RegisterFailed1	You can not DJ registered this track.	This track cannot be registered for DJ.
+xDJCore_0/dic/jp.dic	RegisterFailed2	There is a track that can not be registered DJ.\n Please check the album.	Some tracks cannot be registered for DJ.\n Please check the album.
+xDJCore_0/dic/jp.dic	CommonFailed1	There was an error in x-DJ registration.\n Data is corrupted.\n DJbox and sound data, the x-DJ user data\n Please delete it.	An error occurred in the x-DJ registration.\n The data is corrupted.\n Please delete the DJbox sound data and\n the x-DJ user data.
+xDJCore_0/dic/jp.dic	Registering	We DJ registration.	Registering for DJ.
+xDJCore_0/dic/jp.dic	CancelConfirm	I will cancel the registration DJ.\n Are you sure?	The DJ registration will be cancelled.\n Are you sure?
+xDJCore_0/dic/jp.dic	AlbumRegistering	We DJ registration.	Registering for DJ.
+xDJCore_0/dic/jp.dic	TrackRegisterConfirm	DJ and registration.\n Are you sure?	Register for DJ.\n Are you sure?
+xDJCore_0/dic/jp.dic	AlbumRegisterConfirm	You register a DJ track of all that is the album.\n Are you sure?	All tracks in the album will be registered for DJ.\n Are you sure?
+xDJCore_0/dic/jp.dic	ImportAndRegisterFinish	Uptake was terminated.	Import was cancelled.
+xDJCore_0/dic/jp.dic	NoContentForAccess	There is no track that can be manipulated.	There are no tracks that can be used.
+xDJCore_0/dic/jp.dic	UnRegisterConfirm	I will cancel the registration DJ.\n Are you sure?	The DJ registration will be cancelled.\n Are you sure?
+xDJCore_0/dic/jp.dic	UnRegistering	I have to cancel the registration DJ.	The DJ registration will be cancelled.
+xDJCore_0/dic/jp.dic	UnRegisterCancelConfirm	I will stop DJ deregistration.\n Are you sure?	Stop cancelling the DJ registration.\n Are you sure?
+xDJCore_0/dic/jp.dic	UnRegisterFinish	I was canceled DJ registration.	DJ registration cancelled.
+xDJCore_0/dic/jp.dic	AlbumUnRegisterConfirm	For all tracks in the album\n I will cancel the registration DJ.\n Are you sure?	The DJ registration will be cancelled\n for all tracks in the album.\n Are you sure?
+xDJCore_0/dic/jp.dic	DjStarting	x-I am a start-up preparation of DJ.	Preparing x-DJ for startup.
+xDJCore_0/dic/jp.dic	NoSpaceForGame	No games area.\n Please create a game area in the HDD area setting.\n I'll finish the x-DJ.	There is no game area.\n Please create a game area in the HDD area setting.\n x-DJ will now exit.
+xDJCore_0/dic/jp.dic	NoRegisteredTrack	There is no track you DJ registration.\n DJ, please register the track captured.\n I'll finish the x-DJ.	No tracks are registered for DJ.\n Please register imported tracks for DJ.\n x-DJ will now exit.
+xDJCore_0/dic/jp.dic	NoSpaceForGameErr	It is not possible to the operation because there is no game area.\n Please create a game area in the HDD area setting.	Not possible because there is no game area.\n Please create a game area in the HDD area setting.
+xEasySetup_0/xEasySetup.xml	s10	DaylightSavings	Daylight Saving
+xEasySetup_0/xEasySetup.xml	s23	SettingDate	Setting Date
+xEasySetup_0/xEasySetup.xml	s36	SettingTime	Setting Time
+xEasySetup_0/xEasySetup.xml	s68	summer/winter	Summer/Winter
+xEasySetup_0/dic/jp.dic	Intro.Text.2	Press the right directional button to begin.	Press the right directional button to start.
+xEasySetup_0/dic/jp.dic	TmFormat.Text.0	24 Hour Clock	24-Hour Clock
+xEasySetup_0/dic/jp.dic	TmFormat.Text.1	12 Hour Clock	12-Hour Clock
+xEasySetup_0/dic/jp.dic	TimeZone.018	Mount. (Can)	Mountain (Can)
+xEasySetup_0/dic/jp.dic	TimeZone.020	East. (Can)	Eastern (Can)
+xEasySetup_0/dic/jp.dic	TimeZone.021	Atlan. (Can)	Atlantic (Can)
+xEasySetup_0/dic/jp.dic	TimeZone.040	NW Greenland	Northwest Greenland
+xEasySetup_0/dic/jp.dic	TimeZone.042	E Greenland	East Greenland
+xEasySetup_0/dic/jp.dic	TimeZone.053	W Kazakhstan	West Kazakhstan
+xEasySetup_0/dic/jp.dic	TimeZone.054	C Kazakhstan	Central Kazakhstan
+xEasySetup_0/dic/jp.dic	TimeZone.055	E Kazakhstan	East Kazakhstan
+xEasySetup_0/dic/jp.dic	TimeZone.084	Reunion	Réunion
+xEasySetup_0/dic/jp.dic	TimeZone.089	Perm	Permanent
+xEasySetup_0/dic/jp.dic	TimeZone.096	P-Kamchatsky	Petropavlovsk-Kamchatsky
+xInitialSetup_0/xInitialSetup.xml	s18	DaylightSavings	Daylight Saving
+xInitialSetup_0/xInitialSetup.xml	s31	SettingDate	Setting Date
+xInitialSetup_0/xInitialSetup.xml	s44	SettingTime	Setting Time
+xInitialSetup_0/xInitialSetup.xml	s58	summer/winter	Summer/Winter
+xInitialSetup_0/dic/jp.dic	TmFormat.Text.0	24 Hour Clock	24-Hour Clock
+xInitialSetup_0/dic/jp.dic	TmFormat.Text.1	12 Hour Clock	12-Hour Clock
+xInitialSetup_0/dic/jp.dic	Dolby.Title	Set the Dolby Digital.	Set Dolby Digital.
+xInitialSetup_0/dic/jp.dic	DTS.Title	Set the DTS.	Set DTS.
+xInitialSetup_0/dic/jp.dic	TimeZone.018	Mount. (Can)	Mountain (Can)
+xInitialSetup_0/dic/jp.dic	TimeZone.020	East. (Can)	Eastern (Can)
+xInitialSetup_0/dic/jp.dic	TimeZone.021	Atlan. (Can)	Atlantic (Can)
+xInitialSetup_0/dic/jp.dic	TimeZone.040	NW Greenland	Northwest Greenland
+xInitialSetup_0/dic/jp.dic	TimeZone.042	E Greenland	East Greenland
+xInitialSetup_0/dic/jp.dic	TimeZone.053	W Kazakhstan	West Kazakhstan
+xInitialSetup_0/dic/jp.dic	TimeZone.054	C Kazakhstan	Central Kazakhstan
+xInitialSetup_0/dic/jp.dic	TimeZone.055	E Kazakhstan	East Kazakhstan
+xInitialSetup_0/dic/jp.dic	TimeZone.084	Reunion	Réunion
+xInitialSetup_0/dic/jp.dic	TimeZone.089	Perm	Permanent
+xInitialSetup_0/dic/jp.dic	TimeZone.096	P-Kamchatsky	Petropavlovsk-Kamchatsky
+xMBar_0/xMBar.xml	s1	The quick brown fox jumps over a lazy dog.	The quick brown fox jumps over the lazy dog.
+xMBar_0/xMBar.xml	s2	The quick brown fox jumps over a lazy dog.	The quick brown fox jumps over the lazy dog.
+xMBar_0/xMBar.xml	s3	The quick brown fox jumps over a lazy dog.	The quick brown fox jumps over the lazy dog.
+xMBar_0/xMBar.xml	s4	~pack:xMbar/0.1.0/art/psx_logo.png~\nThe quick brown fox jumps over a lazy dog.\n~pack:xMbar/0.1.0/art/psx_logo.png~	~pack:xMbar/0.1.0/art/psx_logo.png~\nThe quick brown fox jumps over the lazy dog.\n~pack:xMbar/0.1.0/art/psx_logo.png~
+xMBar_0/xMBar.xml	s5	The quick brown fox jumps over a lazy dog.	The quick brown fox jumps over the lazy dog.
+xMBar_0/xMBar.xml	s6	The quick brown fox jumps over a lazy dog.\nThe quick brown fox jumps over a lazy dog.	The quick brown fox jumps over the lazy dog.\nThe quick brown fox jumps over the lazy dog.
+xMBar_0/dic/jp.dic	Opt.AddToShow	Add To Show	Add to Show
+xMBar_0/dic/jp.dic	Opt.SetCover	Set Cover	Set cover
+xMB_FreeSpace_0/xMB_FreeSpace.xml	s1	The disc space 100%	Disc space 100%
+xMB_FreeSpace_0/xMB_FreeSpace.xml	s8	The disc space 100%	Disc space 100%
+xMB_Plugin_AIDJ_0/Dialog.xml	s1	You do not have the capacity to capture(LPCM)。	Not enough capacity to import (LPCM).
+xMB_Plugin_AIDJ_0/Dialog.xml	s2	DJ during registration screen	DJ registration screen
+xMB_Plugin_AIDJ_0/Dialog.xml	s3	I will cancel the registration DJ.	The DJ registration will be cancelled.
+xMB_Plugin_AIDJ_0/Dialog.xml	s9	DJ and registration.	Registering for DJ.
+xMB_Plugin_AIDJ_0/Dialog.xml	s15	I will register the DJ all tracks in the album.	All tracks in the album will be registered for DJ.
+xMB_Plugin_AIDJ_0/Dialog.xml	s21	DJ registration ended.	DJ registration complete.
+xMB_Plugin_AIDJ_0/Dialog.xml	s22	And DJ unregistered.	DJ registration cancelled.
+xMB_Plugin_AIDJ_0/Dialog.xml	s28	DJ unregistered.	DJ registration cancelled.
+xMB_Plugin_AIDJ_0/Dialog.xml	s34	DJ de-registration ended.	DJ registration cancelled.
+xMB_Plugin_AIDJ_0/Dialog.xml	s35	I DJ unregister all tracks in the album.	Cancel DJ registration of all tracks in the album.
+xMB_Plugin_AIDJ_0/Dialog.xml	s41	I am a start-up preparation of DJ Box SE	Preparing DJ Box SE for startup
+xMB_Plugin_AIDJ_0/Dialog.xml	s42	You can not start is no game area\Please create a game area in HDD.	Cannot start because there is no game area.\Please create a game area on the HDD.
+xMB_Plugin_AIDJ_0/Dialog.xml	s43	You can not start is no registration DJ music\Please perform the registration of DJ music tracks	Cannot start because no DJ music is registered.\Please register music tracks for DJ.
+xMB_Plugin_DJBOX_0/dic/en.dic	PS1_FORMAT	PlayStation® format software	PlayStation® Format Software
+xMB_Plugin_DJBOX_0/dic/en.dic	PS2_FORMAT	PlayStation®2 format software	PlayStation®2 Format Software
+xMB_Plugin_DJBOX_0/dic/en.dic	gameboot_str04	Please insert a PlayStationÂ® or	Please insert a PlayStation® or
+xMB_Plugin_DJBOX_0/dic/en.dic	gameboot_str05	PlayStationÂ®2 format disc.	PlayStation®2 format disc.
+xMB_Plugin_DJBOX_0/dic/jp.dic	PS1_FORMAT	PlayStation® format software	PlayStation® Format Software
+xMB_Plugin_DJBOX_0/dic/jp.dic	PS2_FORMAT	PlayStation®2 format software	PlayStation®2 Format Software
+xMB_Plugin_DJBOX_0/dic/jp.dic	gameboot_str04	Please insert a PlayStationÂ® or	Please insert a PlayStation® or
+xMB_Plugin_DJBOX_0/dic/jp.dic	gameboot_str05	PlayStationÂ®2 format disc.	PlayStation®2 format disc.
+xMB_Plugin_DVD_0/dic/jp.dic	Config.DVD.Prog	Progressive Scan	Progressive scan
+xMB_Plugin_DVD_0/dic/jp.dic	Config.DVD.AudTrk	Audio Track\nAuto Select Mode	Audio track\nautomatic selection
+xMB_Plugin_DVD_0/dic/jp.dic	Config.DVD.SubLangFollow	Audio Follow	Audio follows
+xMB_Plugin_DVD_0/dic/jp.dic	Config.DVD.Lang.013	Bengali: Bengla	Bengali; Bangla
+xMB_Plugin_DVD_0/dic/jp.dic	Config.DVD.Lang.014	Tibetian	Tibetan
+xMB_Plugin_DVD_0/dic/jp.dic	Config.DVD.Lang.075	Marthi	Marathi
+xMB_Plugin_DVD_0/dic/jp.dic	Config.DVD.Lang.080	Napali	Nepali
+xMB_Plugin_DVD_0/dic/jp.dic	Config.DVD.Lang.098	Sangho	Sango
+xMB_Plugin_DVD_0/dic/jp.dic	Config.DVD.Lang.107	Servian	Serbian
+xMB_Plugin_DVD_0/dic/jp.dic	Config.DVD.Lang.126	Ukranian	Ukrainian
+xMB_Plugin_DVD_0/dic/jp.dic	Config.Dialog.Password.Txt.0	Enter your 4 digit password.	Enter your 4-digit password.
+xMB_Plugin_eDis_0/xMB_Plugin_eDisScreens.xml	s33	This download you selected requires	The download you selected requires
+xMB_Plugin_eDis_0/xMB_Plugin_eDisScreens.xml	s35	Are you sure to purchase this download?	Do you want to purchase this download?
+xMB_Plugin_eDis_0/xMB_Plugin_eDisScreens.xml	s40	Are you sure you want to quit?	Do you want to quit?
+xMB_Plugin_eDis_0/xMB_Plugin_eDisScreens.xml	s45	This download you selected requires	The download you selected requires
+xMB_Plugin_eDis_0/xMB_Plugin_eDisScreens.xml	s47	Are you sure to purchase this download?	Do you want to purchase this download?
+xMB_Plugin_eDis_0/xMB_Plugin_eDisScreens.xml	s55	Processing Purchase...one moment please.	Processing purchase... One moment please.
+xMB_Plugin_eDis_0/xMB_Plugin_eDisScreens.xml	s63	Are you sure to download	Download this item?
+xMB_Plugin_eDis_0/dic/jp.dic	Login_title	Billing Login	Billing login
+xMB_Plugin_eDis_0/dic/jp.dic	LoginError	A login error has occurred.	A login error occurred.
+xMB_Plugin_eDis_0/dic/jp.dic	PurchaseError	An error has occurred in processing your purchase.	An error occurred while processing your purchase.
+xMB_Plugin_eDis_0/dic/jp.dic	SelectMC	Please select Memory Card to Download	Select a memory card for the download
+xMB_Plugin_eDis_0/dic/jp.dic	DisagreeWarning	If you Disagree, you will exit, Are you sure want to exit?	If you disagree, the application will exit. Do you want to exit?
+xMB_Plugin_eDis_0/dic/jp.dic	InstallWarning	Don't turn off the power or remove Memory Card	Do not turn off the power or remove the memory card
+xMB_Plugin_eDis_0/dic/jp.dic	ConnectingWarning	Please wait till for network to connect	Please wait until the network is connected
+xMB_Plugin_eDis_0/dic/jp.dic	DownlOadError	Download Error!	Download error!
+xMB_Plugin_eDis_0/dic/jp.dic	PowerWarning	Don't turn off the power	Do not turn off the power
+xMB_Plugin_eDis_0/dic/jp.dic	CancelDownload	Are you sure you want to cancel download?	Cancel the download?
+xMB_Plugin_GameBoot_0/dic/jp.dic	PS2_FORMAT	PlayStation®2 Format Softwaere	PlayStation®2 Format Software
+xMB_Plugin_GameBoot_0/dic/jp.dic	PS2_HDDFORMAT	PlayStation®2 Format Sofware	PlayStation®2 Format Software
+xMB_Plugin_GameBoot_0/dic/jp.dic	Setting.DiscSpeed	PlayStation® Disk Read Speed 	PlayStation® Disc Read Speed 
+xMB_Plugin_GameBoot_0/dic/jp.dic	Setting.TextureMapping	PlayStation® texture mapping	PlayStation® Texture Smoothing
+xMB_Plugin_GameBoot_0/dic/jp.dic	Setting.TextureMapping.1	nterpolation	Interpolation
+xMB_Plugin_GameBoot_0/dic/jp.dic	GameDelete.HDD1	Remove this game from your hard disk.	Delete this game from the hard disk.
+xMB_Plugin_GameBoot_0/dic/jp.dic	Error.DiscNoBoot	This disk can not be booted.	This disc cannot be started.
+xMB_Plugin_GameBoot_0/dic/jp.dic	Error.Illegal	It is not a PlayStation® or Playstation®2 standard \ ndisc.	This is not a PlayStation® or PlayStation®2 format disc.
+xMB_Plugin_GameBoot_0/dic/jp.dic	Error.WrongDisc	Disc is wrong.	Wrong disc.
+xMB_Plugin_Media_0/dic/psx/jp.dic	DeleteCancelled	Cancel the deletion.	Cancel deletion.
+xMB_Plugin_Media_0/dic/psx/jp.dic	DeleteFailed	Has failed to remove.	Failed to delete.
+xMB_Plugin_Media_0/dic/psx/jp.dic	ContinueQuestion	Do you want ?	Do you want to continue?
+xMB_Plugin_Media_0/dic/psx/jp.dic	DeletingAllPhotos	Remove the photo of all that is in the album.	Delete all photos in the album.
+xMB_Plugin_Media_0/dic/psx/jp.dic	DeletingAllTracks	Delete all the tracks it is in the album.	Delete all tracks in the album.
+xMB_Plugin_Media_0/dic/psx/jp.dic	DeletingPhoto	Remove.	Delete.
+xMB_Plugin_Media_0/dic/psx/jp.dic	DeletingTrack	Remove.	Delete.
+xMB_Plugin_Media_0/dic/psx/jp.dic	DelPhotostory	There is a Pict Story that has been created from this album.	A Pict Story has been created from this album.
+xMB_Plugin_Media_0/dic/psx/jp.dic	DelAllPhoto	If you delete, a photo of all it is in the album	When deleted, all photos in the album
+xMB_Plugin_Media_0/dic/psx/jp.dic	DeletingPhotostory	I will remove the Pict Story related.	The related Pict Story will be deleted.
+xMB_Plugin_Media_0/dic/psx/jp.dic	DelUnregister	Track you have registered DJ	Tracks registered for DJ
+xMB_Plugin_Media_0/dic/psx/jp.dic	DelUnregistDel	After releasing the DJ registration, I delete it.	The DJ registration will be cancelled and the track deleted.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Common_Help_Back	Return	Back
+xMB_Plugin_Media_0/dic/psx/jp.dic	Genre.16	Seoul	Soul
+xMB_Plugin_Media_0/dic/psx/jp.dic	Genre.33	Hard rock	Hard Rock
+xMB_Plugin_Media_0/dic/psx/jp.dic	Genre.35	New wave	New Wave
+xMB_Plugin_Media_0/dic/psx/jp.dic	Genre.114	Popular song	Popular songs
+xMB_Plugin_Media_0/dic/psx/jp.dic	Genre.116	New music	New Music
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_CheckSpace_Message1	Checking free space hard disk.	Checking free hard disk space.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_SelectAlbum_MultiMusic_Message1	Copy all the music that can be taken up.	Copy all music that can be imported.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_SelectAlbum_MultiMusic_Message2	Please select the album	Please select an album
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_SelectAlbum_MultiPhoto_Message1	You copy photo of all that can be taken up.	Copy all photos that can be imported.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_SelectAlbum_MultiPhoto_Message2	Please select the album	Please select an album
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_SelectAlbum_Single_Message2	Please select the album	Please select an album
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_EditMeta_Message1	You can set the following information to the track to take.	You can set the following information for the imported tracks.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_EditMeta_Message2	↑ ↓ Please select the item you want to modify.	↑ ↓ Please select the item you want to change.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_SelectDjBox_Message1	DJ registration.	Registering for DJ.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_ProgressSingle_Message1	Copy process.	Copying.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_ProgressMulti_Message1	Copy process.	Copying.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_CancelImport_Message1	Stop import.	Stop importing.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_DiscError_Message1	This disk can not be imported.	This disc cannot be imported.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_ReEncodeError_Message1	Not be copied during optimization.	Cannot copy during optimization.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_SpaceError_Message1	not enough free space HDD.	Not enough free space on the HDD.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_SpaceError_Message2	Remove unused title, track, photo	Delete unneeded titles, tracks, photos
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_AlbumNameError_Message1	Name entered invalid or already used.	The name entered is invalid or already in use.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_AlbumCharError_Message1	You can not use characters.	These characters cannot be used.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_TrackFullErrorMusic_Message1	Track on the album is full.	The album is full.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_TrackFullErrorPhoto_Message1	Photo in the album is full.	The album is full.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_SelectOverImportMusic_Message1	Track on the album is full.	The album is full.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_SelectOverImportMusic_Message2	Not be import track	The track cannot be imported
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_SelectOverImportPhoto_Message1	Photo in the album is full.	The album is full.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_SelectOverImportPhoto_Message2	Photo of some but not be imported	Some photos could not be imported
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_NoTrackErrorMusic_Message1	There is no track that can be manipulated.	There are no tracks that can be used.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_NoTrackErrorPhoto_Message1	There is no photo that can be manipulated.	There are no photos that can be used.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_FatalErrorMusic_Message1	Track not be imported.	The track cannot be imported.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_FatalErrorPhoto_Message1	Could not be imported.	Could not import.
+xMB_Plugin_Media_0/dic/psx/jp.dic	Import_FatalErrorPhoto_Message2	Please check connect device.	Please check the connected device.
+xMB_Plugin_Media_0/xml/DefaultDialogs_AddMP3.xml	s3	OK ( tmp )	OK (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_AddMP3.xml	s4	OK ( tmp )	OK (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_AddMP3.xml	s5	Not enough space ( tmp )	Not enough space (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_AddMP3.xml	s6	Not enough space ( tmp )	Not enough space (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_AddMP3.xml	s17	Back ( invisible)	Back (invisible)
+xMB_Plugin_Media_0/xml/DefaultDialogs_AddMP3.xml	s18	Back ( invisible)	Back (invisible)
+xMB_Plugin_Media_0/xml/DefaultDialogs_AddMP3.xml	s31	OK ( invisible )	OK (invisible)
+xMB_Plugin_Media_0/xml/DefaultDialogs_AddMP3.xml	s32	OK ( invisible )	OK (invisible)
+xMB_Plugin_Media_0/xml/DefaultDialogs_AddMP3.xml	s33	Not enough space ( invisible )	Not enough space (invisible)
+xMB_Plugin_Media_0/xml/DefaultDialogs_AddMP3.xml	s34	Not enough space ( invisible )	Not enough space (invisible)
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkin.xml	s5	Please don't remove the Audio device	Please do not remove the audio device
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkin.xml	s15	Please don't remove the Audio device	Please do not remove the audio device
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkin.xml	s23	Please don't remove the Audio device	Please do not remove the audio device
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkin.xml	s29	Checkin complete.	Check-in complete.
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkin.xml	s32	Failure. The checkin is incomplete due to an internal error.	Failed. Check-in is incomplete due to an internal error.
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s9	Checking available space Memory Stick, please wait...	Checking available space on the Memory Stick, please wait...
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s10	OK ( tmp )	OK (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s11	OK ( tmp )	OK (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s12	Not enough space ( tmp )	Not enough space (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s13	Not enough space ( tmp )	Not enough space (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s19	Please don't remove the Memory Stick	Please do not remove the Memory Stick
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s26	Please don't remove the Memory Stick	Please do not remove the Memory Stick
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s34	OK ( tmp )	OK (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s35	OK ( tmp )	OK (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s36	Not enough space ( tmp )	Not enough space (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s37	Not enough space ( tmp )	Not enough space (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s43	Please don't remove the Audio device	Please do not remove the audio device
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s50	Please don't remove the Audio device	Please do not remove the audio device
+xMB_Plugin_Media_0/xml/DefaultDialogs_Checkout.xml	s54	CheckOut complete.	Check-out complete.
+xMB_Plugin_Media_0/xml/DefaultDialogs_ImportMP3.xml	s5	OK ( tmp )	OK (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_ImportMP3.xml	s6	OK ( tmp )	OK (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_ImportMP3.xml	s7	Not enough space ( tmp )	Not enough space (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_ImportMP3.xml	s8	Not enough space ( tmp )	Not enough space (tmp)
+xMB_Plugin_Media_0/xml/DefaultDialogs_ImportMP3.xml	s24	Back ( invisible)	Back (invisible)
+xMB_Plugin_Media_0/xml/DefaultDialogs_ImportMP3.xml	s25	Back ( invisible)	Back (invisible)
+xMB_Plugin_Media_0/xml/DefaultDialogs_ImportMP3.xml	s42	OK ( invisible )	OK (invisible)
+xMB_Plugin_Media_0/xml/DefaultDialogs_ImportMP3.xml	s43	OK ( invisible )	OK (invisible)
+xMB_Plugin_Media_0/xml/DefaultDialogs_ImportMP3.xml	s44	Not enough space ( invisible )	Not enough space (invisible)
+xMB_Plugin_Media_0/xml/DefaultDialogs_ImportMP3.xml	s45	Not enough space ( invisible )	Not enough space (invisible)
+xMB_Plugin_Music_0/dic/jp.dic	Genre.23	New wave	New Wave
+xMB_Plugin_Music_0/dic/jp.dic	Genre.58	Drum 'n Base	Drum 'n' Bass
+xMB_Plugin_Music_0/dic/jp.dic	Genre.66	Sound Track	Soundtrack
+xMB_Plugin_PictClipApp_0/dic/en.dic	PICT_REPAIR	Photo Story Modify	Modify Pict Story
+xMB_Plugin_PictClipApp_0/dic/en.dic	PICT_INFO	Infomation	Information
+xMB_Plugin_PictClipApp_0/dic/en.dic	PICT_ALBUMNAME	Photo Story User's Album	Pict Story User Album
+xMB_Plugin_PictClipApp_0/dic/en.dic	PICT_TITLENAME	Photo Story Contents	Pict Story Contents
+xMB_Plugin_PictClipApp_0/dic/en.dic	PICTAPP_NAME	Photo Story Create/Modify	Create/Modify Pict Story
+xMB_Plugin_PictClipApp_0/dic/jp.dic	PICT_SORT	Sort change	Change sort order
+xMB_Plugin_PictClipApp_0/dic/jp.dic	PICT_PRESETNAME	sample x-Pict Story	Sample x-Pict Story
+xMB_Plugin_PictClipApp_0/dic/jp.dic	PICT_DLG_INFOFILENUMS	�ontents:	Contents:
+xMB_Plugin_PictClipApp_0/dic/jp.dic	PICT_DLG_INFOSIZE	size album:	Album size:
+xMB_Plugin_PictClipApp_0/dic/jp.dic	PICT_DLG_INFODURATION	Duration time:	Duration:
+xMB_Plugin_PictClipApp_0/dic/jp.dic	PICT_DLG_INFOKIND	file format:	File format:
+xMB_Plugin_PictClipApp_0/dic/jp.dic	PICT_DLG_NOINPUTNAME	Entered name eror,name already in use.	Name error: this name is already in use.
+xMB_Plugin_PictClipApp_0/dic/jp.dic	PICT_DLG_DUPLICATION	the entered name cannot be used.	The entered name cannot be used.
+xMB_Plugin_PictClipApp_0/dic/jp.dic	PICT_DLG_NOUSECHARS	The following characters can not be used.	The following characters cannot be used.
+xMB_Plugin_Settings_0/xMB_Plugin_Settings.xml	s29	Bengali;Bangla	Bengali; Bangla
+xMB_Plugin_Settings_0/xMB_Plugin_Settings.xml	s48	Faeroese	Faroese
+xMB_Plugin_Settings_0/xMB_Plugin_Settings.xml	s52	Scot73,Gaelic	Scots Gaelic
+xMB_Plugin_Settings_0/xMB_Plugin_Settings.xml	s84	Latvian,Lettish	Latvian; Lettish
+xMB_Plugin_Settings_0/xMB_Plugin_Settings.xml	s100	(Afan),Oromo	(Afan) Oromo
+xMB_Plugin_Settings_0/xMB_Plugin_Settings.xml	s104	Pashto,Pushto	Pashto; Pushto
+xMB_Plugin_Settings_0/xMB_Plugin_Settings.xml	s114	Sangro	Sango
+xMB_Plugin_Settings_0/xMB_Plugin_Settings.xml	s130	Tegulu	Telugu
+xMB_Plugin_Settings_0/dic/jp.dic	WARNING_RECORDING	You can not change during recording and recording in preparation.	Cannot be changed while recording or preparing to record.
+xMB_Plugin_Settings_0/dic/jp.dic	WARNING_BSANTENNAPOWER	It was not possible to turn on BS antenna power.	Could not turn on the BS antenna power.
+xMB_Plugin_Settings_0/dic/jp.dic	WARNING_RE_ENCORDING	You can not change the optimization.	Cannot be changed during optimization.
+xMB_Plugin_Settings_0/dic/jp.dic	WARNING_EPG_WORKING	You can not change the program information acquisition.	Cannot be changed while retrieving program information.
+xMB_Plugin_Settings_0/dic/jp.dic	WARNING_RESERVATION_RECORDING	Start of the recording reservation.\n I will stop the current operation.	A timer recording is starting.\n The current operation will be stopped.
+xMB_Plugin_Settings_0/dic/jp.dic	WARNING_EPG_WILLBE_RECEIVING	And you start getting the program information shortly.\n I will stop the current operation.	Program information will be retrieved shortly.\n The current operation will be stopped.
+xMB_Plugin_Settings_0/dic/jp.dic	SETTINGS_VIDEO_BILINGUAL_TEXT1	I will change the bilingual voice recording HDD.	Changes the bilingual audio recording on the HDD.
+xMB_Plugin_Settings_0/dic/jp.dic	SETTINGS_VIDEO_BILINGUAL_TEXT2	Are you sure? Dubbing after changing DVD-RW to (VR mode) other than	Are you sure? After the change, dubbing to DVD-RW (VR mode)
+xMB_Plugin_Settings_0/dic/jp.dic	SETTINGS_VIDEO_BILINGUAL_TEXT3	It takes place in the audio settings of bilingual voice recording DVD.	Uses the bilingual audio settings for DVD recording.
+xMB_Plugin_Settings_0/dic/jp.dic	SETTINGS_VIDEO_SEARCH_FLASH_TEXT1	You can set the function of flash in L2 · R2 button.	You can assign the flash function to the L2 · R2 buttons.
+xMB_Plugin_Settings_0/dic/jp.dic	SETTINGS_VIDEO_SEARCH_FLASH_TEXT2	Are you sure? After setting, the search	Are you sure? After this setting, search
+xMB_Plugin_Settings_0/dic/jp.dic	SETTINGS_VIDEO_SEARCH_FLASH_TEXT3	I will do the left and right of the joystick.	Use left/right on the joystick.
+xMB_Plugin_Settings_0/dic/jp.dic	SETTINGS_VIDEO_FLASH_SEARCH_TEXT1	You can set the function of the search in L2 · R2 button.	You can assign the search function to the L2 · R2 buttons.
+xMB_Plugin_Settings_0/dic/jp.dic	SETTINGS_VIDEO_FLASH_SEARCH_TEXT2	Are you sure? After setting, the flash	Are you sure? After this setting, flash
+xMB_Plugin_Settings_0/dic/jp.dic	SETTINGS_VIDEO_FLASH_SEARCH_TEXT3	I will do from the operation panel.	Operate from the control panel.
+xMB_Plugin_Settings_0/dic/jp.dic	SETTINGS_DVD_SET_PROGRESSIVE	I will output a progressive video from the D-Terminal.\n Will not be output from the video output terminal of the other.\n Are you sure?	Progressive video will be output from the D terminal.\n No video will be output from the other video outputs.\n Are you sure?
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_0	Settings for a TV	TV settings
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_2_1	Speech and Language	Language
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_2_6	Voice track	Audio track
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_2_8	Parental use area	Parental control region
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_3	Setting Photo	Photo settings
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_4	Setting the Music	Music settings
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_4_0_0	132 kbps ( HQ sound )	132 kbps (HQ sound)
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_5_0	PlayStation ® disk \n Reading speed	PlayStation® disc \n Read speed
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_5_1	PlayStation ® game \n Texture mapping	PlayStation® games \n Texture smoothing
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_5_1_0	Interpolation processing	Interpolation
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_6_0_1	4: 3 letterbox	4:3 Letterbox
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_6_0_2	4 : 3 Pan Scan	4:3 Pan Scan
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_6_4	To return to factory settings	Reset to factory settings
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_7_1	Just clock	On the hour
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_7_2	Setting channel	Channel setting
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_8	Setting keyboard Input	Keyboard input settings
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_8_0	Edit Registration phrase	Edit registered phrase
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_9	Setting the remote control	Remote control settings
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_9_2	Light-receiving port	IR receiver
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_9_2_0	Front + top surface	Front + top
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_9_2_2	Top surface	Top
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_10_1	Repeat start time	Repeat from start time
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_10_2	Speed key repeat	Key repeat speed
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_11	Network setting	Network Settings
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_Term_MACADDRESS	MAC Adress :	MAC address :
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_Term_IPADDRESS	Ip Adress :	IP address :
+xMB_Plugin_Settings_0/dic/jp.dic	Conf_Msg_WrongNumber	Personal identification number is different.	The PIN does not match.
+xMB_Plugin_TVSetup_0/dic/jp.dic	WARNING_RECORDING	You can not change during recording and recording in preparation.	Cannot be changed while recording or preparing to record.
+xMB_Plugin_TVSetup_0/dic/jp.dic	WARNING_BSANTENNAPOWER	It was not possible to turn on BS antenna power.	Could not turn on the BS antenna power.
+xMB_Plugin_TVSetup_0/dic/jp.dic	WARNING_RE_ENCORDING	You can not change the optimization.	Cannot be changed during optimization.
+xMB_Plugin_TVSetup_0/dic/jp.dic	WARNING_EPG_WORKING	You can not change the program information.	The program information cannot be changed.
+xMB_Plugin_TVSetup_0/dic/jp.dic	YESNO_OMAKASE_WARNING	Change settings\n Are you sure?	Change settings?\n Are you sure?
+xMB_Plugin_TVSetup_0/dic/jp.dic	SettingName	Settings for a TV	TV settings
+xMB_Plugin_TVSetup_0/dic/jp.dic	TVSetup_1	Auto Tune	Auto Tuning
+xMB_Plugin_TVSetup_0/dic/jp.dic	TVSetup_2	Auto stereo reception	Automatic stereo reception
+xMB_Plugin_TVSetup_0/dic/jp.dic	TVSetup_6_17	18 Two units	18 Ninohe
+xMB_Plugin_TVSetup_0/dic/jp.dic	TVSetup_6_34	35 Maebashi	34 Yaita
+xMB_Plugin_TVSetup_0/dic/jp.dic	TVSetup_6_64	65 Alpine	65 Takayama
+xMB_Plugin_TVSetup_0/dic/jp.dic	TVSetup_6_93	94 Hainan Tanabe	94 Nanki-Tanabe
+xMB_Plugin_TVSetup_0/dic/jp.dic	TVSetup_6_103	104 Wu	104 Kure
+xMB_Plugin_TVSetup_0/dic/jp.dic	TVSetup_6_126	127 Much	127 Oita
+xMB_Plugin_TV_0/xMB_Plugin_TV.xml	s1	The disc space 100%	Disc space 100%
+xMB_Plugin_VideoSetup_0/dic/jp.dic	WARNING_RECORDING	You can not change during recording and recording in preparation.	Cannot be changed while recording or preparing to record.
+xMB_Plugin_VideoSetup_0/dic/jp.dic	WARNING_BSANTENNAPOWER	It was not possible to turn on BS antenna power.	Could not turn on the BS antenna power.
+xMB_Plugin_VideoSetup_0/dic/jp.dic	WARNING_RE_ENCORDING	You can not change the optimization.	Cannot be changed during optimization.
+xMB_Plugin_VideoSetup_0/dic/jp.dic	WARNING_EPG_WORKING	You can not change the program information acquisition.	Cannot be changed while retrieving program information.
+xMB_Plugin_VideoSetup_0/dic/jp.dic	WARNING_GUIDECH_EXIST	Guide channel overlaps.\n Please check the settings.	Guide channels overlap.\n Please check the settings.
+xMB_Plugin_VideoSetup_0/dic/jp.dic	SETTINGS_VIDEO_BILINGUAL	After changing, dubbing DVD-RW to (VR mode) other than\n It takes place in the audio settings of bilingual voice recording DVD.\n Are you sure?	After this change, dubbing to DVD-RW (VR mode)\n will use the bilingual audio settings for DVD recording.\n Continue?
+xMB_Plugin_VideoSetup_0/dic/jp.dic	SETTINGS_VIDEO_SEARCH_FLASH	You can set the function of flash in L2 · R2 button.\n Please perform the left and right of the joystick search.\n Are you sure?	You can assign the flash function to the L2 · R2 buttons.\n Search will then use left/right on the joystick.\n Are you sure?
+xMB_Plugin_VideoSetup_0/dic/jp.dic	SETTINGS_VIDEO_FLASH_SEARCH	You can set the function of the search in L2 · R2 button.\n Please go from the control panel flash.\n Are you sure?	You can assign the search function to the L2 · R2 buttons.\n Flash will then be operated from the control panel.\n Are you sure?
+xMB_Plugin_VideoSetup_0/dic/jp.dic	VideoSetup_9	Record voice HDD	Audio recording (HDD)
+xMB_Plugin_VideoSetup_0/dic/jp.dic	VideoSetup_9_2	Main + secondary	Main + sub
+xMB_Plugin_VideoSetup_0/dic/jp.dic	VideoSetup_10	Record voice DVD	Audio recording (DVD)
+xMB_Plugin_VideoSetup_0/dic/jp.dic	VideoSetup_11	Recorded NR	Recording NR
+xMB_Plugin_VideoSetup_0/dic/jp.dic	VideoSetup_12	Auto erased title	Automatically erased title
+xMB_Plugin_VideoSetup_0/dic/jp.dic	VideoSetup_12_0	Random-record	Omakase recording
+xMB_Plugin_VideoSetup_0/dic/jp.dic	VideoSetup_13	Random-record \n Maximum rec time	Omakase recording \n Maximum recording time
+xMB_Plugin_VideoSetup_0/dic/jp.dic	VideoSetup_13_3	Not record	Do not record
+xMB_Plugin_VideoSetup_0/dic/jp.dic	VideoSetup_14	Random-round record \n Channel setting	Omakase recording \n Channel setting
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_DV_DUBBING	DV → HDD record	DV → HDD dubbing
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_MP4_DUBBING	HDD→M.S.record	HDD→M.S. dubbing
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_BURNDVD	HDD → DVD record	HDD → DVD dubbing
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_VIDEORESERVATION	Reservation time	Timer Recording
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_OMAKASE	x-Omakase-record	x-Omakase recording
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_RESERVATIONLIST	Reservation list	Timer list
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_OPT_ORDER	Sort change	Change sort order
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_OPT_PLAY	Playback beg	Start of playback
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_RES_MODIFY	Reservations modification	Modify timer
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_RES_DELETE	Reservations Delete	Delete timer
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_RES_DECIDE	Booking is confirmed	Timer recording confirmed
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_RES_CANDIDATE	Reservation list	Timer list
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_NONRESERVATION_FILE	There is no reservation.	There are no timer recordings.
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_WEEK0	Day	Sun
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_WEEK1	Month	Mon
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_WEEK2	Fire	Tue
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_WEEK3	Water	Wed
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_WEEK4	Tree	Thu
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_WEEK5	Gold	Fri
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_WEEK6	Soil	Sat
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_TEXT_SORT_ORDERING_OMAKASE	Random reservation	Omakase timer
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_YESNO_DELETE_RESERVATION_TEXT	Delete the recording schedule.\n Are you sure?	Delete this timer recording.\n Are you sure?
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_YESNO_DELETE_RESERVATION_DURING_REC	It is running a scheduled recording.\n If you delete, stop the recording.\n Are you sure?	A timer recording is in progress.\n Deleting it will stop the recording.\n Are you sure?
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_DELETE_RESERVATION	I removed the recording reservation.	The timer recording has been deleted.
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_DECIDE_RESERVATION	I have to confirm the recording reservation	Confirm the timer recording
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_NOT_PLAY_DISC	You can not play this disc.	This disc cannot be played.
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_NOT_DUB_REC	Is recording.\n You can not dub.	Recording.\n Cannot dub.
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_NOT_DUB_REENCO	Is optimization.\n You can not dub.	Optimizing.\n Cannot dub.
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_NOT_DUB_READY_TO_REC	Recording is in preparation.\n To do dubbing, please delete the recording schedule.	Preparing for a timer recording.\n To dub, please delete the timer recording.
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_NOT_DUB_RES0_OF_HDD	Capacity of the hard disk is insufficient.\n Please remove or track title, unwanted photo.	Not enough hard disk space.\n Please delete unwanted titles, tracks or photos.
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_NOT_DUB_OVER_OF_TITLE	Title is full.\n Please delete unwanted title.	The title list is full.\n Please delete unwanted titles.
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_OVER_MAX_TITLES	It was not possible to confirm the recording reservation.\n Recording schedule is full.	Could not confirm the timer recording.\n The timer list is full.
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_NOT_FORMAT_REC	Is recording.\n Can not be initialized.	Recording.\n Cannot initialize.
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_NOT_FORMAT_REENCO	Is optimization.\nCan not be initialized. 	Optimizing.\nCannot initialize. 
+xMB_Plugin_VideoUtil_0/dic/jp.dic	VIDEO_MESSAGE_NOT_FORMAT_READY_TO_REC	Recording is in preparation.\n In order to perform initialization, please delete the recording schedule.	Preparing for a timer recording.\n To initialize, please delete the timer recording.
+xMB_Plugin_Video_0/Dialog.xml	s10	Record mode:	Recording mode:
+xMB_Plugin_Video_0/Dialog.xml	s11	（DVD+RW use）	（for DVD+RW）
+xMB_Plugin_Video_0/Dialog.xml	s12	Voice mode:	Audio mode:
+xMB_Plugin_Video_0/Dialog.xml	s15	Gengre:	Genre:
+xMB_Plugin_Video_0/Dialog.xml	s21	Random keywords :	Omakase keywords :
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_DV_DUBBING	DV record	DV Dubbing
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_BURNDVD	Record	Dub to DVD
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_VIDEORESERVATION	Reservation time	Timer Recording
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_OMAKASE	Random recording	Omakase recording
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_RESERVATIONLIST	Recording reservation confirm	Confirm timer recording
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_OPT_PLAY	Playback beg	Start of playback
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_OPT_CHAPTER	Chap display	Chapter display
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_OPT_EDIT_DEL	Unedit	Undo edit
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_OPT_YAHOO_STOP	Optimization stop	Stop optimization
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_SORT_ORDERING_OMAKASE	Random Recording	Omakase recording
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_SORT_ORDERING_NEWER	(New) Date	(Newest first) Date
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_SORT_ORDERING_OLDER	Old First) Date	(Oldest first) Date
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_SORT_ORDERING_NAME_Z2A	Name (descending order)	Name (Descending)
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_WEEK0	Day	Sun
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_WEEK1	Month	Mon
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_WEEK2	Fire	Tue
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_WEEK3	Water	Wed
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_WEEK4	Tree	Thu
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_WEEK5	Gold	Fri
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_WEEK6	Soil	Sat
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_RES_DECIDE	Booking is confirmed	Timer recording confirmed
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_TEXT_RES_CANDIDATE	Reservation candidate list	Timer suggestions
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_DELETE_TITLE	Could not delete	Could not delete.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_RENAME_MSG	Are protected.\n Not be renamed	This is protected.\n It cannot be renamed.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_EDIT	Are protected.\n Can not be edited.	This is protected.\n It cannot be edited.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_CANCEL_EDIT	Are protected.\n You can not edit cancel.	This is protected.\n Editing cannot be undone.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_DELETE	Are protected.\n Can not be deleted.	This is protected.\n It cannot be deleted.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_DUB_REC_OR_REENC	Optimization or during recording.\n You can not dub.	Optimizing or recording.\n Cannot dub.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_DUB_READY_TO_REC	In preparation of recording reservation.\n To do dubbing, please delete the recording schedule.	Preparing for a timer recording.\n To dub, please delete the timer recording.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_FORMAT_REC_OR_REENC	During recording, and optimization in\n Can not be initialized.	Cannot initialize during recording\n or optimization.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_FORMAT_READY_TO_REC	In preparation of recording reservation. In order to perform initialization, please delete the recording schedule.	Preparing for a timer recording. To initialize, please delete the timer recording.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_DO_DURING_REC	The title of the recording.\n You can not perform the operation.	This title is being recorded.\n The operation cannot be performed.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_CRITICAL	An error has occurred.\n After turning off the power once, please power cycle again.	An error has occurred.\n Please turn the unit off and on again.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NONRESERVATION_FILE	There is no reservation.	There are no timer recordings.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_DELETE_RESERVATION	I removed the recording reservation.	The timer recording has been deleted.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NONEDITED_FILE	It has not been edited yet.\n You can not edit cancel.	Not edited yet.\n Editing cannot be undone.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_BROKEN_FILE	File is corrupted.\n Can not be edited.	The file is corrupted.\n It cannot be edited.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_REENC_STOP	I will stop the optimization.\nAre you sure?	Optimization will be stopped.\nAre you sure?
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_DO_DURING_REENC	The video of the optimization.\n You can not perform the operation.	This video is being optimized.\n The operation cannot be performed.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_DONT_EDIT_NAME_DURING_REENC	The title of the optimization.\n Not be renamed.	This title is being optimized.\n It cannot be renamed.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_REENC_OTHER_TITLE	Currently, the optimization of the other titles.	Another title is currently being optimized.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_REENC_FINISH	Optimization has ended.	Optimization complete.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_TITLE_DELETE_OK	I removed the video.	The video has been deleted.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_CALCEL_EDIT_OK	I cancel the edit.	Cancel editing.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_YESNO_CANCEL_EDIT	I will cancel the edit.\n Are you sure?	Editing will be discarded.\n Are you sure?
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_YESNO_DELETE_TITLE	I delete the video.\n Are you sure?	The video will be deleted.\n Are you sure?
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_YESNO_DELETE_RESERVATION_TEXT	I will delete the recording schedule	The timer recording will be deleted
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_REENC_DURING_RES_READY	Recording is in preparation.\n If you want to optimize, please delete the recording schedule.	Preparing for a timer recording.\n To optimize, please delete the timer recording.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_REENC_DURING_REC	Is recording.\n Can not be optimized.	Recording.\n Cannot optimize.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_CHAPTER_REC	The video of the recording.\n Can not display chapter.	This video is being recorded.\n Chapters cannot be displayed.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_EDIT_REC	The video of the recording.\n Can not be edited.	This video is being recorded.\n It cannot be edited.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_NONEDITED_REC	The video of the recording.\n You can not edit cancel.	This video is being recorded.\n Editing cannot be undone.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_EDIT_REENC	The video of the optimization.\n Can not be edited	This video is being optimized.\n It cannot be edited.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_CHAPTER_REENC	The video of the optimization.\n Can not display chapter.	This video is being optimized.\n Chapters cannot be displayed.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_PROTECT_REENC	The video of the optimization.\n You can not protect.	This video is being optimized.\n It cannot be protected.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_NOPROTECT_REENC	The video of the optimization.\n Can not protect cancellation.	This video is being optimized.\n Protection cannot be removed.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_NONEDITED_REENC	The video of the optimization.\n You can not edit cancel.	This video is being optimized.\n Editing cannot be undone.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_DELETE_REENC	The video of the optimization.\n Can not be deleted.	This video is being optimized.\n It cannot be deleted.
+xMB_Plugin_Video_0/dic/jp.dic	VIDEO_MESSAGE_NOT_PLAY_CONTENTS	The specified video is valid.	The specified video is invalid.
+xOSK_0/dic/jp.dic	help.direction	Move Focus Key	Move focus key
+xOSK_0/dic/jp.dic	help.start	Confirmed Exit	Exit (confirmed)
+xOSK_0/dic/jp.dic	help.select	Canceled Exit	Exit (cancelled)

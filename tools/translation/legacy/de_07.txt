@@ -1,0 +1,339 @@
+2140	Das gesamte
+2141	Ein Fehler ist aufgetreten.\nÜberspielung beendet. [%d]
+2142	Falsche Dateinummer.[-9]
+2143	Keine Finalisierungssitzung angegeben.
+2144	Folgende Zeichen können nicht verwendet werden.
+2145	Die folgende Sendung stimmt nicht überein.
+2146	Die folgende Sendung ist ungültig.
+2147	Formatierung konnte nicht abgeschlossen werden.
+2148	Nicht genügend freier Festplattenspeicher.
+2149	Import konnte nicht abgeschlossen werden.
+2150	Der Import wird abgebrochen.\nMöchten Sie fortfahren?
+2151	Installation konnte nicht abgeschlossen werden.
+2152	Element konnte nicht hinzugefügt werden.\nEinige Inhalte konnten nicht hinzugefügt werden.
+2153	Element konnte nicht umbenannt werden.
+2154	Anmeldung fehlgeschlagen.
+2155	Anmeldung wurde abgebrochen.
+2156	Maximal %d Ordner können erstellt\nwerden. Diese Grenze ist erreicht.
+2157	B-Punkt speichern
+2158	Die Speicherkarte wurde entfernt.\nDrücken Sie ~rgn.ArtCancel~, um zur Leiste zurückzukehren.
+2159	Die Speicherkarte ist nicht formatiert.\nZum Formatieren die Verwaltung gespeicherter Daten öffnen.
+2160	A-Punkt speichern
+2161	Verschieben nicht möglich.\nKeine Speicherkarte vorhanden.
+2162	Verschieben konnte nicht abgeschlossen werden.
+2163	Das Video wird gelöscht.
+2164	Der eingegebene Name enthält Zeichen,\ndie nicht verwendet werden können.
+2165	Der eingegebene Name ist bereits vergeben oder ungültig.\nBitte Shownamen ändern.
+2166	Der eingegebene Name ist bereits vergeben\noder enthält ungültige Zeichen.
+2167	Der eingegebene Name wird bereits verwendet.
+2168	Der eingegebene Name ist ungültig oder wird bereits verwendet.
+2169	Der gewählte Name ist zu lang.
+2170	Das Netzwerk ist derzeit nicht verfügbar.
+2171	Vorgang fehlgeschlagen
+2172	Vorgang fehlgeschlagen, da kein Audiogerät gefunden wurde.
+2173	Überschreiben bestätigen
+2174	Das Passwort ist falsch. Bitte erneut versuchen.
+2175	Das Foto wird gelöscht.
+2176	Die vorherige Sendung stimmt nicht überein.
+2177	Die vorherige Sendung ist ungültig.
+2178	Der Kauf konnte nicht abgeschlossen werden.
+2179	Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.
+2180	Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.\nFranz jagt im komplett verwahrlosten Taxi quer durch Bayern.
+2181	DVD-Status unbekannt.
+2182	Mediengröße unbekannt.
+2183	Der angegebene Titel ist gültig.
+2184	Der angegebene Wert ist ungültig.
+2185	Das angegebene Video ist gültig.
+2186	DVD-Status kann nicht gelesen werden.
+2187	Titel wird optimiert.\n Umbenennen nicht möglich.
+2188	Titel wird aufgenommen.\n Vorgang nicht möglich.
+2189	Titel wird aufgenommen.\n Aufnahme nicht möglich.
+2190	Gesamtspielzeit der Bearbeitung beträgt %d oder mehr.\n Es kann kein Titel ausgewählt werden.
+2191	Der Titel wird gelöscht.
+2192	Der Titel wird gelöscht. Möchten Sie fortfahren?
+2193	Update konnte nicht abgeschlossen werden.
+2194	Video wird optimiert.\n Löschen nicht möglich.
+2195	Video wird optimiert.\n Bearbeiten nicht möglich
+2196	Video wird optimiert.\n Kapitelanzeige nicht möglich.
+2197	Video wird optimiert.\n Schutz kann nicht aufgehoben werden.
+2198	Video wird optimiert.\n Bearbeitung kann nicht aufgehoben werden.
+2199	Video wird optimiert.\n Vorgang nicht möglich.
+2200	Video wird optimiert.\n Schützen nicht möglich.
+2201	Video wird aufgenommen.\n Bearbeiten nicht möglich.
+2202	Video wird aufgenommen.\n Kapitelanzeige nicht möglich.
+2203	Video wird aufgenommen.\n Bearbeitung kann nicht aufgehoben werden.
+2204	Die Schreibfunktion des DVD-Laufwerks kann nicht verwendet werden.
+2205	Dann drücken Sie
+2206	Keine Dateien zum Kopieren vorhanden.
+2207	Dieses Album enthält keine Fotos für eine Diashow.
+2208	Nicht genügend Tokens. Tokens über die Kontoverwaltung kaufen.
+2209	Zu viele Elemente in dieser Show.\nHinzufügen abgebrochen.
+2210	Zu viele Titel in diesem Album.
+2211	Aus diesem Album wurde eine Pict Story erstellt.
+2212	Eine Datei mit diesem Namen existiert bereits\nauf der Festplatte.\nÜberschreiben?
+2213	Eine Datei mit diesem Namen existiert bereits\nauf der Speicherkarte.\nÜberschreiben?
+2214	Es ist eine Timer-Aufnahme programmiert.
+2215	Einige Titel können nicht für DJ registriert werden.\n Bitte das Album prüfen.
+2216	Fehler in der Antwort des DNS-Servers.
+2217	Kein Memory Stick vorhanden.\n Aufnahme wird beendet.
+2218	Kein Blickwinkel vorhanden.
+2219	Keine entsprechenden Daten.
+2220	Keine Daten verfügbar.
+2221	Kein Ziel zum\nKopieren vorhanden.
+2222	Kein Ziel zum\nVerschieben vorhanden.
+2223	Kein Fehler
+2224	Keine Elemente zum Hinzufügen zur Show.
+2225	Keine Elemente zum Importieren.
+2226	Keine Speicherkarte eingesteckt.\nSpeicherkarte (PS2) einstecken und erneut versuchen.
+2227	Kein Menü vorhanden.
+2228	Keine bearbeitbaren Fotos vorhanden.
+2229	Keine Fotos für eine Diashow vorhanden.
+2230	Keine Fotos für eine Pict Story verwendbar.
+2231	Keine Fotos zum Erstellen einer Pict Story.
+2232	Keine Fotos vorhanden.
+2233	Keine Programmierung vorhanden.
+2234	Kein Ton.
+2235	Diese Disc enthält keine Untertitel.
+2236	Kein aufzunehmender Titel.\n Aufnahme wird beendet.
+2237	Keine Titel verfügbar.
+2238	Keine bearbeitbaren Titel vorhanden.
+2239	Keine Titel für DJ registriert.\n Bitte importierte Titel für DJ registrieren.\n x-DJ wird beendet.
+2240	Keine registrierten Wörter vorhanden.
+2241	Nicht genügend freier Speicher auf dem Memory Stick
+2242	Nicht genügend freier Speicher am Kopierziel.
+2243	Nicht genügend freier Festplattenspeicher.
+2244	Nicht genügend freier Festplattenspeicher.\nNicht benötigte\nDatenelemente löschen.
+2245	Nicht genügend freier Speicher auf der Speicherkarte.\nSpeicherkarte (PS2) mit genügend Speicher einstecken.
+2246	Nicht genügend freier Speicher\nam Kopierziel.
+2247	Nicht genügend freier Speicher\nam Verschiebeziel.
+2248	Nicht genügend freier Speicher\nzum Erstellen eines Ordners.
+2249	Nicht genügend Speicher.
+2250	Die neueste Software ist vorhanden.
+2251	Fehler bei der x-DJ-Registrierung.\n Daten sind beschädigt.\n Bitte DJbox-, Sounddaten und x-DJ-Benutzerdaten\n löschen.
+2252	Legt fest, ob der bearbeitete Teil nach der Optimierung erhalten bleibt.
+2253	Im Gerät installierte xDJ-Funktion
+2254	Dieser Memory Stick muss formatiert werden.\n Die Daten auf dem Memory Stick\n werden gelöscht.\n Sind Sie sicher?
+2255	Dieses Album kann nicht für eine Diashow verwendet werden.
+2256	Fehler bei der Kapitelsuche.
+2257	Diese Daten können nicht kopiert werden.
+2258	Diese Daten können nicht verschoben werden.
+2259	Diese Daten sind beschädigt.
+2260	Diese Disc kann nicht gestartet werden.
+2261	Diese Disc kann nicht gestartet werden.
+2262	Diese Disc kann nicht importiert werden.
+2263	Dieser Download erfordert eine Festplatte.
+2264	Der gewählte Download erfordert
+2265	Dieses Spiel kann nicht gestartet werden.
+2266	Dieses Spiel kann nicht gestartet werden.
+2267	Dieses Spiel erfordert beim Start eine Disc.
+2268	Dieses Spiel erfordert beim Start eine Disc.
+2269	Dies ist keine Speicherkarte (PS2).\nSpeicherkarte (PS2) einstecken und erneut versuchen.
+2270	Liste der von der Schnelleinrichtung erstellten Nummern.
+2271	Falsche Disc.
+2272	Dieses Element wurde bereits gekauft.
+2273	Dieses Element ist nicht formatiert.
+2274	Dieses Foto kann nicht angezeigt werden.
+2275	Dieses Produkt enthält Kopierschutztechnologie, die durch Rechte der Macrovision Corporation und anderer Rechteinhaber
+2276	Hergestellt unter Lizenz von Dolby Laboratories.
+2277	Dieses Produkt enthält &quot;DNAS&quot; (Dynamic Network Authentication System), ein urheberrechtlich geschütztes Authentifizierungssystem
+2278	Dieses Produkt enthält RSA(R) BSAFE TM Crypt-C der RSA Security Inc.
+2279	Diese Software basiert teilweise auf der Arbeit des FreeType-Teams.
+2280	Do
+2281	Miniatur kann nicht registriert werden.
+2282	Miniatur registrieren
+2283	Tibetisch
+2284	Tibetisch
+2287	Kacheln
+2288	Zeit
+2289	Zeit :
+2290	Zeitzone
+2291	Zeitanzeige ist nicht zulässig.
+2292	Uhrzeit eingestellt.
+2293	Timer-Aufnahme beginnt in 10 Min.
+2294	Zeiteinstellung
+2295	Zeitzone
+2296	Zeitformat
+2297	Zeitsprung
+2298	Zeitzone
+2299	Timer-Aufnahme ist beendet.\n Änderung der Programmierung wird abgebrochen.
+2300	Timer-Aufnahme gestartet.\n Optimierung wird beendet.
+2301	Timer-Aufnahme gestartet.\nAufnahme fortsetzen?\n\n\"OK\" beendet die Timer-Aufnahme.\n\"Abbrechen\" beendet die Aufnahme.
+2302	Timer-Aufnahme ab %s.\nDiese Timer-Aufnahme startet nicht während der Aufnahme.\nAufnahme starten?
+2304	Titel
+2305	Titel 0
+2306	Titelliste
+2307	Titelspeicher voll. Bitte Titel löschen.
+2308	Titelspeicher voll.\n Bitte nicht benötigte Titel löschen.
+2309	Titelliste
+2310	Titelname:
+2311	Titeloptimierung
+2312	Titel werden in dieser Reihenfolge aufgenommen.
+2313	%s auf DVD wird abgebrochen.\nOK?
+2314	Speichern
+2315	Zum Ändern des Datums drücken Sie
+2316	Bereich ändern auf
+2317	Datum/Uhrzeit ändern: drücken Sie
+2318	Aktuelle Einstellungen löschen und auf Werkszustand zurücksetzen.\n Sind Sie sicher?\n Programmführer-Daten werden ebenfalls entfernt.\n Auf der Festplatte gespeicherte Musik, Videos\n und Fotos werden nicht gelöscht.
+2319	Fortfahren
+2320	Fortfahren.
+2321	Erstellen
+2322	Auf Werkseinstellungen zurücksetzen
+2323	Alle Einstellungen auf Werkseinstellungen zurücksetzen.\n Sind Sie sicher?
+2324	Zum Zurückkehren drücken Sie
+2325	Wirklich den Sender wechseln?
+2326	Tokio
+2328	Zu viele Kapitel.\nDieser Titel kann nicht überspielt werden.
+2329	Zu viele Titel ausgewählt.\nÜberspielen nicht möglich.
+2330	Hauptmenü
+2331	Erste Programmsuche
+2332	Oberseite
+2333	Gesamtgröße
+2334	Gesamtkapazität
+2335	Titel
+2336	Titel %d
+2337	Titelname :
+2338	Titelname:
+2339	Titel kann nicht importiert werden.
+2340	Das Album ist voll.
+2341	Für DJ registrierte Titel
+2342	Titel:
+2343	Titel
+2344	Chinesisch (traditionell)
+2346	Transformator
+2347	Baum
+2348	Zuschneiden
+2350	Di
+2351	Tunersystem
+2352	Sendersuche
+2354	Türkisch
+2355	Turkmenisch
+2357	Typ
+2359	USB-Speicher
+2360	Ukrainisch
+2361	Ukrainisch
+2362	Bearbeitung aufheben
+2363	Formatierung entfernt.
+2364	Entfernen der Formatierung fehlgeschlagen.
+2365	Formatierung jetzt entfernen?
+2366	Nicht formatiert
+2367	Formatierung wird entfernt...
+2368	Nicht initialisiert
+2369	Vereinigtes Königreich
+2370	Vereinigte Staaten
+2371	Unbekannt
+2372	Unbekannter Fehler!!
+2373	Unbekannter Fehler.
+2374	Schutz aufheben
+2375	Disc nicht erkannt.\nBitte eine DVD-RW einlegen.
+2376	Nicht angesehen
+2377	Update
+2378	Update / Sicherung
+2379	Update / Download
+2380	Update / Abschluss
+2381	Update / Installation
+2382	Update / Lizenz
+2383	Update / Wiederherstellung
+2384	Update / Softwareprüfung
+2385	Update / Ausführung bestätigen
+2386	Update / Start bestätigen
+2387	Update abgeschlossen.
+2388	Update-Server nicht verfügbar,
+2389	Update wird bei Aufnahmebeginn angehalten.
+2390	Aktualisiert
+2391	Informationen werden aktualisiert...
+2392	Übernahme wurde beendet.
+2394	Verwenden
+2395	Als Symbol verwenden
+2396	Belegter Speicher
+2397	Benutzer-ID
+2398	Benutzer-ID :
+2399	Benutzereingabe ist nicht zulässig.
+2400	Benutzerdefiniert
+2401	Usbekisch
+2402	VIEWER FORTSETZEN
+2403	VIEWER-TITEL
+2404	VIEWER nicht zulässig.
+2406	VPS/PDC-Suchlauf.
+2407	VR-Modus
+2408	VR-Modus-Wiedergabeliste
+2411	Der eingegebene Wert ist ungültig.
+2412	Unterhaltung
+2413	Version :
+2414	Versionsnummer
+2415	Video
+2416	Video kann nicht erstellt werden.
+2417	Video erstellt
+2418	Videoerstellung
+2419	Videoerstellung starten
+2420	Videoliste
+2421	Video-Modus
+2422	Videoname:
+2423	Videoeinstellungen
+2424	Videoeinstellungen / Auto-Aufnahme Sendereinstellung
+2425	Die Aufnahme wurde nicht angehalten.
+2426	Wien
+2427	Vietnamesisch
+2428	Größeres Bild anzeigen
+2430	Visualisierung
+2431	Wladiwostok
+2432	Ton
+2433	Es gibt nur eine Tonspur.
+2434	Tonmodus:
+2435	Ton wechseln
+2436	Tonspur
+2438	Kasachstan (West)
+2439	Warschau
+2440	Wasser
+2441	DJ-Registrierung.
+2442	Markierung setzen.
+2443	Mi
+2444	Wöchentlich
+2446	Walisisch
+2447	Wenn fertig, drücken Sie
+2448	Bei Ausführung kann der Festplatteninhalt gelöscht werden.
+2450	Ohne die Netzwerkverbindung und das Gerät auszuschalten
+2452	Wort
+2453	Welt
+2454	Möchten Sie?
+2455	Wird geschrieben ...
+2456	Wird geschrieben...
+2458	JJJJ/MM/TT
+2459	JJJJ/MM/TT  hh:mm:mm
+2460	Jakutsk
+2461	Jahr
+2462	Jerewan
+2463	Ja
+2464	Ja (verschieben)
+2465	Jiddisch
+2468	Ein Titel wird vom Memory Stick eingecheckt.
+2469	Der gesamte Memory-Stick-Inhalt wird eingecheckt.
+2470	Der gesamte Verzeichnisbaum wird auf den Memory Stick ausgecheckt.
+2471	Der gesamte Verzeichnisbaum wird auf NetMD ausgecheckt.
+2472	Sie können ein beliebiges Stichwort erstellen.
+2473	Dieser Titel kann nicht für DJ registriert werden.
+2474	VIEWER ist bei dieser Disc nicht möglich.
+2475	VIEWER ist bei diesem Titel nicht möglich.
+2476	Lesezeichen nicht möglich
+2477	Während Aufnahme oder Aufnahmevorbereitung nicht änderbar.
+2478	Optimierung kann nicht geändert werden.
+2479	Abruf der Programminformationen kann nicht geändert werden.
+2480	Programminformationen können nicht geändert werden.
+2481	DV-Gerät kann nicht gesteuert werden.\n Aufnahme wird beendet.
+2482	Es können keine weiteren Videotitel erstellt werden.
+2483	Diese Pict Story kann nicht geändert werden.
+2484	Bei dieser Disc nicht möglich.
+2485	Bei diesem Titel nicht möglich.
+2486	[Stopp] ist nur für das gerade erstellte Video möglich.
+2487	Dieser Vorgang ist nicht möglich.
+2488	Wiedergabe nicht möglich, da sie eingeschränkt ist.
+2489	Wiedergabe wegen vorläufigem Löschstatus nicht möglich (keine Meldung)
+2490	Diese Disc kann nicht abgespielt werden.
+2491	Dieser Titel kann nicht abgespielt werden
+2492	Der Titel kann nicht aufgenommen werden.
+2493	Videoerstellung während Timer-Aufnahme nicht möglich.
+2494	Wiedergabemodus kann nicht ausgeführt werden.
+2495	Es können keine weiteren Titel ausgewählt werden.
+2496	B-Punkt kann nicht an derselben Position wie der A-Punkt gesetzt werden.
+2497	Start nicht möglich, kein Spielebereich vorhanden.\Bitte einen Spielebereich auf der HDD erstellen.
+2498	Start nicht möglich, keine DJ-Musik registriert.\Bitte Musiktitel für DJ registrieren.
+2499	Authentifizierungsvorgang kann nicht angehalten werden.

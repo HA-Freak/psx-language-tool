@@ -1,0 +1,31 @@
+0	About	pvrReEnco_0\dic\en.dic
+1	After optimization title	pvrReEnco_0\dic\en.dic
+2	After optimization, to ensure the capacity, the deletion of the "Edit Range"\n Please select Delete "title before optimization".\n Please do not change the settings if you do not need to ensure capacity.	pvrReEnco_0\dic\en.dic
+3	Create Video	xMB_Plugin_PictClipApp_0\dic\en.dic
+4	DJbox	xDJB_0\data\sound.sys
+5	DJbox Sound data	xDJB_0\data\snd_info.sys
+6	DVD burner;<NL>{mongon_str16} = "DVD driver error	pvrBurn_0\dic\jp.dic
+7	I run the optimization.\n Until the end	pvrReEnco_0\dic\en.dic
+8	I will start optimizing.\n During optimization, you can not perform a scheduled recording.	pvrReEnco_0\dic\en.dic
+9	Infomation	xMB_Plugin_PictClipApp_0\dic\en.dic
+10	Optimization start	pvrReEnco_0\dic\en.dic
+11	Photo Story Contents	xMB_Plugin_PictClipApp_0\dic\en.dic
+12	Photo Story Create/Modify	xMB_Plugin_PictClipApp_0\dic\en.dic
+13	Photo Story Modify	xMB_Plugin_PictClipApp_0\dic\en.dic
+14	Photo Story User's Album	xMB_Plugin_PictClipApp_0\dic\en.dic
+15	Remove x-DJ.	xDJB_0\data\user.sys
+16	Select the editing range to cancel using 	pvrEdit_0\dic\en.dic
+17	Sound data	xDJB_0\data\sound.sys
+18	Sound data 	Remove	xDJB_0\data\sound.sys
+19	The DJ registration is cancelled.	xDJB_0\data\user.sys
+20	The original title	pvrReEnco_0\dic\en.dic
+21	These options determine whether or not to leave or leave the part that has been edited from the title after optimization.\n Even if you select "Save", the title of the post-optimization, configuration or a chapter editing will not remain	pvrReEnco_0\dic\en.dic
+22	This setting is the same as before optimization.	pvrReEnco_0\dic\en.dic
+23	Timer recording has started.\n I'll finish the optimization.	pvrReEnco_0\dic\en.dic
+24	Title before optimization	pvrReEnco_0\dic\en.dic
+25	Total playing time	pvrReEnco_0\dic\en.dic
+26	User data	xDJB_0\data\user.sys
+27	Video<NL>Music<NL>Photo<NL>Game that uses a hard disk<NL>Data of the program guide	HDDPartition_0\dic\jp.dic
+28	When	pvrReEnco_0\dic\en.dic
+29	Will take.	pvrReEnco_0\dic\en.dic
+30	x-DJ User data	xDJB_0\data\usr_info.sys

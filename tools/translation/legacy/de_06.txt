@@ -1,0 +1,315 @@
+1780	Aufnahme-NR
+1781	Aufnahme beendet.\n Gerät wird ausgeschaltet.
+1782	Aufnahme wird vorbereitet.\n Zum Optimieren bitte die Timer-Aufnahme löschen.
+1783	Aufnahme wird vorbereitet.\n Zum Initialisieren bitte die Timer-Aufnahme löschen.
+1784	Aufnahme wird vorbereitet.\n Eine weitere Aufnahme ist nicht möglich.
+1785	Aufnahme wird vorbereitet.\n Senderwechsel nicht möglich.
+1786	Aufnahme wird vorbereitet.\n Zum Überspielen bitte die Timer-Aufnahme löschen.
+1787	Aufnahme wird vorbereitet.\n Aufnahmemodus kann nicht geändert werden.
+1788	Aufnahmemodus
+1789	Aktueller Aufnahmemodus
+1790	Timer-Aufnahme bestätigen
+1791	Es gibt eine Timer-Aufnahme.\nWährend der Optimierung sind keine Timer-Aufnahmen möglich.
+1792	Timer-Speicher ist voll.
+1793	Aufnahme:
+1794	Wiedergabezeit :
+1796	Reggae/Ska
+1797	Registrieren
+1798	DJ registrieren
+1799	Eigenes Stichwort registrieren.
+1800	Registrieren.
+1801	DJ-Musikspeicher ist voll.\n Bitte DJ-Registrierung nicht benötigter Titel aufheben.
+1802	Erscheinungsdatum
+1803	Erscheinungsjahr :
+1804	Veröffentlicht
+1805	Fernbedienungsmodus
+1806	Alle entfernen
+1807	Alle Fotos im Album entfernen.
+1808	Dieses Spiel von der Festplatte entfernen.
+1809	Nicht benötigte Titel, Musik, Fotos löschen
+1810	Entfernen.
+1811	Timer-Aufnahme gelöscht.
+1812	Umbenennen
+1813	Umbenennen abgebrochen.
+1814	Umbenennen abgeschlossen.
+1815	Wird umbenannt. Bitte warten...
+1816	Die Reparatur dieses Geräts ist abgeschlossen.
+1817	Wiederholen
+1818	Netzwerkeinrichtung wiederholen
+1819	Wiederholen aus
+1820	Wiederholen ein
+1821	Startzeit wiederholen
+1822	Erneut abspielen
+1823	Programmierungsvorschläge
+1824	Programmierliste
+1825	Programmierstatus hat sich geändert.\n Vorgang wird abgebrochen.
+1826	Programmierte Zeit
+1827	Programmierung löschen
+1828	Programmierung ändern
+1829	Modem zurücksetzen, falls ein Modem verwendet wird.
+1830	Auflösung
+1831	Neustart
+1832	Neustart, danach HDD-Bereichseinstellung starten.
+1833	Info wiederherstellen
+1834	Einschränkungen
+1835	Fortsetzen ist nicht zulässig.
+1836	Zurück
+1837	Réunion
+1838	Reykjavík
+1839	Rätoromanisch
+1841	Riad
+1843	Lateinische Zeicheneingabe
+1844	Rumänisch
+1845	Rom
+1846	Nach links drehen
+1847	Nach rechts drehen
+1848	Ausführen
+1849	Laufzeit
+1850	Optimierung ausführen.
+1851	HDD-Bereichseinstellung ausführen und Spielebereich löschen.
+1852	Mit der HDD-Bereichseinstellung können Sie den Spielebereich ändern.
+1853	Mit der HDD-Bereichseinstellung können Sie einen Spielebereich erstellen.
+1854	Erste Wiedergabe ausführen
+1855	Eine Timer-Aufnahme läuft.\n Beim Löschen wird die Aufnahme beendet.\n Sind Sie sicher?
+1856	Russisch
+1857	Russische Föderation
+1863	Grönland (SW)
+1864	Wort existiert bereits.
+1865	Samoainseln
+1866	Samoanisch
+1867	Beispiel-Pict-Story
+1868	Beispielalbum
+1870	Sango
+1871	Sango
+1874	Sarajevo
+1875	Sa
+1876	Speichern
+1877	Speichern      Stopp
+1878	Inhalt auf der Festplatte speichern
+1879	Gespeicherte Daten (PlayStation®)
+1880	Gespeicherte Daten (PlayStation®2)
+1881	Verwaltung gespeicherter Daten
+1882	Scart-Einstellung
+1883	Während des Schreibens auf Disc funktioniert die Timer-Aufnahme nicht.
+1884	Timer-Aufnahme läuft.\n Änderung der Programmierung wird abgebrochen.
+1885	Schottisch-Gälisch
+1886	Schottisch-Gälisch
+1887	Bildschirmanzeige
+1889	Suche
+1890	Suche -
+1891	Suche ＋
+1892	Sekunde
+1893	Sekundärer DNS
+1894	Sekundärer DNS :
+1895	Nebenton
+1897	Auswählen
+1898	DTS auswählen.
+1899	Dolby Digital auswählen
+1900	Dolby Digital auswählen.
+1901	[Ende] wählen oder drücken Sie
+1902	Digitalausgang (optisch) auswählen.
+1903	Show zum Hinzufügen wählen.
+1904	Show wählen.
+1905	TV-Typ wählen.
+1906	Sprache wählen.
+1907	Zeitzone wählen.
+1908	Titel für die Aufnahme wählen
+1909	Album für den Import\nwählen.
+1910	Album wählen.
+1911	Kopierziel wählen.
+1912	Datums- und Zeitformat wählen.
+1913	Zu verwendende Stichwörter wählen.
+1914	Sprache wählen.
+1915	Verschiebeziel wählen.
+1916	DVD-Menütyp wählen in
+1917	Methode zur IP-Adresseinstellung wählen
+1918	Seitenverhältnis des Fernsehers wählen.
+1919	Gerät wählen
+1920	Rückgängig zu machende Bearbeitung wählen mit
+1921	Ort wählen.
+1922	Gewählte Szene wird nicht abgespielt
+1924	Seoul
+1925	Serbisch
+1926	Serbokroatisch
+1927	Abendserie
+1928	Serbisch
+1930	Cover festlegen
+1931	DTS einstellen.
+1932	Dolby Digital einstellen.
+1933	Als Cover festlegen
+1934	DTS einstellen.
+1935	Digitalausgang (optisch) einstellen.
+1936	Dolby Digital einstellen.
+1937	Datum und Uhrzeit einstellen.
+1938	Aufnahmemodus wird auf SLP gesetzt (für DVD+RW).\nDaher dauert das Überspielen länger.
+1939	Zum Start setzen
+1941	Einstellung
+1942	Einstellung 1
+1943	Einstellung 2
+1944	Eingabeeinstellung / Registrierten Ausdruck bearbeiten
+1945	Einstellungsliste
+1946	Fotoeinstellungen
+1947	Sendereinstellung
+1948	Einstellungen bestätigen
+1949	Datum und Uhrzeit einstellen
+1950	Tastatureingabe einstellen
+1951	Einstellung starten
+1952	Musikeinstellungen
+1953	Fernbedienung einstellen
+1954	Uhrzeit einstellen
+1955	Auto-Sendersuche läuft.
+1958	Einstellungen
+1959	Einstellungsdatei (PlayStation®2)
+1960	TV-Einstellungen
+1961	TV-Einstellungen / Manuelle Sendereinstellung / Feinabstimmung
+1962	Einstellungsliste
+1963	Abrechnung
+1964	Gemeinsamer Puffer wird verwendet.\nAufnahme beendet.
+1965	Umschalt / Normal
+1966	Shinbashi 23 Uhr
+1968	Kurz
+1969	Show
+1970	Zufallswiedergabe
+1971	Zufallswiedergabe
+1972	Chinesisch (vereinfacht)
+1973	Nicht genügend Festplattenspeicher,\n Aufnahme kann nicht gestartet werden.\n Bitte Aufnahme beenden und nicht benötigte\n Titel von der Festplatte löschen.
+1974	Da eine Timer-Aufnahme beginnt oder vorbereitet wird,\n kann die Optimierung nicht gestartet werden.
+1975	Nicht genügend Festplattenspeicher,\nDVD-Menü kann nicht erstellt werden.\nBitte Überspielen beenden und\nnicht benötigte Titel von der Festplatte\nlöschen.
+1976	Nicht genügend Festplattenspeicher,\nÜberspielen kann nicht gestartet werden.\nBitte Überspielen beenden und\nnicht benötigte Titel von der Festplatte\nlöschen.
+1978	Singapur
+1979	Singhalesisch
+1981	Größe
+1982	Größe nach Aufnahme :
+1983	Überspringen
+1984	BS-Sender überspringen
+1986	Diashow
+1987	Diashow
+1988	Diashow-BGM
+1989	Diashow-Geschwindigkeit
+1990	Diashow-Effekt
+1991	Steckplatz 1
+1992	Steckplatz 1A
+1993	Steckplatz 1B
+1994	Steckplatz 1C
+1995	Steckplatz 1D
+1996	Steckplatz 2
+1997	Steckplatz 2A
+1998	Steckplatz 2B
+1999	Steckplatz 2C
+2000	Steckplatz 2D
+2001	Slowakisch
+2002	Slowenisch
+2003	Langsam
+2005	entwickelte Software wird verwendet.
+2006	Erde
+2007	Somali
+2008	Einige Inhalte konnten nicht importiert werden.
+2009	Einige Musik- und Fotofunktionen sind nicht verfügbar.
+2010	Titel für Titel
+2011	Die Startzeit der Auto-Aufnahme naht.
+2012	Sortieren
+2013	Sender sortieren
+2014	Sortierung ändern
+2015	Sortierreihenfolge
+2018	Tonqualität :
+2020	Quelle
+2021	Quelle:
+2022	Leerzeichen
+2023	Spanien
+2024	Spanisch
+2025	Angegebene Programmierzeit
+2026	Zeitsprung
+2027	Sprache
+2028	Tastenwiederholrate
+2029	Sportverlängerung
+2030	Sportverlängerung :
+2033	Start
+2034	Prüfung starten.
+2035	Schnelleinrichtung starten.
+2036	Netzwerkeinstellungen starten.
+2037	Timer-Aufnahme beginnt.\n Der aktuelle Vorgang wird beendet.
+2038	Optimierung wird gestartet.\n Während der Optimierung sind keine Timer-Aufnahmen möglich.
+2039	Aufnahme starten
+2040	Aufnahme starten.\n Um MM AM: HH ist eine Timer-Aufnahme programmiert.\n Während der Aufnahme ist keine Timer-Aufnahme möglich.\n Sind Sie sicher?
+2041	Aufnahme vom DV-Gerät starten.\nAufnahmemodus und Ton einstellen und Aufnahme starten.
+2042	Starten Sie das Spiel und aktivieren Sie die HDD-Option,\nbevor Sie dieses Paket herunterladen
+2043	Starten Sie das Spiel und aktivieren Sie die HDD-Option,\nbevor Sie herunterladen.
+2044	Startpunkt
+2045	Spiel wird gestartet. Bitte warten...
+2046	Spiel wird gestartet. Bitte warten.
+2047	Grundeinrichtung wird gestartet.
+2049	DVD-Statusabfrage fehlgeschlagen.
+2051	Stereo 1
+2052	Stereo 2
+2054	Stopp
+2055	%s anhalten?
+2056	Überspielen anhalten?\nIst die Disc eine DVD-R,\nkann sie nicht mehr verwendet werden.
+2057	Finalisierung anhalten?\nIst die Disc eine DVD-R,\nkann sie nicht mehr verwendet werden.
+2058	Import anhalten.
+2059	Anhalten ist nicht zulässig.
+2060	Aufnahme anhalten.\n Sind Sie sicher?
+2061	Stoppanforderung empfangen.\nAufnahme beendet.
+2062	HDD-Bereichseinstellung abbrechen.\n Sind Sie sicher?
+2063	Schnelleinstellung abbrechen.\n Sind Sie sicher?
+2064	Netzwerkeinstellungen abbrechen.
+2065	Angehalten
+2066	Zurücksetzen auf Werkseinstellungen abbrechen.\n Sind Sie sicher?
+2067	Untertitel
+2068	Untertitelsprache
+2069	Untertitel wechseln
+2070	Erfolgreich
+2071	So
+2072	Sundanesisch
+2074	Suaheli
+2075	Schweden
+2076	Schwedisch
+2077	Schweiz
+2079	Systemkonfiguration
+2080	Systemtreiber (PlayStation®2)
+2081	Systeminformationen
+2082	Systemfehler.\n Aufnahme wird beendet.
+2086	TITEL wiederholen
+2087	TV
+2088	MANUELLE TV-EINSTELLUNG
+2089	TV-EINSTELLUNG
+2090	TV-Typ
+2091	TV-System ist unterschiedlich.
+2092	TV-Typ
+2093	TV-Typ :
+2094	TV-Typ-Einstellung
+2096	Taipeh
+2098	Tadschikisch
+2101	Taschkent
+2102	Tatarisch
+2103	Tiflis
+2105	Telugu
+2106	Teheran
+2108	Netzwerkverbindung testen.
+2110	Thailändisch
+2112	Ein leerer Name kann nicht verwendet werden.
+2113	Weitergabe, Ausstellung, Export, Übertragung oder Import sind gesetzlich verboten.
+2114	Das DVD-Menü hat max. 20 Seiten.\nDieser Typ kann nicht gewählt werden.
+2116	Jugendschutzstufe
+2117	Das erstellte Pict-Story-Video
+2118	Das für diese Pict Story verwendete Album
+2119	Der Inhalt dieser Disc kann nicht importiert werden.
+2120	Konvertieren und auf Memory Stick aufnehmen.
+2121	Kopieren nicht möglich.\nKeine Speicherkarte vorhanden.
+2122	Kopieren konnte nicht abgeschlossen werden
+2123	Kopieren konnte nicht abgeschlossen werden.
+2124	Die aktuelle Software ist auf dem neuesten Stand.
+2125	Löschen konnte nicht abgeschlossen werden.
+2126	Löschen nicht abgeschlossen.
+2127	Die Disc konnte nicht gelesen werden.
+2128	Die Disc ist eine DVD+RW.\n%s im +VR-Modus?\nAlle Daten auf der Disc\nwerden gelöscht.
+2129	Die Disc ist eine DVD-R. \nAufnahme im Video-Modus starten?
+2130	Disc nicht beschreibbar.\nBitte eine beschreibbare Disc einlegen.
+2131	Disc-Belegung 100%
+2132	Die Disc wurde finalisiert.\nFinalisierung abgeschlossen.
+2133	Die Disc wurde formatiert.\nFormatierung abgeschlossen.
+2134	Download konnte nicht abgeschlossen werden.
+2135	Download wurde abgebrochen.
+2136	Der gewählte Download wurde bereits gekauft
+2137	Treiber ist gesperrt.\nAufnahme beendet.
+2138	Encoder wird verwendet.\nAufnahme beendet.
+2139	Der eingegebene Wert ist ungültig.

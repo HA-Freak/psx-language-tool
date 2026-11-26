@@ -1,0 +1,76 @@
+17	In %d Std. (%s) steht eine Timer-Aufnahme an.\nWährend des Überspielens startet die Timer-Aufnahme nicht.\nÜberspielung trotzdem starten?
+18	In %dStd.%dMin. (%s) steht eine Timer-Aufnahme an.\nWährend des Überspielens startet die Timer-Aufnahme nicht.\nÜberspielung trotzdem starten?
+690	DV-Überspielung
+691	DV → HDD-Überspielung
+692	DV-Gerät nicht angeschlossen.\nÜberspielung beendet.
+700	DVD-Gerätefehler.\nÜberspielung beendet.
+910	Überspielung fehlgeschlagen.
+912	Aufheben der Finalisierung fehlgeschlagen.\nÜberspielung beendet.
+917	Finalisierung fehlgeschlagen.\nÜberspielung beendet.
+918	Formatieren der Disc fehlgeschlagen.\nÜberspielung beendet.
+922	Überspielung konnte nicht gestartet werden.
+923	Aufnahme konnte nicht beendet werden.\nÜberspielung beendet.
+925	Titel konnte nicht konvertiert werden.\n Überspielung beendet.
+926	Löschen aller Videos fehlgeschlagen.\n Überspielung beendet.
+945	Überspielung beenden.
+970	Formatierung fehlgeschlagen.\n Überspielung beendet.
+1023	HDD → DVD-Überspielung
+1024	HDD→M.S.-Überspielung
+1025	HDD→M.S.-Überspielung / Alle Videos löschen
+1026	HDD→M.S.-Überspielung / Formatieren
+1027	HDD→M.S.-Überspielung / M.S.-Prüfung
+1028	HDD→M.S.-Überspielung / Start
+1029	HDD→M.S.-Überspielung / Titelauswahl
+1030	HDD→M.S.-Überspielung / Schreiben
+1031	HDD→M.S.-Überspielung / Bestätigen
+1032	HDD→M.S.-Überspielung
+1071	Schreibfehler.\n Ab jetzt nur noch lesbar.\n Überspielung beendet.
+1092	Überspielung wird beendet.
+1145	Titel wurde überspielt.
+1189	Ungültige Sitzung.\nÜberspielung beendet.
+1236	Nicht kompatibler Memory Stick.\n Überspielung beendet.
+1237	Schreibgeschützter Memory Stick. Überspielung beendet.
+1239	Richtwert für eine spätere Überspielung dieses Titels auf DVD.
+1377	Memory Stick ist gesperrt.\n Überspielung beendet.
+1378	Kein Memory Stick eingesteckt.\n Memory-Stick-Fehler.\n Überspielung beendet.
+1481	Kein Menüelement.\nÜberspielung beendet.
+1482	Keine Menüvorlage.\nÜberspielung beendet.
+1483	Keine Sitzung.\nÜberspielung beendet.
+1484	Kein Titel.\nÜberspielung beendet.
+1702	Timer-Aufnahme wird vorbereitet.\n Zum Überspielen bitte die Timer-Aufnahme löschen.
+1765	Auf DVD überspielen
+1766	Überspielung abgebrochen.
+1767	Überspielung abgeschlossen.
+1768	Überspielung abgeschlossen. Gerät ausschalten?
+1769	Überspielung abgeschlossen.\nÜberspielung beendet.
+1770	Überspielung beendet.
+1771	Von der HDD auf eine Disc überspielen.
+1775	Überspielung beendet.
+1778	Überspielung wurde abgebrochen.\nÜberspielung beendet.
+1781	Überspielung beendet.\n Gerät wird ausgeschaltet.
+1908	Titel zum Überspielen wählen
+1964	Gemeinsamer Puffer wird verwendet.\nÜberspielung beendet.
+1973	Nicht genügend Festplattenspeicher,\n Überspielung kann nicht gestartet werden.\n Bitte Überspielung beenden und nicht benötigte\n Titel von der Festplatte löschen.
+2039	Überspielung starten
+2040	Überspielung starten.\n Um MM AM: HH ist eine Timer-Aufnahme programmiert.\n Während des Überspielens ist keine Timer-Aufnahme möglich.\n Sind Sie sicher?
+2041	Überspielung vom DV-Gerät starten.\nAufnahmemodus und Ton einstellen, dann Überspielung starten.
+2060	Überspielung anhalten.\n Sind Sie sicher?
+2061	Stoppanforderung empfangen.\nÜberspielung beendet.
+2082	Systemfehler.\n Überspielung beendet.
+2120	Konvertieren und auf Memory Stick überspielen.
+2129	Die Disc ist eine DVD-R. \nÜberspielung im Video-Modus starten?
+2137	Treiber ist gesperrt.\nÜberspielung beendet.
+2138	Encoder wird verwendet.\nÜberspielung beendet.
+2189	Titel wird aufgenommen.\n Überspielen nicht möglich.
+2217	Kein Memory Stick vorhanden.\n Überspielung beendet.
+2236	Kein Titel zum Überspielen.\n Überspielung beendet.
+2301	Timer-Aufnahme gestartet.\nÜberspielung fortsetzen?\n\n\"OK\" beendet die Timer-Aufnahme.\n\"Abbrechen\" beendet die Überspielung.
+2302	Timer-Aufnahme ab %s.\nSie startet nicht während des Überspielens.\nÜberspielung starten?
+2312	Titel werden in dieser Reihenfolge überspielt.
+2481	DV-Gerät kann nicht gesteuert werden.\n Überspielung beendet.
+2492	Der Titel kann nicht überspielt werden.
+2502	Dieser Memory Stick kann nicht verwendet werden.\n Überspielung beendet.
+2504	Memory-Stick-Schreibfehler.\n Überspielung beendet.
+2510	Zum Starten der Überspielung drücken Sie.
+2595	Überspielung
+1826	Timer-Aufnahme

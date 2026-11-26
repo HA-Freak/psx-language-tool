@@ -1,0 +1,130 @@
+0	     Qualität
+1	     Qualität (HQ)
+2	     Qualität (LP)
+4	 am Endpunkt.
+5	 am Startpunkt.
+6	 zum Beenden.
+7	 zum Finalisieren.
+8	 zum Auswählen und drücken Sie
+9	 zum Starten der Überspielung.
+10	%$3:Element %1$s ist nicht in Menüvorlage \'%3$s\'.
+11	%$3:Sitzung '%3$s' für die Finalisierung ist ungültig.
+12	%$3:Menüvorlage \'%3$s\' nicht vorhanden
+13	%d %d Titel werden an diesem Tag voll.\n Bitte nicht benötigte Titel löschen.
+14	%d %d Festplattenspeicher reicht an diesem Tag nicht aus.\n Bitte nicht benötigte Titel oder Fotos löschen.
+17	%d Std. (%s) steht eine Timer-Aufnahme an.\nWährend der Aufnahme startet die Timer-Aufnahme nicht.\nAufnahme trotzdem starten?
+18	%dStd.%dMin. (%s) steht eine Timer-Aufnahme an.\nWährend der Aufnahme startet die Timer-Aufnahme nicht.\nAufnahme trotzdem starten?
+19	%i ungelesene Nachricht
+20	%i ungelesene Nachrichten
+21	%s im +VR-Modus?\nAlle Daten auf der Disc\nwerden gelöscht.
+22	%s im VR-Modus?\nAlle Daten auf der Disc\nwerden gelöscht.
+23	%s im Video-Modus?\nAlle Daten auf der Disc\nwerden gelöscht.
+24	%sRestzeit:  %2d%2d
+25	&#34;DNAS&#34; Ein Fehler ist aufgetreten.
+26	&#34;DNAS&#34; Authentifizierungsfehler.
+27	&#34;DNAS&#34; Authentifizierung.
+28	&#34;DNAS&#34; Zeitüberschreitung bei der Serververbindung.
+29	&#34;DNAS&#34; Zeitüberschreitung bei der Serververbindung.
+30	&#34;DNAS&#34; Verbindung zum Server fehlgeschlagen.
+31	&#34;DNAS&#34; Verbindung zum Server fehlgeschlagen.
+32	&#34;DNAS&#34; Serverfehler.
+33	&#34;DNAS&#34; Server funktioniert nicht richtig.
+34	&#34;DNAS&#34; Serverfehler.
+35	&#34;DNAS&#34; Server funktioniert nicht.
+36	&#34;DNAS&#34; Fehler.
+38	&quot;DTS&quot; und &quot;DTS Digital Out&quot; sind Marken von Digital Theater Systems, Inc.
+39	&quot;、&quot;PSX&quot; und &quot;PlayStation&quot;
+40	( Nach Bearbeitung :                    )
+43	(Fr)
+45	(Mo)
+46	(Neues) Datum
+47	(Sa)
+48	(So)
+49	(Di)
+50	(Do)
+51	(Mi)
+52	+Disc im VR-Modus.\nJetzt beschreiben?
+53	, Schnelleinrichtung beenden
+54	---- SIRCS1-Test ----
+55	---- SIRCS2-Test ----
+56	---- SIRCS3-Test ----
+57	---- SIRCS4-Test ----
+58	---- SIRCS5-Test ----
+59	---- SIRCS6-Test ----
+60	--:--xM - --:--xM Sendername
+61	-dass das Kabel am richtigen Anschluss angeschlossen ist
+62	..:..xM - ..:..xM Sendername
+122	1 Miniatur
+128	104 Kure
+146	12-Stunden-Format
+148	12 Stunden
+156	127 Oita
+163	132 kbps ( HQ-Ton )
+171	18 Ninohe
+178	24-Stunden-Format
+186	3 Miniaturen (Sonderlayout)
+187	3 Stunden
+193	34 Yaita
+198	4:3 Pan Scan
+200	4 Miniaturen
+228	6 Stunden
+234	65 Takayama
+252	8 Miniaturen
+263	8-cm-Medien werden nicht unterstützt.
+269	94 Nanki-Tanabe
+276	Das DVD-Laufwerk wird gerade verwendet.
+277	Anzeigebereich Detail 1.
+278	Anzeigebereich Detail 2.
+279	Ein Ordner mit diesem Namen existiert\nbereits am Zielort.
+280	Ein Ordner mit diesem Namen\nexistiert bereits.
+281	Eine Bibliothek kann nicht geladen werden.
+282	Anmeldefehler aufgetreten.
+283	Die Lade ist nicht geschlossen.
+284	AIDJ und DJbox sind
+286	ATAPI-Treiber
+287	ATAPI-Fehler
+288	ATAPI-Protokoll
+289	ATOK ist eine eingetragene Marke der Justsystem Corporation.
+291	Abchasisch
+292	Abbrechen
+293	Verkürzt sich um ca. 17 Stunden (bei SP-Aufnahme).
+294	Über die BSD-Lizenz
+295	Über PSX
+296	Überspielung endet in %d Min. %d
+297	Überspielung endet in %d Std. %d
+298	Aufnahme endet in: %time%d
+300	Hinzufügen
+301	Zur Show hinzufügen
+302	Hinzufügen abgeschlossen.
+303	Zur Show hinzugefügt. Einige Elemente\nkonnten nicht hinzugefügt werden, da die\nShow bereits 999 Elemente enthält.
+304	Hinzufügen zur Show wird abgebrochen. Fortfahren?
+305	Wird hinzugefügt...\nKonsole nicht ausschalten und Medium nicht entfernen.
+307	Weiter
+309	Afrikaans
+310	Nach dem Aus- und Einschalten des Geräts
+311	Nach dem Aus- und Einschalten des Geräts, zu einem späteren Zeitpunkt
+312	Nach der Änderung erfolgt die Überspielung auf DVD-RW (VR-Modus)\n mit den Audioeinstellungen für zweisprachige DVD-Aufnahmen.\n Fortfahren?
+313	Nach dem Erstellen des DVD-Menüs\nstartet die Überspielung automatisch.
+314	DJ-Registrierung wird aufgehoben und gelöscht.
+315	Nach der Änderung
+316	Nach der Änderung,
+317	Nach Ende der Aufnahme, aus der Pict Story
+318	Bitte das Gerät nach dem Beenden aus- und wieder einschalten.
+319	Nach der Optimierung wird die Pict Story
+320	Das Update wird nach dem Neustart fortgesetzt.
+321	Nach dem Löschen einer Timer-Aufnahme, aus der Pict Story
+322	Nachdem Sie das Gerät einschalten,
+323	Zustimmen
+325	Albanisch
+327	Album
+329	Albumname :
+330	Albumname:
+331	Albumauswahl
+332	Alben
+333	Alben oder Fotos, die in dieser Pict Story verwendet werden
+334	Warnung
+335	Algier
+336	Alle
+337	Alle Fotos
+338	Alle Rechte vorbehalten.
+339	Alle Titel

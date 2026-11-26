@@ -1,0 +1,98 @@
+2500	Zertifizierungsvorgang kann nicht angehalten werden.
+2501	Diese Zeichen können nicht verwendet werden.
+2502	Dieser Memory Stick kann nicht verwendet werden.\n Aufnahme wird beendet.
+2503	Dieser Ausdruck kann nicht verwendet werden.
+2504	Memory-Stick-Schreibfehler.\n Aufnahme wird beendet.
+2505	Folgende Informationen können für den Titel festgelegt werden.
+2506	Sie können L2 · R2 mit der Flash-Funktion belegen.
+2507	Sie können L2 · R2 mit der Flash-Funktion belegen.\n Die Suche erfolgt dann mit Joystick links/rechts.\n Sind Sie sicher?
+2508	Sie können L2 · R2 mit der Suchfunktion belegen.
+2509	Sie können L2 · R2 mit der Suchfunktion belegen.\n Flash erfolgt dann über das Bedienfeld.\n Sind Sie sicher?
+2510	Zum Starten der Aufnahme drücken Sie.
+2511	Alle übernehmbaren Fotos kopieren.
+2512	Nicht genügend Kapazität für die Aufnahme (LPCM).
+2513	Sie haben folgende Einstellungen gewählt:
+2514	Timer-Aufnahmen werden evtl. nicht korrekt ausgeführt.
+2515	Zum Fortfahren müssen Sie sich anmelden.
+2516	Alle Titel im Album werden für DJ registriert.\n Sind Sie sicher?
+2518	Zulu
+2519	und „Geräteeinrichtung“ / „HDD-Formateinrichtung“ aufrufen.
+2520	und drücken Sie
+2521	Einstellungen übernehmen
+2522	Interpretenname :
+2523	Auto-Sendersuche
+2524	Auto-Sendersuche
+2525	Automatikmodus
+2526	von
+2527	Klassifizierung
+2528	Verbindung fehlgeschlagen
+2531	Erstellungsdatum :
+2532	Alle Stichwörter löschen.\n Sind Sie sicher?
+2533	gelöscht.
+2535	e-Distribution
+2536	Fehler bei automatischer IP-Adresszuweisung.
+2537	PPPoE-Fehler.
+2538	Fehler in den Proxy-Einstellungen.
+2542	Dateiformat :
+2543	Dateiformat:
+2544	Wird finalisiert
+2545	Schnelleinstellung beenden.
+2548	für Unix Copyright &#169;2000
+2550	Wird formatiert
+2551	Programminformationen werden abgerufen.\n Der aktuelle Vorgang wird beendet.
+2553	Wird initialisiert
+2554	Intervall : 0,5 Sek.
+2555	Intervall : 15 Sek.
+2556	Intervall : 6 Min.
+2557	Ungültige Zeit
+2560	libjpeg   Diese Software basiert teilweise auf der Arbeit der Independent JPEG Group
+2561	Nicht genügend freier HDD-Speicher.
+2562	Interpolation
+2563	Option
+2564	oder Gerät ausschalten
+2565	oder Gerät ausschalten.
+2591	Zum Beenden X drücken
+2592	Drücken, um die Uhrzeit zu ändern.
+2593	Progressiv
+2595	Aufnahme
+2596	Stichwort entfernen.\n Sind Sie sicher?
+2598	Beispiel-x-Pict-Story
+2599	gespeichert.
+2600	Optischen Ausgang wählen.
+2601	Größe :
+2602	Albumgröße:
+2605	Standard
+2606	Einrichtung starten
+2607	Sommer/Winter
+2611	Der eingegebene Name kann nicht verwendet werden.
+2612	die Taste ~rgn.ArtConfirm~, um die Schnelleinstellung abzuschließen.
+2613	die Taste ~rgn.ArtConfirm~ zum Beenden.
+2614	dann
+2615	Titel[%d] Debug-Fehler aufgetreten in
+2616	zum Anpassen.
+2617	zum Fortfahren.
+2618	um den angeforderten Vorgang auszuführen
+2619	zum Auswählen,
+2620	zum Auswählen
+2621	zum Auswählen von DTS
+2622	zum Auswählen der Scart-Kombination.
+2623	zum Auswählen der Region
+2624	zum Auswählen des TV-Seitenverhältnisses.
+2625	zum Auswählen der Sprache
+2626	zum Auswählen der Methode
+2627	zum Starten der Schnelleinrichtung.
+2628	Tokens
+2629	nach Abschluss.
+2630	Wort
+2631	in Ihrer aktuellen Umgebung korrekt funktioniert.
+2632	Welt
+2634	x-DJ wird zum Start vorbereitet.
+2635	x-Omakase-Aufnahme
+2637	~pack:xMbar/0.1.0/art/psx_logo.png~\nFranz jagt im komplett verwahrlosten Taxi quer durch Bayern.\n~pack:xMbar/0.1.0/art/psx_logo.png~
+2638	· DNS-Konfiguration von Router oder Gerät korrekt ist
+2639	· Router/Hub/Modem/ONU zwischen diesem Gerät
+2640	↑ ↓ Bitte das zu ändernde Element wählen.
+2641	Inhalt:
+2642	（für DVD+RW）
+2643	（DVD+RW）
+2644	Ａ-Ｂ Wiederholen

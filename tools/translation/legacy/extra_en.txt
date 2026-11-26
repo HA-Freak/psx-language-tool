@@ -1,0 +1,14 @@
+Infomation	Information
+Photo Story Contents	Pict Story Contents
+Photo Story Create/Modify	Create/Modify Pict Story
+Photo Story Modify	Modify Pict Story
+Photo Story User's Album	Pict Story User Album
+I run the optimization.\n Until the end	Running optimization.\n Until the end
+I will start optimizing.\n During optimization, you can not perform a scheduled recording.	Starting optimization.\n Timer recordings cannot run during optimization.
+Timer recording has started.\n I'll finish the optimization.	A timer recording has started.\n Optimization will end.
+The DJ registration is cancelled.	The DJ registration will be cancelled.
+After optimization, to ensure the capacity, the deletion of the "Edit Range"\n Please select Delete "title before optimization".\n Please do not change the settings if you do not need to ensure capacity.	To free up space after optimization, select 'Delete title before optimization'\n under 'Edit Range'.\n Do not change this setting if you do not need more space.
+These options determine whether or not to leave or leave the part that has been edited from the title after optimization.\n Even if you select "Save", the title of the post-optimization, configuration or a chapter editing will not remain	These options determine whether the edited part of the title is kept after optimization.\n Even if you select 'Save', chapter edits will not remain in the optimized title.
+Sound Track	Soundtrack
+Hard rock	Hard Rock
+New wave	New Wave

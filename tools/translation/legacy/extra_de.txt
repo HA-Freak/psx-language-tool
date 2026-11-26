@@ -1,0 +1,44 @@
+About	Ca.
+After optimization title	Titel nach Optimierung
+After optimization, to ensure the capacity, the deletion of the "Edit Range"\n Please select Delete "title before optimization".\n Please do not change the settings if you do not need to ensure capacity.	Um nach der Optimierung Speicherplatz zu schaffen, unter 'Bearbeitungsbereich'\n bitte 'Titel vor Optimierung löschen' wählen.\n Wird kein zusätzlicher Speicherplatz benötigt, Einstellung nicht ändern.
+Create Video	Video erstellen
+DJbox Sound data	DJbox-Sounddaten
+I run the optimization.\n Until the end	Optimierung wird ausgeführt.\n Bis zum Ende
+I will start optimizing.\n During optimization, you can not perform a scheduled recording.	Optimierung wird gestartet.\n Während der Optimierung sind keine Timer-Aufnahmen möglich.
+Infomation	Information
+Optimization start	Optimierung starten
+Photo Story Contents	Pict-Story-Inhalt
+Photo Story Create/Modify	Pict Story erstellen/ändern
+Photo Story Modify	Pict Story ändern
+Photo Story User's Album	Pict-Story-Benutzeralbum
+Remove x-DJ.	x-DJ entfernen.
+Select the editing range to cancel using 	Rückgängig zu machenden Bereich wählen mit
+Sound data	Sounddaten
+The DJ registration is cancelled.	Die DJ-Registrierung wird aufgehoben.
+The original title	Originaltitel
+These options determine whether or not to leave or leave the part that has been edited from the title after optimization.\n Even if you select "Save", the title of the post-optimization, configuration or a chapter editing will not remain	Legt fest, ob der bearbeitete Teil nach der Optimierung im Titel erhalten bleibt.\n Auch bei 'Speichern' bleiben Kapitelbearbeitungen im optimierten Titel nicht erhalten.
+This setting is the same as before optimization.	Diese Einstellung entspricht der vor der Optimierung.
+Timer recording has started.\n I'll finish the optimization.	Timer-Aufnahme gestartet.\n Optimierung wird beendet.
+Title before optimization	Titel vor Optimierung
+Total playing time	Gesamtspielzeit
+User data	Benutzerdaten
+When	Wenn
+Will take.	Dauert.
+x-DJ User data	x-DJ-Benutzerdaten
+Export	Exportieren
+Playlist	Wiedergabeliste
+Kana input	Kana-Eingabe
+Hard rock	Hard Rock
+Group sounds	Group Sounds
+New wave	New Wave
+Break beats	Breakbeats
+Euro beat	Eurobeat
+Sound Track	Soundtrack
+Mix	Mix
+ChangeScale	Skalierung ändern
+PSC error.	PSC-Fehler.
+Fire	Di
+Water	Mi
+Tree	Do
+Gold	Fr
+Soil	Sa

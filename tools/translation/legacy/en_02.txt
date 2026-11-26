@@ -1,0 +1,303 @@
+700	DVD device error.\nDubbing stopped.
+703	Sets how audio recorded as main + sub is dubbed\n to DVD-RW (Video mode), DVD-R and DVD+RW discs.
+704	Change DVD-RW recording mode
+717	Daylight Saving
+718	Select
+725	Delete the game area and the games on the hard disk,
+726	Delete all tracks in the album.
+731	Delete this phrase.\n Are you sure?
+732	Delete this timer recording.\n Are you sure?
+736	Deleting %3d％
+747	No character was entered
+756	Wrong disc.
+759	Disc
+760	The disc cannot be read.
+761	No disc inserted.
+762	The disc format is invalid.
+763	Disc title name
+764	Disc usage of DVD dubbing:
+767	Show channel
+780	Do you want to continue?
+796	Do not turn off the power
+797	Do not turn off the power or remove the memory card
+800	Download error!
+807	Drum & Bass
+808	Drum 'n' Bass
+813	Number of copies:
+814	Duration:
+816	Cannot initialize during recording\n or optimization.
+817	Converting...
+818	Communication with the server failed during the update.
+819	Connection to the server failed during the update.
+820	Communication with the server was interrupted during the update.
+821	The unit will restart during the update
+823	East Greenland
+824	East Kazakhstan
+830	Eastern (Can)
+836	Easy Settings will prepare the console to
+842	Edit registered phrase
+847	Editing will be finished
+851	Encoding menu...
+854	End setup
+855	End settings
+856	Exit Easy Setup
+864	Enter your 4-digit password.
+867	Name error: this name is already in use.
+868	Omakase phone setting
+869	Error
+870	Device information error.
+873	Error code: TERMINATE
+878	Settings error.
+885	Every Fri
+886	Every Mon
+887	Every Sat
+888	Every Sun
+889	Every Tue
+890	Every Thu
+891	Every Wed
+892	Every day
+893	Excluded word
+896	Exit editing.
+897	Exit the wizard if you want to restart.
+898	Exit without saving?
+900	Ext.
+901	External input 1 \n Guide channel
+902	External input 2 \n Guide channel
+903	External input audio
+909	Faroese
+910	Dubbing failed.
+911	Failed to unfinalize.
+912	Failed to unfinalize.\nDubbing stopped.
+913	Failed to create the DVD menu.\nDubbing will end.
+915	Failed to dub to the disc.\nDubbing stopped.
+917	Failed to finalize.\nDubbing stopped.
+918	Failed to format the disc.\nDubbing stopped.
+922	Failed to start dubbing.
+923	Failed to stop recording.\nDubbing stopped.
+925	Failed to convert the title.\n Dubbing stopped.
+926	Failed to delete all videos.\n Dubbing stopped.
+927	Failed. Check-in is incomplete due to an internal error.
+937	The file is corrupted.\n It cannot be edited.
+943	Go to point A
+945	End dubbing.
+949	The recording mode will be locked. OK?\nTitles with a locked recording mode\nare excluded from automatic adjustment.
+962	The DJ registration will be cancelled\n for all tracks in the album.\n Are you sure?
+963	Not available due to maintenance.
+964	To optimize the video title
+965	Video cannot be created while recording.
+966	Video cannot be created while recording.
+967	To go back.
+970	Formatting failed.\n Dubbing stopped.
+972	Formatting complete.
+983	Free space on the Memory Stick: %d MB.\n Please select a function.
+989	View the tuner from the control panel
+991	Front + top
+999	Game area is set to
+1001	HDD used for games:
+1002	Genre :
+1003	Genre:
+1006	Region setting
+1010	Retrieving program information.\n The current operation will be stopped.
+1019	Guide channels overlap.\n Please check the settings.
+1023	HDD → DVD dubbing
+1024	HDD→M.S. dubbing
+1025	HDD→M.S. dubbing / Delete all videos
+1026	HDD→M.S. dubbing / Format
+1027	HDD→M.S. dubbing / M.S. check
+1028	HDD→M.S. dubbing / Start
+1029	HDD→M.S. dubbing / Title selection
+1030	HDD→M.S. dubbing / Writing
+1031	HDD→M.S. dubbing / Confirm
+1032	HDD→M.S. dubbing
+1034	Hard disk format info
+1036	The hard disk is full.\n Please delete unwanted titles.
+1039	Failed to delete.
+1040	Set
+1054	Cancel DJ registration of all tracks in the album.
+1055	The network connection was aborted.
+1056	Preparing DJ Box SE for startup
+1057	This product uses an authentication system. Transferring the programs or disabling the system,
+1058	Cannot connect to the network.
+1059	Cancel editing.
+1060	The update will be cancelled and the PSX restarted.
+1061	Change the parental control level
+1062	10 minutes before the timer recording starts.
+1063	The video will be deleted.\n Are you sure?
+1064	The license was not accepted.
+1065	Could not read the configuration.
+1066	The Memory Stick will be formatted.\n All data on it will be deleted.\n Are you sure?
+1067	The software has been downloaded.
+1068	Failed to cancel.
+1069	Failed to read the photo.
+1070	Failed to start optimization.
+1071	Write failed.\n The disc is now read-only.\n Dubbing stopped.
+1072	Adjust the program guide
+1073	Less than one hour until the timer recording starts.
+1074	The Pict Story has been saved.
+1075	The Pict Story has been saved.
+1076	The Pict Story has been saved.
+1077	The Pict Story has been saved.
+1078	The Pict Story has been saved.
+1079	Saved to.
+1080	The software has been downloaded.
+1081	Properly connected
+1082	The phrase has been registered.
+1083	The thumbnail has been registered.
+1084	The following settings have been made.
+1085	The DJ registration will be cancelled.
+1086	The update will be cancelled.
+1087	The current settings will be cleared.
+1088	Confirm the timer recording
+1089	Confirm the timer recording.
+1090	The software will be installed.
+1091	Playback stopped because an error occurred.
+1092	Dubbing will be stopped.
+1093	Recorded until the end of the program.
+1094	The timer recording has been deleted.
+1095	The video has been deleted.
+1096	The word has been deleted.
+1097	Automatic channel setup will run.\n Are you sure?
+1098	Automatic channel setup will run.\n Are you sure?
+1099	Automatic time setup will run. Are you sure?
+1100	Running the update.
+1101	The settings will be saved.\n Are you sure?
+1102	Sets whether to keep the title as it was before optimization.
+1103	Point A has been set.
+1104	Set the recording mode after optimization.\n It cannot be higher quality than the original.
+1105	The timer recording has been set.
+1106	Starting the update.
+1107	Reset to factory settings.
+1108	DJ registration cancelled.
+1109	Play mode cleared.
+1110	The timer recording has been confirmed.
+1111	Editing will be discarded.\n Are you sure?
+1112	The DJ registration will be cancelled.
+1113	The DJ registration will be cancelled.\n Are you sure?
+1114	The update will be cancelled.
+1115	Changes the bilingual audio recording on the HDD.
+1116	A Pict Story will be created with the following settings.
+1117	The timer recording will be deleted
+1118	The timer recording will be deleted.\n Are you sure?
+1119	Operate from the control panel.
+1120	Use left/right on the joystick.
+1121	Running the recovery process.
+1122	The unit will shut down.
+1123	The current software will not be backed up.
+1124	Do not create a menu
+1125	Progressive video will be output from the D terminal.\n No video will be output from the other video outputs.\n Are you sure?
+1126	The registered thumbnail will be overwritten.
+1127	All tracks in the album will be registered for DJ.
+1128	The related Pict Story will be deleted.
+1129	The unit will restart.
+1130	The Pict Story will be saved.
+1131	Stop cancelling the DJ registration.\n Are you sure?
+1132	Pict Story editing will be stopped.
+1133	The current operation will be stopped.
+1134	Optimization will be stopped.\nAre you sure?
+1135	Save the file under a different name
+1136	Pict Story editing will end.
+1137	Pict Story editing will end.
+1138	Pict Story editing will end.
+1139	Pict Story editing will end.
+1140	Pict Story editing will end.
+1141	Pict Story editing will end.
+1142	Pict Story editing will end.
+1143	The update will end.
+1144	Processing will end.
+1145	The title has been dubbed.
+1146	An I/O error occurred.
+1157	If the router is OFF and PPPoE
+1158	If you disagree, the application will exit. Do you want to exit?
+1159	If you change the settings, the phone book and\n program guide may not be available.\n Are you sure?
+1160	If you create a game area, the available recording time
+1161	When deleted, all photos in the album
+1162	If you do not save, the previous settings will be restored.
+1163	If you do not save, the previous settings will be restored.
+1164	Press to change the value.
+1165	Running the HDD area setting will clear\n the following contents of the hard disk.\n Are you sure?
+1166	To save it as a new Pict Story
+1183	Select an item and change it.
+1184	and must be authorized by Macrovision. It is intended for home use only unless otherwise authorized by Macrovision.
+1185	&quot;DNAS&quot; is a trademark of the company.
+1186	Preparing for a timer recording. To initialize, please delete the timer recording.
+1187	Preparing for a timer recording.\n To dub, please delete the timer recording.
+1188	In this thumbnail image
+1189	Invalid session.\nDubbing stopped.
+1199	DVD initialization failed.
+1202	Insert a recordable Memory Stick
+1204	Insert a disc and press
+1211	Interpolation
+1214	IP address :
+1216	Communication error.
+1217	Device information error.
+1218	is a registered trademark of Sony Computer Entertainment Inc.
+1219	is a trademark of Sony Computer Entertainment Inc.
+1220	Unique ID error.
+1222	Program guide not available.
+1223	Optimizing.\n Cannot dub.
+1224	Optimizing.\n Cannot record.
+1225	Optimizing.\nCannot initialize.
+1226	Recording.\n Cannot initialize.
+1227	Recording.\n Cannot optimize.
+1228	Recording.\n Cannot change the channel.
+1229	Recording.\n Cannot change the recording mode.
+1230	Recording.\n Cannot dub.
+1231	Rewinding.\n Please wait.
+1232	Repairing.\n Please wait
+1234	Not edited yet.\n Editing cannot be undone.
+1235	This disc is in VR mode.\nWrite to it?
+1236	This Memory Stick is not supported.\n Dubbing stopped.
+1237	This Memory Stick is read-only. Dubbing stopped.
+1238	Realized by the AIDJ algorithm.
+1239	Guideline for dubbing this title to DVD later.
+1240	For private use only. Disassembly and modification are also prohibited.
+1241	This is not a PlayStation® or PlayStation®2 format disc.
+1242	Recordings of 6 hours or more are not possible.
+1243	Timer recordings of 6 hours or more are not possible.\n Please set a correct start or end time.
+1244	Not possible because there is no game area.\n Please create a game area in the HDD area setting.
+1245	No more data can be written to the Memory Stick.\n Delete all videos or format it?
+1246	A timer recording is in progress.\n Deleting it will stop the recording.\n Are you sure?
+1247	Saving the channel settings.
+1248	Saving the channel settings.\n Please wait
+1249	Playing.
+1250	Recording in progress. Cannot encode.
+1251	It overlaps with the following timer recording.
+1252	An error seems to have occurred.
+1253	Stopped.
+1254	This takes a few minutes.
+1255	Uses the bilingual audio settings for DVD recording.
+1256	Could not confirm the timer recording.\n The timer list is full.
+1257	Could not delete the timer recording.
+1258	Could not get the thumbnail information.
+1259	Could not set the quick timer.
+1260	Could not turn on the BS antenna power.
+1275	BSAFE is a trademark of RSA Security Inc. in Japan and the United States.
+1283	On the hour
+1287	Kana input
+1310	L1 button:
+1311	L2 button:
+1312	L2 · R2 button setting
+1317	Late night : 11:00PM - 5:00AM
+1319	Latvian; Lettish
+1320	Latvian; Lettish
+1324	IR receiver
+1337	MAC address :
+1345	Main + sub
+1347	Main/Sub
+1348	Create
+1349	Bilingual audio will be set to the sub audio.\nDubbing will therefore take longer.
+1350	Bilingual audio will be set to the main audio.\nDubbing will therefore take longer.
+1365	Marathi
+1366	Item
+1372	Memory Card Utility
+1373	Checking Memory Stick %3d％
+1374	Format Memory Stick Video
+1375	Format Memory Stick Video.\n All titles will be deleted.\n Are you sure?
+1377	The Memory Stick is locked.\n Dubbing stopped.
+1378	No Memory Stick inserted.\n Memory Stick error.\n Dubbing stopped.
+1385	The values selected in the menu will be cancelled when the timer recording starts.
+1394	Mode locked
+1402	No more titles can be written\n to the Memory Stick.
+1403	Morning : 5:00AM - 12:00PM
+1405	Mountain (Can)
+1411	Move focus key

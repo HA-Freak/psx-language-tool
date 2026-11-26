@@ -1,0 +1,2645 @@
+0	     Quality
+1	     Quality (HQ)
+2	     Quality (LP)
+3	  66 kbps
+4	 at the end point.
+5	 at the start point.
+6	 to end.
+7	 to finalize.
+8	 to select and press 
+9	 to start dubbing.
+10	%$3:item %1$s is not in menu template \'%3$s\'.
+11	%$3:session'%3$s' which carries out finalize is inaccurate.
+12	%$3:there is no menu template \'%3$s\'
+13	%d %d Title will fill in the day.\n Please delete unwanted title.
+14	%d %d space on the hard disk runs out of day.\n Please remove or track title, unwanted photo.
+15	%d KB
+16	%d MB
+17	%dWithin hours(%s)There is a recording reservation in.\nAlthough scheduled recording is not started during record,nAre you sure to start record?
+18	%dtime%dWithin(%s)There is a recording reservation in.\nAlthough scheduled recording is not started during record,\nAre you sure to start record?
+19	%i Unread Message
+20	%i Unread Messages
+21	%s in +VR mode?\nAll data on the disc,\nif any, will be erased.
+22	%s in VR mode?\nAll data on the disc,\nif any, will be erased.
+23	%s in Video mode?\nAll data on the disc,\nif any, will be erased.
+24	%sTime remaining:  %2d%2d
+25	&#34;DNAS&#34;An error has occurred.
+26	&#34;DNAS&#34;Authentication error.
+27	&#34;DNAS&#34;Authentication.
+28	&#34;DNAS&#34;Connection server has timed out.
+29	&#34;DNAS&#34;Connection with the server has timed out.
+30	&#34;DNAS&#34;Failed connect to server.
+31	&#34;DNAS&#34;I failed to connect to the server.
+32	&#34;DNAS&#34;Is a server error.
+33	&#34;DNAS&#34;Server does not work properly.
+34	&#34;DNAS&#34;Server error.
+35	&#34;DNAS&#34;Server not work.
+36	&#34;DNAS&#34;error.
+37	&quot;
+38	&quot;DTS&quot; and &quot;DTS Digital Out&quot; are trademarks of Digital Theater Systems, Inc.
+39	&quot;、&quot;PSX&quot;And&quot;PlayStation&quot;
+40	( After editing :                       )
+41	(Afan) Oromo
+42	(Afan),Oromo
+43	(Fri)
+44	(GEnie : OUTER; CIS : [71755:204]) Graven Imagery, 1992.
+45	(Mon)
+46	(New) Date
+47	(Sat)
+48	(Sun)
+49	(Tue)
+50	(Tur)
+51	(Wed)
+52	+It is a disk in VR mode.\nDo you write it?
+53	, close Easy Setup
+54	---- SIRCS1 Test ----
+55	---- SIRCS2 Test ----
+56	---- SIRCS3 Test ----
+57	---- SIRCS4 Test ----
+58	---- SIRCS5 Test ----
+59	---- SIRCS6 Test ----
+60	--:--xM - --:--xM The station name
+61	-I that the cable is connected to the correct type of
+62	..:..xM - ..:..xM The station name
+63	/Photo3/Sample album
+64	/Preset/Music/PSX Original Sound
+65	/Preset/Music/PSX Original Sound/0101b_boogie_night.mp3
+66	/Preset/Music/PSX Original Sound/0102b_legacy_road.mp3
+67	/Preset/Music/PSX Original Sound/0103b_midnight_party.mp3
+68	/Preset/Music/PSX Original Sound/0104b_Party_of_love.mp3
+69	/Preset/Music/PSX Original Sound/0105b_Bossa_Samba_2004.mp3
+70	/Preset/Music/PSX Original Sound/0106b_Fairy_Airily_Mary.mp3
+71	/Preset/Music/PSX Original Sound/0201b_sea_wind.mp3
+72	/Preset/Music/PSX Original Sound/0202b_Oriental_mind.mp3
+73	/Preset/Music/PSX Original Sound/0203b_JungleParkTKO.mp3
+74	/Preset/Music/PSX Original Sound/0301b_Memories_of_you.mp3
+75	/Preset/Music/PSX Original Sound/0302b_Omoide.mp3
+76	/Preset/Music/PSX Original Sound/0303b_fragrance.mp3
+77	/Preset/Music/PSX Original Sound/0304b_another_days.mp3
+78	/Preset/Music/PSX Original Sound/0401b_Greeting_of_love.mp3
+79	/Preset/Music/PSX Original Sound/0402b_afternoon_tea.mp3
+80	/Preset/Music/PSX Original Sound/0403b_Calm_Song.mp3
+81	/Preset/Music/PSX Original Sound/0404b_Snapshot.mp3
+82	/Preset/Music/PSX Original Sound/0501b_wish.mp3
+83	/Preset/Music/PSX Original Sound/0502b_Poetry_of_sea_breeze.mp3
+84	/Preset/Music/PSX Original Sound/0601b_strikeBout_.mp3
+85	/Preset/Music/PSX Original Sound/0602b_glory.mp3
+86	/Preset/Music/PSX Original Sound/0603b_Fighting_Spirit.mp3
+87	/Preset/Music/PSX Original Sound/0701b_Pretty_Days.mp3
+88	/Preset/Music/PSX Original Sound/0702b_sleeping_baby.mp3
+89	/Preset/Music/PSX Original Sound/0703b_Straight_Story.mp3
+90	/Preset/Music/PSX Original Sound/0801b_chaos.mp3
+91	/Preset/Music/PSX Original Sound/0802b_Breathing_of_Gods.mp3
+92	/Preset/Music/PSX Original Sound/Cycling.mp3
+93	/Preset/Music/PSX Original Sound/MotorWave_realjuke.mp3
+94	/Preset/Music/PSX Original Sound/Resort.mp3
+95	/Preset/Photo/Sample album
+96	/Preset/Photo/Sample album/SMPL0001.JPG
+97	/Preset/Photo/Sample album/SMPL0002.JPG
+98	/Preset/Photo/Sample album/SMPL0003.JPG
+99	/Preset/Photo/Sample album/SMPL0004.JPG
+100	/Preset/Photo/Sample album/SMPL0005.JPG
+101	/Preset/Photo/Sample album/SMPL0006.JPG
+102	/Preset/Photo/Sample album/SMPL0007.JPG
+103	/Preset/Photo/Sample album/SMPL0008.JPG
+104	/Preset/Photo/Sample album/SMPL0009.JPG
+105	/Preset/Photo/Sample album/SMPL0010.JPG
+106	/Preset/Photo/Sample album/SMPL0011.JPG
+107	/Preset/Photo/Sample album/SMPL0012.JPG
+108	/Preset/Photo/Sample album/SMPL0013.JPG
+109	/Preset/Photo/Sample album/SMPL0014.JPG
+110	/Preset/Photo/Sample album/SMPL0015.JPG
+111	/Preset/Photo/Sample album/SMPL0016.JPG
+112	/Preset/Photo/Sample album/SMPL0017.JPG
+113	/Preset/Photo/Sample album/SMPL0018.JPG
+114	/Preset/Photo/Sample album/SMPL0019.JPG
+115	/Preset/Photo/Sample album/SMPL0020.JPG
+116	/Preset/Photo/Sample album/SMPL0021.JPG
+117	/Preset/Photo/Sample album/SMPL0022.JPG
+118	/Preset/Photo/Sample album/SMPL0023.JPG
+119	/Preset/Photo/Sample album/SMPL0024.JPG
+120	/Preset/PictClip/001_TEST.pclip
+121	1 Sapporo
+122	1 thumbnail
+123	10 Kushiro
+124	100 Kasaoka
+125	101 Hiroshima
+126	102 Fukuyama
+127	103 Onomichi
+128	104 Wu
+129	105 Yamaguchi
+130	105 kbps
+131	106 Shimonoseki
+132	107 Ube
+133	108 Iwakuni
+134	109 Tokushima
+135	11 Abashiri
+136	110 Takamatsu
+137	111 Marugame
+138	112 Matsuyama
+139	113 Niihama
+140	114 Imabari
+141	115 Uwajima
+142	116 Kochi
+143	117 Fukuoka
+144	118 Kurume
+145	119 Omuta
+146	12 Hour Clock
+147	12 Kitami
+148	12 hours
+149	120 Kitakyushu
+150	121 Yukuhashi
+151	122 Saga
+152	123 Nagasaki
+153	124 Sasebo
+154	125 Isahaya
+155	126 Kumamoto
+156	127 Much
+157	128 Nakatsu
+158	129 Miyazaki
+159	13 Aomori
+160	130 Nobeoka
+161	131 Kagoshima
+162	132 Akune
+163	132 kbps ( HQ sound )
+164	132 kbps (HQ)
+165	133 Kanoya
+166	134 Okinawa
+167	14 Hachinohe
+168	15 Mutsu
+169	16 Morioka
+170	17 Kamaishi
+171	18 Two units
+172	19 Sendai
+173	2 Otaru
+174	20 Ishinomaki
+175	21 Kesennuma
+176	22 Akita
+177	23 Odate
+178	24 Hour Clock
+179	24 Omagari
+180	25 Yamagata
+181	26 Tsuruoka
+182	27 Yonezawa
+183	28 Fukushima
+184	29 Iwaki
+185	3 Asahikawa
+186	3 Thumbnail (special layout)
+187	3 hours
+188	30 Aizu-Wakamatsu
+189	31 Mito
+190	32 Hitachi
+191	33 Utsunomiya
+192	34 Sheet pile
+193	35 Maebashi
+194	36 Kiryu
+195	37 Saitama
+196	38 Kumagai
+197	39 Chichibu
+198	4 : 3 Pan Scan
+199	4 Nayoro
+200	4 thumbnail
+201	40 Chiba
+202	41 Choshi
+203	42 Tokyo
+204	43 Hachioji
+205	44 Tama
+206	45 Yokohama 1
+207	46 Yokohama 2
+208	47 Hiratsuka
+209	48 Hatano
+210	49 Odawara
+211	4: 3 letterbox
+212	4:3 Letterbox
+213	4:3 Pan Scan
+214	4:3 Pan and Scan
+215	4:3 letter box
+216	5 Wakkanai
+217	50 Kofu
+218	51 Nagano 1
+219	52 Nagano 2
+220	53 Matsumoto
+221	54 Iida
+222	55 Suwa Okaya
+223	56 Niigata
+224	57 Joetsu
+225	58 Toyama
+226	59 Takaoka
+227	6 Muroran
+228	6 hours
+229	60 Kanazawa
+230	61 Nanao
+231	62 Fukui
+232	63 Tsuruga
+233	64 Gifu
+234	65 Alpine
+235	66 Nakatsugawa
+236	66 kbps
+237	67 Shizuoka
+238	68 Hamamatsu
+239	69 Fuji
+240	7 Tomakomai
+241	70 Mishima, Numazu
+242	71 Shimada
+243	72 Fujieda
+244	73 Nagoya
+245	74 Toyohashi
+246	75 Toyota
+247	76 Tsu
+248	77 Ise
+249	78 Nabari
+250	79 Otsu
+251	8 Hakodate
+252	8 thumbnail
+253	80 Hikone
+254	81 Kyoto
+255	82 Maizuru
+256	83 Fukuchiyama
+257	84 Osaka
+258	85 Kobe
+259	86 Kobe Nada
+260	87 Kawanishi
+261	88 Miki
+262	89 Himeji
+263	8cm media are not supported.
+264	9 Obihiro
+265	90 Akashi
+266	91 Nara
+267	92 Gojo
+268	93 Wakayama
+269	94 Hainan Tanabe
+270	95 Tottori
+271	96 Matsue
+272	97 Hamada
+273	98 Okayama
+274	99 Tsuyama
+275	?GB
+276	A DVD drive is using it.
+277	A display area of detail 1.
+278	A display area of detail 2.
+279	A folder with the same name already\nexists at the copy destination.
+280	A folder with the same name already\nexists.
+281	A library cannot be loaded.
+282	A login error has occurred.
+283	A tray is not closed.
+284	AIDJ and DJbox is
+285	AM
+286	ATAPI driver
+287	ATAPI error
+288	ATAPI protocol
+289	ATOK is a registered trademark of Netscape Communications Corporation.
+290	AUDIO
+291	Abkhazian
+292	Abort
+293	About 17 hours(SP at the time of recording)Will be shorter.
+294	About BSD License
+295	About PSX
+296	About to end dubbing%dMinute%d
+297	About to end dubbing%dTime%d
+298	About to end record:%time%d
+299	Abu Dhabi
+300	Add
+301	Add To Show
+302	Add completed.
+303	Add to Show done. Some items could not\nbe added because the number of\nitems in the show reached 999.
+304	Add to Show will be cancelled. Continue?
+305	Adding�\nDo not turn off the console or remove the media.
+306	Adelaide
+307	Advance
+308	Afar
+309	Afrikaans
+310	After a power cycle of the unit
+311	After a power cycle of the unit, at a later time
+312	After changing, dubbing DVD-RW to (VR mode) other than\n It takes place in the audio settings of bilingual voice recording DVD.\n Are you sure?
+313	After creating the DVD menu\nDubbing will start automatically.
+314	After releasing the DJ registration, I delete it.
+315	After the change
+316	After the change,
+317	After the end of the recording, from Pict Story　　　　
+318	After the end of this unit, please power cycle.
+319	After the optimization, the Pict Story
+320	After the restart, perform the update continues.
+321	After you delete a scheduled recording, from Pict Story　　
+322	After you turn the power of this unit,
+323	Agree
+324	Alaska
+325	Albanian
+326	Album
+327	Album 
+328	Album %d
+329	Album name :
+330	Album name:
+331	Album selection
+332	Albums
+333	Albums or photos that are used in this Pict Story
+334	Alert
+335	Algiers
+336	All
+337	All Photo
+338	All Rights Reserved.
+339	All Track
+340	All data items in this folder will\nbe deleted.\nContinue?
+341	All data stored on the memory stick\nwill be deleted during formatting.
+342	All movies in this album will be deleted.
+343	All photos in this album will be deleted.
+344	All picture, music and photo data will be lost.
+345	All tracks in this album will be deleted.
+346	All&#34;DNAS&#34;Service terminated.
+347	All&#34;DNAS&#34;Service was terminated.
+348	Allows you to create a video Pict Story in a row.　　
+349	Already
+350	America
+351	Amharic
+352	Amman
+353	Amsterdam
+354	An album with this name already exists. If you continue with the Import the album will be overwritten.
+355	An error has occurred in processing your purchase.
+356	An error has occurred.
+357	An error has occurred.\n After turning off the power once, please power cycle again.
+358	An error occurred during the update.
+359	An unknown error has occurred.
+360	And DJ unregistered.
+361	And accounts RSA(R) BSAFE TM SSL-C I am equipped with.
+362	And also Memory Stick logo, each,
+363	And are protected by U.S. patents and other intellectual property rights. Use of this copyright protection technology,
+364	And by its contributors NetBSD Foundation, and Inc. The communication function of this product
+365	And you start getting the program information shortly.
+366	And you start getting the program information shortly.\n I will stop the current operation.
+367	And you start getting the program information.\n I will stop the current operation.
+368	Andorra la Vella
+369	Angle
+370	Angle not be changed for the angle block just before
+371	Animation
+372	Anime
+373	Another reservation has already been to this time
+374	Any Genre
+375	Any more, you can not create a Pict Story.
+376	Application (PocketStation®)
+377	Approximately until the end
+378	Arabic
+379	Are forbidden reproduced by region limit this disk.
+380	Are protected.
+381	Are protected.\n Can not be deleted.
+382	Are protected.\n Can not be edited.
+383	Are protected.\n Not be renamed
+384	Are protected.\n You can not edit cancel.
+385	Are trademarks or registered trademarks in the United States and other countries.
+386	Are trademarks or registered trademarks of Sony Corporation.
+387	Are you sure to download
+388	Are you sure to purchase this download?
+389	Are you sure you cancel the manual channel setting here?
+390	Are you sure you want to add an entry point?
+391	Are you sure you want to cancel download?
+392	Are you sure you want to cancel the manual channel setting here?
+393	Are you sure you want to quit?
+394	Are you sure you want to use optical out?
+395	Are you sure you want using the left-circle book?
+396	Are you sure?
+397	Are you sure? After setting, the flash
+398	Are you sure? After setting, the search
+399	Are you sure? Dubbing after changing DVD-RW to (VR mode) other than
+400	Are you sure?　　　　　　　　　　　　　
+401	Area
+402	Area code
+403	Area code setting
+404	Area number :
+405	Armenian
+406	Artist
+407	Artist name
+408	Assamese
+409	Athens
+410	Atlan. (Can)
+411	Audio CD
+412	Audio Device
+413	Audio Follow
+414	Audio Language
+415	Audio Track\nAuto Select Mode
+416	Audio-Main.png
+417	Audio-MainSub.png
+418	Audio-Stereo.png
+419	Audio-Sub.png
+420	Austria
+421	Authoring component
+422	Authoring error
+423	Auto
+424	Auto Ch Setup
+425	Auto Setup
+426	Auto Tune
+427	Auto Tune?
+428	Auto clock setting up now. 
+429	Auto clock setup?
+430	Auto erase :
+431	Auto erased title
+432	Auto setup channel.
+433	Auto stereo reception
+434	Automatic
+435	Automatic channel setup.
+436	Automatic setting
+437	Automatically adjusts all recording modes of the selected title.\nAre you sure?\n※The title whose recording mode is protected,\nThe recording mode is not changed.
+438	Aymara
+439	Azerbaijani
+440	Azores
+441	BACK
+442	BGM selection
+443	BOUNCE
+444	BS antenna level
+445	BS antenna level display
+446	BS antenna power
+447	BS antenna power.
+448	BS antenna power:
+449	BS channel
+450	BUSY time-out.
+451	Back
+452	Back ( invisible)
+453	Back to the factory default settings.
+454	Backspace / Delete
+455	Baghdad
+456	Baku
+457	Ballad
+458	Bangkok
+459	Baseball
+460	Bashkir
+461	Basque
+462	Because hard disk space is insufficient
+463	Because it has been modified or deleted, you can not play.
+464	Because of a failure to write\n Stop record.
+465	Because the free space on the Memory Stick is insufficient\n You can not record the this title.
+466	Before program Search
+467	Beijing
+468	Being installed
+469	Beirut
+470	Belgium
+471	Belgrade
+472	Bengali: Bengla
+473	Bengali; Bangla
+474	Bengali;Bangla
+475	Berlin
+476	Bern
+477	Bhutani
+478	Bihari
+479	Billing Login
+480	Bishkek
+481	Bislama
+482	Bit Rate
+483	Booking is confirmed
+484	Bookmark
+485	Bookmarks Display
+486	Bratislava
+487	Bratsk
+488	Break beats
+489	Breakbeat
+490	Breakbeats
+491	Breton
+492	Broadcast
+493	Brussels
+494	Bucharest
+495	Budapest
+496	Bulgarian
+497	Burmese
+498	By date
+499	Byelorussian
+500	C Kazakhstan
+501	CANCEL
+502	CD Import Setting
+503	CDA
+504	CHAPTER repeat
+505	CHECKING_NEW_PACKAGES
+506	CHECK_UPDATE
+507	COMPLETE
+508	CONFIG_LIST
+509	CONFIRM
+510	CONNECTION_TEST
+511	COOL
+512	Cairo
+513	Calcutta
+514	Cambodian
+515	Camera
+516	Can not.
+517	Canada
+518	Canary Islands
+519	Cancel
+520	Cancel Selection ?
+521	Cancel current selection.
+522	Cancel selection
+523	Cancel start and end point.
+524	Cancel the deletion.
+525	Canceled Exit
+526	Cancell
+527	Cancellation
+528	Cancelling ...
+529	Cancelling...
+530	Cannot copy to this memory card.
+531	Cannot dub this title.
+532	Cannot edit anymore.
+533	Cannot format this disc.\nFormatting stopped.
+534	Cannot format this disc.\nInsert DVD-RW disk.
+535	Cannot move to this memory card.
+536	Capacity of the game area is insufficient.\n You can cancel the registration of DJ unnecessary track,\n Please delete the game.
+537	Capacity of the hard disk is insufficient.\n Please remove or track title, unwanted photo.
+538	Capacity of the hard disk is insufficient.\n Please remove or track title,and photo.
+539	Caracas
+540	Casablanca
+541	Cassette is not in the DV device.\n I have to stop record.
+542	Catalan
+543	Category
+544	Central (Can)
+545	Central (USA)
+546	Change
+547	Change Angle
+548	Change Input Mode
+549	Change of Name
+550	Change settings,phonebook and program guide\n Are you sure?
+551	Change settings\n Are you sure?
+552	Change the album name.
+553	Change the track name.
+554	ChangeScale
+555	Channel
+556	Channel skip
+557	Chap display
+558	Chapter
+559	Chapter     （    ）
+560	Chapter 1
+561	Chapter List
+562	Chapter display
+563	Chapter limit exceeded.
+564	Chapter scan display
+565	Chapter scan display end
+566	Chapter scan display failure
+567	Chapter scan display failure end
+568	Chapter that has been specified is invalid.
+569	Check
+570	Check In
+571	Check Out
+572	Check Router and Modem
+573	Check Router and Modem.
+574	Check edited video.
+575	Check that the memory stick is fully inserted.
+576	Check the cable connection.
+577	Check the terms of the license,
+578	Check the user ID and password of PPPoE.
+579	Check will end.
+580	Check your network settings.
+581	CheckOut complete.
+582	Checkin complete.
+583	Checking available space Memory Stick, please wait...
+584	Checking available space on the Memory Stick, please wait...
+585	Checking for free space on the hard disk.\nPlease wait...\nDo not turn off the console.
+586	Checking for free space on the hard disk�
+587	Checking free space hard disk.
+588	Checking in...
+589	Checking out...
+590	Checking the disc...
+591	Checking update software.
+592	Chihuahua
+593	Children
+594	China
+595	Chinese
+596	Classic
+597	Classification
+598	Clear
+599	Clear A point
+600	Clear AB repeat point
+601	Clip Name
+602	Clock Setup
+603	Close
+604	Communication error.
+605	Communication has timed out.
+606	Communication timed out.
+607	Company names are listed other product names are registered trademarks or trademarks of their respective owners.
+608	Complete!
+609	Composed by
+610	Composite
+611	Configuration
+612	Confirm
+613	Confirm your settings and press
+614	Confirmation Play
+615	Confirmed Exit
+616	Connect the network cable.
+617	Connected device:
+618	Continue auto ch set up?
+619	Control panel
+620	Convert
+621	Copenhagen
+622	Copy
+623	Copy Folder
+624	Copy Protected
+625	Copy all the music that can be taken up.
+626	Copy and Move Protected
+627	Copy cancelled.
+628	Copy completed.
+629	Copy process.
+630	Copying...
+631	Copying....
+632	Copyright &#169;2004 Sony Computer Entertainment Inc.
+633	Core
+634	Core initialization error.
+635	Correct
+636	Correct.
+637	Correction
+638	Corrupted Data
+639	Corsican
+640	Could not be imported.
+641	Could not delete
+642	Could not delete reservations.
+643	Could not stop recording.\nCannot start dubbing.
+644	Country
+645	Create Device
+646	Create Folder
+647	Create New
+648	Create and modify selection
+649	Create folder
+650	Created
+651	Creation date:
+652	Creation of DVD was not completed.
+653	Croatian
+654	Current&#34;DNAS&#34;Server accept the processing
+655	Current&#34;DNAS&#34;That the server will accept the processing
+656	Currently, the optimization of the other titles.
+657	Czech
+658	DANCE
+659	DAWN
+660	DD/MM/YYYY
+661	DISC repeat
+662	DJ and registration.
+663	DJ and registration.\n Are you sure?
+664	DJ and simulator engine of DJbox
+665	DJ de-registration ended.
+666	DJ deregistration
+667	DJ during registration screen
+668	DJ registration
+669	DJ registration :
+670	DJ registration ended.
+671	DJ registration.
+672	DJ unregist
+673	DJ unregistered.
+674	DJ was registered.
+675	DNAS
+676	DNR
+677	DNR1
+678	DNR2
+679	DNS
+680	DNS Error.
+681	DNS server is not responding.
+682	DNS server not found.
+683	DOMESTIC
+684	DOWNLOADING
+685	DTS
+686	DTS :
+687	DTS Output
+688	DTS setting
+689	DV audio input
+690	DV record
+691	DV → HDD record
+692	DV-device not conect.\nStop record.
+693	DVD
+694	DVD +VR
+695	DVD -VR
+696	DVD Settings
+697	DVD VR
+698	DVD Video
+699	DVD access
+700	DVD device error.\nRecord stopped.
+701	DVD driver error
+702	DVD menu language
+703	DVD-RW (Video mode), DVD-R the sound that is recorded with the main + sub,\n You can determine how to dub to DVD + RW disc.
+704	DVD-RW Change recording mode
+705	DVD-RW mode
+706	Damascus
+707	Danish
+708	Data
+709	Data CD
+710	Data Items
+711	Date
+712	Date end:
+713	Date start:
+714	DateFormat
+715	Day
+716	Daylight Saving
+717	DaylightSavings
+718	Decide
+719	Decision
+720	Decline
+721	Default router
+722	Default router :
+723	Delete
+724	Delete Folder
+725	Delete a game area, and the game on the hard disk,
+726	Delete all the tracks it is in the album.
+727	Delete all videos
+728	Delete cancelled.
+729	Delete completed.
+730	Delete ended.
+731	Delete the phrase.\n Are you sure?
+732	Delete the recording schedule.\n Are you sure?
+733	Delete unnecessary data items.
+734	Delete unnecessary\ndata items.
+735	Delete.
+736	Deleting%3d％
+737	Deleting.
+738	Deleting. Please wait...
+739	Deleting...
+740	Deleting…
+741	Deletion in progress
+742	Denmark
+743	Description
+744	Detail View
+745	Device
+746	Dhaka
+747	Did not enter a letter
+748	Digital
+749	Digital Audio Player
+750	Digital Camera
+751	Digital Out
+752	Disagree
+753	Disc
+754	Disc Type
+755	Disc check completed.
+756	Disc is wrong.
+757	Disc type :
+758	Disco
+759	Disk
+760	Disk can not be read.
+761	Disk does not contain.
+762	Disk format is invalid.
+763	Disk title name
+764	Disk usage of DVD dubbing:
+765	Display
+766	Display Content
+767	Display channel
+768	Display language
+769	Distributor
+770	Do not create
+771	Do not remove the memory card.
+772	Do not remove the memory cards.
+773	Do not turn off power.
+774	Do not turn off the console or remove the CD.
+775	Do not turn off the console or remove the memory stick.
+776	Do not turn off the console or\nremove the media.
+777	Do not turn off the console.
+778	Do not turn off the power.
+779	Do you accept the license?
+780	Do you want ?
+781	Do you want to change?
+782	Do you want to continue?
+783	Do you want to delete this item?
+784	Do you want to format it now?
+785	Do you want to move this item?
+786	Do you want to overwrite the\ndata at the copy destination?
+787	Do you want to overwrite the\ndata at the move destination?
+788	Do you want to rename this item?
+789	Do you want to replace?
+790	Do you want to save settings?
+791	Dolby
+792	Dolby Digital
+793	Dolby Digital :
+794	Dolby Digital setting
+795	Dolby, Dolby and the Double D symbol are trademarks of Dolby Laboratories.
+796	Don't turn off the power
+797	Don't turn off the power or remove Memory Card
+798	Download
+799	Download Agreement
+800	Download Error!
+801	Download Info
+802	Download Information
+803	Download error.
+804	Downloading
+805	Downloading...
+806	Drum & Bass
+807	Drum & base
+808	Drum 'n Base
+809	Dubbing
+810	Dubbing...
+811	Dublin
+812	Duplex
+813	Duplicate number:
+814	Duration time:
+815	Duration:
+816	During recording, and optimization in\n Can not be initialized.
+817	During the conversion ...
+818	During the update, I failed to communicate with the server.
+819	During the update, I failed to connect to the server.
+820	During the update, communicate with the server was interrupted.
+821	During the update, it will restart the unit
+822	Dutch
+823	E Greenland
+824	E Kazakhstan
+825	END_PROCESS
+826	EULA_AGREE
+827	EULA_CONFIRM
+828	EULA_DISAGREE
+829	EULA_SHOW
+830	East. (Can)
+831	Easter Island
+832	Eastern (USA)
+833	Easy Setting
+834	Easy Settings
+835	Easy Settings will be cancelled.
+836	Easy Settings will prepare the console to
+837	Easy Setup
+838	Edge enhancement
+839	Edit
+840	Edit - Preview
+841	Edit :
+842	Edit Registration phrase
+843	Edit range
+844	Editing complete.
+845	Editing content not saved.
+846	Editing stopped.
+847	Editing will be completed
+848	Effect 1
+849	Effect 2
+850	Elija idioma.
+851	Encoding menu...
+852	End
+853	End Point
+854	End of Setup
+855	End of setting
+856	Ends the Easy Setup
+857	English
+858	English keyboard
+859	Enka
+860	Enter
+861	Enter a different name.
+862	Enter a name for the folder.
+863	Enter the character.
+864	Enter your 4 digit password.
+865	Enter your 4-digit password.
+866	Enter your user name.
+867	Entered name eror,name already in use.
+868	Entrust circle Phone Setting
+869	Eror
+870	Eror device information.
+871	Error
+872	Error DNS server.
+873	Error code TERMINATE code
+874	Error code:
+875	Error code:   
+876	Error number:
+877	Error number:   
+878	Error setting.
+879	Esperanto
+880	Estonian
+881	Euro beat
+882	Eurobeat
+883	Evening news
+884	Every day
+885	Every(Fri)
+886	Every(Mon)
+887	Every(Sat)
+888	Every(Sun)
+889	Every(Tue)
+890	Every(Tur)
+891	Every(Wed)
+892	EveryDay
+893	Exclusion word
+894	ExecFormat error [-8]
+895	Exit
+896	Exit Edit Application.
+897	Exit the wizard, if you plan to restart.
+898	Exit without saving ?
+899	Export
+900	Ext
+901	External input 1 \n Guide channel
+902	External input 2 \n Guide channel
+903	External input audio
+904	External video input 1
+905	External video input 2
+906	EyeToy™
+907	FEI project
+908	FOLK AND TRADITIONAL
+909	Faeroese
+910	Failed record.
+911	Failed to Release of Finaliz.
+912	Failed to Release of Finaliz.\nRecord Stopped.
+913	Failed to create DVD menu.\nI will finish dubbing.
+914	Failed to delete.
+915	Failed to dub to the disc.\nRecord stopped.
+916	Failed to finalize.
+917	Failed to finalize.\nRecord stopped.
+918	Failed to format the disc.\nRecord stopped.
+919	Failed to read disc.
+920	Failed to start disc check.
+921	Failed to start finalizing.
+922	Failed to start record.
+923	Failed to stop recording.\nRecord stopped.
+924	Failure
+925	Failure to convert the title\n I have to stop record.
+926	Failure to remove all video\n Stop record.
+927	Failure. The checkin is incomplete due to an internal error.
+928	Faroese
+929	Fast
+930	Fast Forward
+931	Fast Reverse
+932	Fastplay
+933	Fiji
+934	File
+935	File %d
+936	File Type
+937	File is corrupted.\n Can not be edited.
+938	Files
+939	Files:
+940	Film Device
+941	Finalize
+942	Finalizing...
+943	Find A point
+944	Finish
+945	Finish the record.
+946	Finland
+947	Finnish
+948	Fire
+949	Fixes the recording mode. Is it OK?\nThe title with fixed recording mode、\nIt is not subject to automatic adjustment of the recording mode.
+950	Flash
+951	Flash ＋
+952	Flash －
+953	Folder
+954	Folder %d
+955	Folders
+956	Folk
+957	Foobar
+958	Foobarian
+959	Foobarian Central
+960	Football
+961	For PSX
+962	For all tracks in the album\n I will cancel the registration DJ.\n Are you sure?
+963	For maintenance, is not available.
+964	For optimization of the video title
+965	For recording construction and can not be created video.
+966	For recording, you can not create the video.
+967	For return.
+968	Format
+969	Format completed.
+970	Format failed\n Stop record.
+971	Format the DVD disc.
+972	Formatted completely.\nFormatting complete.
+973	Formatted.
+974	Formatting complete.
+975	Formatting ended.
+976	Formatting%3d％
+977	Formatting. Please wait...
+978	Formatting...
+979	Frame
+980	France
+981	Free Space
+982	Free space
+983	Free space on the Memory Stick%dMB Is.\n Please select a function.
+984	French
+985	Frequency
+986	Fri
+987	Friends
+988	Frisian
+989	From the operation panel to see the tuner
+990	Front
+991	Front + top surface
+992	Full List
+993	Fusion
+994	GRT
+995	Galician
+996	Game
+997	Game ID
+998	Game Settings
+999	Game part is set to 
+1000	Game play function
+1001	Game use HDD:
+1002	Gengre :
+1003	Gengre:
+1004	Genre
+1005	Genre / Sub-genre
+1006	Geographical designation set
+1007	Georgian
+1008	German
+1009	Germany
+1010	Getting the program information.\n I will stop the current operation.
+1011	Gibraltar
+1012	Gold
+1013	Greek
+1014	Greenlandic
+1015	Group sounds
+1016	Guarani
+1017	Guide
+1018	Guide channel
+1019	Guide channel overlaps.\n Please check the settings.
+1020	Gujarati
+1021	HDD area setting
+1022	HDD read error.
+1023	HDD → DVD record
+1024	HDD→M.S.Record
+1025	HDD→M.S.Record / Delete all videos
+1026	HDD→M.S.Record / Format
+1027	HDD→M.S.Record / M.S.Check
+1028	HDD→M.S.Record / Start
+1029	HDD→M.S.Record / Title selection
+1030	HDD→M.S.Record / Writing
+1031	HDD→M.S.Record/ confirm record
+1032	HDD→M.S.record
+1033	HOT
+1034	Hard Disc Format Info
+1035	Hard Rock
+1036	Hard disk is full.\n Please delete unwanted title.
+1037	Hard rock
+1038	Haruki Hirai
+1039	Has failed to remove.
+1040	Has set
+1041	Hausa
+1042	Hawaii
+1043	Hebrew
+1044	Help
+1045	Helsinki
+1046	High speed
+1047	Hindi
+1048	Hip Hop
+1049	Hip-hop
+1050	Hong Kong
+1051	Hour
+1052	House
+1053	Hungarian
+1054	I DJ unregister all tracks in the album.
+1055	I aborted the network connection.
+1056	I am a start-up preparation of DJ Box SE
+1057	I am using the authentication system. The transference of the programs or disabling device of the system,
+1058	I can not connect to the network.
+1059	I cancel the edit.
+1060	I cancel the update, and then restart the PSX.
+1061	I change the parental level
+1062	I cut 10 minutes from scheduled recording start time.
+1063	I delete the video.\n Are you sure?
+1064	I did not agree to the license.
+1065	I did not read configuration.
+1066	I do format. Memory Stick\n Data written will be deleted.\n Are you sure?
+1067	I downloaded the software.
+1068	I failed to cancel.
+1069	I failed to read the photo.
+1070	I failed to start the optimization.
+1071	I failed to write.\n After this, it will be read-only.\n Stop record.
+1072	I fit the program guide
+1073	I got off to an hour until the start of the recording reservation.
+1074	I have been saved Pict Story.　　
+1075	I have been saved Pict Story.　　　　　
+1076	I have been saved Pict Story.　　　　　　　
+1077	I have been saved Pict Story.　　　　　　　　
+1078	I have been saved Pict Story.　　　　　　　　　　　　　
+1079	I have been saved to.
+1080	I have downloaded the software.
+1081	I have properly connected
+1082	I have registered the phrase.
+1083	I have registered the thumbnail.
+1084	I have set the contents of the following.
+1085	I have to cancel the registration DJ.
+1086	I have to cancel the update.
+1087	I have to clear the current settings.
+1088	I have to confirm the recording reservation
+1089	I have to confirm the recording reservation.
+1090	I have to install the software.
+1091	I have to stop playing abnormality has occurred.
+1092	I have to stop record.
+1093	I recorded until the end of the program.
+1094	I removed the recording reservation.
+1095	I removed the video.
+1096	I removed the word.
+1097	I run the automatic channel setting.\n Are tou sure?
+1098	I run the automatic channel setting.\n Are you sure?
+1099	I run the automatic time setting. Are you sure?
+1100	I run the update.
+1101	I save the settings.\n Are you sure?
+1102	I set or not to leave or leave the title before optimization.
+1103	I set the A point.
+1104	I set the recording mode after optimization.\n It is not possible to make high-quality recording mode than the original.
+1105	I set the recording schedule.
+1106	I start the update.
+1107	I was back to the factory settings.
+1108	I was canceled DJ registration.
+1109	I was cleared to play mode.
+1110	I was fixed recording reservation.
+1111	I will cancel the edit.\n Are you sure?
+1112	I will cancel the registration DJ.
+1113	I will cancel the registration DJ.\n Are you sure?
+1114	I will cancel the update.
+1115	I will change the bilingual voice recording HDD.
+1116	I will create a Pict Story with the following settings.
+1117	I will delete the recording schedule
+1118	I will delete the recording schedule.\n Are you sure?
+1119	I will do from the operation panel.
+1120	I will do the left and right of the joystick.
+1121	I will do the recovery process.
+1122	I will end this unit.
+1123	I will not back up your current software.
+1124	I will not create a menu
+1125	I will output a progressive video from the D-Terminal.\n Will not be output from the video output terminal of the other.\n Are you sure?
+1126	I will overwrite the thumbnail registered.
+1127	I will register the DJ all tracks in the album.
+1128	I will remove the Pict Story related.
+1129	I will restart the unit.
+1130	I will save the Pict Story.　　　　　　　
+1131	I will stop DJ deregistration.\n Are you sure?
+1132	I will stop Pict Story editing.
+1133	I will stop the current operation.
+1134	I will stop the optimization.\nAre you sure?
+1135	I wish to save the file as another name
+1136	I'll finish the Pict Story editing.
+1137	I'll finish the Pict Story editing.　
+1138	I'll finish the Pict Story editing.　　　　
+1139	I'll finish the Pict Story editing.　　　　　
+1140	I'll finish the Pict Story editing.　　　　　　
+1141	I'll finish the Pict Story editing.　　　　　　　　　
+1142	I'll finish the Pict Story editing.　　　　　　　　　　　　
+1143	I'll finish the update.
+1144	I'm going to end processing.
+1145	I've been record the title.
+1146	I/O error occurred.
+1147	INPUT_DNS
+1148	INPUT_IP
+1149	INPUT_PPPOE
+1150	INSTALLING
+1151	IP
+1152	IP address
+1153	IP address :
+1154	Icelandic
+1155	Idol
+1156	If OK, press
+1157	If the router used to OFF and PPPoE
+1158	If you Disagree, you will exit, Are you sure want to exit?
+1159	If you change the settings,phonebook and program guide\n May not be available.\n Are you sure?
+1160	If you create a game area, the recording time of the program
+1161	If you delete, a photo of all it is in the album
+1162	If you do not save, to return to the previous setting.
+1163	If you do not save,return to the previous setting.
+1164	If you press, you can change the value.
+1165	If you run the region setting of the HDD, the hard disk\n the following contents will be cleared.\n Are you sure?
+1166	If you want to save it as a new Pict Story is
+1167	Image
+1168	Image Type
+1169	ImpCD_str16
+1170	ImpCD_str17
+1171	Import
+1172	Import Audio-CD
+1173	Import Date
+1174	Import Size
+1175	Import cancelled.
+1176	Import completed.
+1177	Import done. Some items could not\nbe imported because the number of\nitems in the album reached 999.
+1178	Imported
+1179	Importing photo %i...
+1180	Importing track %i...
+1181	Importing...
+1182	Importing... Do not turn off the console.
+1183	In Select an item, please change.
+1184	In addition, must be authorized by Macrovision, and household unless otherwise authorized by Macrovision
+1185	In addition,&quot;DNAS&quot;Is a trademark of the company.
+1186	In preparation of recording reservation. In order to perform initialization, please delete the recording schedule.
+1187	In preparation of recording reservation.\n To do dubbing, please delete the recording schedule.
+1188	In this thumbnail image
+1189	Incorrect session.\nRecord stopped.
+1190	Indonesia
+1191	Indonesian
+1192	Info
+1193	Information
+1194	Information Folder
+1195	Information editing
+1196	Information of the program guide is not be acquired.
+1197	InitialLanguage
+1198	Initialization
+1199	Initialization of DVD went wrong.
+1200	Initialize
+1201	Insert DVD-RW disc
+1202	Insert a Memory Stick record possible
+1203	Insert a disc.
+1204	Insert disc and press 
+1205	Insert the disc to be finalized.
+1206	Install Error!
+1207	Interlingua
+1208	Interlingue
+1209	International Business Machines Corporation and others. All Rights Reserved.
+1210	Internet Radio
+1211	Interpolation processing
+1212	Interrupt
+1213	Inupiak
+1214	Ip Adress :
+1215	Irish
+1216	Is a communication error.
+1217	Is a device error information.
+1218	Is a registered trademark of Sony Computer Entertainment Inc..
+1219	Is a trademark of Sony Computer Entertainment Inc..
+1220	Is a unique ID error.
+1221	Is it OK?
+1222	Is not available program guide.
+1223	Is optimization.\n You can not dub.
+1224	Is optimization.\n You can not record.
+1225	Is optimization.\nCan not be initialized. 
+1226	Is recording.\n Can not be initialized.
+1227	Is recording.\n Can not be optimized.
+1228	Is recording.\n It is not possible to switch the channel.
+1229	Is recording.\n You can not change the recording mode
+1230	Is recording.\n You can not dub.
+1231	Is rewinding.\n Please wait.
+1232	Is the repair work.\n Please wait
+1233	Istanbul
+1234	It has not been edited yet.\n You can not edit cancel.
+1235	It is a disk in VR mode.\nDo you write it?
+1236	It is a non-compliant Memory Stick.\n Stop record.
+1237	It is a read-only Memory Stick. Stop record.
+1238	It is achieved by AIDJ algorithm.
+1239	It is an aim of when record to DVD later this title.
+1240	It is limited to the use of appreciation for some of the other. And decomposition, be modified also forbidden.
+1241	It is not a PlayStation® or Playstation®2 standard \ ndisc.
+1242	It is not possible to recording of six hours or more.
+1243	It is not possible to recording reservation of 6 hours or more.\n Please set the correct start or end time.
+1244	It is not possible to the operation because there is no game area.\n Please create a game area in the HDD area setting.
+1245	It is not possible to write to the memory stick any more.\n All videos delete, or Do you want to format?
+1246	It is running a scheduled recording.\n If you delete, stop the recording.\n Are you sure?
+1247	It is saving the channel setting.
+1248	It is saving the channel setting.\n Please wait
+1249	It is under reproduction.
+1250	It is under videotape recording. It cannot encode.
+1251	It overlaps with the following reservation.
+1252	It seems that some error has occurred.
+1253	It stopped.
+1254	It takes minutes.
+1255	It takes place in the audio settings of bilingual voice recording DVD.
+1256	It was not possible to confirm the recording reservation.\n Recording schedule is full.
+1257	It was not possible to delete the recording schedule.
+1258	It was not possible to get the thumbnail information.
+1259	It was not possible to quick timer setting.
+1260	It was not possible to turn on BS antenna power.
+1261	Italian
+1262	Italy
+1263	Item Name
+1264	Izhevsk
+1265	J-Anime
+1266	J-Ballad
+1267	J-Enka
+1268	J-Group Sounds
+1269	J-Idol
+1270	J-New Music
+1271	J-Pop
+1272	JAZZ
+1273	JPOP DJ
+1274	Japan
+1275	Japan, BSAFE RSA and, and the United States of RSA Security Inc.
+1276	Japanese
+1277	Japanese input
+1278	Japanese keyboard
+1279	Javanese
+1280	Jazz
+1281	Jerusalem
+1282	Johannesburg
+1283	Just clock
+1284	KB
+1285	Kabul
+1286	Kaliningrad
+1287	Kana input
+1288	Kannada
+1289	Karachi
+1290	Karin Nakano
+1291	Kashmiri
+1292	Kathmandu
+1293	Kazakh
+1294	Kazuhito Fujiki
+1295	Kazuya Nozawa（FEI）
+1296	Key bindings
+1297	Keyboard settings
+1298	Keyword
+1299	Keyword name
+1300	Keywords
+1301	Kies taal.
+1302	Kiev
+1303	Kinyarwanda
+1304	Kirghiz
+1305	Kirundi
+1306	Korean
+1307	Kuala Lumpur
+1308	Kurdish
+1309	Kuwait City
+1310	L1 button:
+1311	L2 button:
+1312	L2 · R2 button setting
+1313	LOW BEAT
+1314	Language
+1315	Language list
+1316	Laothian
+1317	Late at night : 11:00PM - 5:00AM
+1318	Latin
+1319	Latvian, Lettish
+1320	Latvian,Lettish
+1321	Latvian; Lettish
+1322	Length
+1323	License agreement
+1324	Light-receiving port
+1325	Lingala
+1326	Lisbon
+1327	Lithuanian
+1328	Ljubljana
+1329	Location
+1330	Lock
+1331	Login Failed:
+1332	Login Successful
+1333	London
+1334	Long
+1335	Lord Howe I.
+1336	Luxembourg
+1337	MAC Adress :
+1338	MANHATTAN
+1339	MM/DD/YYYY
+1340	Macedonian
+1341	Madrid
+1342	Magadan
+1343	MagicGate Memory Stick
+1344	MagicGate、MEMORY STICK、ATRAC3、ATRAC3plus、OpenMG、
+1345	Main + secondary
+1346	Main audio
+1347	Main/Deputy
+1348	Make
+1349	Make bilingual voice a secondary voice.\nTherefore, it takes time to dub.
+1350	Make bilingual voice the main voice.\nTherefore, it takes time to dub.
+1351	Malagasy
+1352	Malay
+1353	Malayalam
+1354	Malaysia
+1355	Maltese
+1356	Manama
+1357	Manual
+1358	Manual Setup
+1359	Manual channel setting
+1360	Manual recording
+1361	Manual reservation
+1362	Manual setting
+1363	Maori
+1364	Marathi
+1365	Marthi
+1366	Matter
+1367	Media
+1368	Medium
+1369	Memory Card
+1370	Memory Card (PS1)
+1371	Memory Card (PS2)
+1372	Memory Card Utility
+1373	Memory Stick Checking%3d％
+1374	Memory Stick Video format
+1375	Memory Stick Video format\n I will delete all of the title.\n Are you sure?
+1376	Memory Stick check is complete.
+1377	Memory Stick is locked.\n I have to Stop record.
+1378	Memory Stick is not inserted\n Memory Stick error.\n I have to stop record.
+1379	Memory Stick®
+1380	Memory allocation error.
+1381	Menu
+1382	Menu Language
+1383	Menu creation will start.\nScreen changes automatically.
+1384	Menu encoding failed.
+1385	Menu to ensure the values ​​you selected are canceled when it comes to recording reservation start time.
+1386	Mexico City
+1387	Midway Islands
+1388	Min
+1389	Minsk
+1390	Minute
+1391	Misc
+1392	Mix
+1393	Mode
+1394	Mode fixed
+1395	Moldavian
+1396	Mon
+1397	Mon to Fri
+1398	Mon to Sat
+1399	Monaco
+1400	Mongolian
+1401	Month
+1402	More, the title to the Memory Stick\n I can not write.
+1403	Morning : 5:00AM - 0:00PM
+1404	Moscow
+1405	Mount. (Can)
+1406	Mountain (USA)
+1407	Move
+1408	Move Cursor Left
+1409	Move Cursor Right
+1410	Move Down
+1411	Move Focus Key
+1412	Move Up
+1413	Move cancelled.
+1414	Move completed.
+1415	Movie
+1416	Movies
+1417	Moving...
+1418	Multi-screen display
+1419	Multi-screen display Cancel
+1420	Muscat
+1421	Music
+1422	Music Settings
+1423	Music1
+1424	Music2
+1425	Music3
+1426	NO_NEED_TO_UPDATE
+1427	NW Greenland
+1428	Name
+1429	Name (Ascending)
+1430	Name (descending order)
+1431	Name entered invalid or already used.
+1432	Name you entered is either invalid or has already used.
+1433	Naoyuki Horiko
+1434	Napali
+1435	Nauru
+1436	Nepali
+1437	Net mask
+1438	Net mask :
+1439	Net mask or IP address,
+1440	Net mask or default router,
+1441	NetMD
+1442	NetPlayer
+1443	Netherlands
+1444	Network Download
+1445	Network Update
+1446	Network connection complete.
+1447	Network connections and power of this unit
+1448	Network setting
+1449	Network setting / Configuring DNS
+1450	Network setting / Configuring PPPoE
+1451	Network setting / Connection test
+1452	Network setting / Setting complete
+1453	Network setting / Setting start
+1454	Network setting / Setting the IP address
+1455	Network setting / Settings list
+1456	Network testing.
+1457	New
+1458	New Age
+1459	New Album
+1460	New Caledonia
+1461	New Folder
+1462	New Wave
+1463	New music
+1464	New wave
+1465	Newfoundland
+1466	Next
+1467	Next Program Search
+1468	Nicosia
+1469	Night : 5:00PM - 0:00AM
+1470	No
+1471	No Files to Copy.
+1472	No Items
+1473	No PSC Error
+1474	No additional Shows can be created.\nSelect a different show.
+1475	No additional albums can be created.\nSelect a different album.
+1476	No change to name, rename cancelled.
+1477	No disc.\nInsert DVD-RW disc.
+1478	No disc.\nInsert a recordable disc.
+1479	No games area.\n Please create a game area in the HDD area setting.\n I'll finish the x-DJ.
+1480	No genre
+1481	No menu item.\nRecord stopped.
+1482	No menu template.\nRecord stopped.
+1483	No session.\nRecord stopped.
+1484	No title.\nRecord stopped.
+1485	None
+1486	None specified
+1487	Noon : 11:00AM - 6:00PM
+1488	Norilsk
+1489	Norway
+1490	Norwegian
+1491	Not be copied during optimization.
+1492	Not be import track
+1493	Not connect network.
+1494	Not connect to network.
+1495	Not enough HDD space or HDD error.
+1496	Not enough disc space.\nCannot dub this title.
+1497	Not enough free space on the HDD.\n Please remove or track title, unwanted photo.
+1498	Not enough space ( invisible )
+1499	Not enough space ( tmp )
+1500	Not possible to save the settings.
+1501	Not possible to turn on BS antenna power.
+1502	Not record
+1503	Not stop
+1504	Not the normal playback(No messages)
+1505	Not turn off the power.
+1506	Not valid for the time specified.
+1507	Now Showing!
+1508	Number of songs :
+1509	OK
+1510	OK ( invisible )
+1511	OK ( tmp )
+1512	OLD DISCO
+1513	Occitan
+1514	Of PSX&#34;DNAS&#34;Authentication service period has ended.
+1515	Of PSX&#34;DNAS&#34;Is an authentication service period before.
+1516	Of Sony Computer Entertainment Inc. own that allows for the protection of security
+1517	Off
+1518	Ok
+1519	Old First) Date
+1520	Omsk
+1521	On
+1522	Once formatted, it does not appear on the player\n Data will also be deleted.\n Are you sure?
+1523	Operation panel
+1524	Opt Output
+1525	Optical Out
+1526	Optical out
+1527	Optical out setting
+1528	Optimization
+1529	Optimization failed.\nI will finish dubbing.
+1530	Optimization has ended.
+1531	Optimization or during recording.\n You can not dub.
+1532	Optimization stop
+1533	Optimization title
+1534	Optimization,to ensure the capacity, the delete of Edit Range\n Select Delete "title optimization
+1535	Optimizing    %d％
+1536	Option
+1537	Options
+1538	Or create, a, a Pict Story that you have already created
+1539	Or the default router IP address,
+1540	Or, 
+1541	Order to write to the memory stick
+1542	Original title
+1543	Oriya
+1544	Oslo
+1545	Other
+1546	Over-capacity
+1547	Overrides.\n Are you sure?
+1548	P-Kamchatsky
+1549	PDC
+1550	PLAY MODE CLEAR
+1551	PM
+1552	POP
+1553	PPPoE
+1554	PSBB
+1555	PSC error.
+1556	PSX &#34;DNAS&#34;Authentication service period has ended.
+1557	PSX &#34;DNAS&#34;Is an authentication service period before.
+1558	PSX :
+1559	PSX Original Sound
+1560	Pacific (Can)
+1561	Pacific (USA)
+1562	Panama City
+1563	Parental Control Level
+1564	Parental Control PIN
+1565	Parental Control Password
+1566	Parental Control Region
+1567	Parental control level
+1568	Parental level set
+1569	Parental use area
+1570	Paris
+1571	Pashto, Pushto
+1572	Pashto,Pushto
+1573	Pashto; Pushto
+1574	Password
+1575	Password :
+1576	Pause
+1577	Pause mode
+1578	Perm
+1579	Persian
+1580	Personal identification number is different.
+1581	Perth
+1582	Philippines
+1583	Phone Setting
+1584	Photo
+1585	Photo %d
+1586	Photo Settings
+1587	Photo in the album is full.
+1588	Photo of some but not be imported
+1589	Photos
+1590	Pict I'll finish the Story editing.
+1591	Pict Story
+1592	Pict Story :
+1593	Pict Story Selection
+1594	Pict Story editing end
+1595	Pict Story from the photo on the memory album
+1596	Picture memory end
+1597	Picture memory storage
+1598	Play
+1599	Play continues from now when you want to play next.
+1600	Play from Beginning
+1601	Play time
+1602	PlayStation ® disk \n Reading speed
+1603	PlayStation ® game \n Texture mapping
+1604	PlayStation® Disk Read Speed 
+1605	PlayStation® Format Software
+1606	PlayStation® format software
+1607	PlayStation® texture mapping
+1608	PlayStation®2 Format Softwaere
+1609	PlayStation®2 Format Sofware
+1610	PlayStation®2 format software
+1611	PlayStationÂ®2 format disc.
+1612	Playback
+1613	Playback beg
+1614	Playback time:
+1615	Playlist
+1616	Please Press.
+1617	Please Turn power off and then back on.
+1618	Please be patient.
+1619	Please change the VPS/PDC Scan setting.
+1620	Please change the name.
+1621	Please check IP address.
+1622	Please check connect device.
+1623	Please check the album.
+1624	Please check the current time.
+1625	Please check the following items.
+1626	Please check the input default router.
+1627	Please check the input net mask.
+1628	Please check the input.
+1629	Please check the photo from the album.
+1630	Please check the primary DNS.
+1631	Please check the secondary DNS.
+1632	Please check your network settings.
+1633	Please check.
+1634	Please complete the work.
+1635	Please contact your nearest office.
+1636	Please delete it.
+1637	Please delete unnecessary Pict Story.　
+1638	Please delete unwanted title.
+1639	Please do not remove the Memory Stick.
+1640	Please do not turn off the power
+1641	Please do not turn off the power.
+1642	Please do not turn off.
+1643	Please don't remove the Audio device
+1644	Please don't remove the Memory Stick
+1645	Please edit the phrase to be registered.
+1646	Please enter your 4-digit PIN.
+1647	Please insert a PlayStationÂ® or
+1648	Please insert a disc.
+1649	Please press
+1650	Please press.
+1651	Please reconnect you wait a while.
+1652	Please reconnect.
+1653	Please remove unnecessary title, track, a photo
+1654	Please remove unnecessary title, track, a photo.
+1655	Please restart Press.
+1656	Please see after the About PSX, and BSD license for more information.
+1657	Please select Memory Card to Download
+1658	Please select a Pict Story other.
+1659	Please select a Pict Story.
+1660	Please select a time.
+1661	Please select an album.
+1662	Please select another album.
+1663	Please select region.
+1664	Please select the BGM.
+1665	Please select the DNS setting.
+1666	Please select the Save As.
+1667	Please select the album
+1668	Please select the items you want to input.
+1669	Please select the items.
+1670	Please select the mode.
+1671	Please select the word.
+1672	Please set  correct recording method.
+1673	Please set again.
+1674	Please set corect recording mode.
+1675	Please set corect recording quality.
+1676	Please set correct genre.
+1677	Please set the correct channel.
+1678	Please set the correct date.
+1679	Please set the correct end time.
+1680	Please set the correct screen size.
+1681	Please set the correct start time.
+1682	Please set the correct time extension.
+1683	Please set.
+1684	Please to create video
+1685	Please to create video.
+1686	Please update again.
+1687	Please wait
+1688	Please wait for the game to start.
+1689	Please wait till for network to connect
+1690	Please wait without turning off the power.
+1691	Please wait.
+1692	Please wait...
+1693	Please.
+1694	Polish
+1695	Pop
+1696	Pops
+1697	Popular song
+1698	Portuguese
+1699	Postscript
+1700	Prague
+1701	Praia
+1702	Preparation recording.\n To do record, please delete the recording schedule.
+1703	Press
+1704	Press 
+1705	Press any key to continue.
+1706	Press the R3 button.
+1707	Press the right directional button to begin.
+1708	Press to cancel.
+1709	Press,
+1710	Press, you can change or enter a value.
+1711	Press, you can change the value.
+1712	Press,for select.
+1713	Previous
+1714	Primary DNS
+1715	Primary DNS :
+1716	Priority was given to reservation videotape recording.
+1717	Processing Purchase...one moment please.
+1718	Processing login information. Please wait…
+1719	Produced by
+1720	Product code
+1721	Program Search is forbidden.
+1722	Program guide
+1723	Program guide channel
+1724	Program guide time
+1725	Program table reservation
+1726	Program tracking
+1727	Program tracking :
+1728	Progress status
+1729	Progressive
+1730	Progressive Scan
+1731	Progressive output
+1732	Protect
+1733	Protect :
+1734	Protocol error.
+1735	Publisher
+1736	Puerto Rico
+1737	Punjabi
+1738	Punk
+1739	Quechua
+1740	Quick timer setting
+1741	Quit Easy Setup?
+1742	Quit?
+1743	R1 button:
+1744	R2 button:
+1745	RAKUEN
+1746	RAVE
+1747	RESTORE
+1748	RESUME OFF
+1749	RESUME ON
+1750	ROCK
+1751	RSA Security Inc. All rights reserved.
+1752	Random
+1753	Random Recording
+1754	Random keywords :
+1755	Random recording
+1756	Random reservation
+1757	Random-record
+1758	Random-record :
+1759	Random-record \n Maximum rec time
+1760	Random-round record / Random user-created keyword
+1761	Random-round record \n Channel setting
+1762	Rec
+1763	Reception
+1764	Reconnect you wait a while.
+1765	Record
+1766	Record cancelled.
+1767	Record complete.
+1768	Record completed, do you turn off the power?
+1769	Record completed.\nRecord stopped.
+1770	Record ended.
+1771	Record from HDD onto a disc.
+1772	Record mode
+1773	Record mode:
+1774	Record reservation start.\n I will stop the current operation.
+1775	Record stopped.
+1776	Record voice DVD
+1777	Record voice HDD
+1778	Record was cancelled.\nRecord stopped.
+1779	Recordable title only once,\n It will be recorded in the blue screen.
+1780	Recorded NR
+1781	Recordg ended.\n I turn off the power.
+1782	Recording is in preparation.\n If you want to optimize, please delete the recording schedule.
+1783	Recording is in preparation.\n In order to perform initialization, please delete the recording schedule.
+1784	Recording is in preparation.\n It is not possible to perform recording another.
+1785	Recording is in preparation.\n It is not possible to switch the channel.
+1786	Recording is in preparation.\n To do dubbing, please delete the recording schedule.
+1787	Recording is in preparation.\n You can not change the recording mode.
+1788	Recording mode
+1789	Recording mode of the current
+1790	Recording reservation confirm
+1791	Recording reservation exists in.\nDuring optimization, you can not perform a scheduled recording.
+1792	Recording schedule is full.
+1793	Recording:
+1794	Regeneration time :
+1795	Reggae
+1796	Reggae/Ska
+1797	Register
+1798	Register DJ
+1799	Register a user keyword.
+1800	Register.
+1801	Registration DJ music is full.\n Please cancel the registration of DJ unnecessary track.
+1802	Release Date
+1803	Release year :
+1804	Released
+1805	Remote control mode
+1806	Remove all
+1807	Remove the photo of all that is in the album.
+1808	Remove this game from your hard disk.
+1809	Remove unused title, track, photo
+1810	Remove.
+1811	Removed recording reservation.
+1812	Rename
+1813	Rename cancelled.
+1814	Rename completed.
+1815	Renaming. Please wait...
+1816	Repair of this unit has been completed.
+1817	Repeat
+1818	Repeat network setup
+1819	Repeat off
+1820	Repeat on
+1821	Repeat start time
+1822	Replay
+1823	Reservation candidate list
+1824	Reservation list
+1825	Reservation status has changed.\n I will cancel the operation.
+1826	Reservation time
+1827	Reservations Delete
+1828	Reservations modification
+1829	Reset the modem if the modem use.
+1830	Resolution
+1831	Restart
+1832	Restart, and then start the hard disk space setting.
+1833	Restore Info
+1834	Restrictions
+1835	Resume operation is forbidden.
+1836	Return
+1837	Reunion
+1838	Reykjavik
+1839	Rhaeto-Romance
+1840	Riga
+1841	Riyadh
+1842	Rock
+1843	Roman character input
+1844	Romanian
+1845	Rome
+1846	Rotate Left
+1847	Rotate Right
+1848	Run
+1849	Run Time
+1850	Run optimization.
+1851	Run the HDD area setting, and delete the game area.
+1852	Run the HDD area setting, you can change the game area.
+1853	Run the HDD area setting, you can create a game area.
+1854	Run the first play
+1855	Running a scheduled recording.\n If you delete, stop the recording.\n Are you sure?
+1856	Russian
+1857	Russian Federation
+1858	S-Video
+1859	SLOW JAM
+1860	SOUL
+1861	SPLASH
+1862	START_SETUP
+1863	SW Greenland
+1864	Same word exists.
+1865	Samoa Islands
+1866	Samoan
+1867	Sample Pict Story
+1868	Sample album
+1869	San Marino
+1870	Sangho
+1871	Sangro
+1872	Sanskrit
+1873	Santiago
+1874	Sarajevo
+1875	Sat
+1876	Save
+1877	Save      Stop
+1878	Save content to the hard disk
+1879	Saved Data (PlayStation®)
+1880	Saved Data (PlayStation®2)
+1881	Saved Data Utility
+1882	Scart Setting
+1883	Scheduled recording does not work while writing to disk.
+1884	Scheduled recording is running.\n I will stop the modification of the reservation.
+1885	Scot73,Gaelic
+1886	Scots Gaelic
+1887	Screen display
+1888	Screen.19
+1889	Search
+1890	Search -
+1891	Search ＋
+1892	Second
+1893	Secondary DNS
+1894	Secondary DNS :
+1895	Secondary audio
+1896	Seleccionar um idioma.
+1897	Select
+1898	Select DTS.
+1899	Select Dolby Digital
+1900	Select Dolby Digital.
+1901	Select [End] or press 
+1902	Select a Digital Out (Optical).
+1903	Select a Show to add to.
+1904	Select a Show.
+1905	Select a TV type.
+1906	Select a language.
+1907	Select a time zone.
+1908	Select a title in record
+1909	Select an album to\nimport to.
+1910	Select an album.
+1911	Select copy destination.
+1912	Select date and time formats.
+1913	Select keywords to use.
+1914	Select language.
+1915	Select move destination.
+1916	Select the DVD menu type in
+1917	Select the IP address setting method
+1918	Select the aspect ratio of the TV.
+1919	Select the device
+1920	Select the editing to cancel using 
+1921	Select the location.
+1922	Selected scene will not be played
+1923	Seleziona lingua.
+1924	Seoul
+1925	Serbian
+1926	Serbo-Croatian
+1927	Serial drama of the night
+1928	Servian
+1929	Sesotho
+1930	Set Cover
+1931	Set DTS.
+1932	Set Dolby Digital.
+1933	Set as Cover
+1934	Set the DTS.
+1935	Set the Digital Out (Optical).
+1936	Set the Dolby Digital.
+1937	Set the date and time.
+1938	Set the recording mode to SLP (for DVD + RW).\nTherefore it takes time to dub.
+1939	Set to start
+1940	Setswana
+1941	Setting
+1942	Setting 1
+1943	Setting 2
+1944	Setting Input / Edit Registration phrase
+1945	Setting List
+1946	Setting Photo
+1947	Setting channel
+1948	Setting confirmation
+1949	Setting date and time
+1950	Setting keyboard Input
+1951	Setting start
+1952	Setting the Music
+1953	Setting the remote control
+1954	Setting the time
+1955	Setting up auto ch. 
+1956	SettingDate
+1957	SettingTime
+1958	Settings
+1959	Settings File (PlayStation®2)
+1960	Settings for a TV
+1961	Settings for a TV / Manual channel setting / Fine-tune the channel
+1962	Settings list
+1963	Settlement
+1964	Shared buffer is in use.\nRecord stopped.
+1965	Shift / Unshift
+1966	Shinbashi 23 o'clock
+1967	Shona
+1968	Short
+1969	Show
+1970	Shuffle
+1971	Shuffle Playback
+1972	Simplified Chinese
+1973	Since the capacity of the hard disk is missing,\n It is not possible to start record.\n It stops record, the unwanted title\n Please remove from the hard disk.
+1974	Since the recording reservation is started or scheduled recording preparation,,\n It is not possible to start the optimization.
+1975	Since there is no space in the hard disk,\nI can not create a DVD menu.\nWhen making a DVD menu stop dubbing,\nUnnecessary title from hard disk\nPlease delete it.
+1976	Since there is no space in the hard disk,\nI can not start dubbing.\nStop dubbing,\nUnnecessary title from hard disk\nPlease delete it.
+1977	Sindhi
+1978	Singapore
+1979	Singhalese
+1980	Siswati
+1981	Size
+1982	Size after capture :
+1983	Skip
+1984	Skip BS channel
+1985	Skopje
+1986	Slide show
+1987	Slideshow
+1988	Slideshow BGM
+1989	Slideshow Speed
+1990	Slideshow effect
+1991	Slot 1
+1992	Slot 1A
+1993	Slot 1B
+1994	Slot 1C
+1995	Slot 1D
+1996	Slot 2
+1997	Slot 2A
+1998	Slot 2B
+1999	Slot 2C
+2000	Slot 2D
+2001	Slovak
+2002	Slovenian
+2003	Slow
+2004	Sofia
+2005	Software that has been developed has been used.
+2006	Soil
+2007	Somali
+2008	Some content could not be imported.
+2009	Some features music, the photo will be unavailable.
+2010	Song and song
+2011	Soon, The start time of entrusting recording.
+2012	Sort
+2013	Sort Channel
+2014	Sort change
+2015	Sort order
+2016	Soul
+2017	Sound Track
+2018	Sound quality :
+2019	Soundtrack
+2020	Source
+2021	Source:
+2022	Space
+2023	Spain
+2024	Spanish
+2025	Specified reservation time
+2026	Specified time jump
+2027	Speech and Language
+2028	Speed key repeat
+2029	Sports extension
+2030	Sports extension :
+2031	Sprache wählen.
+2032	Standard
+2033	Start
+2034	Start Check.
+2035	Start easy setup.
+2036	Start network settings.
+2037	Start of the recording reservation.\n I will stop the current operation.
+2038	Start optimizing.\n optimization, you can not perform  scheduled recording.
+2039	Start record
+2040	Start record.\n There is a scheduled recording in MM AM: HH.\n During record, you can not perform timer recording.\n Are you sure?
+2041	Start recording from DV-device.\nSet recording mode and sound,start the record.
+2042	Start the game and set the Enable HDD option\nbefore downloading this package
+2043	Start the game and set the Enable HDD option\nbefore downloading.
+2044	Starting Point
+2045	Starting game. Please wait...
+2046	Starting the game. Please wait.
+2047	Starts basic setup. 
+2048	Status
+2049	Status acquisition of DVD went wrong.
+2050	Stereo
+2051	Stereo 1
+2052	Stereo 2
+2053	Stockholm
+2054	Stop
+2055	Stop %s?
+2056	Stop dubbing?\nIf the disc is a DVD-R,\nit cannot be used any more.
+2057	Stop finalizing?\nIf the disc is a DVD-R,\nit cannot be used any more.
+2058	Stop import.
+2059	Stop is forbidden.
+2060	Stop record.\n Are you sure?
+2061	Stop request received.\nRecord stopped.
+2062	Stop the HDD area setting.\n Are you sure?
+2063	Stop the easy setting.\n Are you sure?
+2064	Stop the network settings.
+2065	Stopped state
+2066	Stops the return to factory settings.\n Are you sure?
+2067	Subtitle
+2068	Subtitle Language
+2069	Subtitle switch
+2070	Success
+2071	Sun
+2072	Sundanese
+2073	Suva
+2074	Swahili
+2075	Sweden
+2076	Swedish
+2077	Switzerland
+2078	Sydney
+2079	System Configuration
+2080	System Drivers (PlayStation®2)
+2081	System Information
+2082	System error.\n stop record.
+2083	Sélectionnez la langue.
+2084	TEST
+2085	TESTING
+2086	TITLE repeat
+2087	TV
+2088	TV MANUAL SETTING
+2089	TV SETTING
+2090	TV Type
+2091	TV system is different.
+2092	TV type
+2093	TV type :
+2094	TV type setting
+2095	Tagalog
+2096	Taipei
+2097	Taiwan
+2098	Tajik
+2099	Tallinn
+2100	Tamil
+2101	Tashkent
+2102	Tatar
+2103	Tbilisi
+2104	Techno
+2105	Tegulu
+2106	Tehran
+2107	Telugu
+2108	Test connection network.
+2109	Tetsuya Takahashi
+2110	Thai
+2111	Thailand
+2112	That is a blank name and cannot be used.
+2113	That the delivery, exhibition, export, and transmits or imported, is prohibited by law.
+2114	The DVD menu is up to 20 pages.\nThis type can not be selected.
+2115	The International Components for Unicode-Internationalization Classes
+2116	The Parental Control Level one o'clock
+2117	The Pict Story video that you created
+2118	The Ya album that you are using for this Pict Story
+2119	The contents of this disc cannot be imported.
+2120	The convert, and then record to the Memory Stick.
+2121	The copy cannot be completed.\nThere is no memory card.
+2122	The copy could not be completed
+2123	The copy could not be completed.
+2124	The current software is the latest version.
+2125	The delete could not be completed.
+2126	The delete not completed.
+2127	The disc could not be read.
+2128	The disc is a DVD+RW.\n%s in +VR mode?\nAll data on the disc,\nif any, will be erased.
+2129	The disc is a DVD-R. \nStart record in Video Mode ?
+2130	The disc is unrecordable.\nInsert a recordable disc.
+2131	The disc space 100%
+2132	The disc was finalized.\nFinalizing complete.
+2133	The disc was formatted.\nFormatting complete.
+2134	The download could not be completed.
+2135	The download was cancelled.
+2136	The download you selected has already been purchased
+2137	The driver is locked.\nRecord stopped.
+2138	The encoder is in use.\nRecord stopped.
+2139	The entered value is invalid.
+2140	The entire
+2141	The error occurred.\nDubbing stopped. [%d]
+2142	The file number is wrong.[-9]
+2143	The finalize session is not specified.
+2144	The following characters can not be used.
+2145	The following program does not match.
+2146	The following program is invalid.
+2147	The format could not be completed.
+2148	The hard disk does not have enough free space.
+2149	The import could not be completed.
+2150	The import will be cancelled.\nDo you want to continue?
+2151	The install could not be completed.
+2152	The item could not be added\nSome content could not be added.
+2153	The item could not be renamed.
+2154	The login failed.
+2155	The login was cancelled.
+2156	The maximum number of folders you can\ncreate is %d. You have reached this limit.
+2157	The memory B-point
+2158	The memory card has been removed.\nPress the ~rgn.ArtCancel~ to return to the bar.
+2159	The memory card is not formatted.\nGo to Saved Data Utility to format.
+2160	The memory point A
+2161	The move cannot be completed.\nThere is no memory card.
+2162	The move could not be completed.
+2163	The movie will be deleted.
+2164	The name you entered contains characters\nthat cannot be used.
+2165	The name you entered has been used or cannot be used.\nChange the Show name.
+2166	The name you entered has been used\nor contains characters that cannot be used.
+2167	The name you entered is already in use.
+2168	The name you entered is invalid or is already in use.
+2169	The name you have chosen is too long.
+2170	The network is not available now.
+2171	The operation failed
+2172	The operation failed because no Audio device was found.
+2173	The overwrite confirmation
+2174	The password is not correct. Try again.
+2175	The photo will be deleted.
+2176	The previous program does not match.
+2177	The previous program is invalid.
+2178	The purchase could not be completed.
+2179	The quick brown fox jumps over a lazy dog.
+2180	The quick brown fox jumps over a lazy dog.\nThe quick brown fox jumps over a lazy dog.
+2181	The situation of DVD is not known.
+2182	The size of media is not known.
+2183	The specified title is valid.
+2184	The specified value is invalid.
+2185	The specified video is valid.
+2186	The status of DVD cannot be read.
+2187	The title of the optimization.\n Not be renamed.
+2188	The title of the recording.\n You can not perform the operation.
+2189	The title of the recording.\n You can not record.
+2190	The total playing time of the edited%dOf the time or more\n You can not select a title.
+2191	The track will be deleted.
+2192	The track will be deleted. Do you want to continue?
+2193	The update could not be completed.
+2194	The video of the optimization.\n Can not be deleted.
+2195	The video of the optimization.\n Can not be edited
+2196	The video of the optimization.\n Can not display chapter.
+2197	The video of the optimization.\n Can not protect cancellation.
+2198	The video of the optimization.\n You can not edit cancel.
+2199	The video of the optimization.\n You can not perform the operation.
+2200	The video of the optimization.\n You can not protect.
+2201	The video of the recording.\n Can not be edited.
+2202	The video of the recording.\n Can not display chapter.
+2203	The video of the recording.\n You can not edit cancel.
+2204	The write-in function of a DVD drive cannot be used.
+2205	Then press
+2206	There are no files available to copy.
+2207	There are no photos in this album to do a slideshow.
+2208	There are not enough tokens. Go to Account Manager to purchase tokens.
+2209	There are too many items in this show.\nAdd to Show cancelled.
+2210	There are too many tracks in this album.
+2211	There is a Pict Story that has been created from this album.
+2212	There is a file with the same name\non the hard disk.\nDo you want to overwrite?
+2213	There is a file with the same name\non the memory card.\nDo you want to overwrite?
+2214	There is a recording reservation.
+2215	There is a track that can not be registered DJ.\n Please check the album.
+2216	There is an error in the response to a DNS server.
+2217	There is no Memory Stick.\n Stop record.
+2218	There is no angle.
+2219	There is no corresponding data.
+2220	There is no data available.
+2221	There is no destination to\ncopy to.
+2222	There is no destination to\nmove to.
+2223	There is no error
+2224	There is no item available to add to show.
+2225	There is no item available to import.
+2226	There is no memory card inserted.\nInsert a memory card (PS2) and try again.
+2227	There is no menu.
+2228	There is no photo that can be manipulated.
+2229	There is no photo that can be slide show.
+2230	There is no photo that can be used for Pict Story.
+2231	There is no photo to create a Pict Story.
+2232	There is no photo.
+2233	There is no reservation.
+2234	There is no sound.
+2235	There is no subtitles on this disc.
+2236	There is no title to be record.\n I have to stop record.
+2237	There is no track available.
+2238	There is no track that can be manipulated.
+2239	There is no track you DJ registration.\n DJ, please register the track captured.\n I'll finish the x-DJ.
+2240	There is no word that is registered.
+2241	There is not enough available space on the Memory Stick
+2242	There is not enough free space at the copy destination.
+2243	There is not enough free space on the hard disk.
+2244	There is not enough free space on the hard disk.\nDelete unnecessary\ndata items.
+2245	There is not enough free space on the memory card.\nInsert a memory card (PS2) with enough space.
+2246	There is not enough free space\nat the copy destination.
+2247	There is not enough free space\nat the move destination.
+2248	There is not enough free\nspace to create a folder.
+2249	There is not enough space.
+2250	There is the latest software.
+2251	There was an error in x-DJ registration.\n Data is corrupted.\n DJbox and sound data, the x-DJ user data\n Please delete it.
+2252	These options determine whether or not to leave the part that has been edited from the after optimization.
+2253	They are installed in the machine xDJ function
+2254	This Memory Stick is required format.\n Data written to the Memory Stick\n It will be deleted.\n Are you sure?
+2255	This album cannot be used to do a slideshow.
+2256	This chapter search error.
+2257	This data cannot be copied.
+2258	This data cannot be moved.
+2259	This data is corrupted.
+2260	This disc cannot be started.
+2261	This disk can not be booted.
+2262	This disk can not be imported.
+2263	This download requires a hard disk.
+2264	This download you selected requires
+2265	This game can not be launched.
+2266	This game cannot be started.
+2267	This game requires a disc at startup.
+2268	This game requires a disc for start-up.
+2269	This is not a memory card (PS2).\nInsert a memory card (PS2) and try again.
+2270	This is the list of numbers created by easy setup. 
+2271	This is the wrong disc.
+2272	This item has already been purchased.
+2273	This item is not formatted.
+2274	This photo cannot be displayed.
+2275	This product incorporates copyright protection technology, Macrovision Corporation and other rights owners
+2276	This product is manufactured under license from Dolby Laboratories.
+2277	This product is&quot;DNAS&quot; (Dynamic Network Authentication System)Copyright and that
+2278	This product,RSA Security Inc.RSA(R) BSAFE TM Crypt-C
+2279	This software is based in part of the work of the FreeType Team.
+2280	Thu
+2281	Thumbnail can not register.
+2282	Thumbnail registration 
+2283	Tibetan
+2284	Tibetian
+2285	Tigrinya
+2286	Tijuana
+2287	Tile
+2288	Time
+2289	Time :
+2290	Time Zone
+2291	Time display is forbidden.
+2292	Time is set. 
+2293	Time rec starts in 10 min.
+2294	Time setting
+2295	Time zone
+2296	TimeFormat
+2297	TimeJump
+2298	TimeZone
+2299	Timer recording is finished.\n I will stop the modification of the reservation.
+2300	Timer recording started.\n I'll finish the optimization.
+2301	Timer recording started.\nContinue record?\n\nSelect \"OK\" to stop timer recording.\nSelect \"Cancel\" to stop record.
+2302	Timer starts from %s.\nThis timer recording won't start while record.\nStart record?
+2303	Tirana
+2304	Title
+2305	Title 0
+2306	Title List
+2307	Title is full. Please delete title.
+2308	Title is full.\n Please delete unwanted title.
+2309	Title list
+2310	Title name:
+2311	Title optimization
+2312	Titles are record in this order.
+2313	To DVD%sI will cancel.\nIs it OK?
+2314	To Save
+2315	To change date, press
+2316	To change part to 
+2317	To chng date/time, press
+2318	To clear the current settings, to return to the state at the time of shipment.\n Are you sure?\n data of the program guide, but also will be removed,\n Music and videos you have stored on the hard disk,\n and photo not be deleted.
+2319	To continue
+2320	To continue.
+2321	To create
+2322	To return to factory settings
+2323	To return to the factory default settings of all.\n Are you sure?
+2324	To return, press 
+2325	To switch the channel, but do you really want?
+2326	Tokyo
+2327	Tonga
+2328	Too many chapters.\nCannot dub this title.
+2329	Too many titles selected.\nCannot dub this title.
+2330	Top Menu
+2331	Top search program
+2332	Top surface
+2333	Total Size
+2334	Total capacity
+2335	Track
+2336	Track %d
+2337	Track name :
+2338	Track name:
+2339	Track not be imported.
+2340	Track on the album is full.
+2341	Track you have registered DJ
+2342	Track:
+2343	Tracks
+2344	Traditional Chinese
+2345	Trance
+2346	Transformer
+2347	Tree
+2348	Trim
+2349	Tsonga
+2350	Tue
+2351	Tuner System
+2352	Tuning
+2353	Tunis
+2354	Turkish
+2355	Turkmen
+2356	Twi
+2357	Type
+2358	URL http://www.playstation.com/
+2359	USB Storage
+2360	Ukrainian
+2361	Ukranian
+2362	Unedit
+2363	Unformat Completed.
+2364	Unformat failed.
+2365	Unformat now?
+2366	Unformatted
+2367	Unformatting...
+2368	Uninitialized
+2369	United Kingdom
+2370	United States
+2371	Unknown
+2372	Unknown Error!!
+2373	Unknown error.
+2374	Unprotect
+2375	Unrecognisable disc.\nInsert DVD-RW disc.
+2376	Unviewed
+2377	Update
+2378	Update / Backup
+2379	Update / Download
+2380	Update / End processing
+2381	Update / Installation
+2382	Update / Licensing
+2383	Update / Recovery process
+2384	Update / Software verification
+2385	Update / Update execution confirmation
+2386	Update / Update start confirmation
+2387	Update has been completed.
+2388	Update server not available,
+2389	Update will stop when rec starts. 
+2390	Updated
+2391	Updating information...
+2392	Uptake was terminated.
+2393	Urdu
+2394	Use 
+2395	Use as Icon
+2396	Used Space
+2397	User ID
+2398	User ID :
+2399	User interaction is forbidden.
+2400	User-created
+2401	Uzbek
+2402	VIEWER RESUME
+2403	VIEWER TITLE
+2404	VIEWER prohibited.
+2405	VPS
+2406	VPS/I have Scan the PDC.
+2407	VR mode
+2408	VR mode playlist
+2409	Vaduz
+2410	Valletta
+2411	Value you have entered is invalid.
+2412	Variety
+2413	Version :
+2414	Version Number
+2415	Video
+2416	Video can not be created.
+2417	Video created
+2418	Video creation
+2419	Video creation start
+2420	Video list
+2421	Video mode
+2422	Video name:
+2423	Video settings
+2424	Video settings / Random-record Channel setting
+2425	Videotape recording has not been stopped.
+2426	Vienna
+2427	Vietnamese
+2428	View larger image
+2429	Vilnius
+2430	Visualizer
+2431	Vladivostok
+2432	Voice
+2433	Voice is only one.
+2434	Voice mode:
+2435	Voice switch
+2436	Voice track
+2437	Volapuk
+2438	W Kazakhstan
+2439	Warsaw
+2440	Water
+2441	We DJ registration.
+2442	We mark setting.
+2443	Wed
+2444	Weekly
+2445	Wellington
+2446	Welsh
+2447	When finished, press
+2448	When you run, you can erase contents of the hard disk.
+2449	Windhoek
+2450	Without turning off the network connection and power of this unit
+2451	Wolof
+2452	Word
+2453	World
+2454	Would you like?
+2455	Writing ...
+2456	Writing...
+2457	Xhosa
+2458	YYYY/MM/DD
+2459	YYYY/MM/DD  hh:mm:mm
+2460	Yakutsk
+2461	Year
+2462	Yerevan
+2463	Yes
+2464	Yes (move) 
+2465	Yiddish
+2466	Yoichi Sakai
+2467	Yoruba
+2468	You are about to check in a track from the Memory Stick.
+2469	You are about to check in the entire Memory Stick content.
+2470	You are about to check out the entire directory tree to Memory Stick.
+2471	You are about to check out the entire directory tree to netmd.
+2472	You can create a keyword of your choice.
+2473	You can not DJ registered this track.
+2474	You can not VIEWER in this disk.
+2475	You can not VIEWER in this title.
+2476	You can not bookmark
+2477	You can not change during recording and recording in preparation.
+2478	You can not change the optimization.
+2479	You can not change the program information acquisition.
+2480	You can not change the program information.
+2481	You can not control the DV device\n I have to stop record.
+2482	You can not create a video title any more.
+2483	You can not modify this Pict Story.　　
+2484	You can not operate in this disk.
+2485	You can not operate in this title.
+2486	You can not operate the [Stop] other than the video being created.
+2487	You can not perform this operation.
+2488	You can not play because the playback is restricted.
+2489	You can not play for the Delete temporary state(No messages)
+2490	You can not play this disc.
+2491	You can not play this title
+2492	You can not record the title.
+2493	You can not run a scheduled recording video creation.
+2494	You can not run the playback mode.
+2495	You can not select a title any more.
+2496	You can not set the point B in the same position as the A point.
+2497	You can not start is no game area\Please create a game area in HDD.
+2498	You can not start is no registration DJ music\Please perform the registration of DJ music tracks
+2499	You can not stop the process authentication.
+2500	You can not stop the process of certification.
+2501	You can not use characters.
+2502	You can not use this memory stick.\n Stop record.
+2503	You can not use this phrase.
+2504	You can not write the Memory Stick error.\n Stop record.
+2505	You can set the following information to the track to take.
+2506	You can set the function of flash in L2 · R2 button.
+2507	You can set the function of flash in L2 · R2 button.\n Please perform the left and right of the joystick search.\n Are you sure?
+2508	You can set the function of the search in L2 · R2 button.
+2509	You can set the function of the search in L2 · R2 button.\n Please go from the control panel flash.\n Are you sure?
+2510	You can start record by press the.
+2511	You copy photo of all that can be taken up.
+2512	You do not have the capacity to capture(LPCM)。
+2513	You have selected the following settings:
+2514	You might not be able to run properly recording reservation.
+2515	You must log in to continue.
+2516	You register a DJ track of all that is the album.\n Are you sure?
+2517	Zagreb
+2518	Zulu
+2519	and go to “Main Unit Setup/”HDD Format Setup”.
+2520	and press 
+2521	apply settings
+2522	artist name :
+2523	auto ch set up
+2524	auto ch setup
+2525	auto mode
+2526	by
+2527	classification 
+2528	connection failed
+2529	core
+2530	d3des  Copyright &#169; 1988, 1989, 1990, 1991, 1992 by Richard Outerbridge. 
+2531	date of creation :
+2532	delete all keywords.\n Are you sure?
+2533	deleted.
+2534	dummy
+2535	e-Distribution
+2536	error autoset IP address.
+2537	error of PPPoE.
+2538	error proxy settings.
+2539	fadein
+2540	fadeout
+2541	fallin
+2542	file format :
+2543	file format:
+2544	finalizing
+2545	finish the easy setting.
+2546	foo-bar
+2547	footime
+2548	for Unix Copyright &#169;2000
+2549	fork
+2550	formatting
+2551	getting the program information.\n I will stop the current operation.
+2552	hip hop
+2553	initializing
+2554	interval : 0.5 sec
+2555	interval : 15 sec
+2556	interval : 6 min
+2557	invalid time
+2558	jazz
+2559	kbps
+2560	libjpeg   This software is based in part on the work of the independent JPEG Group
+2561	not enough free space HDD.
+2562	nterpolation
+2563	option
+2564	or turn off the power
+2565	or turn off the power.
+2566	pack:pvrEdit/0.1.0/art/BtnNav-Cir-917.png
+2567	pack:pvrEdit/0.1.0/art/arrow_LR_s.tga
+2568	pack:pvrEdit/0.1.0/art/cross.tga
+2569	pack:pvrEdit/0.1.0/art/helpdlg.png
+2570	pack:xMB_Plugin_Settings/0.1.0/art/Nail-Conf-Console.png
+2571	pack:xMB_Plugin_Settings/0.1.0/art/Nail-Conf-DVD.png
+2572	pack:xMB_Plugin_Settings/0.1.0/art/Nail-Conf-EasySettings.png
+2573	pack:xMB_Plugin_Settings/0.1.0/art/Nail-Conf-Game.png
+2574	pack:xMB_Plugin_Settings/0.1.0/art/Nail-Conf-IM.png
+2575	pack:xMB_Plugin_Settings/0.1.0/art/Nail-Conf-Kbd.png
+2576	pack:xMB_Plugin_Settings/0.1.0/art/Nail-Conf-Music.png
+2577	pack:xMB_Plugin_Settings/0.1.0/art/Nail-Conf-Network.png
+2578	pack:xMB_Plugin_Settings/0.1.0/art/Nail-Conf-Photo.png
+2579	pack:xMB_Plugin_Settings/0.1.0/art/Nail-Conf-Remocon.png
+2580	pack:xMB_Plugin_Settings/0.1.0/art/Nail-Conf-System.png
+2581	pack:xMB_Plugin_Settings/0.1.0/art/Nail-Conf-SystemUpdate.png
+2582	pack:xMB_Plugin_TV/0.1.0/art/ICN_EPG.png
+2583	pack:xMB_Plugin_TVSetup/0.1.0/art/Nail-Conf-TV.png
+2584	pack:xMB_Plugin_VideoSetup/0.1.0/art/Nail-Conf-Video.png
+2585	pack:xMB_Plugin_VideoUtil/0.1.0/art/ICN_Burn.png
+2586	pack:xMB_Plugin_VideoUtil/0.1.0/art/ICN_DVD.png
+2587	pack:xMB_Plugin_VideoUtil/0.1.0/art/ICN_DV_Dubbing.png
+2588	pack:xMB_Plugin_VideoUtil/0.1.0/art/ICN_OMAKASE.png
+2589	pack:xMB_Plugin_VideoUtil/0.1.0/art/ICN_ResList.png
+2590	pack:xMB_Plugin_VideoUtil/0.1.0/art/ICN_TmRes.png
+2591	press X to exit
+2592	press,you can change the time.
+2593	progressive
+2594	quakeout
+2595	record
+2596	remove a keyword.\n Are you sure?
+2597	rotateout
+2598	sample x-Pict Story
+2599	saved.
+2600	select optical out.
+2601	size :
+2602	size album:
+2603	slidein
+2604	soundtrack
+2605	standard
+2606	start set up
+2607	summer/winter
+2608	swingin
+2609	tama happy tone
+2610	techno
+2611	the entered name cannot be used.
+2612	the ~rgn.ArtConfirm~ button to finish Easy Settings.
+2613	the ~rgn.ArtConfirm~ button to finish.
+2614	then
+2615	title[%d]A debug error occurred in
+2616	to adjust. 
+2617	to continue.
+2618	to perform the requested operation
+2619	to sel item, 
+2620	to select
+2621	to select DTS
+2622	to select Scart combination.
+2623	to select area
+2624	to select aspect ratio of your TV. 
+2625	to select lang
+2626	to select method
+2627	to start easy set up.
+2628	tokens
+2629	upon completion.
+2630	word
+2631	work correctly in your current environment.
+2632	world
+2633	x-DJ
+2634	x-I am a start-up preparation of DJ.
+2635	x-Omakase-record
+2636	x-Pict Story
+2637	~pack:xMbar/0.1.0/art/psx_logo.png~\nThe quick brown fox jumps over a lazy dog.\n~pack:xMbar/0.1.0/art/psx_logo.png~
+2638	· DNS configuration of the router or the unit is the correct value
+2639	· The router/hub/modem/ONU between this unit
+2640	↑ ↓ Please select the item you want to modify.
+2641	�ontents:
+2642	（DVD+RW use）
+2643	（DVD+RW）
+2644	Ａ-Ｂ Repeat

@@ -1,0 +1,321 @@
+1420	Maskat
+1421	Musik
+1422	Musikeinstellungen
+1423	Musik1
+1424	Musik2
+1425	Musik3
+1427	Grönland (NW)
+1428	Name
+1429	Name (aufsteigend)
+1430	Name (absteigend)
+1431	Name ungültig oder bereits verwendet.
+1432	Der eingegebene Name ist ungültig oder wird bereits verwendet.
+1434	Nepalesisch
+1436	Nepalesisch
+1437	Netzmaske
+1438	Netzmaske :
+1439	Netzmaske oder IP-Adresse,
+1440	Netzmaske oder Standard-Router,
+1443	Niederlande
+1444	Netzwerk-Download
+1445	Netzwerk-Update
+1446	Netzwerkverbindung hergestellt.
+1447	Netzwerkverbindung und Stromversorgung dieses Geräts
+1448	Netzwerkeinstellungen
+1449	Netzwerkeinstellungen / DNS konfigurieren
+1450	Netzwerkeinstellungen / PPPoE konfigurieren
+1451	Netzwerkeinstellungen / Verbindungstest
+1452	Netzwerkeinstellungen / Einstellung abgeschlossen
+1453	Netzwerkeinstellungen / Einstellung starten
+1454	Netzwerkeinstellungen / IP-Adresse einstellen
+1455	Netzwerkeinstellungen / Einstellungsliste
+1456	Netzwerk wird getestet.
+1457	Neu
+1459	Neues Album
+1460	Neukaledonien
+1461	Neuer Ordner
+1463	New Music
+1465	Neufundland
+1466	Weiter
+1467	Nächste Programmsuche
+1468	Nikosia
+1469	Abends : 17:00 - 0:00
+1470	Nein
+1471	Keine Dateien zum Kopieren.
+1472	Keine Elemente
+1473	Kein PSC-Fehler
+1474	Es können keine weiteren Shows erstellt werden.\nBitte eine andere Show wählen.
+1475	Es können keine weiteren Alben erstellt werden.\nBitte ein anderes Album wählen.
+1476	Name nicht geändert, Umbenennen abgebrochen.
+1477	Keine Disc.\nBitte eine DVD-RW einlegen.
+1478	Keine Disc.\nBitte eine beschreibbare Disc einlegen.
+1479	Kein Spielebereich.\n Bitte in der HDD-Bereichseinstellung einen Spielebereich erstellen.\n x-DJ wird beendet.
+1480	Kein Genre
+1481	Kein Menüelement.\nAufnahme beendet.
+1482	Keine Menüvorlage.\nAufnahme beendet.
+1483	Keine Sitzung.\nAufnahme beendet.
+1484	Kein Titel.\nAufnahme beendet.
+1485	Keine
+1486	Nicht angegeben
+1487	Mittags : 11:00 - 18:00
+1489	Norwegen
+1490	Norwegisch
+1491	Während der Optimierung kann nicht kopiert werden.
+1492	Titel kann nicht importiert werden
+1493	Keine Netzwerkverbindung.
+1494	Keine Netzwerkverbindung.
+1495	Nicht genügend HDD-Speicher oder HDD-Fehler.
+1496	Nicht genügend Platz auf der Disc.\nDieser Titel kann nicht überspielt werden.
+1497	Nicht genügend freier Speicher auf der HDD.\n Bitte nicht benötigte Titel oder Fotos löschen.
+1498	Nicht genügend Speicher ( unsichtbar )
+1499	Nicht genügend Speicher ( tmp )
+1500	Einstellungen können nicht gespeichert werden.
+1501	BS-Antennenstrom kann nicht eingeschaltet werden.
+1502	Nicht aufnehmen
+1503	Nicht anhalten
+1504	Keine normale Wiedergabe (keine Meldung)
+1505	Gerät nicht ausschalten.
+1506	Für die angegebene Zeit ungültig.
+1507	Läuft gerade!
+1508	Anzahl Titel :
+1510	OK ( unsichtbar )
+1513	Okzitanisch
+1514	Der PSX-&#34;DNAS&#34;-Authentifizierungszeitraum ist abgelaufen.
+1515	Der PSX-&#34;DNAS&#34;-Authentifizierungszeitraum hat noch nicht begonnen.
+1516	von Sony Computer Entertainment Inc. zum Schutz der Sicherheit
+1517	Aus
+1519	(Ältestes zuerst) Datum
+1521	Ein
+1522	Nach dem Formatieren werden die Daten nicht mehr\n im Player angezeigt und gelöscht.\n Sind Sie sicher?
+1523	Bedienfeld
+1524	Opt. Ausgang
+1525	Optischer Ausgang
+1526	Optischer Ausgang
+1527	Einstellung optischer Ausgang
+1528	Optimierung
+1529	Optimierung fehlgeschlagen.\nÜberspielung wird beendet.
+1530	Optimierung abgeschlossen.
+1531	Optimierung oder Aufnahme läuft.\n Überspielen nicht möglich.
+1532	Optimierung anhalten
+1533	Titel optimieren
+1534	Optimierung: Um Speicherplatz zu schaffen, Bearbeitungsbereich löschen.\n 'Titeloptimierung' löschen wählen
+1535	Wird optimiert    %d％
+1536	Option
+1537	Optionen
+1538	Oder eine bereits erstellte Pict Story
+1539	Oder die IP-Adresse des Standard-Routers,
+1540	Oder
+1541	Zum Schreiben auf den Memory Stick
+1542	Originaltitel
+1545	Sonstige
+1546	Kapazität überschritten
+1547	Wird überschrieben.\n Sind Sie sicher?
+1548	Petropawlowsk-Kamtschatski
+1550	WIEDERGABEMODUS LÖSCHEN
+1556	Der PSX-&#34;DNAS&#34;-Authentifizierungszeitraum ist abgelaufen.
+1557	Der PSX-&#34;DNAS&#34;-Authentifizierungszeitraum hat noch nicht begonnen.
+1560	Pazifik (Kan)
+1561	Pazifik (USA)
+1562	Panama-Stadt
+1563	Jugendschutzstufe
+1564	Jugendschutz-PIN
+1565	Jugendschutz-Passwort
+1566	Jugendschutz-Region
+1567	Jugendschutzstufe
+1568	Jugendschutzstufe eingestellt
+1569	Jugendschutz-Region
+1571	Paschtu
+1572	Paschtu
+1573	Paschtu
+1574	Passwort
+1575	Passwort :
+1577	Pausenmodus
+1578	Dauerhaft
+1579	Persisch
+1580	Die PIN stimmt nicht überein.
+1582	Philippinen
+1583	Telefoneinstellungen
+1584	Foto
+1585	Foto %d
+1586	Fotoeinstellungen
+1587	Das Album ist voll.
+1588	Einige Fotos konnten nicht importiert werden
+1589	Fotos
+1590	Pict-Story-Bearbeitung wird beendet.
+1592	Pict Story :
+1593	Pict-Story-Auswahl
+1594	Pict-Story-Bearbeitung beenden
+1595	Pict Story aus den Fotos im Album
+1596	Bildspeicher beenden
+1597	Bildspeicher
+1598	Wiedergabe
+1599	Die Wiedergabe wird beim nächsten Mal von hier fortgesetzt.
+1600	Von Anfang an abspielen
+1601	Spieldauer
+1602	PlayStation®-Disc \n Lesegeschwindigkeit
+1603	PlayStation®-Spiele \n Texturglättung
+1604	PlayStation®-Disc-Lesegeschwindigkeit
+1605	PlayStation®-Format-Software
+1606	PlayStation®-Format-Software
+1607	PlayStation®-Texturglättung
+1608	PlayStation®2-Format-Software
+1609	PlayStation®2-Format-Software
+1610	PlayStation®2-Format-Software
+1611	PlayStation®2-Format-Disc.
+1612	Wiedergabe
+1613	Wiedergabebeginn
+1614	Wiedergabezeit:
+1616	Bitte drücken.
+1617	Bitte Gerät aus- und wieder einschalten.
+1618	Bitte haben Sie etwas Geduld.
+1619	Bitte die VPS/PDC-Suchlauf-Einstellung ändern.
+1620	Bitte den Namen ändern.
+1621	Bitte IP-Adresse prüfen.
+1622	Bitte angeschlossenes Gerät prüfen.
+1623	Bitte das Album prüfen.
+1624	Bitte die aktuelle Uhrzeit prüfen.
+1625	Bitte folgende Punkte prüfen.
+1626	Bitte eingegebenen Standard-Router prüfen.
+1627	Bitte eingegebene Netzmaske prüfen.
+1628	Bitte Eingabe prüfen.
+1629	Bitte die Fotos im Album prüfen.
+1630	Bitte primären DNS prüfen.
+1631	Bitte sekundären DNS prüfen.
+1632	Bitte Netzwerkeinstellungen prüfen.
+1633	Bitte prüfen.
+1634	Bitte Vorgang abschließen.
+1635	Bitte wenden Sie sich an den Kundendienst.
+1636	Bitte löschen.
+1637	Bitte nicht benötigte Pict Storys löschen.
+1638	Bitte nicht benötigte Titel löschen.
+1639	Memory Stick bitte nicht entfernen.
+1640	Bitte nicht ausschalten
+1641	Bitte nicht ausschalten.
+1642	Bitte nicht ausschalten.
+1643	Audiogerät bitte nicht entfernen
+1644	Memory Stick bitte nicht entfernen
+1645	Bitte den zu registrierenden Ausdruck bearbeiten.
+1646	Bitte 4-stellige PIN eingeben.
+1647	Bitte eine PlayStation®- oder
+1648	Bitte eine Disc einlegen.
+1649	Bitte drücken Sie
+1650	Bitte drücken.
+1651	Bitte etwas warten und erneut verbinden.
+1652	Bitte erneut verbinden.
+1653	Bitte nicht benötigte Titel, Musik oder Fotos löschen
+1654	Bitte nicht benötigte Titel, Musik oder Fotos löschen.
+1655	Zum Neustart bitte drücken.
+1656	Weitere Informationen unter „Über PSX“ und in der BSD-Lizenz.
+1657	Speicherkarte für den Download wählen
+1658	Bitte eine andere Pict Story wählen.
+1659	Bitte eine Pict Story wählen.
+1660	Bitte eine Zeit wählen.
+1661	Bitte ein Album wählen.
+1662	Bitte ein anderes Album wählen.
+1663	Bitte Region wählen.
+1664	Bitte BGM wählen.
+1665	Bitte DNS-Einstellung wählen.
+1666	Bitte Speicherort wählen.
+1667	Bitte Album wählen
+1668	Bitte die einzugebenden Punkte wählen.
+1669	Bitte Punkte wählen.
+1670	Bitte Modus wählen.
+1671	Bitte Wort wählen.
+1672	Bitte korrekte Aufnahmemethode einstellen.
+1673	Bitte erneut einstellen.
+1674	Bitte korrekten Aufnahmemodus einstellen.
+1675	Bitte korrekte Aufnahmequalität einstellen.
+1676	Bitte korrektes Genre einstellen.
+1677	Bitte korrekten Sender einstellen.
+1678	Bitte korrektes Datum einstellen.
+1679	Bitte korrekte Endzeit einstellen.
+1680	Bitte korrekte Bildgröße einstellen.
+1681	Bitte korrekte Startzeit einstellen.
+1682	Bitte korrekte Zeitverlängerung einstellen.
+1683	Bitte einstellen.
+1684	Bitte Video erstellen
+1685	Bitte Video erstellen.
+1686	Bitte erneut aktualisieren.
+1687	Bitte warten
+1688	Bitte warten, bis das Spiel startet.
+1689	Bitte warten, bis die Netzwerkverbindung steht
+1690	Bitte warten und Gerät nicht ausschalten.
+1691	Bitte warten.
+1692	Bitte warten...
+1693	Bitte.
+1694	Polnisch
+1697	Schlager
+1698	Portugiesisch
+1699	Nachtrag
+1700	Prag
+1702	Aufnahme wird vorbereitet.\n Zum Aufnehmen bitte die Timer-Aufnahme löschen.
+1703	Drücken Sie
+1704	Drücken Sie
+1705	Zum Fortfahren beliebige Taste drücken.
+1706	R3-Taste drücken.
+1707	Zum Starten rechte Richtungstaste drücken.
+1708	Zum Abbrechen drücken.
+1709	Drücken,
+1710	Drücken, um einen Wert zu ändern oder einzugeben.
+1711	Drücken, um den Wert zu ändern.
+1712	Zum Auswählen drücken.
+1713	Zurück
+1714	Primärer DNS
+1715	Primärer DNS :
+1716	Timer-Aufnahme wurde Vorrang gegeben.
+1717	Kauf wird verarbeitet... einen Moment bitte.
+1718	Anmeldedaten werden verarbeitet. Bitte warten…
+1719	Produziert von
+1720	Produktcode
+1721	Programmsuche ist nicht zulässig.
+1722	Programmführer
+1723	Programmführer-Sender
+1724	Programmführer-Zeit
+1725	Programmierung aus Programmführer
+1726	Sendungsverfolgung
+1727	Sendungsverfolgung :
+1728	Fortschritt
+1729	Progressiv
+1731	Progressive Ausgabe
+1732	Schützen
+1733	Schutz :
+1734	Protokollfehler.
+1735	Herausgeber
+1737	Pandschabi
+1740	Schnell-Timer
+1741	Schnelleinrichtung beenden?
+1742	Beenden?
+1743	R1-Taste:
+1744	R2-Taste:
+1747	WIEDERHERSTELLEN
+1748	FORTSETZEN AUS
+1749	FORTSETZEN EIN
+1751	RSA Security Inc. Alle Rechte vorbehalten.
+1752	Zufall
+1753	Auto-Aufnahme
+1754	Auto-Stichwörter :
+1755	Auto-Aufnahme
+1756	Auto-Programmierung
+1757	Auto-Aufnahme
+1758	Auto-Aufnahme :
+1759	Auto-Aufnahme \n Max. Aufnahmezeit
+1760	Auto-Aufnahme / Eigene Stichwörter
+1761	Auto-Aufnahme \n Sendereinstellung
+1762	Aufn.
+1763	Empfang
+1764	Bitte etwas warten und erneut verbinden.
+1765	Aufnehmen
+1766	Aufnahme abgebrochen.
+1767	Aufnahme abgeschlossen.
+1768	Aufnahme abgeschlossen. Gerät ausschalten?
+1769	Aufnahme abgeschlossen.\nAufnahme beendet.
+1770	Aufnahme beendet.
+1771	Von HDD auf Disc aufnehmen.
+1772	Aufnahmemodus
+1773	Aufnahmemodus:
+1774	Timer-Aufnahme beginnt.\n Der aktuelle Vorgang wird beendet.
+1775	Aufnahme beendet.
+1776	Tonaufnahme DVD
+1777	Tonaufnahme HDD
+1778	Aufnahme wurde abgebrochen.\nAufnahme beendet.
+1779	Titel nur einmal aufnehmbar,\n wird als Blaubild aufgenommen.

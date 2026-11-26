@@ -1,0 +1,319 @@
+700	DVD-Gerätefehler.\nAufnahme beendet.
+701	DVD-Treiberfehler
+702	DVD-Menüsprache
+703	Legt fest, wie mit Haupt- + Nebenton aufgenommener Ton\n auf DVD-RW (Video-Modus), DVD-R und DVD+RW überspielt wird.
+704	DVD-RW-Aufnahmemodus ändern
+705	DVD-RW-Modus
+706	Damaskus
+707	Dänisch
+708	Daten
+709	Daten-CD
+710	Datenelemente
+711	Datum
+712	Enddatum:
+713	Startdatum:
+714	Datumsformat
+715	Tag
+716	Sommerzeit
+717	Sommerzeit
+718	Festlegen
+719	Entscheidung
+720	Ablehnen
+721	Standard-Router
+722	Standard-Router :
+723	Löschen
+724	Ordner löschen
+725	Spielebereich und Spiele auf der Festplatte löschen,
+726	Alle Titel in diesem Album löschen.
+727	Alle Videos löschen
+728	Löschen abgebrochen.
+729	Löschen abgeschlossen.
+730	Löschen beendet.
+731	Ausdruck löschen.\n Sind Sie sicher?
+732	Aufnahmeprogrammierung löschen.\n Sind Sie sicher?
+733	Nicht benötigte Datenelemente löschen.
+734	Nicht benötigte\nDatenelemente löschen.
+735	Löschen.
+736	Wird gelöscht%3d％
+737	Wird gelöscht.
+738	Wird gelöscht. Bitte warten...
+739	Wird gelöscht...
+740	Wird gelöscht…
+741	Löschvorgang läuft
+742	Dänemark
+743	Beschreibung
+744	Detailansicht
+745	Gerät
+747	Kein Buchstabe eingegeben
+748	Digital
+749	Digitaler Audioplayer
+750	Digitalkamera
+751	Digitalausgang
+752	Ablehnen
+753	Disc
+754	Disc-Typ
+755	Disc-Prüfung abgeschlossen.
+756	Falsche Disc.
+757	Disc-Typ :
+759	Disc
+760	Disc kann nicht gelesen werden.
+761	Keine Disc eingelegt.
+762	Disc-Format ist ungültig.
+763	Disc-Titelname
+764	Disc-Belegung der DVD-Überspielung:
+765	Anzeige
+766	Anzeigeinhalt
+767	Sender anzeigen
+768	Anzeigesprache
+769	Vertrieb
+770	Nicht erstellen
+771	Speicherkarte nicht entfernen.
+772	Speicherkarten nicht entfernen.
+773	Nicht ausschalten.
+774	Konsole nicht ausschalten und CD nicht entfernen.
+775	Konsole nicht ausschalten und Memory Stick nicht entfernen.
+776	Konsole nicht ausschalten und\nMedium nicht entfernen.
+777	Konsole nicht ausschalten.
+778	Gerät nicht ausschalten.
+779	Akzeptieren Sie die Lizenz?
+780	Möchten Sie?
+781	Möchten Sie ändern?
+782	Möchten Sie fortfahren?
+783	Dieses Element löschen?
+784	Jetzt formatieren?
+785	Dieses Element verschieben?
+786	Daten am Zielort\nüberschreiben?
+787	Daten am Zielort\nüberschreiben?
+788	Dieses Element umbenennen?
+789	Ersetzen?
+790	Einstellungen speichern?
+793	Dolby Digital :
+794	Dolby Digital-Einstellung
+795	Dolby und das Doppel-D-Symbol sind Marken von Dolby Laboratories.
+796	Gerät nicht ausschalten
+797	Gerät nicht ausschalten und Speicherkarte nicht entfernen
+798	Herunterladen
+799	Download-Vereinbarung
+800	Download-Fehler!
+801	Download-Info
+802	Download-Informationen
+803	Download-Fehler.
+804	Wird heruntergeladen
+805	Wird heruntergeladen...
+807	Drum & Bass
+808	Drum 'n' Bass
+809	Überspielen
+810	Wird überspielt...
+812	Duplex
+813	Anzahl Kopien:
+814	Dauer:
+815	Dauer:
+816	Während Aufnahme oder Optimierung\n kann nicht initialisiert werden.
+817	Wird konvertiert ...
+818	Beim Update ist die Kommunikation mit dem Server fehlgeschlagen.
+819	Beim Update ist die Verbindung zum Server fehlgeschlagen.
+820	Beim Update wurde die Kommunikation mit dem Server unterbrochen.
+821	Während des Updates wird das Gerät neu gestartet
+822	Niederländisch
+823	Grönland (Ost)
+824	Kasachstan (Ost)
+830	Ost (Kan)
+831	Osterinsel
+832	Ost (USA)
+833	Schnelleinstellung
+834	Schnelleinstellungen
+835	Schnelleinstellungen werden abgebrochen.
+836	Die Schnelleinstellungen bereiten die Konsole vor, um
+837	Schnelleinrichtung
+838	Kantenschärfung
+839	Bearbeiten
+840	Bearbeiten - Vorschau
+841	Bearbeiten :
+842	Registrierten Ausdruck bearbeiten
+843	Bearbeitungsbereich
+844	Bearbeitung abgeschlossen.
+845	Bearbeitung nicht gespeichert.
+846	Bearbeitung abgebrochen.
+847	Bearbeitung wird abgeschlossen
+848	Effekt 1
+849	Effekt 2
+851	Menü wird kodiert...
+852	Ende
+853	Endpunkt
+854	Einrichtung beenden
+855	Einstellung beenden
+856	Schnelleinrichtung beenden
+857	Englisch
+858	Englische Tastatur
+860	Eingabe
+861	Einen anderen Namen eingeben.
+862	Ordnernamen eingeben.
+863	Zeichen eingeben.
+864	4-stelliges Passwort eingeben.
+865	4-stelliges Passwort eingeben.
+866	Benutzernamen eingeben.
+867	Namensfehler: Name wird bereits verwendet.
+868	Telefoneinstellung (Omakase)
+869	Fehler
+870	Fehler bei Geräteinformationen.
+871	Fehler
+872	DNS-Serverfehler.
+873	Fehlercode TERMINATE
+874	Fehlercode:
+875	Fehlercode:
+876	Fehlernummer:
+877	Fehlernummer:
+878	Einstellungsfehler.
+880	Estnisch
+883	Abendnachrichten
+884	Täglich
+885	Jeden (Fr)
+886	Jeden (Mo)
+887	Jeden (Sa)
+888	Jeden (So)
+889	Jeden (Di)
+890	Jeden (Do)
+891	Jeden (Mi)
+892	Täglich
+893	Ausschlusswort
+894	ExecFormat-Fehler [-8]
+895	Beenden
+896	Bearbeitung beenden.
+897	Assistent beenden, wenn Sie neu starten möchten.
+898	Ohne Speichern beenden?
+900	Ext.
+901	Externer Eingang 1 \n Führungssender
+902	Externer Eingang 2 \n Führungssender
+903	Externer Audioeingang
+904	Externer Videoeingang 1
+905	Externer Videoeingang 2
+907	FEI-Projekt
+908	FOLK UND TRADITIONELL
+909	Färöisch
+910	Aufnahme fehlgeschlagen.
+911	Aufheben der Finalisierung fehlgeschlagen.
+912	Aufheben der Finalisierung fehlgeschlagen.\nAufnahme beendet.
+913	DVD-Menü konnte nicht erstellt werden.\nÜberspielung wird beendet.
+914	Löschen fehlgeschlagen.
+915	Überspielen auf Disc fehlgeschlagen.\nAufnahme beendet.
+916	Finalisierung fehlgeschlagen.
+917	Finalisierung fehlgeschlagen.\nAufnahme beendet.
+918	Formatieren der Disc fehlgeschlagen.\nAufnahme beendet.
+919	Disc konnte nicht gelesen werden.
+920	Disc-Prüfung konnte nicht gestartet werden.
+921	Finalisierung konnte nicht gestartet werden.
+922	Aufnahme konnte nicht gestartet werden.
+923	Aufnahme konnte nicht beendet werden.\nAufnahme beendet.
+924	Fehlgeschlagen
+925	Titel konnte nicht konvertiert werden.\n Aufnahme wird beendet.
+926	Löschen aller Videos fehlgeschlagen.\n Aufnahme wird beendet.
+927	Fehler. Einchecken wegen internem Fehler unvollständig.
+928	Färöisch
+929	Schnell
+930	Schneller Vorlauf
+931	Schneller Rücklauf
+932	Schnellwiedergabe
+933	Fidschi
+934	Datei
+935	Datei %d
+936	Dateityp
+937	Datei ist beschädigt.\n Bearbeiten nicht möglich.
+938	Dateien
+939	Dateien:
+940	Filmgerät
+941	Finalisieren
+942	Wird finalisiert...
+943	A-Punkt suchen
+944	Fertig
+945	Aufnahme beenden.
+946	Finnland
+947	Finnisch
+948	Feuer
+949	Aufnahmemodus wird fixiert. OK?\nTitel mit fixiertem Aufnahmemodus\nwerden nicht automatisch angepasst.
+951	Flash ＋
+952	Flash －
+953	Ordner
+954	Ordner %d
+955	Ordner
+960	Fußball
+961	Für PSX
+962	Für alle Titel im Album\n wird die DJ-Registrierung aufgehoben.\n Sind Sie sicher?
+963	Wegen Wartungsarbeiten nicht verfügbar.
+964	Zur Optimierung des Videotitels
+965	Video kann wegen laufender Aufnahme nicht erstellt werden.
+966	Video kann während der Aufnahme nicht erstellt werden.
+967	Zum Zurückkehren.
+968	Formatieren
+969	Formatierung abgeschlossen.
+970	Formatierung fehlgeschlagen.\n Aufnahme wird beendet.
+971	DVD formatieren.
+972	Vollständig formatiert.\nFormatierung abgeschlossen.
+973	Formatiert.
+974	Formatierung abgeschlossen.
+975	Formatierung beendet.
+976	Wird formatiert%3d％
+977	Wird formatiert. Bitte warten...
+978	Wird formatiert...
+979	Bild
+980	Frankreich
+981	Freier Speicher
+982	Freier Speicher
+983	Freier Speicher auf dem Memory Stick: %d MB.\n Bitte eine Funktion wählen.
+984	Französisch
+985	Frequenz
+986	Fr
+987	Freunde
+988	Friesisch
+989	Tuner über das Bedienfeld anzeigen
+990	Vorderseite
+991	Vorderseite + Oberseite
+992	Vollständige Liste
+995	Galicisch
+996	Spiel
+997	Spiel-ID
+998	Spieleinstellungen
+999	Spielebereich ist eingestellt auf
+1000	Spielfunktion
+1001	HDD-Nutzung Spiele:
+1002	Genre :
+1003	Genre:
+1004	Genre
+1005	Genre / Untergenre
+1006	Regionseinstellung
+1007	Georgisch
+1008	Deutsch
+1009	Deutschland
+1010	Programminformationen werden abgerufen.\n Der aktuelle Vorgang wird beendet.
+1013	Griechisch
+1014	Grönländisch
+1017	Programmführer
+1018	Führungssender
+1019	Führungssender überschneiden sich.\n Bitte Einstellungen prüfen.
+1021	HDD-Bereichseinstellung
+1022	HDD-Lesefehler.
+1023	HDD → DVD-Aufnahme
+1024	HDD→M.S.-Aufnahme
+1025	HDD→M.S.-Aufnahme / Alle Videos löschen
+1026	HDD→M.S.-Aufnahme / Formatieren
+1027	HDD→M.S.-Aufnahme / M.S.-Prüfung
+1028	HDD→M.S.-Aufnahme / Start
+1029	HDD→M.S.-Aufnahme / Titelauswahl
+1030	HDD→M.S.-Aufnahme / Schreiben
+1031	HDD→M.S.-Aufnahme / Aufnahme bestätigen
+1032	HDD→M.S.-Aufnahme
+1034	Festplatten-Formatinfo
+1036	Festplatte ist voll.\n Bitte nicht benötigte Titel löschen.
+1039	Entfernen fehlgeschlagen.
+1040	Eingestellt
+1043	Hebräisch
+1044	Hilfe
+1046	Hohe Geschwindigkeit
+1050	Hongkong
+1051	Stunde
+1053	Ungarisch
+1054	DJ-Registrierung für alle Titel im Album wird aufgehoben.
+1055	Netzwerkverbindung wurde abgebrochen.
+1056	DJ Box SE wird zum Start vorbereitet
+1057	Es wird ein Authentifizierungssystem verwendet. Die Übertragung der Programme oder Deaktivierung des Systems,
+1058	Keine Verbindung zum Netzwerk möglich.
+1059	Bearbeitung wird abgebrochen.

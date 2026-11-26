@@ -1,0 +1,215 @@
+9	 to start dubbing.
+10	%$3:Item %1$s is not in menu template \'%3$s\'.
+11	%$3:Session '%3$s' to be finalized is invalid.
+12	%$3:Menu template \'%3$s\' does not exist.
+13	%d %d Titles will be full on this day.\n Please delete unwanted titles.
+14	%d %d Hard disk space will run out on this day.\n Please delete unwanted titles, tracks or photos.
+17	A timer recording is scheduled within %d hours (%s).\nTimer recordings will not start during dubbing.\nStart dubbing anyway?
+18	A timer recording is scheduled within %dh %dmin (%s).\nTimer recordings will not start during dubbing.\nStart dubbing anyway?
+24	%sTime remaining:  %2d%2d
+25	&#34;DNAS&#34;: An error has occurred.
+26	&#34;DNAS&#34;: Authentication error.
+27	&#34;DNAS&#34;: Authenticating.
+28	&#34;DNAS&#34;: Connection to the server timed out.
+29	&#34;DNAS&#34;: Connection to the server timed out.
+30	&#34;DNAS&#34;: Failed to connect to the server.
+31	&#34;DNAS&#34;: Failed to connect to the server.
+32	&#34;DNAS&#34;: Server error.
+33	&#34;DNAS&#34;: Server is not working properly.
+34	&#34;DNAS&#34;: Server error.
+35	&#34;DNAS&#34;: Server is not working.
+36	&#34;DNAS&#34;: Error.
+39	&quot;、&quot;PSX&quot; and &quot;PlayStation&quot;
+40	( After editing :                       )
+41	(Afan) Oromo
+42	(Afan) Oromo
+46	(Newest first) Date
+50	(Thu)
+52	+This disc is in VR mode.\nWrite to it?
+60	--:--xM - --:--xM Station name
+61	- that the cable is connected to the correct port
+62	..:..xM - ..:..xM Station name
+128	104 Kure
+146	12-Hour Clock
+156	127 Oita
+163	132 kbps (HQ sound)
+171	18 Ninohe
+178	24-Hour Clock
+186	3 Thumbnails (special layout)
+193	34 Yaita
+198	4:3 Pan Scan
+200	4 Thumbnails
+211	4:3 Letterbox
+214	4:3 Pan Scan
+215	4:3 Letterbox
+234	65 Takayama
+252	8 Thumbnails
+263	8 cm discs are not supported.
+269	94 Nanki-Tanabe
+276	The DVD drive is in use.
+277	Detail display area 1.
+278	Detail display area 2.
+281	A library could not be loaded.
+282	A login error occurred.
+283	The tray is not closed.
+284	AIDJ and DJbox are
+289	ATOK is a registered trademark of Justsystem Corporation.
+293	Will be about 17 hours shorter (in SP recording mode).
+296	Dubbing ends in %d min %d
+297	Dubbing ends in %d h %d
+298	Recording ends in: %time%d
+301	Add to Show
+305	Adding...\nDo not turn off the console or remove the media.
+307	Next
+310	After turning the unit off and on again
+311	After turning the unit off and on again, at a later time
+312	After this change, dubbing to DVD-RW (VR mode)\n will use the bilingual audio settings for DVD recording.\n Continue?
+313	After the DVD menu has been created,\ndubbing will start automatically.
+314	The DJ registration will be cancelled and the track deleted.
+315	After the change
+316	After the change,
+317	After recording ends, from Pict Story
+318	After shutdown, please turn the unit off and on again.
+319	After optimization, the Pict Story
+320	The update will continue after the restart.
+321	After deleting a timer recording, from Pict Story
+322	After turning on the unit,
+329	Album name :
+346	All &#34;DNAS&#34; services have been terminated.
+347	All &#34;DNAS&#34; services have been terminated.
+348	Lets you create video Pict Stories one after another.
+354	An album with this name already exists. If you continue the import, the album will be overwritten.
+355	An error occurred while processing your purchase.
+357	An error has occurred.\n Please turn the unit off and on again.
+360	DJ registration cancelled.
+361	This product contains RSA(R) BSAFE TM SSL-C.
+362	and the Memory Stick logo
+363	and are protected by U.S. patents and other intellectual property rights. Use of this copy protection technology
+364	and its contributors, The NetBSD Foundation, Inc. The communication function of this product
+365	Program information will be retrieved shortly.
+366	Program information will be retrieved shortly.\n The current operation will be stopped.
+367	Retrieving program information.\n The current operation will be stopped.
+370	The angle cannot be changed directly before an angle block.
+373	Another timer recording is already set for this time.
+375	No more Pict Stories can be created.
+377	Approx. until the end
+379	Playback of this disc is prohibited by region restrictions.
+380	are protected.
+381	This is protected.\n It cannot be deleted.
+382	This is protected.\n It cannot be edited.
+383	This is protected.\n It cannot be renamed.
+384	This is protected.\n Editing cannot be undone.
+385	are trademarks or registered trademarks in the United States and other countries.
+386	are trademarks or registered trademarks of Sony Corporation.
+387	Download this item?
+388	Do you want to purchase this download?
+389	Cancel manual channel setup now?
+390	Add an entry point?
+391	Cancel the download?
+392	Cancel manual channel setup now?
+393	Do you want to quit?
+394	Use the optical output?
+395	Use the left circle button?
+397	Are you sure? After this setting, flash
+398	Are you sure? After this setting, search
+399	Are you sure? After the change, dubbing to DVD-RW (VR mode)
+404	Area number :
+410	Atlantic (Can)
+413	Audio follows
+415	Audio track\nautomatic selection
+424	Auto Channel Setup
+426	Auto Tuning
+427	Start auto tuning?
+428	Setting the clock automatically.
+429	Set the clock automatically?
+431	Automatically erased title
+432	Set up channels automatically.
+433	Automatic stereo reception
+435	Automatic channel setup.
+437	Automatically adjusts the recording mode of all selected titles.\nAre you sure?\n※Titles whose recording mode is protected\nwill not be changed.
+448	BS antenna power:
+450	BUSY timeout.
+452	Back (invisible)
+453	Reset to factory default settings.
+462	Because there is not enough hard disk space
+463	Cannot be played because it has been modified or deleted.
+464	A write error occurred.\n Recording stopped.
+465	Not enough free space on the Memory Stick.\n This title cannot be recorded.
+466	Previous program search
+472	Bengali; Bangla
+474	Bengali; Bangla
+479	Billing login
+483	Timer recording confirmed
+485	Show bookmarks
+492	Broadcast
+500	Central Kazakhstan
+504	CHAPTER repeat
+516	Not possible.
+520	Cancel selection?
+523	Clear start and end points.
+524	Cancel deletion.
+525	Exit (cancelled)
+526	Cancel
+527	Cancel
+528	Cancelling...
+536	Not enough space in the game area.\n Please cancel the DJ registration of unneeded tracks\n or delete games.
+537	Not enough hard disk space.\n Please delete unwanted titles, tracks or photos.
+538	Not enough hard disk space.\n Please delete titles, tracks or photos.
+541	There is no cassette in the DV device.\n Recording stopped.
+550	Change settings? The phone book and program guide\n will be affected. Are you sure?
+551	Change settings?\n Are you sure?
+552	Change the album name.
+554	Change Scale
+557	Chapter display
+559	Chapter     （    ）
+563	Chapter limit exceeded.
+564	Chapter scan display
+565	End chapter scan display
+566	Chapter scan display failed
+567	Chapter scan display failed (end)
+568	The specified chapter is invalid.
+572	Check the router and modem
+573	Check the router and modem.
+574	Check the edited video.
+577	Check the license terms,
+578	Check the PPPoE user ID and password.
+579	The check will end.
+581	Check-out complete.
+582	Check-in complete.
+583	Checking available space on the Memory Stick, please wait...
+585	Checking free hard disk space.\nPlease wait...\nDo not turn off the console.
+586	Checking free hard disk space...
+587	Checking free hard disk space.
+591	Checking the update software.
+599	Clear point A
+600	Clear A-B repeat points
+605	Communication timed out.
+607	Company names and product names mentioned herein are trademarks or registered trademarks of their respective owners.
+613	Confirm your settings and press
+614	Preview playback
+615	Exit (confirmed)
+618	Continue auto channel setup?
+625	Copy all music that can be imported.
+629	Copying.
+631	Copying...
+634	Core initialization error.
+640	Could not import.
+641	Could not delete.
+643	Could not stop recording.\nDubbing cannot be started.
+645	Create device
+647	Create new
+654	The &#34;DNAS&#34; server is currently processing
+655	The &#34;DNAS&#34; server is currently processing
+656	Another title is currently being optimized.
+662	Registering for DJ.
+663	Register for DJ.\n Are you sure?
+664	DJ and simulator engine of DJbox
+665	DJ registration cancelled.
+666	Cancel DJ registration
+667	DJ registration screen
+670	DJ registration complete.
+671	Registering for DJ.
+672	Cancel DJ reg.
+673	DJ registration cancelled.
+680	DNS error.
+692	DV device not connected.\nDubbing stopped.

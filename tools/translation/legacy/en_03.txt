@@ -1,0 +1,543 @@
+1427	Northwest Greenland
+1430	Name (Descending)
+1431	The name entered is invalid or already in use.
+1432	The name you entered is invalid or already in use.
+1434	Nepali
+1439	Net mask or IP address,
+1446	Network connection established.
+1447	the network connection and power of this unit
+1448	Network Settings
+1449	Network Settings / DNS configuration
+1450	Network Settings / PPPoE configuration
+1451	Network Settings / Connection test
+1452	Network Settings / Setup complete
+1453	Network Settings / Start setup
+1454	Network Settings / IP address setting
+1455	Network Settings / Settings list
+1456	Testing the network.
+1463	New Music
+1464	New Wave
+1467	Next program search
+1469	Evening : 5:00PM - 12:00AM
+1471	No files to copy.
+1473	No PSC error
+1476	The name was not changed. Rename cancelled.
+1477	No disc.\nInsert a DVD-RW disc.
+1479	There is no game area.\n Please create a game area in the HDD area setting.\n x-DJ will now exit.
+1481	No menu item.\nDubbing stopped.
+1482	No menu template.\nDubbing stopped.
+1483	No session.\nDubbing stopped.
+1484	No title.\nDubbing stopped.
+1486	Not specified
+1487	Midday : 11:00AM - 6:00PM
+1491	Cannot copy during optimization.
+1492	The track cannot be imported
+1493	Not connected to the network.
+1494	Not connected to the network.
+1497	Not enough free space on the HDD.\n Please delete unwanted titles, tracks or photos.
+1498	Not enough space (invisible)
+1499	Not enough space (tmp)
+1500	The settings could not be saved.
+1501	Could not turn on the BS antenna power.
+1502	Do not record
+1503	Do not stop
+1504	Abnormal playback (no message)
+1505	Do not turn off the power.
+1506	Not valid for the specified time.
+1508	Number of tracks :
+1510	OK (invisible)
+1511	OK (tmp)
+1514	The PSX &#34;DNAS&#34; authentication service period has ended.
+1515	The PSX &#34;DNAS&#34; authentication service period has not started yet.
+1516	of Sony Computer Entertainment Inc. for security protection
+1519	(Oldest first) Date
+1522	Once formatted, the data will no longer appear on the player\n and will be deleted.\n Are you sure?
+1523	Control panel
+1524	Optical output
+1529	Optimization failed.\nDubbing will end.
+1530	Optimization complete.
+1531	Optimizing or recording.\n Cannot dub.
+1532	Stop optimization
+1533	Optimize title
+1534	To free up space, optimization deletes the edited range.\n Select 'Delete' in title optimization.
+1535	Optimizing    %d％
+1538	Or a Pict Story you have already created
+1539	Or the default router IP address,
+1540	Or,
+1541	To write to the Memory Stick
+1546	Capacity exceeded
+1547	It will be overwritten.\n Are you sure?
+1548	Petropavlovsk-Kamchatsky
+1550	CLEAR PLAY MODE
+1556	The PSX &#34;DNAS&#34; authentication service period has ended.
+1557	The PSX &#34;DNAS&#34; authentication service period has not started yet.
+1568	Parental control level set
+1569	Parental control region
+1571	Pashto; Pushto
+1572	Pashto; Pushto
+1578	Permanent
+1580	The PIN does not match.
+1583	Phone settings
+1587	The album is full.
+1588	Some photos could not be imported
+1590	Pict Story editing will end.
+1594	End Pict Story editing
+1595	Pict Story from the photos in the album
+1596	End picture memory
+1597	Picture memory
+1599	Playback will resume from here next time.
+1601	Playing time
+1602	PlayStation® disc \n Read speed
+1603	PlayStation® games \n Texture smoothing
+1604	PlayStation® Disc Read Speed
+1606	PlayStation® Format Software
+1607	PlayStation® Texture Smoothing
+1608	PlayStation®2 Format Software
+1609	PlayStation®2 Format Software
+1610	PlayStation®2 Format Software
+1611	PlayStation®2 format disc.
+1613	Start of playback
+1616	Please press.
+1617	Please turn the power off and on again.
+1619	Please change the VPS/PDC scan setting.
+1621	Please check the IP address.
+1622	Please check the connected device.
+1626	Please check the default router you entered.
+1627	Please check the net mask you entered.
+1628	Please check your input.
+1629	Please check the photos in the album.
+1634	Please finish the operation.
+1635	Please contact your nearest service center.
+1637	Please delete unneeded Pict Stories.
+1638	Please delete unwanted titles.
+1643	Please do not remove the audio device
+1644	Please do not remove the Memory Stick
+1645	Please edit the phrase to register.
+1647	Please insert a PlayStation® or
+1651	Please wait a moment and reconnect.
+1653	Please delete unneeded titles, tracks or photos
+1654	Please delete unneeded titles, tracks or photos.
+1655	Press to restart.
+1656	For more information, see 'About PSX' and the BSD license.
+1657	Select a memory card for the download
+1658	Please select a different Pict Story.
+1666	Please select where to save.
+1667	Please select an album
+1668	Please select the items to enter.
+1672	Please set a correct recording method.
+1674	Please set a correct recording mode.
+1675	Please set a correct recording quality.
+1676	Please set a correct genre.
+1677	Please set a correct channel.
+1678	Please set a correct date.
+1679	Please set a correct end time.
+1680	Please set a correct screen size.
+1681	Please set a correct start time.
+1682	Please set a correct time extension.
+1684	Please create a video
+1685	Please create a video.
+1689	Please wait until the network is connected
+1690	Please wait and do not turn off the power.
+1693	Please.
+1697	Popular songs
+1702	Preparing for a timer recording.\n To dub, please delete the timer recording.
+1707	Press the right directional button to start.
+1709	Press,
+1710	Press to change or enter a value.
+1711	Press to change the value.
+1712	Press to select.
+1716	Priority was given to the timer recording.
+1717	Processing purchase... One moment please.
+1720	Product code
+1721	Program search is prohibited.
+1725	Timer from program guide
+1730	Progressive scan
+1740	Quick timer
+1741	Exit Easy Setup?
+1748	RESUME OFF
+1753	Omakase recording
+1754	Omakase keywords :
+1755	Omakase recording
+1756	Omakase timer
+1757	Omakase recording
+1758	Omakase recording :
+1759	Omakase recording \n Maximum recording time
+1760	Omakase recording / User-created keywords
+1761	Omakase recording \n Channel setting
+1764	Please wait a moment and reconnect.
+1765	Dub to DVD
+1766	Dubbing cancelled.
+1767	Dubbing complete.
+1768	Dubbing complete. Turn off the power?
+1769	Dubbing complete.\nDubbing stopped.
+1770	Dubbing ended.
+1771	Dub from the HDD to a disc.
+1772	Recording mode
+1773	Recording mode:
+1774	A timer recording is starting.\n The current operation will be stopped.
+1775	Dubbing stopped.
+1776	Audio recording (DVD)
+1777	Audio recording (HDD)
+1778	Dubbing was cancelled.\nDubbing stopped.
+1779	This title can only be recorded once (copy once).\n It will be recorded as a blue screen.
+1780	Recording NR
+1781	Dubbing ended.\n The power will be turned off.
+1782	Preparing for a timer recording.\n To optimize, please delete the timer recording.
+1783	Preparing for a timer recording.\n To initialize, please delete the timer recording.
+1784	Preparing for a timer recording.\n Another recording cannot be started.
+1785	Preparing for a timer recording.\n Cannot change the channel.
+1786	Preparing for a timer recording.\n To dub, please delete the timer recording.
+1787	Preparing for a timer recording.\n Cannot change the recording mode.
+1789	Current recording mode
+1790	Confirm timer recording
+1791	A timer recording is scheduled.\nTimer recordings cannot run during optimization.
+1792	The timer list is full.
+1794	Playing time :
+1799	Register a user keyword.
+1801	DJ music registration is full.\n Please cancel the DJ registration of unneeded tracks.
+1807	Delete all photos in the album.
+1808	Delete this game from the hard disk.
+1809	Delete unneeded titles, tracks, photos
+1810	Delete.
+1811	Timer recording deleted.
+1815	Renaming. Please wait...
+1821	Repeat from start time
+1823	Timer suggestions
+1824	Timer list
+1825	The timer status has changed.\n The operation will be cancelled.
+1826	Timer Recording
+1827	Delete timer
+1828	Modify timer
+1829	Reset the modem if you use one.
+1832	Restart, then start the HDD area setting.
+1835	Resume is prohibited.
+1836	Back
+1837	Réunion
+1843	Roman character input
+1851	Run the HDD area setting to delete the game area.
+1852	Run the HDD area setting to change the game area.
+1853	Run the HDD area setting to create a game area.
+1854	Run first play
+1855	A timer recording is in progress.\n Deleting it will stop the recording.\n Are you sure?
+1864	This word already exists.
+1870	Sango
+1871	Sango
+1877	Save      Stop
+1878	Save the content to the hard disk
+1882	Scart setting
+1883	Timer recordings do not run while writing to a disc.
+1884	A timer recording is in progress.\n Modification of the timer will be cancelled.
+1885	Scots Gaelic
+1901	Select [End] or press
+1903	Select a Show to add to.
+1908	Select titles to dub
+1916	Select the DVD menu type with
+1920	Select the edit to undo using
+1922	The selected scene will not be played
+1927	Evening drama series
+1928	Serbian
+1930	Set cover
+1934	Set DTS.
+1936	Set Dolby Digital.
+1938	The recording mode will be set to SLP (for DVD+RW).\nDubbing will therefore take longer.
+1939	Set as start
+1944	Input settings / Edit registered phrase
+1946	Photo settings
+1947	Channel setting
+1948	Confirm settings
+1950	Keyboard input settings
+1951	Start setup
+1952	Music settings
+1953	Remote control settings
+1954	Time setting
+1955	Auto channel setup in progress.
+1956	Setting Date
+1957	Setting Time
+1960	TV settings
+1961	TV settings / Manual channel setting / Fine tuning
+1963	Payment
+1964	The shared buffer is in use.\nDubbing stopped.
+1965	Shift / Unshift
+1966	Shinbashi at 11 PM
+1973	There is not enough hard disk space,\n so dubbing cannot start.\n Please stop dubbing and delete\n unwanted titles from the hard disk.
+1974	A timer recording is starting or being prepared,\n so optimization cannot start.
+1975	There is not enough hard disk space,\nso the DVD menu cannot be created.\nPlease stop dubbing and delete\nunneeded titles from the hard disk.
+1976	There is not enough hard disk space,\nso dubbing cannot start.\nPlease stop dubbing and delete\nunneeded titles from the hard disk.
+1982	Size after import :
+2005	is used in this software.
+2006	Earth
+2009	Some music and photo features will be unavailable.
+2010	Track by track
+2011	The Omakase recording will start soon.
+2014	Change sort order
+2025	Specified timer time
+2026	Time jump
+2027	Language
+2028	Key repeat speed
+2029	Sports extension
+2034	Start check.
+2037	A timer recording is starting.\n The current operation will be stopped.
+2038	Starting optimization.\n Timer recordings cannot run during optimization.
+2039	Start dubbing
+2040	Start dubbing.\n A timer recording is scheduled at MM AM: HH.\n Timer recordings cannot run during dubbing.\n Are you sure?
+2041	Start dubbing from the DV device.\nSet the recording mode and audio, then start dubbing.
+2047	Starting basic setup.
+2049	Failed to get the DVD status.
+2055	Stop %s?
+2058	Stop importing.
+2059	Stop is prohibited.
+2060	Stop dubbing.\n Are you sure?
+2061	Stop request received.\nDubbing stopped.
+2062	Cancel the HDD area setting.\n Are you sure?
+2063	Cancel Easy Settings.\n Are you sure?
+2064	Cancel the network settings.
+2065	Stopped
+2066	Cancel the reset to factory settings.\n Are you sure?
+2069	Switch subtitles
+2082	System error.\n Dubbing stopped.
+2088	TV MANUAL SETUP
+2089	TV SETUP
+2091	The TV system is different.
+2105	Telugu
+2108	Test the network connection.
+2112	A blank name cannot be used.
+2113	Distribution, exhibition, export, transmission or import is prohibited by law.
+2114	The DVD menu has a maximum of 20 pages.\nThis type cannot be selected.
+2116	Parental control level
+2117	The Pict Story video you created
+2118	The album used for this Pict Story
+2120	Convert and dub to the Memory Stick.
+2129	The disc is a DVD-R.\nStart dubbing in Video mode?
+2131	Disc space 100%
+2137	The driver is locked.\nDubbing stopped.
+2138	The encoder is in use.\nDubbing stopped.
+2140	The entire
+2141	An error occurred.\nDubbing stopped. [%d]
+2142	Wrong file number.[-9]
+2143	No finalize session specified.
+2144	The following characters cannot be used.
+2157	Memorize point B
+2160	Memorize point A
+2179	The quick brown fox jumps over the lazy dog.
+2180	The quick brown fox jumps over the lazy dog.\nThe quick brown fox jumps over the lazy dog.
+2181	The DVD status is unknown.
+2182	The media size is unknown.
+2183	The specified title is invalid.
+2185	The specified video is invalid.
+2187	This title is being optimized.\n It cannot be renamed.
+2188	This title is being recorded.\n The operation cannot be performed.
+2189	This title is being recorded.\n It cannot be dubbed.
+2190	The total playing time of the edit is %d or more.\n No more titles can be selected.
+2194	This video is being optimized.\n It cannot be deleted.
+2195	This video is being optimized.\n It cannot be edited.
+2196	This video is being optimized.\n Chapters cannot be displayed.
+2197	This video is being optimized.\n Protection cannot be removed.
+2198	This video is being optimized.\n Editing cannot be undone.
+2199	This video is being optimized.\n The operation cannot be performed.
+2200	This video is being optimized.\n It cannot be protected.
+2201	This video is being recorded.\n It cannot be edited.
+2202	This video is being recorded.\n Chapters cannot be displayed.
+2203	This video is being recorded.\n Editing cannot be undone.
+2204	The DVD drive's write function cannot be used.
+2211	A Pict Story has been created from this album.
+2214	A timer recording is scheduled.
+2215	Some tracks cannot be registered for DJ.\n Please check the album.
+2216	The DNS server returned an invalid response.
+2217	There is no Memory Stick.\n Dubbing stopped.
+2218	There are no angles.
+2224	There are no items to add to the show.
+2225	There are no items to import.
+2228	There are no photos that can be used.
+2229	There are no photos for a slideshow.
+2230	There are no photos that can be used for a Pict Story.
+2231	There are no photos to create a Pict Story.
+2232	There are no photos.
+2233	There are no timer recordings.
+2234	No audio.
+2235	There are no subtitles on this disc.
+2236	There is no title to dub.\n Dubbing stopped.
+2237	There are no tracks available.
+2238	There are no tracks that can be used.
+2239	No tracks are registered for DJ.\n Please register imported tracks for DJ.\n x-DJ will now exit.
+2240	There are no registered words.
+2250	The latest software is already installed.
+2251	An error occurred in the x-DJ registration.\n The data is corrupted.\n Please delete the DJbox sound data and\n the x-DJ user data.
+2252	These options determine whether the edited part is kept after optimization.
+2253	The xDJ function installed in this unit
+2254	This Memory Stick must be formatted.\n All data on the Memory Stick\n will be deleted.\n Are you sure?
+2256	Chapter search error.
+2261	This disc cannot be started.
+2262	This disc cannot be imported.
+2264	The download you selected requires
+2270	This is the list of channels created by Easy Setup.
+2273	This item is not formatted.
+2275	This product incorporates copyright protection technology that is protected by rights of Macrovision Corporation and other rights owners,
+2277	This product contains &quot;DNAS&quot; (Dynamic Network Authentication System), a proprietary authentication system
+2278	This product contains RSA(R) BSAFE TM Crypt-C from RSA Security Inc.
+2279	This software is based in part on the work of the FreeType Team.
+2281	The thumbnail cannot be registered.
+2282	Register thumbnail
+2284	Tibetan
+2291	Time display is prohibited.
+2292	The time has been set.
+2293	Timer recording starts in 10 min.
+2299	The timer recording has finished.\n Modification of the timer will be cancelled.
+2300	A timer recording has started.\n Optimization will end.
+2301	A timer recording has started.\nContinue dubbing?\n\nSelect \"OK\" to stop the timer recording.\nSelect \"Cancel\" to stop dubbing.
+2302	A timer recording starts at %s.\nIt will not start while dubbing.\nStart dubbing?
+2307	The title list is full. Please delete titles.
+2308	The title list is full.\n Please delete unwanted titles.
+2312	Titles will be dubbed in this order.
+2313	%s to DVD will be cancelled.\nOK?
+2314	Save
+2316	Change the range to
+2317	To change date/time, press
+2318	The current settings will be cleared and reset to factory defaults.\n Are you sure?\n Program guide data will also be deleted.\n Music, videos and photos stored on the hard disk\n will not be deleted.
+2322	Reset to factory settings
+2323	All settings will be reset to factory defaults.\n Are you sure?
+2325	Do you really want to change the channel?
+2328	Too many chapters.\nThis title cannot be dubbed.
+2329	Too many titles selected.\nCannot dub.
+2331	First program search
+2332	Top
+2339	The track cannot be imported.
+2340	The album is full.
+2341	Tracks registered for DJ
+2346	Transformer
+2352	Tuning
+2361	Ukrainian
+2362	Undo edit
+2363	Unformat completed.
+2375	Unrecognized disc.\nInsert a DVD-RW disc.
+2380	Update / Finishing
+2382	Update / License
+2383	Update / Recovery
+2384	Update / Software check
+2385	Update / Confirm update
+2386	Update / Confirm start
+2387	The update is complete.
+2388	The update server is not available,
+2389	The update will stop when a recording starts.
+2391	Updating information...
+2392	Import was cancelled.
+2399	User operation is prohibited.
+2404	VIEWER prohibited.
+2406	Scanning VPS/PDC.
+2408	VR mode playlist
+2411	The value you entered is invalid.
+2416	The video cannot be created.
+2424	Video settings / Omakase recording channel setting
+2425	Recording has not been stopped.
+2433	There is only one audio track.
+2434	Audio mode:
+2435	Switch audio
+2436	Audio track
+2438	West Kazakhstan
+2441	Registering for DJ.
+2442	Set a mark.
+2448	Running this can erase the contents of the hard disk.
+2450	Without turning off the network connection and power of this unit
+2454	Do you want to continue?
+2455	Writing...
+2459	YYYY/MM/DD  hh:mm:ss
+2468	You are about to check in a track from the Memory Stick.
+2472	You can create a keyword of your choice.
+2473	This track cannot be registered for DJ.
+2474	VIEWER is not available for this disc.
+2475	VIEWER is not available for this title.
+2476	Cannot set a bookmark
+2477	Cannot be changed while recording or preparing to record.
+2478	Cannot be changed during optimization.
+2479	Cannot be changed while retrieving program information.
+2480	The program information cannot be changed.
+2481	The DV device cannot be controlled.\n Dubbing stopped.
+2482	No more video titles can be created.
+2483	This Pict Story cannot be modified.
+2484	This operation is not available for this disc.
+2485	This operation is not available for this title.
+2486	[Stop] is only available for the video being created.
+2487	This operation cannot be performed.
+2488	Playback is not possible because it is restricted.
+2489	Cannot play because of temporary deletion status (no message)
+2490	This disc cannot be played.
+2491	This title cannot be played
+2492	This title cannot be dubbed.
+2493	Cannot create a video during a timer recording.
+2494	The play mode cannot be used.
+2495	No more titles can be selected.
+2496	Point B cannot be set at the same position as point A.
+2497	Cannot start because there is no game area.\Please create a game area on the HDD.
+2498	Cannot start because no DJ music is registered.\Please register music tracks for DJ.
+2499	The authentication process cannot be stopped.
+2500	The certification process cannot be stopped.
+2501	These characters cannot be used.
+2502	This Memory Stick cannot be used.\n Dubbing stopped.
+2503	This phrase cannot be used.
+2504	Memory Stick write error.\n Dubbing stopped.
+2505	You can set the following information for the imported tracks.
+2506	You can assign the flash function to the L2 · R2 buttons.
+2507	You can assign the flash function to the L2 · R2 buttons.\n Search will then use left/right on the joystick.\n Are you sure?
+2508	You can assign the search function to the L2 · R2 buttons.
+2509	You can assign the search function to the L2 · R2 buttons.\n Flash will then be operated from the control panel.\n Are you sure?
+2510	Press to start dubbing.
+2511	Copy all photos that can be imported.
+2512	Not enough capacity to import (LPCM).
+2514	Timer recordings may not run correctly.
+2516	All tracks in the album will be registered for DJ.\n Are you sure?
+2519	and go to 'Main Unit Setup' / 'HDD Format Setup'.
+2521	Apply settings
+2522	Artist name :
+2523	Auto channel setup
+2524	Auto channel setup
+2525	Auto mode
+2527	Classification
+2528	Connection failed
+2531	Date of creation :
+2532	Delete all keywords.\n Are you sure?
+2533	Deleted.
+2536	Error in automatic IP address setting.
+2537	PPPoE error.
+2538	Proxy settings error.
+2542	File format :
+2543	File format:
+2544	Finalizing
+2545	Exit Easy Settings.
+2550	Formatting
+2551	Retrieving program information.\n The current operation will be stopped.
+2553	Initializing
+2554	Interval : 0.5 sec
+2555	Interval : 15 sec
+2556	Interval : 6 min
+2557	Invalid time
+2560	libjpeg   This software is based in part on the work of the Independent JPEG Group
+2561	Not enough free space on the HDD.
+2562	Interpolation
+2563	Option
+2591	Press X to exit
+2592	Press to change the time.
+2595	Dubbing
+2596	Delete this keyword.\n Are you sure?
+2598	Sample x-Pict Story
+2599	Saved.
+2600	Select optical output.
+2601	Size :
+2602	Album size:
+2606	Start setup
+2607	Summer/Winter
+2611	The entered name cannot be used.
+2615	A debug error occurred in title[%d]
+2619	to select an item,
+2620	to select
+2623	to select an area
+2625	to select a language
+2626	to select a method
+2627	to start Easy Setup.
+2634	Preparing x-DJ for startup.
+2635	x-Omakase recording
+2637	~pack:xMbar/0.1.0/art/psx_logo.png~\nThe quick brown fox jumps over the lazy dog.\n~pack:xMbar/0.1.0/art/psx_logo.png~
+2638	· The DNS configuration of the router or this unit is correct
+2639	· The router/hub/modem/ONU between this unit
+2640	↑ ↓ Please select the item you want to change.
+2641	Contents:
+2642	（for DVD+RW）
+2644	Ａ-Ｂ Repeat

@@ -1,0 +1,58 @@
+# PSX Language Tool
+
+German, English and Polish translations of the XMB for the Sony PSX (DESR), plus an
+installer ELF that runs on the PSX itself.
+
+The repository contains **no Sony files** - only translation tables, scripts and the
+ELF source. The language folders and the ELF are built from your own copies of the
+source files.
+
+## Building
+
+1. Put into `sources/` (ignored by git):
+   - `DESR-5000-5100-7000-7100 XMB ENG.7z` - English community mod, firmware 1.31
+   - `DESR-5500-5700-7500-7700 XMB ENG.7z` - English community mod, firmware 2.11
+   - `jp.dic` - original `hdd0:__system/dic/jp.dic` of firmware 2.11
+
+   The English language files and the PSX system files come from
+   [RepairBox-PSX-HDD-Setup](https://github.com/DanielFergisz/RepairBox-PSX-HDD-Setup)
+   (download the EN package linked in its README; `jp.dic` is
+   `RepairBox-PSX2-SystemFiles/__system/dic/jp.dic` in that package).
+2. `python tools/build_all.py` - builds the language folders and checks every file
+   against `tools/expected.sha1` (needs 7-Zip).
+3. Put the ps2dev v2.0.0 Windows toolchain into `tools/ps2dev`, then
+   `sh tools/elf/build.sh` (Git Bash) - builds `ELF-INSTALLER/PSX_LANGUAGE_TOOL.ELF`.
+
+Result:
+
+| Folder | Content |
+|---|---|
+| `DESR-5000-5100-7000-7100 XMB GER/ENG/POL` | XMB files for firmware 1.31 (`xosd/packages/...` on `hdd0:__system`) |
+| `DESR-5500-5700-7500-7700 XMB GER/ENG/POL` | XMB package folders for firmware 2.11 (`hdd0:__system/xosd/packages/`) |
+| `SYSTEM-DIC GER/ENG/POL` | button labels `hdd0:__system/dic/jp.dic` (5500 series) |
+| `ELF-INSTALLER/PSX_LANGUAGE_TOOL.ELF` | installs everything with backup/restore, see `ELF-INSTALLER/README.txt` |
+
+## In the repository
+
+| Path | Content |
+|---|---|
+| `tools/translation` | `en*.tsv` (cleaned English), `de*.tsv`, `pl*.tsv`, `fixups.tsv` and the scripts that apply them |
+| `tools/sysdic` | builds the button-label `jp.dic` files |
+| `tools/elf` | ELF source (`gui.c`), pack/check scripts, font generator, PC host test |
+| `tools/build_all.py`, `tools/expected.sha1` | full build and its reference checksums |
+
+## Testing on the PC
+
+`tools/elf/hosttest` compiles `gui.c` for Windows (MSYS2 i686 gcc + zlib) with stubs for
+the PS2 libraries and runs install / backup / restore scenarios against copies of a
+`__system` dump (`run.py`). Set `SCRSHOT` to save every screen as PPM.
+
+## Credits
+
+- English language files and PSX system files:
+  [RepairBox-PSX-HDD-Setup](https://github.com/DanielFergisz/RepairBox-PSX-HDD-Setup)
+  by DanielFergisz (RepairBox.pl)
+- Font: Cascadia Mono (SIL Open Font License)
+- Toolchain: [ps2dev](https://github.com/ps2dev/ps2dev), gsKit, zlib
+
+The built folders and the ELF contain Sony-derived files - keep them for private use.
