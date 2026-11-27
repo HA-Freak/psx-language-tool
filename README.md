@@ -9,17 +9,12 @@ source files.
 
 ## Building
 
-1. Put into `sources/` (ignored by git):
-   - `DESR-5000-5100-7000-7100 XMB ENG.7z` - English community mod, firmware 1.31
-   - `DESR-5500-5700-7500-7700 XMB ENG.7z` - English community mod, firmware 2.11
-   - `jp.dic` - original `hdd0:__system/dic/jp.dic` of firmware 2.11
-
-   The English language files and the PSX system files come from
+1. Download the EN package `PSX_SystemFiles_EN_v1.3_Final.zip` of
    [RepairBox-PSX-HDD-Setup](https://github.com/DanielFergisz/RepairBox-PSX-HDD-Setup)
-   (download the EN package linked in its README; `jp.dic` is
-   `RepairBox-PSX2-SystemFiles/__system/dic/jp.dic` in that package).
+   (linked in its README) and put it into `sources/` (ignored by git). Only its
+   original PSX system files are used (`RepairBox-PSX1/PSX2-SystemFiles/__system`).
 2. `python tools/build_all.py` - builds the language folders and checks every file
-   against `tools/expected.sha1` (needs 7-Zip).
+   against `tools/expected.sha1`.
 3. Put the ps2dev v2.0.0 Windows toolchain into `tools/ps2dev`, then
    `sh tools/elf/build.sh` (Git Bash) - builds `ELF-INSTALLER/PSX_LANGUAGE_TOOL.ELF`.
 
@@ -36,7 +31,7 @@ Result:
 
 | Path | Content |
 |---|---|
-| `tools/translation` | `en*.tsv` (cleaned English), `de*.tsv`, `pl*.tsv`, `fixups.tsv` and the scripts that apply them |
+| `tools/translation` | `eng5000.patch`, `eng5500.patch` (English texts as a patch for the original files - only the new texts, no Sony text), `de*.tsv`, `pl*.tsv` and the scripts that apply them |
 | `tools/sysdic` | builds the button-label `jp.dic` files |
 | `tools/elf` | ELF source (`gui.c`), pack/check scripts, font generator, PC host test |
 | `tools/build_all.py`, `tools/expected.sha1` | full build and its reference checksums |
@@ -44,14 +39,16 @@ Result:
 ## Testing on the PC
 
 `tools/elf/hosttest` compiles `gui.c` for Windows (MSYS2 i686 gcc + zlib) with stubs for
-the PS2 libraries and runs install / backup / restore scenarios against copies of a
-`__system` dump (`run.py`). Set `SCRSHOT` to save every screen as PPM.
+the PS2 libraries and runs install / backup / restore scenarios against copies of the
+package's `__system` folders (`run.py`, uses `build/package` from `build_all.py`).
+Set `SCRSHOT` to save every screen as PPM.
 
 ## Credits
 
-- English language files and PSX system files:
+- PSX system files (base for all languages):
   [RepairBox-PSX-HDD-Setup](https://github.com/DanielFergisz/RepairBox-PSX-HDD-Setup)
   by DanielFergisz (RepairBox.pl)
+- English texts: based on the English community XMB mods, cleaned up
 - Font: Cascadia Mono (SIL Open Font License)
 - Toolchain: [ps2dev](https://github.com/ps2dev/ps2dev), gsKit, zlib
 

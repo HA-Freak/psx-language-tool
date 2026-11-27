@@ -1,0 +1,2390 @@
+# Patch: builds the English XMB folder from the original system files of the RepairBox package.
+F	xosd/packages/Config_0/ConfigAboutPSX.xml	xosd/packages/Config_0/ConfigAboutPSX.xml	2ef6a88947a6f0293d6148087066a7c6d161852e
+@	95	1	e97258f6aea610300106c6b797fdfeae68c2eaa7
++	'PSX' and 'PlayStation'"
+@	108	1	4885aadeae400a439b2386c9c5860b754cc0a310
++	are registered trademarks of Sony Computer Entertainment Inc."
+@	134	1	fc691087128de86352a6f69dee78cddd4106e39c
++	and the Memory Stick logo"
+@	147	1	e004d8e6b6829d175c5d291a2815c717d63486e3
++	are trademarks or registered trademarks of Sony Corporation."
+@	297	1	90efb9bdcaf40f43739401f93a5512de06a71192
++	This software is based in part on the work of the FreeType Team."
+@	342	1	eb3078d60a40d4eae72d41efb5de604b78aab21b
++	ATOK is a registered trademark of JUSTSYSTEM Corporation."
+@	376	1	622c6edc7a69d3b0415af292a2262d2e6c5e7f4e
++	This product incorporates copyright protection technology that is protected by"
+@	389	1	065702e29716b3e6287a8b9aacaa48d0add1a826
++	U.S. patents and other intellectual property rights. Use of this technology"
+@	402	1	3f641c758472f2f45ed6cce6762d40dfd01a245f
++	must be authorized by Macrovision and is intended for home and other limited"
+@	415	1	52394806271ea86591577f5ef3819c347220779a
++	viewing uses only. Reverse engineering or disassembly is prohibited."
+@	530	1	cecf950b3425d326a5b975f35e8ce1bec783960e
++	libjpeg   This software is based in part on the work of the Independent JPEG Group"
+@	682	1	293f05702462bfbc60ace35043f3cd53871acb7a
++	The communication functions of this product use software developed by"
+@	695	1	3ba83af4e45a0a531735502c4d51c9a0e5a2b1e6
++	the NetBSD Foundation, Inc. and its contributors."
+@	708	1	cb204812995b6c06c513d2d67b835bfdcb198bbf
++	For details see the BSD license after 'About PSX'."
+@	789	1	a775e870b34f1035c7a1bc5424b0a584e6b18fd7
++	This product uses DNAS (Dynamic Network Authentication System),"
+@	802	1	ce604e79d9e9a58b5f4aeaa827d6cf031ea1b055
++	a proprietary authentication system of Sony Computer Entertainment Inc."
+@	815	1	52b131c2020f2f6ec6ea2be149d6bb248c1138b1
++	to protect copyrights and security. Distributing programs or devices that disable it,"
+@	828	1	8077176cd628b875a9ee0705052e9c2c10e85c7b
++	or exhibiting, exporting, transmitting or importing them, may be prohibited by law."
+@	841	1	406536ca0de1758ea20ff0a5e43af5e7ee4d07c9
++	DNAS is a trademark of Sony Computer Entertainment Inc."
+@	886	1	bf968ee9eb3db08ba34eaa2da9ef4d02ffb2a161
++	This product contains RSA(R) BSAFE TM Crypt-C"
+@	899	1	72b78ba82fda2ee788f95a0737a8f38e8c6700f1
++	and RSA(R) BSAFE TM SSL-C from RSA Security Inc."
+@	912	1	35e509842dbfc52cf255fbb4927af3f994168b01
++	RSA and BSAFE are registered trademarks of RSA Security Inc."
+@	925	1	f796f1e9dcbf904b2442e1adf89d30f5d7152d8c
++	in the United States and other countries."
+@	972	1	1843fea44dc4eed8cc8eb3d3374bdbe8a9a7fc35
++	Other company and product names are trademarks or registered trademarks of their owners."
+@	1015	1	28d29761e79c19963ee939898616bd13e0f62168
++	About the BSD license"
+F	xosd/packages/Config_0/ConfigBSAntennaLevel.xml	xosd/packages/Config_0/ConfigBSAntennaLevel.xml	18d1b8c7c50401a1b33afec738d8b5486f828f9d
+@	74	1	331676ab245f49fac5127868a4afd5935f96a941
++	Settings / BS antenna level display"
+@	853	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+F	xosd/packages/Config_0/ConfigBSChannel.xml	xosd/packages/Config_0/ConfigBSChannel.xml	dedf76bcf6cb69978feb6b896cfd780f464504d2
+@	41	1	18cea80b69a589138ea4a700b27bd275f63a59ea
++	No"
+@	48	1	2d0e1ba2fdb949338efc0c829fa59640f112bccf
++	Yes"
+@	78	1	0ca2e1321d20da5319f05064211697bd05c5c07b
++	Channel skip"
+@	591	1	2c29acdbc6c32a412cee2a263e75a407e17b9c42
++	Saving the channel settings."
+@	606	1	9b5362ee749f53602b559ab9d3af86f7c4e39c77
++	Please wait."
+@	644	1	d8b2fe32e04668b1bad95b0dd43adf4710bcaa02
++	Settings / BS channel skip"
+@	693	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+F	xosd/packages/Config_0/ConfigBg.xml	xosd/packages/Config_0/ConfigBg.xml	78cf55baac04a7abcfd5e623ff3a618939d49007
+F	xosd/packages/Config_0/ConfigEasyWizard.xml	xosd/packages/Config_0/ConfigEasyWizard.xml	0e49fd508aae280e56ac88ebf12c0341c071a5e2
+@	68	1	183ce4db90b28f39f99ffee947624263b348fdfb
++	Start"
+@	75	1	f242cbfd8d91508fe7a39a261db059d735d62d97
++	BS antenna power"
+@	89	1	ddc979a2f9f0a7b775dac670b784ccf3b0d49a60
++	Area code"
+@	110	1	51ce4df4f2c0180ff416e07f8496cf16b14522e8
++	Optical out"
+@	131	1	4553e8c6e89f8fb8cb4d85642c0faf690ea15779
++	Summary"
+@	138	1	d3b55122058bc4142a0dd21182aa2ab660e5ac63
++	Hard disk space"
+@	145	1	5af40e60fd36eafc744952bea7a0d4f4830bc864
++	Finish"
+@	190	1	02a44403221c8fb7c13edbed3c3e8874af4431f5
++	Basic settings for using this unit."
+@	210	1	646d5e5d88f38c88bcc64ccf516aa696c154e10e
++	Press right to begin"
+@	221	1	6ebd9ff96a2320e9f20b68013d3ae82830bccb7a
++	the Easy Setup."
+@	260	1	0194022633d247d1b3dede585a14ddf007f9db74
++	Select BS antenna power"
+@	271	1	dda127020ef786b71f095902b48342a3624a0298
++	with up/down."
+@	291	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	Press right for the next screen."
+@	343	1	e5ef8987fbf9a9b1b1b00901f8f1884d61c22d09
++	Change the time:"
+@	363	1	fa687cd45cbaec512015f51a9d4722867fc9d25e
++	Press to change."
+@	374	1	e4fc925a5e4efef004bb3228e3878c0ed0110e7f
++	Press right"
+@	394	1	234fa4ddad6fca4fefbd5c8a8487b38cedb2ee48
++	for next screen"
+@	405	1	9e35fda5f6a13064b540f85e4c1254c88653c3f1
++	"
+@	433	1	33431de36172a2fcca87227716d2833abca8f821
++	Select the item to change"
+@	453	1	90bf1eaa4394bce1ac63235121c52f7c6482a89b
++	Change the value."
+@	464	1	6a744cb5ecda77fe8cf943cb9a8110059cda8002
++	When the time is set"
+@	484	1	fa687cd45cbaec512015f51a9d4722867fc9d25e
++	press."
+@	665	1	1f759ec91470b3a1edfc0fecb2c50338a89bf154
++	Select your region"
+@	685	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	Press right for the next screen."
+@	724	1	aba62edb59b5220af2d40e83f98e86c153c69573
++	Select Auto Tune"
+@	735	1	d47db8ea71bbe4e08d2a126ab1d9b707cb2a782e
++	or manual tuning,"
+@	755	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	press right for the next screen."
+@	816	1	ff39d61918d6c7fe9fc6a542cbecec4c0e2cfced
++	Select TV screen type"
+@	827	1	e5aea96118aff7153fb240e1ec7c2851f30c2230
++	(aspect ratio),"
+@	847	1	01461f37674ba65f31fed1c74316a06eb6257569
++	press right for"
+@	858	1	ce61c85f018c4e774895a5d576c3b4506344a45d
++	the next screen."
+@	881	1	00b8e3f3fd83653ed63d68a45350bc5fbe92d71a
++	4:3 Letterbox"
+@	892	1	869529ad2ea1c46456630bf35fdc283be4df151f
++	4:3 Pan &amp; Scan"
+@	930	1	855933b6a5a5a15fb6c9ae5c350ed4155b0cc83d
++	Select digital out"
+@	941	1	0a5f71c7ba8880a1c418ea4158cf505f517551c0
++	On or Off,"
+@	961	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	press right for the next screen."
+@	973	1	10f1be3c57f1049816a3c7782660098d49a66213
++	On"
+@	984	1	237028d34da5a72254e8085343e27c2b9a1b5ed6
++	Off"
+@	1022	1	3e380771464f9f3cc732da26c96989b0fb924ccd
++	Select Dolby Digital,"
+@	1042	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	press right for the next screen."
+@	1103	1	f2365b671a81aeac7cbc20591cdee944bdc7e48b
++	Select DTS,"
+@	1123	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	press right for the next screen."
+@	1175	1	d6e47ad353f31e0d31317f92ae5f5ed770d66860
++	Settings summary."
+@	1186	1	a796400cf396de427d5674836657bb43c99357ea
++	To accept, press"
+@	1217	1	48db0a6cc2d7026738966626bfffd3d5be2c170a
++	press right for the next screen."
+@	1236	1	f242cbfd8d91508fe7a39a261db059d735d62d97
++	BS antenna power"
+@	1247	1	799bf86388fed22cf1ea7d8ab07aa79863a658d6
++	Time setting"
+@	1258	1	d73ffdd838bdd2a8702fadb0780385f235d0e3cf
++	Area code"
+@	1280	1	51ce4df4f2c0180ff416e07f8496cf16b14522e8
++	Optical out"
+@	1291	1	d3edd4d5b2a7ac92ae76c04a0a8b997f5080008d
++	Dolby Digital"
+@	1302	1	76083d133460f6831b611824503a0043a438641d
++	DTS"
+@	1392	1	c9496e0b06fb4eeebf5508674ba4cae164678318
++	Off (On failed)"
+@	1416	1	34526be0ad3bc1271b839489ce75c83edd7df82d
++	HDD area for games"
+@	1438	1	d16e08f5e90858cf8df56f584f720398ae1c8f0e
++	"
+@	1458	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	Press right for the next screen."
+@	1499	1	41fe3d73d00a76d2168d7b7cdffdc66d64c0ea0d
++	To change it,"
+@	1510	1	2a7a3b789c26526197be71ab9f05c62ca2c35064
++	use HDD setting in Settings."
+@	1521	1	89eb2ece737f27830df769dbc11b87d6747041ad
++	Changing it deletes video, music, photos"
+@	1532	1	c4663770f3d4852bde2dbbd4c8f280054438803f
++	and the program guide."
+@	1555	1	a7a29d0ddc5de28c6fb22b9e106ba7da51086f17
++	Easy Setup finished."
+@	1577	1	3887611367556382e6b1fa868ca7dae10ea2e28b
++	Initializing settings."
+@	1590	1	3186be02040f456c2e786838fa00962e7436ec50
++	Do not turn off the PSX during initialization."
+@	2046	1	21561976685ece97e7e07c6113801ef9488be950
++	Cancel the Easy Setup?"
+@	2155	1	a039ce0b316956a7aee706ed92ef871666db78d6
++	10 minutes left until a timer recording starts."
+@	2168	1	ec8dae8defb8bdd2719486886c4c582e4f666399
++	The wizard will close when the recording starts."
+@	2181	1	90db7481ffdb2df560ec1904a539fec5fc45f220
++	Cancel the wizard?"
+@	2330	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+F	xosd/packages/Config_0/ConfigGame.xml	xosd/packages/Config_0/ConfigGame.xml	c8ba45c05c2836675d6bff335ed1626fab3ac720
+F	xosd/packages/Config_0/ConfigHddFormat.xml	xosd/packages/Config_0/ConfigHddFormat.xml	d7860a81e74bc4f42abba1217c08872744c3b837
+@	88	1	a0fb3ea11d992339afa5760d64f2c1aa2a204b2b
++	The hard disk will now be initialized."
+@	119	1	bfb52f6b250e574bfef3bd9e2e1089d4b6ee822a
++	All contents of the hard disk will be erased"
+@	130	1	0808abb3b2e7c55b8c30769d718aa459ac2b3c10
++	and it returns to its factory state."
+@	141	1	5a05f51b86458a76760df7c29125e676a4ac8615
++	Initialize?"
+@	190	1	af851f1483a8e237cb27e291fb2650dc6fc9ecd2
++	Initializing the hard disk. Please wait."
+@	219	1	1aa8ee461543de05e5f3e58e7194b021be7962c8
++	Hard disk initialization was cancelled."
+@	234	1	13799eb4886cdc62e0a79c0862b1012a0d2c3388
++	Hard disk initialization completed."
+@	376	1	0aee38add0381215d69796adf2d79a1e2290e3ec
++	Once started, initialization cannot be interrupted."
+@	411	1	dbc3640483d6b85c19ca013f35087498b92f729c
++	Do not start"
+@	494	1	df6e6d9a680f071edf8b9c2071b9d25f4484cf1d
++	Cancel the hard disk initialization?"
+@	600	1	82155f2d68c86da21372913e09f3033ca67dbc09
++	10 minutes left until a timer recording starts."
+@	613	1	ec8dae8defb8bdd2719486886c4c582e4f666399
++	The wizard will close when the recording starts."
+@	626	1	90db7481ffdb2df560ec1904a539fec5fc45f220
++	Cancel the wizard?"
+@	702	1	6fa1740a2ab3fc0816a5b71d0512852dbd746bf8
++	Settings / Initialize hard disk"
+@	762	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	784	1	c523faa948d55498ebf9ce375fcb851b17a49fab
++	Enter"
+F	xosd/packages/Config_0/ConfigHddPartition.xml	xosd/packages/Config_0/ConfigHddPartition.xml	2c4866399a726508486c2bc10de525053a846b13
+@	83	1	c4e93014d2ee95652a98d5590b93b997369ae6f9
++	HDD setting will now start."
+@	114	1	f7d70e1315d50b96ee74ecd68b2e997589d9ab42
++	In HDD setting you can change"
+@	125	1	b87ec040c1fa115aaf1c9733b5aad787a482d8f3
++	the game area."
+@	136	1	25fafd400dae49561b092849213b07f3e25dfa74
++	Changing the HDD setting erases the hard disk"
+@	147	1	c90c14568dae415a8f42afe89fca038f2b204880
++	contents."
+@	177	1	8a7f358031ce68850a3ed9795435540989d19281
++	You can change the hard disk areas."
+@	197	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	Press right for the next screen."
+@	209	1	38d77332d109ea52c956035c5fcb1b0d61755956
++	Game area"
+@	262	1	7f5c54c148af3a928db0db2b32fea5502a25a60b
++	Delete the game area?"
+@	282	1	e4a38fa6e3f001238978773f758a27ee39737b45
++	Press to delete the game area."
+@	304	1	c01cb9dc6899bb3b53cd1221e039db6f850a7d57
++	If you delete the game area,"
+@	315	1	f965584b3e992762ce261bc00959102da13ffc79
++	games that use the hard disk"
+@	326	1	68bad22b030824cb30621224d6a6634d18173fb2
++	can no longer be played."
+@	346	1	d6260a0ddb925943b1a282809e84f34ee01bfa3d
++	Create a game area?"
+@	366	1	71ff2e8c24209bcd5a33b582a28304ab13f5e094
++	Press to create a game area."
+@	377	1	1c73aeccd251f587050dd93e65ba7802a356aac1
++	No"
+@	388	1	ac1080947d7fd6a424471631eaaf67afb9642259
++	Creating a game area reduces the"
+@	399	1	136482b17a854b0b7d95f76e2eea46b7bb43bc69
++	recording time (SP) by about 17 hours."
+@	410	1	c03727d030717f0cf3acc1e4e83775bcc46446e9
++	"
+@	449	1	15d9b9b3ade7491d0c917fc14a9f9adbbb8609a6
++	Press to restart."
+@	460	1	85c374023b271bfedc8de3619f2388e67b506031
++	After the restart, the hard disk area setting"
+@	471	1	fd877affa3bf1f55813ba4162bf2d1781122eacd
++	will start."
+@	597	1	ecf599fb7da6b0e3fb43d71522b8f60af8fa424d
++	If you change the hard disk areas,"
+@	608	1	74304b2c3391a1cef7cb66a8355ba2e3d82d3e75
++	video, music, photos and the program guide"
+@	619	1	a90454b6f49e33514f56ef544f63e20fd5fe3928
++	will be deleted."
+@	630	1	d20363a81c39567b4a91d01aac6dba0f9960025e
++	Do you want to continue?"
+@	737	1	a9ddf96d587ba82834b9be9f7e05749b1d6405a5
++	Cancel the hard disk area setting?"
+@	763	1	f1fd08ef2d49c86922c3a9857d3a380eaed64066
++	Do not stop"
+@	845	1	82155f2d68c86da21372913e09f3033ca67dbc09
++	10 minutes left until a timer recording starts."
+@	858	1	ec8dae8defb8bdd2719486886c4c582e4f666399
++	The wizard will close when the recording starts."
+@	871	1	90db7481ffdb2df560ec1904a539fec5fc45f220
++	Cancel the wizard?"
+@	897	1	f1fd08ef2d49c86922c3a9857d3a380eaed64066
++	Do not stop"
+@	947	1	618583137303293127a688747c5f610c4c6c41da
++	Settings / HDD area setting"
+@	1007	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+F	xosd/packages/Config_0/ConfigInit.xml	xosd/packages/Config_0/ConfigInit.xml	db13243d2770f91cb33904ab9cb47c8477d3906b
+@	100	1	a66b1d73b0ce4fc246efe023dff8dc59f857bfae
++	Reset to factory settings?"
+@	152	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	165	1	16be941b706fe725b2b697259cf9300594847476
++	Do not reset"
+@	189	1	dc073144e10649432e6bc11fd03eaf58f05443a5
++	Restoring factory settings."
+@	202	1	2d195b3daf9684306921d7edda46627a87e180ea
++	Do not turn off the console."
+@	258	1	32cf87224aa4f82b290d30ceb7a78a42c6bd1c4c
++	This cannot be undone."
+@	271	1	349d9e37aa9e99d5c343ee6c3a4d3aed63de3ee4
++	If you are sure,"
+@	291	1	22118199e3d784d1ef423d047660843fbc7946e4
++	press."
+@	449	1	60447075de3c71985681f701bf482829958d88bd
++	Factory reset returns"
+@	460	1	093dd6c9fbc5ce0756d47e5742d809f0e067cf7f
++	all settings of this unit to their defaults."
+@	471	1	3d49f14ccb06a328a4e0858a17c81a8289c3f240
++	Are you sure?"
+@	482	1	3b67de714ca1533f4709e9e720c9280fc500685c
++	Photos, videos and other data on the hard disk,"
+@	493	1	3481454368e367adfdd3946ade33f4f04c890495
++	such as music, will not be deleted."
+@	517	1	dbc3640483d6b85c19ca013f35087498b92f729c
++	Do not start"
+@	600	1	5773208555920b857d19e800e8fd07eab8b1b82b
++	Cancel the factory reset?"
+@	708	1	82155f2d68c86da21372913e09f3033ca67dbc09
++	10 minutes left until a timer recording starts."
+@	721	1	ec8dae8defb8bdd2719486886c4c582e4f666399
++	The wizard will close when the recording starts."
+@	734	1	90db7481ffdb2df560ec1904a539fec5fc45f220
++	Cancel the wizard?"
+@	810	1	b443715e87e25577d11e85f611dd894fdc22460c
++	Settings / Factory reset"
+@	870	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	892	1	c523faa948d55498ebf9ce375fcb851b17a49fab
++	Enter"
+F	xosd/packages/Config_0/ConfigLoading.xml	xosd/packages/Config_0/ConfigLoading.xml	c4bfdcd82ac299c2ee4b60aaa3321459f1d546b2
+F	xosd/packages/Config_0/ConfigMusic.xml	xosd/packages/Config_0/ConfigMusic.xml	d617a2a4335fd085d20673a040b01389fb18612f
+F	xosd/packages/Config_0/ConfigNwSet.xml	xosd/packages/Config_0/ConfigNwSet.xml	3ba4759151ce1d6be88dca244f3a306b9b701f5e
+@	126	1	be280a0a826799e3a3bcfe26ec64e02e44779155
++	Settings for connecting to the network:"
+@	137	1	3a24c5f69168ee8a96db45efb99d4ac4de6acb09
++	Review and change settings"
+@	148	1	b118c0c9a1ac626079193622f98a9efc04f702ad
++	Test the current connection."
+@	170	1	2bdd56b83e9a28890357645cfbf6f3f48851a4d1
++	Start network settings."
+@	181	1	a9b198b5dcd692de9d2f4103df29d6873427fd1a
++	Connect the Ethernet cable and"
+@	189	0	da39a3ee5e6b4b0d3255bfef95601890afd80709
++	<TAB><TAB><TAB><Text name="
++	func0_text2"
++	 str="
++	"
++	                                     x="
++	518"
++	 y="
++	238"
++	 size="
++	16"
++	     /><CR><LF>
+@	190	1	eb27a354af0a51048a24e1650d1ca076119cc9d1
++	func0_text3"
+@	199	11	08201c1d0a3281de280446ce0c3cdcd86b2351b3
+@	212	1	79b86a0156c0faf245118aee26c351382ca75df0
++	start the network setup."
+@	232	1	4ff2e5dabe431e0374fef5076105d0af4c3ee984
++	Do you use PPPoE?"
+@	272	1	19466fc635e34a0d46c8ca93420bfec434d34bdb
++	Right: next screen."
+@	335	1	0ed2d593029bf39354639f8604283a68c3ea1b53
++	Select"
+@	348	1	b577d4eedff7d2a7143fbbcc5f9fc6259c78f9f1
++	360"
+@	355	1	fa687cd45cbaec512015f51a9d4722867fc9d25e
++	press."
+@	357	1	13f16cc13562dfb524175181ef661f50175a6725
++	380"
+@	367	1	4ca27d4a206690ce76d22ddc95c88e940e6b6ed9
++	To continue"
+@	387	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	Right: next screen."
+@	504	1	999ae146589abd57337ae98ec914405f2c898515
++	IP address setting."
+@	544	1	19466fc635e34a0d46c8ca93420bfec434d34bdb
++	Right: next screen."
+@	556	1	168a027c4951569554c47c78ec3b52b1a68a34de
++	Auto"
+@	587	1	c6083c4bbd60e594f20531a5ceb1cdd49ac6003a
++	DNS (Domain Name System) setting."
+@	627	1	481f75f840468194b155341b1ef8bd0a54ea10ed
++	Right: next screen"
+@	639	1	c6083c4bbd60e594f20531a5ceb1cdd49ac6003a
++	Change the DNS (Domain Name System) setting."
+@	679	1	481f75f840468194b155341b1ef8bd0a54ea10ed
++	Right: next screen"
+@	691	1	168a027c4951569554c47c78ec3b52b1a68a34de
++	Auto"
+@	702	1	a9401dc4c97f17996e6e9c4283cb33a2a5572c7f
++	Manual"
+@	715	1	351fb9d762d3458d86df988d32a2ee647f7000be
++	Select with"
+@	735	1	0ed2d593029bf39354639f8604283a68c3ea1b53
++	Press"
+@	737	1	9a76004f30e65a5b9076437e7d297a56db60ce66
++	290"
+@	755	1	fa687cd45cbaec512015f51a9d4722867fc9d25e
++	to change."
+@	767	1	4ca27d4a206690ce76d22ddc95c88e940e6b6ed9
++	To continue"
+@	787	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	Right: next screen."
+@	1239	1	be27a4ab5168c4c188e9c5de4419354f81a0c053
++	Auto"
+@	1250	1	be27a4ab5168c4c188e9c5de4419354f81a0c053
++	Auto"
+@	1332	1	be27a4ab5168c4c188e9c5de4419354f81a0c053
++	Auto"
+@	1343	1	be27a4ab5168c4c188e9c5de4419354f81a0c053
++	Auto"
+@	1354	1	be27a4ab5168c4c188e9c5de4419354f81a0c053
++	Auto"
+@	1365	1	be27a4ab5168c4c188e9c5de4419354f81a0c053
++	Auto"
+@	1376	1	be27a4ab5168c4c188e9c5de4419354f81a0c053
++	Auto"
+@	1410	1	0ed2d593029bf39354639f8604283a68c3ea1b53
++	Select"
+@	1423	1	b577d4eedff7d2a7143fbbcc5f9fc6259c78f9f1
++	360"
+@	1430	1	fa687cd45cbaec512015f51a9d4722867fc9d25e
++	press."
+@	1432	1	13f16cc13562dfb524175181ef661f50175a6725
++	380"
+@	1442	1	4ca27d4a206690ce76d22ddc95c88e940e6b6ed9
++	To continue,"
+@	1462	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	Right: next screen."
+@	1709	1	351fb9d762d3458d86df988d32a2ee647f7000be
++	Use"
+@	1729	1	0ed2d593029bf39354639f8604283a68c3ea1b53
++	to move,"
+@	1749	1	fa687cd45cbaec512015f51a9d4722867fc9d25e
++	to change."
+@	1761	1	4ca27d4a206690ce76d22ddc95c88e940e6b6ed9
++	Press right"
+@	1781	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	for the next screen."
+@	2027	1	c6083c4bbd60e594f20531a5ceb1cdd49ac6003a
++	Change the DNS (Domain Name System) setting."
+@	2067	1	19466fc635e34a0d46c8ca93420bfec434d34bdb
++	Right: next screen."
+@	2079	1	168a027c4951569554c47c78ec3b52b1a68a34de
++	Auto"
+@	2090	1	a9401dc4c97f17996e6e9c4283cb33a2a5572c7f
++	Manual"
+@	2112	1	7400a4942955cf58fe2bf7bc9f13abd9952c911a
++	Save the settings to the hard disk"
+@	2123	1	cccce27807501aca49542c5413e2325d9f12ba8e
++	and check the Internet connection."
+@	2143	1	e87762e97c92f18655a6b9378d47588fad0289a1
++	Press to start the connection test."
+@	2155	1	7400a4942955cf58fe2bf7bc9f13abd9952c911a
++	Save the settings to the hard disk"
+@	2166	1	cccce27807501aca49542c5413e2325d9f12ba8e
++	and check the Internet connection."
+@	2186	1	e87762e97c92f18655a6b9378d47588fad0289a1
++	Press to start the connection test."
+@	2368	1	be27a4ab5168c4c188e9c5de4419354f81a0c053
++	Auto"
+@	2379	1	be27a4ab5168c4c188e9c5de4419354f81a0c053
++	Auto"
+@	2390	1	be27a4ab5168c4c188e9c5de4419354f81a0c053
++	Auto"
+@	2525	1	be27a4ab5168c4c188e9c5de4419354f81a0c053
++	Auto"
+@	2536	1	be27a4ab5168c4c188e9c5de4419354f81a0c053
++	Auto"
+@	2568	1	0ed2d593029bf39354639f8604283a68c3ea1b53
++	Select with"
+@	2588	1	fa687cd45cbaec512015f51a9d4722867fc9d25e
++	press."
+@	2600	1	4ca27d4a206690ce76d22ddc95c88e940e6b6ed9
++	To continue,"
+@	2620	1	aa35c666bf6c83724161db72e04f7f24f393070a
++	Right: next screen"
+@	2878	1	7400a4942955cf58fe2bf7bc9f13abd9952c911a
++	Save the settings to the hard disk"
+@	2889	1	cccce27807501aca49542c5413e2325d9f12ba8e
++	and check the Internet connection."
+@	2909	1	e87762e97c92f18655a6b9378d47588fad0289a1
++	Press to start the connection test."
+@	2921	1	7400a4942955cf58fe2bf7bc9f13abd9952c911a
++	Save the settings to the hard disk"
+@	2932	1	cccce27807501aca49542c5413e2325d9f12ba8e
++	and check the Internet connection."
+@	2952	1	e87762e97c92f18655a6b9378d47588fad0289a1
++	Press to start the connection test."
+@	2965	1	7400a4942955cf58fe2bf7bc9f13abd9952c911a
++	Save the settings to the hard disk"
+@	2976	1	cccce27807501aca49542c5413e2325d9f12ba8e
++	and check the Internet connection."
+@	2996	1	e87762e97c92f18655a6b9378d47588fad0289a1
++	Press to start the connection test."
+@	3143	1	7400a4942955cf58fe2bf7bc9f13abd9952c911a
++	Save the settings to the hard disk"
+@	3154	1	cccce27807501aca49542c5413e2325d9f12ba8e
++	and check the Internet connection."
+@	3174	1	e87762e97c92f18655a6b9378d47588fad0289a1
++	Press to start the connection test."
+@	3301	1	cccce27807501aca49542c5413e2325d9f12ba8e
++	and check the Internet connection."
+@	3395	1	bec30c55bf3c8b60cedde442ec2ab6cf8fe1481a
++	Cancel the network setup?"
+@	3406	1	f3e187efc70a631b6a410599df993b0cbe9c0896
++	If you cancel, your changes will not be saved."
+@	3444	1	2b84870c8f3a88aafee0b2564ef6d7532f41454e
++	Network connection cancelled."
+@	3454	1	35d50ce8d2b9e2d043a8d7c5e40e03dcc192d12d
++	Failed to save the settings."
+@	3473	1	241950a3001a7f1f9a4606cacd56744635b06cc2
++	Failed to connect to the network."
+@	3485	1	94ba88d7d3374b849b049bdff509d81dbab56612
++	DNAS authentication error"
+@	3504	1	5067c96db4919fb02943f64ca16fe4b5016960c1
++	Cannot read the network settings."
+@	3523	1	cc72a85d6a84da551ef117da5e07e8542e4d3cc4
++	10 minutes left until a timer recording starts."
+@	3532	1	6ece69ed9fd8461240d91943ce52254445592226
++	This will close automatically when the recording starts."
+@	3541	1	90db7481ffdb2df560ec1904a539fec5fc45f220
++	Are you sure you want to cancel?"
+@	3577	1	90286b5fa2ec9ef6806834a231278a12f0391066
++	DNAS authentication."
+@	3610	1	2690ca8c8386850a5daa611d9fea9f7ce7df1128
++	The DNAS server cannot accept requests"
+@	3621	1	db0e2ab3d25d53314956676f569de3485d6bd82a
++	at the moment."
+@	3632	1	3b37d6123b09961485caf7e3539686a90fe08b98
++	Please wait a while and reconnect."
+@	3644	1	eab05a94cefc4d02e8fa5714d1e31e260a30d703
++	The DNAS authentication period for this title has not started yet."
+@	3656	1	c68b8d5079ccced81846596b94a25ae2a69c6671
++	The DNAS authentication period for this title has ended."
+@	3668	1	27f3e2a6794e3ac76bd48382de2223d0b4748138
++	All DNAS services have ended."
+@	3681	1	2bb94beff0f8ab66677b6318c05b78d7b7d4ded1
++	DNAS: connection to the server timed out."
+@	3692	1	3b37d6123b09961485caf7e3539686a90fe08b98
++	Please wait a while and reconnect."
+@	3704	1	1bb63a1e77c674b0df564340e9bb72e9b4f0bb0f
++	Server is not working"
+@	3715	1	3b37d6123b09961485caf7e3539686a90fe08b98
++	Please wait a while and reconnect."
+@	3727	1	d944c9f195e1805ad0a74bb9d386159ad659ed8a
++	DNAS error."
+@	3739	1	53d6d88743f0b1749d5ee8534a2a48e1e861b178
++	DNAS server error."
+@	3751	1	ede5487768d5bd5f46860673286ba14771ea8718
++	Unique ID error."
+@	3775	1	3edfce07536bbfdccbbb77a70ffc0143be77620a
++	Device information error."
+@	3787	1	d944c9f195e1805ad0a74bb9d386159ad659ed8a
++	DNAS error."
+@	3799	1	dfb968c34ef4500b36307adcc84ee8e6766521df
++	Network connection cancelled"
+@	3811	1	f279ef1ca0d0c12c0c82922eb4cac6b57aa68c6e
++	Proxy settings error."
+@	3823	1	15f2cdd763d38af59160cec94ce49f486c14602d
++	Communication timed out."
+@	3834	1	3b37d6123b09961485caf7e3539686a90fe08b98
++	Please wait a while and reconnect."
+@	3869	1	7d09381c6acbb596d7b00ccbf160e265e98901b9
++	Error DNS server."
+@	3892	1	7b06d5c35dc85e534d2bab1c121e6adfc1e42286
++	DNS error."
+@	3915	1	8ea99e58153b981e9b551f1480d2ee6ded2736db
++	DNAS: failed to connect to the server."
+@	3927	1	c95157be96c6723da2ccc8b247c493cf211c4451
++	Communication error."
+@	4002	1	a3b36997cacf8646fa722208ac2cbd1b37c0848c
++	Connection complete."
+@	4015	1	3cffaa7625b403164e65ac88cbf8fd1f98537419
++	Abort connection."
+@	4026	1	4058e02aba639c774d5de6c22244beeaf1bf1813
++	Failed to connect."
+@	4070	1	34e6934100f3a5cac1f02d58b890f0ad5a754164
++	Network settings"
+@	4121	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+F	xosd/packages/Config_0/ConfigPhoto.xml	xosd/packages/Config_0/ConfigPhoto.xml	918a5eba373754ebdac98cb4784301a1984eaee5
+F	xosd/packages/Config_0/ConfigSystem.xml	xosd/packages/Config_0/ConfigSystem.xml	3108244e36fd5e3183d775c155d0980e3e9ddf48
+@	1872	1	51ce4df4f2c0180ff416e07f8496cf16b14522e8
++	Optical out"
+@	1877	1	e95b09578fb0180aca3ae92bc2a2b696876b4f4e
++	Restore factory settings"
+@	1882	1	c742f8b2b5ccf894019a6114d24d47a4b033ffbe
++	HDD setting"
+@	1907	1	64635feaeb4716ac0285cdfc929acf65dd6cce52
++	4:3 Letterbox"
+@	2068	1	1ea597692f98072952924bffe0e887177d111f6b
++	On the hour"
+@	2073	1	2b245bb5fa6a1f7c63da55d09bbd4436553f0682
++	Channel setting"
+@	2389	1	1fbd79388df7a25c4d7b6fda0ce32970472b5052
++	Settings / System information"
+@	2453	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+F	xosd/packages/Config_0/ConfigTVChannel.xml	xosd/packages/Config_0/ConfigTVChannel.xml	8f51df9c8480782d47b404fb646b0b3ca04f698b
+@	41	1	18cea80b69a589138ea4a700b27bd275f63a59ea
++	No"
+@	48	1	2d0e1ba2fdb949338efc0c829fa59640f112bccf
++	Yes"
+@	69	1	18cea80b69a589138ea4a700b27bd275f63a59ea
++	No"
+@	76	1	2d0e1ba2fdb949338efc0c829fa59640f112bccf
++	Yes"
+@	91	1	c7ad0a8ff7aae7d081a6de33847db8b0949c816e
++	Select"
+@	1740	1	32ef63d3efad251b4791a7b640ac0e15ab9c34bf
++	Save these settings?"
+@	1753	1	1c1aa1526c8281d43e4a641715b7ec6fb56a64eb
++	If you do not save, you return to the previous screen."
+@	1779	1	30e18a1419475cc6b723a415f930ef33b9e00916
++	Cancel"
+@	1860	1	9d2dac5eb38f77752ee3d967b02d801b7bdd04ff
++	Saving the channel settings."
+@	1875	1	9b5362ee749f53602b559ab9d3af86f7c4e39c77
++	Please wait."
+@	1964	1	82155f2d68c86da21372913e09f3033ca67dbc09
++	10 minutes left until a timer recording starts."
+@	1975	1	ea46cb336c74c1f58005cfacea2df40e7159af12
++	The menu will close when the timer recording starts."
+@	1986	1	541651ed957c4024aac6f7e499270fd80bd729bb
++	Cancel the manual channel setting?"
+@	2060	1	581c03ba7568f7421c6986863eb006cc605b98ab
++	Settings / TV / Manual channel setting"
+@	2109	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	2144	1	c523faa948d55498ebf9ce375fcb851b17a49fab
++	Accept"
+F	xosd/packages/Config_0/ConfigTVChannelAuto.xml	xosd/packages/Config_0/ConfigTVChannelAuto.xml	b15a147ed4388a9c84f31f7a0df8d55ed303b788
+@	85	1	d4269d81c081204b7163d419830745c8f81d7970
++	Do not turn off the PSX during setup."
+@	160	1	74695d9983fa46c5b4fb13b6984adac651a0d981
++	Start Auto Tune?"
+@	190	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	275	1	82155f2d68c86da21372913e09f3033ca67dbc09
++	10 minutes left until a timer recording starts."
+@	286	1	74695d9983fa46c5b4fb13b6984adac651a0d981
++	Start Auto Tune?"
+@	312	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	351	1	333148765a72d29eb1beae106b77f2339cf13b93
++	Settings / TV / Auto Tune"
+@	364	1	e251a81f587ef159aff34d5bf47919b81ce6e95a
++	Easy Setup / Auto Tune"
+@	415	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	437	1	c523faa948d55498ebf9ce375fcb851b17a49fab
++	Cancel"
+F	xosd/packages/Config_0/ConfigTVChannelFineTune.xml	xosd/packages/Config_0/ConfigTVChannelFineTune.xml	75833e45c843d5142ecd64e4e1cf2d2024b1255f
+@	91	1	24a5a158e83dcfb2cd903a59f427028538210632
++	Settings / TV / Manual channel setting / Fine tuning"
+@	140	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+F	xosd/packages/Config_0/ConfigTv.xml	xosd/packages/Config_0/ConfigTv.xml	64745a54b67bddae7aa89fa15c22b40209276b0c
+@	1826	1	423b7d220b5a78bff184259146af2c15fed51b1a
++	BS antenna level"
+@	1831	1	f242cbfd8d91508fe7a39a261db059d735d62d97
++	BS antenna power"
+@	1841	1	02e632ae87e5d1246657c60497e1f5b486d4ccc3
++	Program guide channel"
+@	1846	1	f153c1d8db8ea77ac69dd79fe7a0d21b5a21f255
++	Program guide time"
+@	1861	1	18cea80b69a589138ea4a700b27bd275f63a59ea
++	No"
+@	1866	1	2d0e1ba2fdb949338efc0c829fa59640f112bccf
++	Yes"
+F	xosd/packages/Config_0/ConfigUpdate.xml	xosd/packages/Config_0/ConfigUpdate.xml	0390118dc965f7b56fe9fe80ef5be13efe0e4ce5
+@	158	1	332643d193978c72f0999be39ebd84fe8db341c2
++	Network update will now start."
+@	178	1	9927503eb1af834649c1152cb5cdc671ea648b89
++	Press to start the download."
+@	200	1	1ee8aa269a6bbdc72a9d8a156afc548f1c84b8c2
++	The latest software has been downloaded."
+@	213	1	1768c3e7d7c7fd125ed61e9c267206619083222b
++	Until the download is finished, do not turn off the unit"
+@	226	1	37c5b44d940494737908bb6b4f05a18c8ffe382d
++	or disconnect the network."
+@	287	1	cc066f5d5e46a7c47b8f2038408e1dc27350bd0d
++	Please read the license agreement,"
+@	309	1	eb308f1fab0f1afa217647c9350dce69e7e7ce35
++	then press to go to the next screen."
+@	369	1	02ff8617fd09e0f839c94c65c70fb6de9bfb843f
++	Do you accept the license agreement?"
+@	382	1	ae84f09e6babc7b013dea8ec93d6e07b1e66eef1
++	Select"
+@	402	1	07180d88fd5815684f5869338a63da45650c19e9
++	with and press"
+@	422	1	fa687cd45cbaec512015f51a9d4722867fc9d25e
++	press."
+@	471	1	2d899c88c0c5af253bb9e550b5399ad6a917828c
++	Installation will now start."
+@	484	1	5f38ccfc8290aa40e3576b7dc80164612463b38c
++	The screen may stay blank for a while during installation."
+@	497	1	f5c1d907baf1db224d7c3c46759f1bb828845002
++	Do not turn off this unit or disconnect it from the network."
+@	510	1	7e6e68e5ce0c2909bf73e264c14c70fb9c87f22a
++	"
+@	532	1	10eb3546b24a3bd91c260873c19d9d7d734a263d
++	Press the button to start the installation."
+@	546	1	3e737dbc6fdeed1551bf8964885a26fc844b8b27
++	If you do not accept the license agreement,"
+@	559	1	349f883c0dcc5d2ed1b77bcba739a9dfa051b7a3
++	the software cannot be updated."
+@	572	1	8ed20e377e356f4518401b937fd1745ac0eb9a7d
++	Network update finished."
+@	596	1	a567ba7ae15676c37569804dd193380caf4724d7
++	Updating."
+@	609	1	28f08cdbf659ec532afb1d38a7f8192bb9ef6b9c
++	Do not turn off the PSX or disconnect the network."
+@	633	1	3dc9bb26dce4976f36885a627f9e17f56ec0e199
++	Software update complete."
+@	1057	1	630b61f735bd3b7ace04903d7b34384535495b3a
++	Checking for the latest software."
+@	1068	1	9b5362ee749f53602b559ab9d3af86f7c4e39c77
++	Please wait."
+@	1080	1	b40851887b20dd49ea9ede5fcff55aa6085e5ac2
++	DNAS authentication."
+@	1091	1	9b5362ee749f53602b559ab9d3af86f7c4e39c77
++	Please wait."
+@	1103	1	fb7e1b29bd4751bfdd7dc41071166730c0c85e32
++	Updated to the latest software."
+@	1114	1	6ad2fff4891a7e10c26f89622800e64bb53421c5
++	The software update will finish."
+@	1125	2	5a74acbb1958fb718d74c789a7e29516aa342084
++	 str= "
++	Not connect to network."
+@	1149	1	36b778129dafbecf4a8162179b1d8681a18708c3
++	DNAS authentication error."
+@	1161	1	d66b74116ad96b98815d18a95092990065d28f6c
++	The update server is currently busy"
+@	1172	1	33dc11250ee5d3532902a6abdaa8ec031843d917
++	or unavailable for maintenance."
+@	1184	1	35ecb9301da472b4b883b370b935568af27273de
++	Failed to connect to the server."
+@	1196	1	f0ef63d692ff2b7f466fb5e56b6a4f3fcc21f1e8
++	Download failed."
+@	1208	1	7a6d48e0a84dfc4763a4544ddf3c7c17a6f783cc
++	Update failed."
+@	1220	1	2690ca8c8386850a5daa611d9fea9f7ce7df1128
++	The DNAS server cannot accept requests"
+@	1231	1	db0e2ab3d25d53314956676f569de3485d6bd82a
++	at the moment."
+@	1242	1	3b37d6123b09961485caf7e3539686a90fe08b98
++	Please wait a while and reconnect."
+@	1254	1	eab05a94cefc4d02e8fa5714d1e31e260a30d703
++	The DNAS authentication period for this title has not started yet."
+@	1266	1	c68b8d5079ccced81846596b94a25ae2a69c6671
++	The DNAS authentication period for this title has ended."
+@	1278	1	27f3e2a6794e3ac76bd48382de2223d0b4748138
++	All DNAS services have ended."
+@	1291	1	a475676897cb1c1c2b94371f9c2b9a28f7107744
++	DNAS: connection to the server timed out"
+@	1302	1	3b37d6123b09961485caf7e3539686a90fe08b98
++	Please wait a while and reconnect."
+@	1314	1	b10e17052dc11dea0dd96b8d8a10f67e1f51fc17
++	The server is not working properly."
+@	1325	1	3b37d6123b09961485caf7e3539686a90fe08b98
++	Please wait a while and reconnect."
+@	1337	1	d944c9f195e1805ad0a74bb9d386159ad659ed8a
++	DNAS: an error has occurred."
+@	1349	1	53d6d88743f0b1749d5ee8534a2a48e1e861b178
++	DNAS server error."
+@	1361	1	ede5487768d5bd5f46860673286ba14771ea8718
++	Unique ID error."
+@	1385	1	3edfce07536bbfdccbbb77a70ffc0143be77620a
++	Device information error."
+@	1397	1	d944c9f195e1805ad0a74bb9d386159ad659ed8a
++	DNAS: an error has occurred."
+@	1409	1	7e7c30d122c6ec5e0fa8ef608938648d1047d5cc
++	Network connection cancelled."
+@	1433	1	15f2cdd763d38af59160cec94ce49f486c14602d
++	Communication timed out."
+@	1444	1	3b37d6123b09961485caf7e3539686a90fe08b98
++	Please wait a while and reconnect."
+@	1479	1	7d09381c6acbb596d7b00ccbf160e265e98901b9
++	Invalid response from the DNS server."
+@	1502	1	7b06d5c35dc85e534d2bab1c121e6adfc1e42286
++	DNS error."
+@	1525	1	8ea99e58153b981e9b551f1480d2ee6ded2736db
++	DNAS: failed to connect to the server."
+@	1537	1	c95157be96c6723da2ccc8b247c493cf211c4451
++	Communication error."
+@	1549	1	5067c96db4919fb02943f64ca16fe4b5016960c1
++	Cannot read the network settings."
+@	1561	1	f2696eb226098d3ede59755c1cf25b235174354d
++	The scheduled recording start time has passed."
+@	1572	1	ef4462d1d721ad59d920aeb672fceb1dc41b37b1
++	The network update will be stopped."
+@	1650	1	ea2799c99a4f5a1563d7a788114459a353ce0e32
++	Cancel the network update?"
+@	1688	1	9f88f1ab74345720b4df613f6d16facd4b39a20a
++	Less than one hour until a timer recording starts."
+@	1699	1	a0282d33417d024afcd418851e73aef79d2c003b
++	This will close automatically when the timer recording starts."
+@	1710	1	90db7481ffdb2df560ec1904a539fec5fc45f220
++	Are you sure you want to cancel?"
+@	1776	1	50b71f181bb7fb8ec5d0d908a25a8ad593fd2d19
++	The latest software is already"
+@	1789	1	36b0b1c3d1b4a0a64eaf75f96eddeb6e16871e4f
++	installed."
+@	1802	1	68d7cbcfce55b3e6473dd0c19a447d564103acc4
++	No update is needed."
+@	1825	1	a3b36997cacf8646fa722208ac2cbd1b37c0848c
++	Connected successfully."
+@	1838	1	3cffaa7625b403164e65ac88cbf8fd1f98537419
++	Connection cancelled."
+@	1851	1	4058e02aba639c774d5de6c22244beeaf1bf1813
++	Failed to connect."
+@	1938	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+F	xosd/packages/Config_0/ConfigVideo.xml	xosd/packages/Config_0/ConfigVideo.xml	d37badf17099e1eaacee82a04521eb110d7b6106
+@	1326	1	4be4656283350b9875de8eb839c3a55f2881709e
++	     Quality 1"
+@	1331	1	5cd79f85067ff264410072cbd84b244d6d70b0a7
++	     Quality 2"
+@	1336	1	820200955625dc6fdb1b6b38c07d4f1da8d9262b
++	     Quality 3"
+@	1341	1	d24540390001af66ae8aa8dfff9398a92a17e0d2
++	     Quality 4"
+@	1346	1	8768f18e433f78e5b0e0706dd984f34c80669e14
++	     Quality 5"
+@	1351	1	719c8e0ae809377aa0ddeb5455f0af2c4b2479ff
++	     Quality 6"
+@	1407	1	a98a1e540e3313f1e199ad4f0f95e44f4d8b1972
++	Bilingual"
+@	1426	1	4f6f947a02fc5eb83a4fc63a977a3e926cc29d93
++	Main+Sub"
+@	1656	1	aa63e6dee55673c070702368080c12b05b3abda4
++	The PIN is incorrect."
+@	2268	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+F	xosd/packages/Config_0/ConfigVideoPass.xml	xosd/packages/Config_0/ConfigVideoPass.xml	c34c710d2c6d3d367965b80c1f154decfa9a0a20
+F	xosd/packages/IconEditor_0/IconEditor.xml	xosd/packages/IconEditor_0/IconEditor.xml	fb3a8db7d9716797df22a660f4c16d828e533107
+@	340	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	417	1	7b57f860df2883e1d8a1b7ffbed5e9ea045274ed
++	Copying the saved data."
+@	434	1	07fe0c8acff2434d23b6be590be19221d157aa0a
++	Do not turn off the power during copying."
+@	470	1	31c241c8bb441d96eb17d236111f6022f057e50d
++	Copying complete."
+@	489	1	783869667a8b69da1d240f46c78c37b23423d2a0
++	Could not copy."
+@	537	1	0087f402f10f0b212fabc4301ca0af60f5bfe3f5
++	Overwrite?"
+@	556	1	e3e2d3e08753f38df2df68e991e87a42a0db9555
++	Cannot copy to this media."
+@	575	1	8aff3ce7e21accea9f516a4067d3418ba521fae3
++	Not enough free space to copy."
+@	634	1	0949ffa9ad23379738aee8a4dcc513100189b339
++	Move"
+@	697	1	8f5b0e79921f5c8817921a12a83eaa3aaa4ef49c
++	Moving the saved data."
+@	714	1	664a8a17ec659e2cfa3e7a0cd43700ba3de1da1a
++	Do not turn off the power while moving."
+@	750	1	f9ee7dc347115becd91409c6809b3d51369c8d96
++	Move complete."
+@	769	1	e8e6dd2097334ba0beca283eb3698c8bcbfa5f2c
++	Could not move."
+@	800	1	a26541875c978d6d75bf03edf6382552c7462f11
++	Move saved game"
+@	817	1	0087f402f10f0b212fabc4301ca0af60f5bfe3f5
++	Overwrite?"
+@	836	1	96b52fbcea041632aad0c07a6e30a75fee455a60
++	Move?"
+@	855	1	1565983d8408b3b98122958b837efdc865c97284
++	Cannot move to this media."
+@	872	1	f1f7b98aa157e07b7156db16d7bae819377843a8
++	Not enough free space."
+@	910	1	ebc77d9ccc4931e4359b80d85febcd060d78f01e
++	This data cannot be moved."
+@	941	1	fd03623c059dc0bb83e8d700dc6aa8b05d4ce69f
++	Deleting the saved data."
+@	958	1	f4b0fb6b41ae989ddbf8560e375416fe993263b2
++	Do not turn off the power while deleting."
+@	994	1	6ff25de79de5a9f3e713f0e11c69d0ed2f6ce974
++	Deleted."
+@	1013	1	96283a09ccc742212f3c6574d81a3c7bdbe0fd7c
++	Could not delete."
+@	1066	1	5bd30fc407d2ad32a161c3744fdc0c0015a41fe1
++	Delete it?"
+@	1143	1	9804e941c8e1cd899f776d8c68adcb2bac8f2505
++	Date updated"
+@	1200	1	9825b8c25962284e056e93783a91597dd814355e
++	Saved games (PlayStation®)"
+@	1219	1	91cd3a845479524dc5d0988041d2ac72728ee3a8
++	Saved games (PlayStation®2)"
+@	1238	1	64395764416969c446077ad64f60fa8f3e67fa0f
++	Settings file (PlayStation®2)"
+@	1257	1	0f892feb2653eaec2311660f868115feba023e23
++	System driver (PlayStation®2)"
+@	1295	1	f66825409366c3da96419492404459807ce9f706
++	PlayStation®2 format software"
+@	1332	1	a1c41c971ceb271140ee912a696df45377122131
++	Copying not allowed"
+@	1349	1	63e7dfe82fb2ddaa3dd2669d1ba3d79b3efc0b92
++	Copying and moving not allowed"
+@	1367	1	02d5a7587d8a17e027f3a09c3017f0961e4549af
++	Initializing."
+@	1386	1	c334a6bc91ca277913733350c13b397996da34e9
++	Initialization complete."
+@	1453	1	970971d14b30f9046215a80be5097e110ac176c8
++	Initialize?"
+@	1472	1	08fe49f6283c4851fde030624d70c06e9872e3b6
++	Copying..."
+@	1491	1	31c241c8bb441d96eb17d236111f6022f057e50d
++	Copying complete."
+@	1510	1	783869667a8b69da1d240f46c78c37b23423d2a0
++	Could not copy."
+@	1529	1	97e0868babd69f8aba877ece11221f1982c88658
++	A folder with this name already exists at the destination."
+@	1561	1	1a638a0db24c3114be8204307173a795552ebafc
++	Out of free space."
+@	1578	1	025ab9259411de49d4ca0f46f4fd3e10265e6c80
++	Delete unneeded data."
+@	1625	1	70ac58c9b4614dacfde1c49549bec005fd6e09f9
++	will be deleted."
+@	1661	1	e2e2921fc5b8402b1d4eef79eb9419cebf257bbf
++	Deleting..."
+@	1680	1	a3340d699edd8f1333988026d4233fda2604b03d
++	Deleted."
+@	1730	1	864ed8c12a0ce84fc49736240e3cfa7ffcd42c10
++	Create a folder"
+@	1747	1	1a638a0db24c3114be8204307173a795552ebafc
++	Out of free space."
+@	1823	1	2645ee935cf7003fdbba14c468bf65cf7dd5c53f
++	Date modified"
+F	xosd/packages/MusicPlayer_0/MusicPlayer.xml	xosd/packages/MusicPlayer_0/MusicPlayer.xml	2515c57e1869137946266cabbcf919783134b553
+F	xosd/packages/OSK_J_0/OSK_J.xml	xosd/packages/OSK_J_0/OSK_J.xml	0e00d9695d746b6ddea50deca5f6134d1ddd5e56
+F	xosd/packages/PhotoViewer_0/PhotoViewer.xml	xosd/packages/PhotoViewer_0/PhotoViewer.xml	d7ff0c433dbe0fc647201c2fef4319e63bcaf70d
+@	571	1	74dd13cf9ec073f5b6b689d0cf0c585860726f2b
++	Rotate (left)"
+@	600	1	b20da669e023fc4eeb89dc3e6e233a5f93c1681e
++	Rotate (right)"
+@	658	1	afb6cb9f9e9587479e610e0a66cf9cafeb1c89b1
++	Album thumbnail"
+@	1031	1	3895c0ac1bd7beb308f7318097a7145eaf8e193e
++	There is no slideshow."
+@	1051	1	0f43dba742d8efdcb9f32a3eb1d1c46114d93412
++	First frame used as album thumbnail."
+F	xosd/packages/Sircs2_0/Sircs2.xml	xosd/packages/Sircs2_0/Sircs2.xml	7d702a0c1250686f63d5497018a3f82720c8733b
+F	xosd/packages/TimeReserve_0/TimeReserve.xml	xosd/packages/TimeReserve_0/TimeReserve.xml	b33b00cd568690d03cb3d68dba58b0dc266b8837
+@	260	1	9fdcc62a9806bfb1af0b940a499bb0ba34748217
++	Confirmed"
+@	576	1	6052a87351d1d99d1237ec5f907a1a75aba39a37
++	Disc usage when dubbing to DVD:"
+@	600	1	018edfafe46fd2c508efedd7f69b5e6f84babaf8
++	Estimate for dubbing this title to DVD later."
+F	xosd/packages/UpdateCenter_0/UpdateCenter.xml	xosd/packages/UpdateCenter_0/UpdateCenter.xml	24205d567a9d09ee1ef97fae135973470b557547
+@	197	1	89e13551ce963a3b2e79fef9ebef300eea013ae4
++	Restore last configuration"
+@	204	1	89e13551ce963a3b2e79fef9ebef300eea013ae4
++	Restore last configuration"
+@	226	1	3f28523800c2c6bf859ada39c2b575e2ad8b0e45
++	Restore factory default"
+@	233	1	3f28523800c2c6bf859ada39c2b575e2ad8b0e45
++	Restore factory default"
+F	xosd/packages/barc_0/barc.xml	xosd/packages/barc_0/barc.xml	c30e1f9bfe2a7e9930bc4f61576b55971c41f12c
+@	192	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	245	1	896055905f01fd76e7cf8407ef05f38d54665ea5
++	Disc space 100%"
+@	771	1	e2d7a3785cde3d4c1d3dfa26bd5140daaffd5b42
++	There are no tracks."
+@	776	1	58e866dfc1bc9296e7e96c520ab4f7d99b9231c9
++	There are no photos."
+@	822	1	74dd13cf9ec073f5b6b689d0cf0c585860726f2b
++	Rotate (left)"
+@	827	1	b20da669e023fc4eeb89dc3e6e233a5f93c1681e
++	Rotate (right)"
+@	852	1	9b4e0df156d6c949c416148fadcb3712d167ca47
++	Options"
+@	877	1	840725ac47fd002bc8f64e725925087a5c404aa8
++	File not supported."
+@	969	1	74a9fe86228306070dd94f67bf9d3c754964a557
++	Busy."
+@	1044	1	9b4e0df156d6c949c416148fadcb3712d167ca47
++	Options"
+F	xosd/packages/boot_0/psxmain.xml	xosd/packages/boot_0/psxmain.xml	8c04164b710b1553197f26ad78dfdd379309fbb2
+F	xosd/packages/epg_0/epg.xml	xosd/packages/epg_0/epg.xml	f840a3b3368d3154848d6f0fa607e3974b5d86e1
+@	219	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	485	1	97eedd59d85e20a162d32d8facc300d4d4b48955
++	←Genre→"
+@	684	1	59a3de3f7a5e7511ae8c6924d4507631fe0d2523
++	--:--xM - --:--xM Station name"
+@	959	1	9ec945422ce566da8ca661d6dd36d84eb2f8ab7c
++	..:..xM - ..:..xM Station name"
+@	976	1	9b12fdc02c5f189d58ce6df72b6249157f65cbe2
++	First detail display area."
+@	1005	1	454cc85b9e45f7642d026fb4e9875d5271ca015a
++	Detail display area."
+F	xosd/packages/psml1_0/psml1.xml	xosd/packages/psml1_0/psml1.xml	e54c2fa6f6a85e1b9855a593a99b144c0ee2f5cd
+F	xosd/packages/psml1_0/psml1script/edclient/agreement.xml	xosd/packages/psml1_0/psml1script/edclient/agreement.xml	f540d0b4a906bf938b77bb1fbfb42a2ac4ec8213
+F	xosd/packages/psml1_0/psml1script/edclient/author.xml	xosd/packages/psml1_0/psml1script/edclient/author.xml	f5c095ad23c562c85df98f0c6231a23dacbe64e5
+F	xosd/packages/psml1_0/psml1script/edclient/bg.xml	xosd/packages/psml1_0/psml1script/edclient/bg.xml	bb447afc90f4ea6a7e68f675c7128ea8cd5bc368
+F	xosd/packages/psml1_0/psml1script/edclient/buy.xml	xosd/packages/psml1_0/psml1script/edclient/buy.xml	7440fb7ab40e1fa5793655f788612d3d31a5d9f8
+F	xosd/packages/psml1_0/psml1script/edclient/cancel.xml	xosd/packages/psml1_0/psml1script/edclient/cancel.xml	fad3834280417fde0b5a09258ffeab1389469cb8
+F	xosd/packages/psml1_0/psml1script/edclient/change.xml	xosd/packages/psml1_0/psml1script/edclient/change.xml	b98b86ff472ed39e1a00b02092c3144c0fc45c9c
+F	xosd/packages/psml1_0/psml1script/edclient/history.xml	xosd/packages/psml1_0/psml1script/edclient/history.xml	4b154d8abb22b58a4614f87d04c5d5dd0d978e5d
+F	xosd/packages/psml1_0/psml1script/edclient/id_change.xml	xosd/packages/psml1_0/psml1script/edclient/id_change.xml	ee61e666dc3a78a1086b620335ddbde0226ac658
+F	xosd/packages/psml1_0/psml1script/edclient/id_delete.xml	xosd/packages/psml1_0/psml1script/edclient/id_delete.xml	90627fa61e48eeaf8cb742e25bf3a5f379c6276e
+F	xosd/packages/psml1_0/psml1script/edclient/id_new.xml	xosd/packages/psml1_0/psml1script/edclient/id_new.xml	1e743f4cce5db2925b3ec6b857d155d0e75d33fc
+F	xosd/packages/psml1_0/psml1script/edclient/id_save_menu.xml	xosd/packages/psml1_0/psml1script/edclient/id_save_menu.xml	66171658bf08967bd13c2db2286b08314af434d0
+F	xosd/packages/psml1_0/psml1script/edclient/member_menu.xml	xosd/packages/psml1_0/psml1script/edclient/member_menu.xml	f24f9ba6f81dd263b70435528c37755fdc9df761
+F	xosd/packages/psml1_0/psml1script/edclient/quit.xml	xosd/packages/psml1_0/psml1script/edclient/quit.xml	a3312085c2f2afeccb7ad5e894807a8f38579896
+F	xosd/packages/psml1_0/psml1script/edclient/regist.xml	xosd/packages/psml1_0/psml1script/edclient/regist.xml	1e7aa9ff1fc3367b4ac7260a5b59d1cdb0e4eb58
+F	xosd/packages/psml1_0/psml1script/edclient/service_list.xml	xosd/packages/psml1_0/psml1script/edclient/service_list.xml	af1b2b8396b5c9a582973e9ad02299ed3da0b73a
+F	xosd/packages/psml1_0/psml1script/edclient/service_menu.xml	xosd/packages/psml1_0/psml1script/edclient/service_menu.xml	e7d6a179b3ac8ea0da1585b73b46e7b9a0ee2363
+F	xosd/packages/psml1_0/psml1script/feegaguide/main.xml	xosd/packages/psml1_0/psml1script/feegaguide/main.xml	a79d515716ef0bc5181d60b9411f86c155de7160
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_B_3.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_B_3.xml	ebb927ceaac31f9e1836d7180951e0fa8c060eff
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_C_12.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_C_12.xml	aee3f3dc16ee1424efa1ce2d24ae0c0193bde4b5
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_C_3.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_C_3.xml	6ba31a14cf0af1fc45a97913a4867509f541ba17
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_C_6.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_C_6.xml	5597c18e1bb6d8cacafe7348b833863802e4dec3
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_10.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_10.xml	63084063d4607dc35d02cebf60c92d5449cbaff3
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_11.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_11.xml	b336ef081efd1709dcc8d08c5de4cdd2871b7314
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_12.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_12.xml	0c5c0b752ba1f761767dfdedcee41099f1336081
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_13.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_13.xml	925d4c4df5c9020d1409510077309b7f87ab4791
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_14.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_14.xml	8422fa9ea2d9ee46a5a4985cf75caf9e73038330
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_15.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_15.xml	0818ae0411b98d17798701233349901dc7807d36
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_16.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_16.xml	2a7e2d25b59a2bea327742eb7affc8fe2720edc0
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_17.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_17.xml	032952c3a96d24a03b1e5bcb20851c2c3678d91c
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_3.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_3.xml	1666cbb9a02349ab1d5c793b92d02f131d37efb1
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_4.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_4.xml	9c14b5ad035287a1f03662131019ff0104520e5d
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_5.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_5.xml	ddcba8dfc3a6f20e3feb7304b2534f35d70efb7d
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_6.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_6.xml	884a4e391ced0e7440cc1a0e0ea2e57a8221b75a
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_7.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_7.xml	c0fd8462afdb9e8f7c25c711695bc6f729b094e3
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_8.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_8.xml	01010309c0be527eded839b8de76c8098c0ddd6f
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_9.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/term_D_9.xml	281679c5771bed1a8b5cc81812102d5c8c2977a1
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/trouble_B_3.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/trouble_B_3.xml	67875c3237183d3402f6da4bde0b82588e34725d
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/trouble_C_3.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/trouble_C_3.xml	275cc6939871f299f461770d539e9dc543e5ec66
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/trouble_C_4.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/trouble_C_4.xml	a84a6490fc27b13acd81a9f3dab48d0f86f0add3
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/trouble_C_5.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/trouble_C_5.xml	0cca1c982746c25564587c74762cc587bf19dbb9
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/trouble_C_6.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/trouble_C_6.xml	48c27e430ef76be3f63d2f90a4759897da4713f3
+F	xosd/packages/psml1_0/psml1script/feegaguide/scene/trouble_C_7.xml	xosd/packages/psml1_0/psml1script/feegaguide/scene/trouble_C_7.xml	6c27d65f365c981c2828789648c968ab49e3072a
+F	xosd/packages/psml1_0/psml1script/system/bg.xml	xosd/packages/psml1_0/psml1script/system/bg.xml	74eaf7193a584d91b45da8641e8537f265e3daab
+F	xosd/packages/psml1_0/psml1script/system/cdl (2).xml	xosd/packages/psml1_0/psml1script/system/cdl.xml	9efdfd3c133af8fc8a81b16c7b165b2e8146839b
+@	36	14	02e66001c54b14a65a7d3c5062753f0d7c676a5d
+@	56	43	1821857e22b877e98a7e2908433d563a30c367bd
++	<CR><LF>
+@	102	1	56368007e5191ed98cd51c8e87bd7c658bbebba4
++	To download the content\n Does not correspond"
+F	xosd/packages/psml1_0/psml1script/system/cdl.xml	xosd/packages/psml1_0/psml1script/system/cdl.xml	82d38c87e834a611083cca7bfae5a41b8811751e
+F	xosd/packages/psml1_0/psml1script/system/download.xml	xosd/packages/psml1_0/psml1script/system/download.xml	deacca26e16e68de7310a3da04b80920a7334c29
+F	xosd/packages/psml1_0/psml1script/system/error.xml	xosd/packages/psml1_0/psml1script/system/error.xml	5c993db8bc6fa2baea85250d64f550ed1b96e9c8
+F	xosd/packages/psml1_0/psml1script/system/fg.xml	xosd/packages/psml1_0/psml1script/system/fg.xml	6e649ce45b1ba93110ef7e149f9f3961aec1bd30
+F	xosd/packages/psml1_0/psml1script/system/home.xml	xosd/packages/psml1_0/psml1script/system/home.xml	1c5747e8c138aee2f78b5600c1a8d33c08b894d5
+F	xosd/packages/psml1_0/psml1script/system/login.xml	xosd/packages/psml1_0/psml1script/system/login.xml	b2145f4767eec3cf43042e4f686c475e698e6ab0
+F	xosd/packages/psml1_0/psml1script/system/msgbox.xml	xosd/packages/psml1_0/psml1script/system/msgbox.xml	536c457425bf9db794043a284505d744c9f5075c
+F	xosd/packages/pvrBurn_0/pvrBurn.xml	xosd/packages/pvrBurn_0/pvrBurn.xml	2351c6bd906b276963b137f16d502d260c7cc9f1
+@	344	1	b605aa1e46489d3c5d3afb23802cbae58b5ecde1
++	Select the titles to dub"
+@	364	1	fa687cd45cbaec512015f51a9d4722867fc9d25e
++	press."
+@	504	1	06d3b49bd8c8baeb36580602e803859b3f98d177
++	Select the DVD menu type"
+@	524	1	fa687cd45cbaec512015f51a9d4722867fc9d25e
++	press."
+@	547	1	84441397840f72bbfafecfdb28c4baab23fd97a0
++	Check the order of the titles to be written to DVD."
+@	569	1	4030341e7927215cb7f3a200058fb205d05ebb2f
++	Press to start writing."
+F	xosd/packages/pvrEdit_0/xml/pvrEdit.xml	xosd/packages/pvrEdit_0/xml/pvrEdit.xml	55b870b0d077bcd282e0372bf11b7669f235f2b7
+@	181	1	ffbb3b2c02de0c3e59aaf99f5f3e34bdd2f1716c
++	Start point"
+@	260	1	ea7bd700cd7b6b406855b1617ec8600ff6e4f82b
++	Press to choose the edit range to cancel."
+@	273	1	3b99534965b33c3e177bd6026570e07380a2f7e8
++	Press to return to the edit screen."
+@	1406	1	ffbb3b2c02de0c3e59aaf99f5f3e34bdd2f1716c
++	Start point"
+@	1469	1	ffbb3b2c02de0c3e59aaf99f5f3e34bdd2f1716c
++	Start point"
+@	1550	1	ffbb3b2c02de0c3e59aaf99f5f3e34bdd2f1716c
++	Start point"
+@	1708	1	b3b5bbcdfec5a9e95be46942ae91cd35d896f3dc
++	Play"
+@	1776	1	81cfebac4339ba87b97bf728906fe3ec24dc72d9
++	End"
+@	1911	1	47518c42df780100791d4ea5abd101600ada8cfd
++	Press at the start of the scene you want to skip."
+@	1937	1	e11faf483b260fbfe61d57d4d8702c76eab0b788
++	Press at the end of the scene you want to skip."
+F	xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	xosd/packages/pvrEdit_0/xml/pvrEdit_Dialogs.xml	0889deec8d31a56d5f34e3fc7b0d4602ecfd9f2f
+@	52	5	605454d5ac51264f0a562959d70cb0c6c8cec5a0
++	Finish editing. Are you sure?<CR><LF>
++	The selected parts will be skipped<CR><LF>
++	during playback.<CR><LF>
++	Chapter marks set inside the edit range<CR><LF>
++	will be removed."
+@	170	1	6c4cfc35ee8c3fadc1c130324a8a2fd54045fda3
++	Exit without saving your edits. Are you sure?"
+@	286	3	9aaf4e07ab2ee1c89e5f3737713834e1a5303c82
++	Preview playback.<CR><LF>
++	To finish the preview, press the button<CR><LF>
++	　 again."
+@	378	1	dbc3640483d6b85c19ca013f35087498b92f729c
++	Do not start"
+@	386	1	dbc3640483d6b85c19ca013f35087498b92f729c
++	Do not start"
+@	407	1	2e86bf55beb0065f4759e1210d9ab5a88d2eb55a
++	Cancel the selected range. Are you sure?"
+@	492	1	ea2bd54cadb6db13d071d1d7e8eb8d21613c7a63
++	Do not undo"
+@	500	1	ea2bd54cadb6db13d071d1d7e8eb8d21613c7a63
++	Do not undo"
+@	532	4	7a2c6fe2448e64862289bcf4d594f9156e62f8ed
++	If you select Save and Exit, the selected<CR><LF>
++	parts will be skipped from now on.<CR><LF>
++	Chapter marks set inside the edit range<CR><LF>
++	will be removed."
+@	568	1	f0215892fb2b0cc500f972c18604bb9ff68d6b44
++	Save and exit"
+@	576	1	f0215892fb2b0cc500f972c18604bb9ff68d6b44
++	Save and exit"
+@	649	5	c52ced64148fea475dc934c75ba348e181140bbe
++	The maximum number of chapter marks and edit ranges<CR><LF>
++	has been reached. No more chapter marks or<CR><LF>
++	edit ranges can be set.<CR><LF>
++	To continue editing, delete some chapter marks<CR><LF>
++	or edit ranges."
+@	675	5	c52ced64148fea475dc934c75ba348e181140bbe
++	The maximum number of chapter marks and edit ranges<CR><LF>
++	has been reached. No more chapter marks or<CR><LF>
++	edit ranges can be set.<CR><LF>
++	To continue editing, delete some chapter marks<CR><LF>
++	or edit ranges."
+@	701	3	22c3598cdbd70fdc072b46549c27f1d759cc9831
++	Your edits could not be saved.<CR><LF>
++	There may not be enough space on the hard disk,<CR><LF>
++	or there may be a problem with the hard disk."
+F	xosd/packages/pvrReEnco_0/pvrReEnco.xml	xosd/packages/pvrReEnco_0/pvrReEnco.xml	98902bbd7091f8485669477e4ccc2984c58f79f3
+@	252	1	6e0e084d1ccc7a30751394dbe228a5cce2a1ffa5
++	Audio"
+@	278	1	7e46fe7fe67c9db964c8f3cc2c39ede07c3b0f9a
++	Original title"
+@	306	1	2d41c68aed155d7ec4ad40bf24d832f3d2d2e1c9
++	Optimization"
+F	xosd/packages/pvrVideoApp_0/pvrVideoApp.xml	xosd/packages/pvrVideoApp_0/pvrVideoApp.xml	acc5e4a5fbde237bf471bea9be2ee395cced2f15
+@	1527	1	aa63e6dee55673c070702368080c12b05b3abda4
++	The PIN is incorrect."
+F	xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	xosd/packages/pvrVideoApp_0/pvrVideoDialogs.xml	91183b68680437aa83d0c4dcbbce6e6e50e675e2
+@	452	1	c2874dc669cf4c13a180c7eb2509254a096664d9
++	Delete"
+@	559	1	413dc44df88f703a67ee60fdace2579965f09c6d
++	Cancel"
+@	567	1	413dc44df88f703a67ee60fdace2579965f09c6d
++	Cancel"
+F	xosd/packages/pvr_0/xml/pvrNativeApp.xml	xosd/packages/pvr_0/xml/pvrNativeApp.xml	035b519bed257fe86ffcc61e68a07b35c0dc6c69
+F	xosd/packages/tv_0/tv.xml	xosd/packages/tv_0/tv.xml	41d0bf02d60a9c3f24263d9731359ea1cba70cd3
+@	133	1	2a78404374353b30d27e772932a1415ed41388cb
++	Current recording mode"
+@	262	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+F	xosd/packages/version_0/eula.txt	xosd/packages/version_0/eula.txt	f532c4caa63965e6e650ccdae76933cf8847df78
+F	xosd/packages/version_0/install.txt	xosd/packages/version_0/install.txt	0e8bac714195da3cfcd43babe0aabadbe43aa89e
+F	xosd/packages/version_0/version.txt	xosd/packages/version_0/version.txt	e894a6c634075cb13f81e0bdd5cd11b02156cb81
+F	xosd/packages/xBarPluginConf_0/ConfigDialogs.xml	xosd/packages/xBarPluginConf_0/ConfigDialogs.xml	0f8baedfc6f08f43b57899a4b2af8dbf7d1c1263
+F	xosd/packages/xBarPluginGame_0/delete.xml	xosd/packages/xBarPluginGame_0/delete.xml	4a8cd987d9c4bbf58184d6cc5148e0bd440b4d79
+@	43	1	a8616d19582240e04c1a08f2defc42aa185d83a7
++	　This game will be deleted from the PSX."
+@	175	1	988ba165b8eace1d4f2a3fe991422ae9ac389365
++	Delete it?"
+@	355	1	96283a09ccc742212f3c6574d81a3c7bdbe0fd7c
++	Could not delete."
+F	xosd/packages/xBarPluginGame_0/gameboot.xml	xosd/packages/xBarPluginGame_0/gameboot.xml	df44782c91bdc3b8402e0973894ce6684ad92f05
+@	30	1	59d689b12746a89b8dd31033b41810372f0259dc
++	Loading the game. Do not turn"
+@	37	1	0d36b1b277eea499a9e71671dfded0e5ed1ac31e
++	off or restart your PSX."
+@	51	1	88a27c1362c1fdcf1ec9e3e14a7bfa571fdeadba
++	Do not remove the disc."
+@	122	1	8e96413c2768c393cb6037eb4fc497d326f69a39
++	Loading the game."
+@	129	1	0d36b1b277eea499a9e71671dfded0e5ed1ac31e
++	off or restart your PSX."
+@	136	1	89f9d18b3088bc3aee13241c7cf9f727ad1b2d6a
++	Do not turn off the power."
+@	216	1	e632fc3bbbbd1e9af81e5a4e6826aac90dac2973
++	Failed to read the disc."
+@	235	1	e928c236a8cfffb08bc741c9d6c589f8f865cae1
++	This disc cannot be started."
+@	254	1	9d74fadb985513149a58700cf4bbadfa4eb1a8f1
++	This is not a PlayStation® or PlayStation®2"
+@	261	1	a95f7b333d8e6a77dd9f91a564b00e4b615ec9c7
++	format disc."
+@	297	1	03a8c10d20f1e00a9a6624d2354e84f5bca43d5f
++	This game requires a disc to start."
+@	304	1	df804b711d04e26eaec71299d80bbeefedf4231a
++	Please insert the disc."
+@	321	1	148ea5472ef7b8ca5126fde0008314a0e4f4e202
++	Wrong disc."
+@	347	1	988ba165b8eace1d4f2a3fe991422ae9ac389365
++	Delete it?"
+F	xosd/packages/xBarPluginGame_0/information.xml	xosd/packages/xBarPluginGame_0/information.xml	3046076430855153fd6d2b9f4851d6ed9c9e88bb
+@	84	1	fbe03a96bfc088cecadd5a9774f5e0b4468c3fea
++	Publisher"
+@	107	1	cc86828ef08b803b3aed16de91fa0c02e15f45a2
++	Disc number"
+@	153	1	96741bfab5bd763c8fac15575f4489975ed41096
++	Date and time created"
+F	xosd/packages/xBarPluginMusic_0/checkin.xml	xosd/packages/xBarPluginMusic_0/checkin.xml	ad9f374722d36fb36894109278eebfd544db0c3d
+@	44	1	d9e29c93591322897a9b398d07f02accebcc81a4
++	Permanently delete this album?"
+@	105	1	b60ced8c998062ec27372874bab0cc153b93ee5a
++	Permanently delete this track?"
+@	169	1	fa1cef1ba92787a6bbe1f27e22dffeea8454c021
++	Do not remove the Memory Stick or turn off the PSX."
+@	257	1	d9e29c93591322897a9b398d07f02accebcc81a4
++	Permanently delete this album?"
+@	318	1	b60ced8c998062ec27372874bab0cc153b93ee5a
++	Permanently delete this track?"
+@	477	1	d9e29c93591322897a9b398d07f02accebcc81a4
++	Permanently delete this album?"
+@	538	1	b60ced8c998062ec27372874bab0cc153b93ee5a
++	Permanently delete this track?"
+@	602	1	0deabeb150ed5f2f5503aeefd84292ce936c000a
++	Do not turn off the PSX."
+@	690	1	476c924111a7775ed64566e7b313fce58137beeb
++	Deletion complete."
+@	724	1	b640c092aa233a1093d6a81fb208d3569aa5794a
++	Error while deleting"
+F	xosd/packages/xBarPluginMusic_0/checkout.xml	xosd/packages/xBarPluginMusic_0/checkout.xml	75c2f6d6d3afa326d580dfe6575efbbb19956985
+@	115	1	777ca20f71f411bb814f2be18fc322f30d0a48ac
++	OK"
+@	120	1	777ca20f71f411bb814f2be18fc322f30d0a48ac
++	OK"
+@	243	1	cb98123a1e88930516a5e0b2a4fd7324bdc3b800
++	Do not remove the Memory Stick"
+@	250	1	cc32f6f38d15453a7568b4827232e34992111c6d
++	or turn off the PSX."
+@	368	1	777ca20f71f411bb814f2be18fc322f30d0a48ac
++	OK"
+@	373	1	777ca20f71f411bb814f2be18fc322f30d0a48ac
++	OK"
+@	496	1	cb98123a1e88930516a5e0b2a4fd7324bdc3b800
++	Do not remove the Memory Stick"
+@	503	1	cc32f6f38d15453a7568b4827232e34992111c6d
++	or turn off the PSX."
+@	638	1	0bc68452e31d6aeb61537eae744fd0c2b80b0772
++	Failed. The import is incomplete due to an internal error."
+F	xosd/packages/xBarPluginMusic_0/delete.xml	xosd/packages/xBarPluginMusic_0/delete.xml	8e24ae0f92972b5518142e22c3284432ef08cab8
+@	40	1	aa7dc1d994a5cfa6dd59d12617d9687646c7951f
++	Initializing the Memory Stick will erase"
+@	47	1	7560d709d5d8774d9fade1b8e314c2e70d62c736
++	all data on it."
+@	124	1	d3c5a9fe878b5d76a3147a4d59baa43df321d02f
++	Initializing. Please wait."
+@	131	1	004356eed09696b7db3de39124aece4ff2eda60b
++	Do not turn off the PSX."
+@	199	1	735a7cba3bf94257cef3f2014335573b1d1dae8f
++	Delete this track. Are you sure?"
+@	268	1	95b725d08ed98a3d00c424d4a4ad04ee90e53ec6
++	Do not turn off the PSX while deleting."
+@	318	1	df1f0e683a2b5803b91e0aed7cce6f60350be868
++	Check that the Memory Stick is inserted correctly."
+@	363	1	fb23d37255bd5b2e182619c5a3d16bcbc5f74632
++	All tracks in this album will be deleted."
+@	445	1	95b725d08ed98a3d00c424d4a4ad04ee90e53ec6
++	Do not turn off the PSX while deleting."
+@	506	1	735a7cba3bf94257cef3f2014335573b1d1dae8f
++	Delete this track. Are you sure?"
+@	577	1	95b725d08ed98a3d00c424d4a4ad04ee90e53ec6
++	Do not turn off the PSX while deleting."
+@	639	1	c34000a18a07a212194754757f821c8ded5dc4d9
++	Deletion complete."
+F	xosd/packages/xBarPluginMusic_0/importCDDA.xml	xosd/packages/xBarPluginMusic_0/importCDDA.xml	db3f9c2416c8e12f0ff361d58ce876f496ba62bd
+@	54	1	420c05c06bc540e9c6162dac93a265a04cbb4cf7
++	Optimizing."
+@	61	1	c8be8ef78e0d196c02ee3b6fde60ccbd7c90f3f9
++	To import, stop the optimization first."
+@	117	1	ca7c13fb52252166b860b54de4c8c34687e51e44
++	There are no tracks to import."
+@	133	1	b568f9ab5ee51f4362081293102e960dc490db3a
++	Checking free hard disk space."
+@	140	1	9b5362ee749f53602b559ab9d3af86f7c4e39c77
++	Please wait."
+@	147	1	1ae746258130bf67a0a8d9309b229b2a1be453c0
++	Do not turn off the PSX."
+@	219	1	121acb2f8e1c7cda1f5cc95d47d8d0b5502ec44d
++	Not enough free hard disk space."
+@	226	1	37d6d4688b5c09ad12d0c31f35de9969232b576b
++	Delete unneeded tracks and photos."
+@	271	1	94ddfbb0440f222af680ab9a20b070b79fadf5c7
++	Select the album for the"
+@	278	1	9029e8003fc14167278e67e416eae3467b9d21c4
++	imported tracks."
+@	396	1	91ee5e10b21cfd719fe523de0ccfe3927e751ceb
++	Cannot create a new album."
+@	403	1	fe9b627830d29650a9ce5523e6692ad8eab9878d
++	Please select another album."
+@	423	1	dc8390ab5e0326b143ede93e05537571f3c663e9
++	Select album"
+@	430	1	dc8390ab5e0326b143ede93e05537571f3c663e9
++	Select album"
+@	446	1	2674dcce190c7ee090897443fd936f61da9ffda7
++	The selected album contains"
+@	453	1	12b1013c1538ba8ac112c7eb6db66c7efab8e34d
++	too many tracks. Import stopped."
+@	490	1	1f4c218e09295c2400eb55149c873b9e82997149
++	The entered name is not valid."
+@	512	1	7f49930f33d91e8d70e9abd84342d78e6cf46211
++	The following characters cannot be used"
+@	593	1	002a2c354ea3231fff141a12535f70067d1684e5
++	Busy. Do not turn off the PSX."
+@	600	1	9a0bb0d1b7b22143819361ce1c3697eb68e0e484
++	Importing. Do not turn off the PSX."
+@	607	1	88a27c1362c1fdcf1ec9e3e14a7bfa571fdeadba
++	Do not remove the disc."
+@	774	1	b568f9ab5ee51f4362081293102e960dc490db3a
++	Checking free hard disk space."
+@	788	1	71e983e7fe9873ffd8654dfecf43248442940378
++	Do not turn off the PSX."
+@	860	1	121acb2f8e1c7cda1f5cc95d47d8d0b5502ec44d
++	Not enough free hard disk space."
+@	867	1	37d6d4688b5c09ad12d0c31f35de9969232b576b
++	Delete unneeded tracks and photos."
+@	912	1	94ddfbb0440f222af680ab9a20b070b79fadf5c7
++	Select the album for the"
+@	919	1	9029e8003fc14167278e67e416eae3467b9d21c4
++	imported tracks."
+@	1037	1	91ee5e10b21cfd719fe523de0ccfe3927e751ceb
++	Cannot create a new album."
+@	1044	1	fe9b627830d29650a9ce5523e6692ad8eab9878d
++	Please select an existing album."
+@	1064	1	dc8390ab5e0326b143ede93e05537571f3c663e9
++	Select album"
+@	1071	1	dc8390ab5e0326b143ede93e05537571f3c663e9
++	Select album"
+@	1089	1	1f4c218e09295c2400eb55149c873b9e82997149
++	The entered name is not valid."
+@	1111	1	7f49930f33d91e8d70e9abd84342d78e6cf46211
++	The following characters cannot be used"
+@	1194	1	72c3db0a3043f35a3f5e3af27658ceb16ce69cd3
++	Copying track %i."
+@	1201	1	004356eed09696b7db3de39124aece4ff2eda60b
++	Do not turn off the PSX."
+@	1208	1	a38d1a39d528f421edc15d71bb3a9a2c8e8cefdf
++	Do not remove the CD."
+@	1215	1	88a27c1362c1fdcf1ec9e3e14a7bfa571fdeadba
++	Do not remove the disc."
+@	1329	1	33544adb15a475710e0fe1f707f48f012a1d5b5d
++	Import stopped."
+@	1346	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	1353	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	1369	1	33544adb15a475710e0fe1f707f48f012a1d5b5d
++	Import stopped."
+@	1386	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	1393	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	1407	1	92c23df0904b2e695a28b49322949eafde22c6d6
++	Import failed."
+@	1414	1	0f0f9e0a4f063402afd3dd8212dbd676359c0960
++	Some tracks could not be imported."
+@	1445	1	c5571c55a92c3991de2e9060244aac3a009b9b7c
++	Copy stopped:"
+@	1452	1	a801dd37fc727833ebcc3cfbda38dbc779f8c7ab
++	maximum tracks per album reached (99 max)."
+@	1459	1	b04108514dd85037d88fcfdf7c55e7488791ff81
++	Some tracks could not be imported."
+@	1477	1	918ca8e53688d99eb1a11c482b1a8f6a0af70883
++	Cancel the import. Are you sure?"
+@	1550	1	f0acf98de549cfbfc66dda2a2e1647884566adf4
++	This disc cannot be imported."
+@	1567	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	1574	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+F	xosd/packages/xBarPluginMusic_0/importMP3.xml	xosd/packages/xBarPluginMusic_0/importMP3.xml	742cacaf6cc20ded599c37aa2e42264e9ba43c82
+@	54	1	420c05c06bc540e9c6162dac93a265a04cbb4cf7
++	Optimizing."
+@	61	1	c8be8ef78e0d196c02ee3b6fde60ccbd7c90f3f9
++	To import, stop the optimization first."
+@	80	1	726b658b3c625294d11996fe3ce4e1f1bfec05f1
++	Copy all music from the Memory Stick?"
+@	137	1	dfcd8afb8945074bd8f8c0f78b69e0ac8d119224
++	No music files available to import."
+@	155	1	22578648bfc7c803fdf84adae69d7402921ad9ee
++	Checking free hard disk space,"
+@	226	1	121acb2f8e1c7cda1f5cc95d47d8d0b5502ec44d
++	Not enough free hard disk space."
+@	233	1	37d6d4688b5c09ad12d0c31f35de9969232b576b
++	Delete unneeded tracks and photos."
+@	240	1	8ec859c5528eb3173ca7811b0e81ab6a86c00253
++	please wait."
+@	254	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	259	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	276	1	4655338b9af540ecb046a5e3fe3cf4cfdb9b717b
++	Select an album for the imported music."
+@	367	1	ffa840bdafd85bd808a8f15166652b4240dc5e13
++	Album name:"
+@	448	1	bdb4d8d46d4959ace0d9bb39653e8c723126c53c
++	Importing"
+@	451	1	ea5c4b6e9ed6cbdcb6e691b8e8ee19b5a59008d3
++	Importing the music."
+@	458	1	d897269388fb04dee780aabb83e7c908ea8faa86
++	Transferring MP3 files. Do not turn off the PSX."
+@	465	1	c45529a7b5f325edd5389b7cd8ec5749dfe38c70
++	Do not turn off the PSX or remove the Memory Stick."
+@	480	1	201684e47a5a28115152c26d60c5efb28c81b79d
++	Import status"
+@	583	1	df045db324dd02615b4413425d4390771925667c
++	Transfer the music?"
+@	640	1	22578648bfc7c803fdf84adae69d7402921ad9ee
++	Checking free hard disk space,"
+@	715	1	121acb2f8e1c7cda1f5cc95d47d8d0b5502ec44d
++	Not enough free hard disk space."
+@	722	1	37d6d4688b5c09ad12d0c31f35de9969232b576b
++	Delete unneeded tracks and photos."
+@	743	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	748	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	765	1	4655338b9af540ecb046a5e3fe3cf4cfdb9b717b
++	Select an album for the imported music."
+@	856	1	ffa840bdafd85bd808a8f15166652b4240dc5e13
++	Album name:"
+@	935	1	fb128c32c5a625adcfa7bf762b4de12ecbaed548
++	Importing xxx.mp3"
+@	944	1	326f5c85838cfa2bb0ec83b8ae3ce73c4375ef37
++	Importing."
+@	956	1	c45529a7b5f325edd5389b7cd8ec5749dfe38c70
++	Do not turn off the PSX or remove the Memory Stick."
+@	963	1	004356eed09696b7db3de39124aece4ff2eda60b
++	Do not turn off the PSX."
+@	977	1	201684e47a5a28115152c26d60c5efb28c81b79d
++	Status"
+@	1046	1	dfcd8afb8945074bd8f8c0f78b69e0ac8d119224
++	No music files available to import."
+@	1062	1	b568f9ab5ee51f4362081293102e960dc490db3a
++	Checking free hard disk space."
+@	1076	1	5b002ac67bcdd634844db7d28a5170ab1bd96e12
++	Do not turn off the PSX."
+@	1148	1	121acb2f8e1c7cda1f5cc95d47d8d0b5502ec44d
++	Not enough free hard disk space."
+@	1155	1	0c055489ea474727bcdc3a2f8a580b63455b4666
++	Please delete unused audio and photo files."
+@	1200	1	94ddfbb0440f222af680ab9a20b070b79fadf5c7
++	Select the album for the"
+@	1207	1	9029e8003fc14167278e67e416eae3467b9d21c4
++	imported tracks."
+@	1326	1	91ee5e10b21cfd719fe523de0ccfe3927e751ceb
++	Cannot create more albums."
+@	1333	1	fe9b627830d29650a9ce5523e6692ad8eab9878d
++	Please select an existing album."
+@	1353	1	dc8390ab5e0326b143ede93e05537571f3c663e9
++	Select album"
+@	1360	1	dc8390ab5e0326b143ede93e05537571f3c663e9
++	Select album"
+@	1376	1	2674dcce190c7ee090897443fd936f61da9ffda7
++	The selected album contains"
+@	1383	1	f5e352382283795df1ca777bb97444adbeea4efc
++	Maximum reached. Operation stopped."
+@	1420	1	1f4c218e09295c2400eb55149c873b9e82997149
++	The entered name is not valid."
+@	1431	1	b18c00348e54a5aa8096b57b98d196ac25d7c73f
++	Please rename the album."
+@	1442	1	7f49930f33d91e8d70e9abd84342d78e6cf46211
++	The following characters cannot be used"
+@	1523	1	002a2c354ea3231fff141a12535f70067d1684e5
++	Busy. Do not turn off the PSX."
+@	1530	1	9a0bb0d1b7b22143819361ce1c3697eb68e0e484
++	Copying MP3 files. Do not turn off the PSX."
+@	1537	1	a38d1a39d528f421edc15d71bb3a9a2c8e8cefdf
++	Do not remove the CD."
+@	1544	1	88a27c1362c1fdcf1ec9e3e14a7bfa571fdeadba
++	Do not remove the disc."
+@	1710	1	b568f9ab5ee51f4362081293102e960dc490db3a
++	Checking free hard disk space."
+@	1717	1	9b5362ee749f53602b559ab9d3af86f7c4e39c77
++	Please wait."
+@	1724	1	9363a87c7e61bd3e159442f06f813fdacc50245e
++	Please do not turn off the PSX."
+@	1796	1	121acb2f8e1c7cda1f5cc95d47d8d0b5502ec44d
++	Not enough free hard disk space."
+@	1803	1	0c055489ea474727bcdc3a2f8a580b63455b4666
++	Please delete unneeded audio and photo files."
+@	1848	1	94ddfbb0440f222af680ab9a20b070b79fadf5c7
++	Select the album for the"
+@	1973	1	91ee5e10b21cfd719fe523de0ccfe3927e751ceb
++	No more albums can be created."
+@	1980	1	fe9b627830d29650a9ce5523e6692ad8eab9878d
++	Please select an existing album."
+@	2000	1	dc8390ab5e0326b143ede93e05537571f3c663e9
++	Select album"
+@	2007	1	dc8390ab5e0326b143ede93e05537571f3c663e9
++	Select album"
+@	2025	1	1f4c218e09295c2400eb55149c873b9e82997149
++	The entered name is not valid."
+@	2047	1	7f49930f33d91e8d70e9abd84342d78e6cf46211
++	The following characters cannot be used"
+@	2131	1	72c3db0a3043f35a3f5e3af27658ceb16ce69cd3
++	Importing track %i."
+@	2138	1	004356eed09696b7db3de39124aece4ff2eda60b
++	Do not turn off the PSX."
+@	2145	1	a38d1a39d528f421edc15d71bb3a9a2c8e8cefdf
++	Do not remove the CD."
+@	2152	1	88a27c1362c1fdcf1ec9e3e14a7bfa571fdeadba
++	Do not remove the disc."
+@	2276	1	067a491d6f89ae283394c35c37ca1a80e1f66a4f
++	Copying completed"
+@	2293	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	2300	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	2314	1	2f16eab97b092b748c044b421b9b8e6840d18edc
++	Copy error"
+@	2321	1	1de54ff441bcba1028171728e93d22381476128f
++	MP3 copy error"
+@	2352	1	c5571c55a92c3991de2e9060244aac3a009b9b7c
++	MP3 copy stopped:"
+@	2359	1	a801dd37fc727833ebcc3cfbda38dbc779f8c7ab
++	maximum files per album reached (99 max)."
+@	2366	1	b04108514dd85037d88fcfdf7c55e7488791ff81
++	Some tracks could not be imported."
+@	2384	1	918ca8e53688d99eb1a11c482b1a8f6a0af70883
++	Cancel the import. Are you sure?"
+F	xosd/packages/xBarPluginMusic_0/information.xml	xosd/packages/xBarPluginMusic_0/information.xml	4f8937ec5f1bd6538a1dc5b1c3441f4369589806
+@	187	1	500b24fa6d8b7c0e66f4a8047a09a0221e4b30e0
++	Import date and time"
+@	241	1	b761e392702a4418d79eef484ddf7c791bff2fa0
++	Alternative/Indie"
+@	259	1	bf7faf0a027759a8271aca743348cc3ef8fb36e4
++	Country"
+@	262	1	851aa2dba6ef5a140489f3a4840213aee71b7cd7
++	Soundtrack/Easy Listening"
+@	265	1	e84cb228a21ab7c496628ec7e4e864cd1e2df6cd
++	Hip-Hop"
+@	386	1	500b24fa6d8b7c0e66f4a8047a09a0221e4b30e0
++	Import date and time"
+@	408	1	e65595c12fb536c35730145e14a34b85a7af3a0c
++	Track length"
+@	587	1	31f28977d84af6743aba413f168c436bae915457
++	Date and time created"
+@	611	1	e65595c12fb536c35730145e14a34b85a7af3a0c
++	Track length"
+@	737	1	e65595c12fb536c35730145e14a34b85a7af3a0c
++	Track length"
+@	759	1	90c311ba1cfea23620596006c07f3a5315909641
++	Size after import"
+@	781	1	513c12af934cf7c1f79bfa26ca38b13a1415d0af
++	Disc type"
+@	872	1	e65595c12fb536c35730145e14a34b85a7af3a0c
++	Track length"
+@	894	1	90c311ba1cfea23620596006c07f3a5315909641
++	Size after import"
+@	1007	1	513c12af934cf7c1f79bfa26ca38b13a1415d0af
++	Disc type"
+@	1079	1	31f28977d84af6743aba413f168c436bae915457
++	Date and time created"
+@	1147	1	513c12af934cf7c1f79bfa26ca38b13a1415d0af
++	Disc type"
+@	1263	1	31f28977d84af6743aba413f168c436bae915457
++	Date and time created"
+@	1287	1	e65595c12fb536c35730145e14a34b85a7af3a0c
++	Track length"
+@	1541	1	31f28977d84af6743aba413f168c436bae915457
++	Date and time created"
+@	1567	1	e65595c12fb536c35730145e14a34b85a7af3a0c
++	Track length"
+F	xosd/packages/xBarPluginMusic_0/rename.xml	xosd/packages/xBarPluginMusic_0/rename.xml	e7e785d4999ad135890ceea796f0aa96d56bae27
+@	67	1	1f4c218e09295c2400eb55149c873b9e82997149
++	The entered name already exists."
+@	89	1	59bc54d8d15cc280fff1b8abce11acc5093a4fce
++	The following characters cannot be used:"
+@	193	1	1f4c218e09295c2400eb55149c873b9e82997149
++	The entered name is not valid."
+@	215	1	59bc54d8d15cc280fff1b8abce11acc5093a4fce
++	The following characters cannot be used:"
+F	xosd/packages/xBarPluginPSBB_0/psml1.xml	xosd/packages/xBarPluginPSBB_0/psml1.xml	e54c2fa6f6a85e1b9855a593a99b144c0ee2f5cd
+F	xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	xosd/packages/xBarPluginPhoto_0/PhotoDialogs.xml	f078d83a956ac36298de5bb6f588805de91a3c11
+@	54	1	60d60b701faf05694f77e7368489b44642de067a
++	Optimizing."
+@	61	1	5b31e3df6e3855480c998804a7558f1bcdc871c9
++	To import, cancel the optimization first."
+@	79	1	5465718bf996ea53428f37059786aec0f23e20c4
++	Not enough free space on the HDD."
+@	86	1	4b752f6c22ec44023e4e03a20d7e62791eae767a
++	Delete unneeded titles, tracks or photos."
+@	107	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	144	1	9a154a8bfec3369ab2b271b7b8bf60c8098cb0b4
++	Importing the photos."
+@	277	1	91ee5e10b21cfd719fe523de0ccfe3927e751ceb
++	No more albums can be created."
+@	284	1	fe9b627830d29650a9ce5523e6692ad8eab9878d
++	Please select another album."
+@	304	1	dc8390ab5e0326b143ede93e05537571f3c663e9
++	Select album"
+@	311	1	dc8390ab5e0326b143ede93e05537571f3c663e9
++	Select album"
+@	330	1	77ee00e236b838a1784bc4692f4217c629d969c5
++	The entered name already exists"
+@	352	1	7f49930f33d91e8d70e9abd84342d78e6cf46211
++	The following characters cannot be used"
+@	445	1	5954bafb61d0ade75c6d70f1c1142c1105850ee3
++	Copying... Do not turn off the PSX."
+@	471	1	7db73d7dfface1e4bd5fc428734b6a74d8d0bda9
++	Do not turn off the PSX."
+@	491	1	a38d1a39d528f421edc15d71bb3a9a2c8e8cefdf
++	Do not remove the CD."
+@	496	1	88a27c1362c1fdcf1ec9e3e14a7bfa571fdeadba
++	Do not remove the disc."
+@	501	1	dfd2222bd3f4b2ef1130da30c7de195925f2e08f
++	Do not disconnect the external device."
+@	572	1	33544adb15a475710e0fe1f707f48f012a1d5b5d
++	Import stopped."
+@	586	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	605	1	e3689a1a6c36e2ce87a45caf605985f88a61adbe
++	Could not import."
+@	612	1	9805d501c304036528c2a2f24f73cc121fd33dd1
++	Check that it is connected correctly."
+@	630	1	9805d501c304036528c2a2f24f73cc121fd33dd1
++	Check that it is connected correctly."
+@	635	1	2323cce3d073ac6b981742a67ee42423a222eb2a
++	A photo with this name already exists."
+@	640	1	14b5c688f375246e88c29e1fe482a49c278bb88b
++	Empty albums cannot be imported."
+@	645	1	6f72a5d3a79a94aa775ef07ba5ee89ab274b0c1e
++	The album is full."
+@	650	1	a1429b02ba49fcced30382370510c632cdad2e2c
++	An album can hold up to 200 photos."
+@	700	1	14931c549b2e5ab32c9149cd441e5741ea95deba
++	All photos in the album will be imported"
+@	833	1	91ee5e10b21cfd719fe523de0ccfe3927e751ceb
++	No more albums can be created."
+@	840	1	fe9b627830d29650a9ce5523e6692ad8eab9878d
++	Please select another album."
+@	860	1	dc8390ab5e0326b143ede93e05537571f3c663e9
++	Select album"
+@	867	1	dc8390ab5e0326b143ede93e05537571f3c663e9
++	Select album"
+@	885	1	1f4c218e09295c2400eb55149c873b9e82997149
++	The entered name is invalid or already used."
+@	907	1	7f49930f33d91e8d70e9abd84342d78e6cf46211
++	The following characters cannot be used"
+@	1000	1	9a0bb0d1b7b22143819361ce1c3697eb68e0e484
++	Importing. Do not turn off the PSX."
+@	1034	1	7db73d7dfface1e4bd5fc428734b6a74d8d0bda9
++	Do not turn off the PSX."
+@	1054	1	a38d1a39d528f421edc15d71bb3a9a2c8e8cefdf
++	Do not remove the CD."
+@	1059	1	88a27c1362c1fdcf1ec9e3e14a7bfa571fdeadba
++	Do not remove the disc."
+@	1064	1	dfd2222bd3f4b2ef1130da30c7de195925f2e08f
++	Do not disconnect the external device."
+@	1176	1	004ab20c30ed64f8f3f3429fd6db2f88f70e8a9d
++	All photos in this album will be deleted."
+@	1183	1	589ebe6fb2e6d8d9257eef6dcc579529e53fbeee
++	Are you sure?"
+@	1254	1	fe2be146857cb6bf0e4524b0cd03e48c09db5b68
++	Delete this photo. Are you sure?"
+@	1330	1	95b725d08ed98a3d00c424d4a4ad04ee90e53ec6
++	Do not turn off the PSX while deleting."
+@	1404	1	127083b326c2828e29dc1da511891915d150791d
++	Deletion complete"
+@	1418	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	1437	1	28c434cf50f97b31bc2fbabb34a2e03e483e3a2c
++	Deletion failed"
+@	1455	1	7dc569848d550525430daa382bec3b933d7446d8
++	The file could not be deleted."
+@	1465	1	777ca20f71f411bb814f2be18fc322f30d0a48ac
++	OK"
+@	1499	1	a9a0b8552e83a1cd0e42bcd2ec64e4edbc8367fd
++	Image name"
+@	1567	1	31f28977d84af6743aba413f168c436bae915457
++	Date and time created"
+@	1637	1	a9a0b8552e83a1cd0e42bcd2ec64e4edbc8367fd
++	Image name"
+@	1705	1	31f28977d84af6743aba413f168c436bae915457
++	Date and time created"
+@	1775	1	a9a0b8552e83a1cd0e42bcd2ec64e4edbc8367fd
++	Image name"
+@	1852	1	31f28977d84af6743aba413f168c436bae915457
++	Date and time created"
+@	1952	1	a9a0b8552e83a1cd0e42bcd2ec64e4edbc8367fd
++	Image name"
+@	2020	1	6010db6cadb05cfd966fec08f95d70ef76667c1d
++	Date and time taken"
+@	2038	1	31f28977d84af6743aba413f168c436bae915457
++	Date and time created"
+@	2194	1	31f28977d84af6743aba413f168c436bae915457
++	Date and time created"
+@	2374	1	d94de151c0db87a342c5a84a8cfacc8e911cfcaa
++	Date created"
+@	2518	1	d94de151c0db87a342c5a84a8cfacc8e911cfcaa
++	Date created"
+@	2623	1	513c12af934cf7c1f79bfa26ca38b13a1415d0af
++	Disc type"
+@	2636	1	f3634cf5e41e3aa6e767d488f12e45d7c4d6a225
++	Data CD"
+@	2702	1	78f5ed2cd8d8c175821e680a805aae40a3111397
++	This photo will be written to the Memory Stick."
+@	2709	1	589ebe6fb2e6d8d9257eef6dcc579529e53fbeee
++	Are you sure?"
+@	2778	1	411ff1c654748613c055a8105e951baed2e7e7f3
++	All photos in this album"
+@	2785	1	fabcec7b0fe85041dc6a8d7b3059b4b6f0087447
++	will be written to the Memory Stick."
+@	2792	1	589ebe6fb2e6d8d9257eef6dcc579529e53fbeee
++	Are you sure?"
+@	2862	1	5b8e4ec21ea51218a23eedbcbd14017a7f63aa72
++	Could not write."
+@	2869	1	3b47848855a71079feecd517bcc4e86bb12f9b78
++	Not enough space on the Memory Stick."
+@	2907	1	a78e487fd7bea23a1293a0771c85cf363e738687
++	Select the album to export."
+@	2979	1	3e21abe19b0ab5598cd209acc1d62cca9cd30a22
++	Writing. Do not turn off the PSX."
+@	3051	1	06993a551ee91208dff2152a6c6d86a05cac4b86
++	Writing finished."
+@	3102	1	97f8ee4234592336d98f1ced14cf8876b6aac9fe
++	The file could not be copied."
+@	3107	1	6100a36884d6243fbfa9dad387fe52432a30f97f
++	The selected album has too many photos."
+@	3112	1	1c1043cb8348d822d4c1022cee985418e33fd203
++	Too many albums on the Memory Stick."
+@	3150	1	547f7a395b0b914cd88792d1d0bae8f5440ef8f4
++	Please choose the destination folder."
+@	3209	1	3e21abe19b0ab5598cd209acc1d62cca9cd30a22
++	Writing. Do not turn off the PSX."
+@	3314	1	0b8ba374965b76ab05640eb1858b6140eb23129b
++	Initializing the Memory Stick will"
+@	3321	1	c620da846152e6bed4a0d4b105e159ce79132301
++	delete all data on it."
+@	3397	1	d3c5a9fe878b5d76a3147a4d59baa43df321d02f
++	Initializing. Please wait."
+@	3404	1	d81f4caa0696802e5484a1ef520040eb18f66599
++	Do not turn off this unit or remove"
+@	3411	1	da357f9eb1ff04f960aa5090c53790e7e090fd14
++	the Memory Stick."
+@	3476	1	4e4d8611049ca7864dd1f675efdebbfc79e49b06
++	Initialization finished."
+@	3490	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	3516	1	df1f0e683a2b5803b91e0aed7cce6f60350be868
++	Check that the Memory Stick is inserted correctly."
+@	3534	1	06977c13b0de1fdf5face8910fff7ec5af8fdacb
++	The Memory Stick has been removed."
+@	3559	1	777ca20f71f411bb814f2be18fc322f30d0a48ac
++	OK"
+@	3574	1	1f4c218e09295c2400eb55149c873b9e82997149
++	The entered name is invalid or already used."
+@	3596	1	7f49930f33d91e8d70e9abd84342d78e6cf46211
++	The following characters cannot be used"
+@	3666	1	1f4c218e09295c2400eb55149c873b9e82997149
++	The entered name is invalid or already used."
+@	3677	1	d391d6eaa8286e8f9c37632a26099f3cc51cf19d
++	Please change the photo name."
+@	3688	1	7f49930f33d91e8d70e9abd84342d78e6cf46211
++	The following characters cannot be used"
+@	3854	1	4283ba5d839ccf297deb10325f73c509ce7470c8
++	Rename photo"
+@	3862	1	6e878ea83957fb80478517d60743d44c6a117bcb
++	File name:"
+@	3909	1	777ca20f71f411bb814f2be18fc322f30d0a48ac
++	OK"
+@	3914	1	777ca20f71f411bb814f2be18fc322f30d0a48ac
++	OK"
+@	3931	1	7ae04abdf4ab536cda2e3e8dd943a64fc8f00f00
++	Rename album"
+@	3986	1	777ca20f71f411bb814f2be18fc322f30d0a48ac
++	OK"
+@	3991	1	777ca20f71f411bb814f2be18fc322f30d0a48ac
++	OK"
+F	xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	xosd/packages/xBarPluginVideo_0/VideoDialogs.xml	b93ebf7b0a82f27915b187d070225a6ded283803
+@	279	1	f67ddd5b853691d8b75b3092a10a0144c232de82
++	Manual setting"
+@	287	1	f67ddd5b853691d8b75b3092a10a0144c232de82
++	Manual setting"
+@	319	1	d3eae8e7f53d185468d073fe71678c5638986603
++	Match program guide"
+@	327	1	d3eae8e7f53d185468d073fe71678c5638986603
++	Match program guide"
+@	727	4	a40d2b8b177536c9a8264921ca71c89a125a2500
++	Video format:<CR><LF>
++	  Plays on most DVD players.<CR><LF>
++	  Cannot be added to after finalizing.<CR><LF>
++	  A DVD menu can be created.<CR><LF>
+@	732	7	8f9913b58a05f2668eaa9fb58cdffac51af8223e
++	VR format:<CR><LF>
++	  Titles can be added later.<CR><LF>
++	  Playlists are supported.<CR><LF>
++	  Supports CPRM copy protection.<CR><LF>
++	  Plays only on VR-compatible players.<CR><LF>
++	  "
+F	xosd/packages/xBarPluginVideo_0/VideoInfo.xml	xosd/packages/xBarPluginVideo_0/VideoInfo.xml	621eb53663663b14cde4e1f21fd760da7c8af525
+@	30	1	11bd5ac7bd0fc98a41798e2b740e14eccb949bfc
++	Video name"
+@	80	1	e8d87dd0034388b33d39f3c3849a6ba895804676
++	Play time"
+@	182	1	f433d021341a8a7eed49ee1a93626c8310111b52
++	Source"
+F	xosd/packages/xBar_0/mongon.xml	xosd/packages/xBar_0/mongon.xml	bfd46d57b4e3d757c41ccfc0859d28acb9875aa3
+@	28	1	9ce9dbde94ebd3e92c2b8bec5e16ebc44bd29c33
++	Play from beginning"
+@	43	1	476bd1107731ac858645d142da4d8a01cfa48772
++	Protect"
+@	53	1	4cb1c08fc4f522153fe2c2ef1ace80ad27b1c3af
++	Rename"
+@	63	1	306968a9a74afc4ff53a66840920bd1e95bb88a0
++	Undo edit"
+@	73	1	95e4c5e1388764cb5598be0fd476c74bff2e562e
++	Stop optimization"
+@	88	1	2f3d0f54793fe8c9a3859ade33ea2e22e80cf58e
++	Finalize"
+@	93	1	c46bb10830165babe3b9db830a69768f3fa25fd2
++	Delete this video. Are you sure?"
+@	98	1	5d7eae02afdf8918b264ba815eab4221ab8daa65
++	The video was not deleted."
+@	103	2	8c3fdf652be8d9e7b8f4ccb1d729c391d6c1e4e2
++	The video is protected.<CR><LF>
++	It cannot be renamed."
+@	109	2	84e81d6d4928d69a55aa8562097d1b55c27fc66c
++	The video is protected.<CR><LF>
++	It cannot be edited."
+@	115	2	44c7cb0a930f96dabd6f9da58a04a16312b50c8c
++	The video is protected.<CR><LF>
++	The edit cannot be undone."
+@	121	2	c4b99a473705795652c11d0a9fc45b0a6e79e698
++	The video is protected.<CR><LF>
++	It cannot be deleted."
+@	127	1	6857d2c5a7a1cd58699ab6c483fc98d9fb2c63d7
++	Undo the edit. Are you sure?"
+@	132	1	e639b75ffbf48af73e303fe1ca79bfaca38ea03c
++	Mon"
+@	137	1	8f1ce3fad3f026895c9ade384db218eb5bb7e61f
++	Tue"
+@	142	1	13a0b1d1042c0a7a127c9ffd3add864ab5a3bcd1
++	Wed"
+@	147	1	606f4da1e800d91822f52723fb3c38455bfbeda6
++	Thu"
+@	152	1	65550edb1ea94df834a7584ff19d92430cf69f28
++	Fri"
+@	157	1	6088aa37f239377da202cfdb8502a21b4dea95ab
++	Sat"
+@	162	1	5c2bb1357311e2f24f3240a58230b606ac3e6e2a
++	Sun"
+@	172	1	2c3d7e2e443cfb768a71d7fc4e770e4241be99e0
++	min"
+@	212	1	5c1c8169190dad879fdfe9e1d58f8601947f36c9
++	DVD-VR"
+@	217	1	6b5b8287d8e4b96269496207cae233dcd3e4aee3
++	DVD+VR"
+@	252	2	f40c0746765a5f96f41a80037301751051975643
++	Dubbing is not possible during<CR><LF>
++	recording or optimization."
+@	258	2	8a51b57a2b3dec6ae59c66f5756b532d212d7466
++	A timer recording is being prepared. To dub,<CR><LF>
++	please delete the timer recording first."
+@	264	2	cde1824f5294049a6625b925b5dde66bd37b03f2
++	Initialization is not possible during<CR><LF>
++	recording or optimization."
+@	270	2	43b8045cc34db065bd892a2eb11428ba9729ae9b
++	A timer recording is being prepared. To initialize,<CR><LF>
++	please delete the timer recording first."
+@	276	2	913fbcee24c8e357287c1491bba96b7e3e444f79
++	This title is being recorded.<CR><LF>
++	The operation cannot be performed."
+@	282	1	292aabee91b0f53a550a8aedcd51840b8426050a
++	Cannot undo because it has not been edited."
+@	288	1	416868910415fb710160745c39d37b5a13dd8774
++	Turn the power off and on again."
+@	293	1	59001182a9b0cc352b70c7c828167a2faaeb4b7c
++	Cannot edit because the file is corrupted."
+@	298	1	9b5362ee749f53602b559ab9d3af86f7c4e39c77
++	Please wait."
+@	303	1	44287db2a5e1cd199d1ff580612e340ccea36da6
++	Sort order"
+@	308	1	83566392a00a5618a2dfdcf6da881c4f479d6a0b
++	Date (oldest first)"
+@	313	1	423a0bed09f4dbd3c63cc71a8cfefc955d17eac2
++	Date (newest first)"
+@	328	1	e036451e2877cba766f273f60ff23080f36fe86b
++	By genre"
+@	333	1	21a9cb0b3b266d9339da78000fd3d02eebc77d45
++	Unwatched first"
+@	338	1	4a2c282e737345b57664e4cd169d2bc5fff4e52c
++	Optimization finished."
+@	343	2	ec44b296b19eae27298efaea9f62c4347ef458e0
++	Recording in progress. To optimize,<CR><LF>
++	please stop the recording first."
+@	349	2	6931094cf641cd9f4c994727ce6295cdd88869da
++	A timer recording is being prepared.<CR><LF>
++	To optimize, please delete the timer recording first."
+@	355	1	26f0eae43a3aeb5f1ceaccf5109e4af5eeaf55e5
++	Another title is currently being optimized."
+@	360	2	73249e7b69fc21d3ac967ae32fe267a61d0f38c9
++	The optimization will be stopped.<CR><LF>
++	Are you sure?"
+@	366	2	b423d2db0e459bdc692f8daf00fcbbca14c1ca92
++	This title is being optimized.<CR><LF>
++	The operation cannot be performed."
+@	386	1	3fc86213e176a2d9040bfa0c5d98d569c5024ccf
++	Timer time"
+@	391	1	36f8653c544209efb4c6d9a5ab003e7bae364c89
++	Timer recording"
+@	396	1	e639b75ffbf48af73e303fe1ca79bfaca38ea03c
++	Mon"
+@	401	1	8f1ce3fad3f026895c9ade384db218eb5bb7e61f
++	Tue"
+@	406	1	13a0b1d1042c0a7a127c9ffd3add864ab5a3bcd1
++	Wed"
+@	411	1	606f4da1e800d91822f52723fb3c38455bfbeda6
++	Thu"
+@	416	1	65550edb1ea94df834a7584ff19d92430cf69f28
++	Fri"
+@	421	1	6088aa37f239377da202cfdb8502a21b4dea95ab
++	Sat"
+@	426	1	5c2bb1357311e2f24f3240a58230b606ac3e6e2a
++	Sun"
+@	431	1	4f04726309243863a3d89db17723b1bbcdfc0629
++	"
+@	436	1	2c3d7e2e443cfb768a71d7fc4e770e4241be99e0
++	min"
+@	461	1	d40c09d3825f868356d2ae811ec741860e6f6f8a
++	There are no timer recordings."
+@	471	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	476	1	fdbc71721c06cbb3767c500231c86bfabf65c388
++	Record to the end of this program?<CR><LF>
+@	487	1	eb0f5be7e9f2da0853979474e0c39be52533fa33
++	minutes later"
+@	492	1	5f3ae077f60b1dfa27edd66327d8f3217f9a41d2
++	Could not get the program guide information."
+@	497	2	8fccd9c0954566330beb4547c9bbe58ca5f74ac4
++	Cannot record to the end of this program.<CR><LF>
++	One title can be up to 6 hours."
+@	512	1	dd82470a1f9e0f0f408e75cf816d13ff1be687e9
++	Edit - Preview"
+@	517	1	d45bf9983bbf07b47b14f016e5f4fd3ad075b62c
++	Edit - Cancel edit range"
+@	522	1	c63fbce07f0f061a2b8c7fa3a6851e6ecedb8b8b
++	Preview the edited video."
+@	527	1	52cbbe6fd67f45f660392efd199fd253b5f9588e
++	Finish the preview."
+@	532	1	ed82632ad890d4e599411274be9df13987b4cd11
++	Check the result of the selected values."
+@	537	1	1d1270eb784fa8221153b836942f9cab33127743
++	Exit and discard the edits."
+@	582	1	0029fabe8b748c4e80e918b96da5fc06baf103fa
++	Cancel the start and end points."
+@	587	1	b3b5bbcdfec5a9e95be46942ae91cd35d896f3dc
++	Play"
+@	592	1	e7fb49308e4afebb947c5a74f5d3dc1ae9767650
++	End"
+@	602	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	612	1	cb5b52eb828641d0b7865730b4742bfb011b3b22
++	Disc"
+@	692	1	d96d4cec3d9f22120d9ab2a0633fc13ddafa189f
++	PlayStation&#174; format software"
+@	734	1	76a2846b3c064461a8df8700eee6e196cbe4f017
++	Photo Settings"
+@	739	1	bb843513e89259757b7b2d5d4815c014cbd41f65
++	Music Settings"
+@	754	1	4afd805389e4f37355b7cc33061bd43e1dc9b54f
++	Date and Time Settings"
+@	759	1	3ebba77878eedacbba7afae6c71255e8feae2d94
++	Character Input Settings"
+@	764	1	1b2c87463a684d625cfb7085dd9f8d0c2e6dbca6
++	Remote Control Settings"
+@	774	1	34e6934100f3a5cac1f02d58b890f0ad5a754164
++	Network settings"
+@	882	1	836085f369adb60d8c150728948a7f6d2f4520c9
++	Auto stereo"
+@	892	1	423b7d220b5a78bff184259146af2c15fed51b1a
++	BS antenna level"
+@	897	1	f242cbfd8d91508fe7a39a261db059d735d62d97
++	BS antenna power"
+@	907	1	ad6d1ecb8a5ad15c0d0f83c4c55ba8658710ec99
++	Program guide"
+@	912	1	c075efdab23bda7e31b1eb41a5fa504f703dbcee
++	Program guide time"
+@	942	1	f6c299eb208b008e51f29893108b990e0cbc5c9b
++	HDD recording"
+@	947	1	72c8299f4e201f60b888068978f1948bfdc1a1a5
++	DVD recording"
+@	952	1	794f48d7fd9e8948508bd1636f52fd1f5ffaa503
++	Recording noise reduction"
+@	957	1	73a415772f65186f797f169035f3e69a195b6afe
++	L2 · R2 button setting"
+@	962	1	364ca150c267d2cfd2ec56035741b058ab9b9f06
++	DVD menu language"
+@	967	1	de261775662aed9204eab7e064e41bf1e4031b88
++	Audio language"
+@	992	1	9cd1138329c8791a25445fd5c027f4c15404dfe7
++	Audio auto-select"
+@	1002	1	83a11338cf247ee9f9d6a32c04f74245984b87fc
++	Parental control region"
+@	1007	1	82f4014c751f770136fad042d992a31a3a73db7b
++	Parental control level"
+@	1017	1	78fae61ab9d6870ce8104658f783644ad39dc5fd
++	CD import settings"
+@	1022	1	3cbff70ef57cdc89087a3b2933622ed5025234c5
++	Fast load"
+@	1027	1	2780ee4f92fc0c033f63fe846d4bd3967ad9cbd2
++	PlayStation&#174; disc"
+@	1032	1	cce89231639a446b395520d12331b7abbdefca19
++	Texture smoothing"
+@	1037	1	ee2c82b85c153772a9bd85aee9f9436c91677ef8
++	PlayStation&#174; game"
+@	1062	1	51ce4df4f2c0180ff416e07f8496cf16b14522e8
++	Optical out"
+@	1067	1	178b172a3c03b2d359df227119f16213cd2ef567
++	Restore factory settings"
+@	1072	1	c742f8b2b5ccf894019a6114d24d47a4b033ffbe
++	HDD setting"
+@	1092	1	1ea597692f98072952924bffe0e887177d111f6b
++	On the hour"
+@	1097	1	2b245bb5fa6a1f7c63da55d09bbd4436553f0682
++	Channel setting"
+@	1127	1	f5aea43e06a627cb4b1d0b20d693088ce4667874
++	Repeat start delay"
+@	1132	1	038746bda66f2874d0d3f5780bc01b0680db9c87
++	Key repeat rate"
+@	1155	1	da02bd1c5bfd810fe22d6b2627fd270574139d33
++	Could not turn on the BS antenna power."
+@	1160	1	21dc302ac2217b46db95d0c88c2bc91da8de4f01
++	Cannot be changed during recording or optimization."
+@	1165	2	6482747637103584a4d329ffe375887d72be03cd
++	After changing this setting, the program guide will not be shown<CR><LF>
++	correctly until new program data is received. Are you sure?"
+@	1175	1	0e6f0e070af52cb859a34bf44594a6cab75629ba
++	You can assign the search function to the L2 · R2 buttons."
+@	1180	1	df6c0fd8b458712aade755e30400ef6166642bd7
++	Are you sure? After this setting, flash"
+@	1185	1	2311377d4008300608af9a1d770c800abb2dfed6
++	is operated from the control panel."
+@	1190	1	287bcfe68578221ae8ee63e77be4e3975fe93fe3
++	You can assign the flash function to the L2 · R2 buttons."
+@	1195	1	22f406c109654cc8fe6204359cc79149682314be
++	Are you sure? After this setting, search"
+@	1200	1	330e2057360e1e7d29ced67019b226170cbfaea9
++	uses joystick left/right."
+@	1209	1	e70843a197f908d88080928d9f2dda50052967e9
++	Change the bilingual audio recording for HDD. Are you sure?"
+@	1214	1	2e27d9609f778daf84884505181f7421a523ee75
++	After this change, dubbing to DVD-RW (other than VR mode)"
+@	1219	1	b8bb24aa0bf6cf5ca002ddc32084bddb8348ea9a
++	uses the bilingual audio setting for DVD recording."
+@	1228	1	d95c09627a217963d9425984b91bf67863554c91
++	Parts set to be skipped during editing"
+@	1233	1	6ee1aafd870ea6fcd5b6fb33db3ab9cef3d8ecd7
++	The dubbing will be deleted. Are you sure?"
+@	1290	1	cb5b52eb828641d0b7865730b4742bfb011b3b22
++	Disc"
+@	1305	1	fb4a56e183f47398ae56da934c984c714b585521
++	Main / Sub"
+@	1350	1	9da0350c8c1533a80022d321d11d3303fcc72ef1
++	Point A has been set."
+@	1355	1	126202e825ee4945047cd99a0ac376f6b1c03bb0
++	Play mode cleared."
+@	1360	1	e1658869e546d74efe7c5dce89165de0e7a6581b
++	The current settings will be cleared."
+@	1365	1	c7ee16453230ffdc8c4182998046dbafa444f0d4
++	The operation cannot be performed."
+@	1375	1	3d3cf6d7e35fb1e9feacc2eb4958142499706f6e
++	Audio switch"
+@	1380	1	8e91cc62cf037c068d8f8e7852ee85caef3cf464
++	Subtitle switch"
+@	1385	1	c80f57370c1abd68caa107ce04d9f35c1ba73087
++	Time jump"
+@	1390	1	fd76651a8c0c3dba711189fdb3839a129bf7999f
++	Register thumbnail"
+@	1400	1	f5a19fcc4ad5ab998a6605ef1256ba0bc255e6a7
++	Previous"
+@	1435	1	b008548d78dac2a5f47deddb864cc5fa21b6bb60
++	Quick play"
+@	1484	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	1489	1	3d3cf6d7e35fb1e9feacc2eb4958142499706f6e
++	Audio switch"
+@	1494	1	bea40ea4026143ac909f3b4179d0a15d77a6e3b7
++	Angle switch"
+@	1499	1	8e91cc62cf037c068d8f8e7852ee85caef3cf464
++	Subtitle switch"
+@	1504	1	c80f57370c1abd68caa107ce04d9f35c1ba73087
++	Time jump"
+@	1514	1	f5a19fcc4ad5ab998a6605ef1256ba0bc255e6a7
++	Previous"
+@	1549	1	b008548d78dac2a5f47deddb864cc5fa21b6bb60
++	Quick play"
+@	1646	1	f155c9b3a63bb671e59b69bf262091c233babdab
++	Back"
+@	1651	1	3d3cf6d7e35fb1e9feacc2eb4958142499706f6e
++	Audio switch"
+@	1656	1	bea40ea4026143ac909f3b4179d0a15d77a6e3b7
++	Angle switch"
+@	1661	1	8e91cc62cf037c068d8f8e7852ee85caef3cf464
++	Subtitle switch"
+@	1676	1	f5a19fcc4ad5ab998a6605ef1256ba0bc255e6a7
++	Previous"
+@	1738	1	2150215b4ca43cc6f3573e1edfea7302a83981f9
++	Use this image as the video thumbnail."
+@	1753	1	4bbcf5bb66a8ef86a6dd769a09480d182cb0e0d2
++	Already registered. Overwrite?"
+@	1763	1	9fc3dfb33ba26e7811df7e85ba2f93b4368eaa92
++	Delete. Are you sure?"
+@	1773	1	254646811896e93e7d5c887b05a0dc54de82dc4b
++	Parental control level changed temporarily"
+@	1788	1	912ec985b218f0cd1fbd89067c07ba15b94ae5d0
++	Add an entry point?"
+@	1804	1	04f6f760ea1e76ce6404e7db1238932161e6d753
++	Clear point A"
+@	1809	1	7296b6ad26adeb7df3e2a378fa1a1f73718acadf
++	Store point A"
+@	1814	1	ef4baba9e12becbf2ccec15fe6f5d0286b33c597
++	Go to point A"
+@	1819	1	6f568a37194b2e309c1f89b83c00875790cc01ce
++	Clear A-B repeat points"
+@	1824	1	6da97c0082659757c30976b3011a9efaae20caa1
++	Store point B"
+@	1829	1	814e788cb38e23f041ebe75056f30835c98eba4c
++	Show bookmarks"
+@	1834	1	ad897ba5b12a39137974cd7e65c12e33322b7ac3
++	Cannot set a bookmark"
+@	1844	1	36da5d14398bd53913e8a2f4c0e872654182d664
++	Start first play"
+@	1859	1	01762e96ad45ff388fa418b607a69503900266b8
++	Search first program"
+@	1864	1	8822bd2088cd819812d73624b7e2a17cb32c4150
++	Search previous program"
+@	1869	1	dfd4cc3ea63b576278f55919b3241049d0c0ac80
++	Search next program"
+@	1874	1	f7eddcd436a8117da8d7397cd922c02166a1abd4
++	End picture memory"
+@	1879	1	cf82c3afcd2e259398eb5c7553a5dd63964a03be
++	Store picture memory"
+@	1884	1	16c97dbd9a3a4ae6f4afbcfbec8c907b61241041
++	Change the parental control level"
+@	1889	1	e9389cc3fa82f709e7c292fc7c34f13fd2ee99e7
++	No PSC error"
+@	1904	1	f980f669f8def468be11eb4e66d4fdee812f2c73
++	End chapter scan"
+@	1909	1	86b24853bc0bfe8943a17f20b753feb718d38cd0
++	Chapter scan failed"
+@	1914	1	8e4eae96b2e3cda19096ac2dfb338f048e57c625
++	Chapter scan failed (end)"
+@	1924	1	2807200b0dbab3803509f70cf31743b47373b3c1
++	Parental control level set"
+@	1929	1	2c300ba629977918ec32807e6af867ac0ebaba0e
++	Stopped"
+@	1980	1	013e6cc1a73d575716df2735cace71d53ed7fe54
++	Cannot read the disc."
+@	1985	1	4453936d65693518a54ca6b1a43202436ce3e610
++	Playback stopped due to an error."
+@	1990	1	b43299a8ead1e8f73acb8d441f20d12ee9fdf5af
++	Invalid disc format."
+@	1995	1	f9cf04856fe2ca7c681ab8d52f62a8f39873aa0c
++	The specified chapter is not valid."
+@	2005	1	08b808a4e563514d5e11025afc298574511884d7
++	The specified title is not valid."
+@	2025	1	3fc70a7b658e6f1fdff65c5f23283e37d313123f
++	There is no audio."
+@	2036	1	4fc96867eff6f9a99f9875d9ce412cb395acf597
++	There are no subtitles on this disc."
+@	2041	1	338f2ceee5b0d0d618ac0bcd0b371300db35aefe
++	There are no angles."
+@	2047	1	212ecdb0c8db0415edeb88490c120c811dc33cc7
++	Resume is prohibited."
+@	2052	1	f77b41af3358c39773cc68db96232190a50180f8
++	This operation is not available for this disc."
+@	2057	1	ca154c4d28ee8a2cea7903bfb7694005e4aa43bc
++	Cannot play because playback is restricted."
+@	2062	1	0b24b66f46389d1e514107db31e42a9ec8b076ef
++	Program search error."
+@	2067	1	bb6334fe8c9014bb25ac969971230c61cc5438a3
++	This play mode cannot be used."
+@	2082	1	f77b41af3358c39773cc68db96232190a50180f8
++	This operation is not available for this disc."
+@	2087	1	e712a84c6d06a7b31040d253fb8dca56c8203c04
++	This operation is not available for this title."
+@	2092	1	e259bbfbab56b75700d89674b607d74aaabf574d
++	Chapter search error."
+@	2097	1	e1e5cb7f3914a9874ef6d5a48198c65e27538d3b
++	Playback of this disc is prohibited by region restriction."
+@	2102	1	c3210cdf7c2c4ccfa0401ec3abc18381c19a25a0
++	Stop is prohibited."
+@	2107	1	121a2b9784e323d16a33fd88186fd650e966024e
++	Time display is prohibited."
+@	2112	1	d84c303454102f349329371f5837af167fa0d4c9
++	The TV system is different."
+@	2117	1	5e705654739df7e17551e56f0daa32eb0d46f0bb
++	User operation is prohibited."
+@	2122	1	d673eaeea38cff86662509dd169d33546df652b4
++	VIEWER is not available for this disc."
+@	2127	1	54b9eb0ee5e883bc04933bd83d7e2b9d271e1856
++	VIEWER is not available for this title."
+@	2137	1	b072a33cfefe758da67098d724421f8157565c62
++	No disc inserted."
+@	2142	1	3855ed51d7dd962b9b0dbe7f86f113eaa15f7f89
++	There is only one audio track."
+@	2147	1	4453936d65693518a54ca6b1a43202436ce3e610
++	Playback stopped due to an error."
+@	2152	1	bc855e94e3403a6c67ebf0a98741c29741710d86
++	This disc cannot be played."
+@	2157	1	ca154c4d28ee8a2cea7903bfb7694005e4aa43bc
++	Cannot play because playback is restricted."
+@	2184	2	79db18aa6e57cf845e6dd4d464b590edc7b15731
++	Could not play.<CR><LF>
++	Turn the power off and on again."
+@	2190	1	d19f3c103f58a4bb3a8ec969d5a4ea6495bbb190
++	HDD read error."
+@	2195	2	79db18aa6e57cf845e6dd4d464b590edc7b15731
++	Could not play.<CR><LF>
++	Turn the power off and on again."
+@	2201	2	79db18aa6e57cf845e6dd4d464b590edc7b15731
++	Could not play.<CR><LF>
++	Turn the power off and on again."
+@	2209	1	45bb51a55f952664e61261e31ae22f0ca2d6999d
++	Abnormal playback (no message)"
+@	2214	1	b8577d229ee15b9b98a1628c866c783e359877ab
++	The angle cannot be changed just before an angle block."
+@	2219	1	09b1f4cd408f22d71bca5e9811f807011649ffe8
++	Next time, playback will resume from here."
+@	2224	1	19ccf30a78c944b565f80edb96b849d45a5be4ed
++	Cannot play due to temporary deletion (no message)"
+@	2229	1	16e83e0c22f5146f26999a374637c6c4224d01b1
++	Error code: TERMINATE"
+@	2235	1	9ea38cd4b1c148afbb5a23fa9e42b1b6b7a2636d
++	Registered as thumbnail."
+@	2240	1	eb68789e463b67134adc3d279b0ddb912f00ef0f
++	Cannot register because it is protected."
+@	2245	1	18a3592c3afd558a883e8bdec85ea9966fda816b
++	Setting a mark."
+@	2250	1	1c3e3be640c8feef4da09b13460ba39df5e14a7b
++	This operation cannot be performed."
+@	2495	1	dfb6b09faa6e484bf10b0c1423bc71a7d8cb9649
++	Faroese"
+@	2675	1	02f73dfe806362fcdfa80c655514bbb06ab5c5e3
++	Latvian"
+@	2730	1	bec2f672e2b3dd95f1f3549eb9f1c60f23ea22ac
++	Nauruan"
+@	2775	1	8d162171f41ea3e974176a403c7f4a7763e7ff2b
++	Pashto"
+@	2825	1	880d35f6080c303b3e09eb1fe8a9f7c11a20a881
++	Sango"
+@	2905	1	6adfa2dc43ed391936b263b5930389453e53b12d
++	Telugu"
+@	2985	1	703fb27892bd592396e9cd422b2628731ea5d356
++	Volapük"
+@	3259	1	dfb6b09faa6e484bf10b0c1423bc71a7d8cb9649
++	Faroese"
+@	3439	1	02f73dfe806362fcdfa80c655514bbb06ab5c5e3
++	Latvian"
+@	3494	1	bec2f672e2b3dd95f1f3549eb9f1c60f23ea22ac
++	Nauruan"
+@	3539	1	8d162171f41ea3e974176a403c7f4a7763e7ff2b
++	Pashto"
+@	3589	1	880d35f6080c303b3e09eb1fe8a9f7c11a20a881
++	Sango"
+@	3669	1	6adfa2dc43ed391936b263b5930389453e53b12d
++	Telugu"
+@	3749	1	703fb27892bd592396e9cd422b2628731ea5d356
++	Volapük"
+@	3922	2	79827564fc15ece6d6c1e92301ddf8af576b6ce8
++	Optimizing.<CR><LF>
++	Timer recording cannot start during optimization."
+@	3928	2	d1c0740304af6e2bea6820c0e9296f4476cdd13e
++	Set the recording mode after optimization.<CR><LF>
++	A higher quality than the original is not possible."
+@	3934	2	1010fc410965ec115463f948e2644de2fec028a5
++	Sets how main + sub audio recorded on DVD-RW (Video mode) or DVD-R<CR><LF>
++	is dubbed to DVD+RW discs."
+@	3940	3	b851f943099fa4bd47e363a2f10a35c594cf8b2b
++	Sets whether edited parts are kept in the title after optimization.<CR><LF>
++	Even if you select Keep, chapters and edit settings are<CR><LF>
++	not kept in the optimized title."
+@	3947	1	8de230e7535b3e8b17c1f28ebcee2012b5d271b6
++	Sets whether the original title is kept after optimization."
+@	3962	2	c6c3231efb39836a9cc042719f5d23a05a7322da
++	Optimization will now start.<CR><LF>
++	Until it finishes"
+@	3973	2	6b1ad960b67f64d9422d4e49a361975a762d1ea9
++	A timer recording is scheduled.<CR><LF>
++	Timer recording cannot start during optimization."
+@	3979	1	c8385ec6fe16c5bc89f44c61066d028b71af1780
++	Start optimizing this title?"
+@	3985	1	a33f6049b1686b15c4c6e315fd40f70cd735ccf2
++	The optimization will be stopped."
+@	3990	1	3c3b0fb3e314790f0360eeb3bd68e22ca2467f78
++	Hour"
+@	3995	1	2c3d7e2e443cfb768a71d7fc4e770e4241be99e0
++	min"
+@	4015	1	ff1a3f7d2f40fc3c161bbb4a1fad9ea53fb82d98
++	Same setting as the original title."
+@	4020	2	722cae926e26ee3aabcf1286422649fa5dbb62be
++	If a copy-once signal is included,<CR><LF>
++	a blue screen is recorded."
+@	4026	1	35f0507ddf278fa43b25319c521a22fd4d0b1809
++	（for DVD+RW）"
+@	4031	2	7411ad660d2d885b3d9eb41608b73c0ba627447f
++	The title list is full.<CR><LF>
++	To optimize, you must delete a title."
+@	4037	2	3f3d2a7ffc809737ded624050c8c76145888f7ea
++	A timer recording has started or is being prepared.<CR><LF>
++	Optimization cannot start."
+@	4043	2	cee84b9007fcb1dd2e94da2b04b9c715ede1eb30
++	Not enough hard disk space.<CR><LF>
++	Optimization cannot start."
+@	4049	1	199a230d6a756d2f367b667537f1bb7180dec218
++	Failed to start optimization."
+@	4066	1	640c195fd8016afc601dc3373cc95bba17811de3
++	Could not create the DVD."
+@	4071	1	36e353ebffe66d0445dc4ad788c634e971680780
++	%$3:Menu template '%3$s' not found."
+@	4076	1	27973ee2890a6e63f95924556fb4ebf1b1996016
++	%$3:Menu template '%3$s' has no item %1$s."
+@	4081	1	120d55383f35114a27badac811c2012026230349
++	Recording. Cannot encode."
+@	4086	1	cc05e3b251b1dc68e03cda1f6d6cb507d3c92d5a
++	The DVD drive is in use."
+@	4091	1	fa305e7305c337253a0249abc1f7170b8a5dfbfd
++	Playing."
+@	4096	1	c6fbb2906542f654b24b7a81539384ca7b9450f4
++	No session to finalize was specified."
+@	4101	1	69ce8f14c6743fbbed5fdc843b26c866f0814c64
++	%$3:Session to finalize '%3$s' is invalid."
+@	4106	1	554f89f004c1cede70aabf3f8c4caac0b80a633a
++	8 cm discs are not supported."
+@	4111	1	ffbeab2915d5f3f3d57b13164b9de485f3a60713
++	Unknown disc size."
+@	4116	1	94a4d81d2c533268eac0827acb2fa9f6cb4d16b8
++	Cannot access the DVD burner drive."
+@	4121	1	15d4dfe360339d148b629b469806363f517517ec
++	A timer recording has priority."
+@	4126	1	ca0323480cfbd94a5b7b4b4a8af356881891ada2
++	Could not stop the recording."
+@	4144	1	6069e0b82e97a90d2ec23cad066b64b67f12ebc6
++	Unknown DVD status."
+@	4149	1	5fa90bca186aa8ab26b18db1a8fa321743426773
++	The tray does not close."
+@	4163	1	5a56e6f1914d4a7fbf85cedac66268a9c7fd27e5
++	Cannot load the library."
+@	4177	1	4131bc1631592054667cf7d4db21c3da9a07a865
++	Cannot read the DVD status."
+@	4182	1	f2047667b1ec745ffe7388393024a4c7d2ea1364
++	Failed to get the DVD status."
+@	4187	1	4e597f939754cf70169232877e0a918b6b00066e
++	Failed to initialize the DVD."
+@	4192	1	d83eb1940e3db84bf3714fb0c7cc7ba6841b2f29
++	Failed to release the DVD finalization."
+@	4197	1	09ba7149ba807835cad02019ad16240fc6d0479d
++	Cannot write the title to the DVD."
+@	4202	1	7b1d2297b22faa68a88a26d535474a509e4762fe
++	Failed to finalize the DVD."
+@	4221	1	6069e0b82e97a90d2ec23cad066b64b67f12ebc6
++	Unknown DVD status."
+@	4226	1	5fa90bca186aa8ab26b18db1a8fa321743426773
++	The tray does not close."

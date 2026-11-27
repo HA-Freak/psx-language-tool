@@ -1,34 +1,33 @@
-"""Builds every language folder from your own copies of the source files.
+"""Builds every language folder from the RepairBox PSX system files package.
 
-The repository contains no Sony files. Put these into  sources/  (not in git):
-  DESR-5000-5100-7000-7100 XMB ENG.7z   English community mod for firmware 1.31
-  DESR-5500-5700-7500-7700 XMB ENG.7z   English community mod for firmware 2.11
-  jp.dic                                original hdd0:__system/dic/jp.dic (2.11)
-(instead of a .7z, an extracted folder with the same name works too)
+The repository contains no Sony files. Download the EN package of
+RepairBox-PSX-HDD-Setup (https://github.com/DanielFergisz/RepairBox-PSX-HDD-Setup)
+and put it into  sources/  (not in git):
+  PSX_SystemFiles_EN_v1.3_Final.zip     (the extracted folder works too)
 
-usage: python tools/build_all.py [--sources DIR] [--no-check]
+usage: python tools/build_all.py [--package ZIP_OR_DIR] [--no-check]
   -> DESR-... XMB ENG/GER/POL (both series), SYSTEM-DIC ENG/GER/POL,
      tools/elf/jp_original.dic
 then:  sh tools/elf/build.sh   -> PSX_LANGUAGE_TOOL.ELF
 
-Every generated file is compared with tools/expected.sha1, so a different
-source archive is noticed at once. 7-Zip: set SEVENZIP if it is not in
-C:/Program Files/7-Zip/7z.exe.
+The English folders are made from the original system files in the package
+with tools/translation/eng5000.patch and eng5500.patch, German and Polish from
+the English folders with the de/pl tables. Every generated file is compared
+with tools/expected.sha1, so a different package version is noticed at once.
 """
-import os, sys, shutil, hashlib, subprocess, argparse
+import os, sys, glob, shutil, hashlib, subprocess, argparse, zipfile
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR = os.path.join(ROOT, 'tools', 'translation')
-S5000, S5500 = 'DESR-5000-5100-7000-7100', 'DESR-5500-5700-7500-7700'
-# series, English table, German table, Polish table
-SERIES = [(S5000, 'en5000.tsv', 'de5000.tsv', 'pl5000.tsv'),
-          (S5500, 'en.tsv', 'de.tsv', 'pl.tsv')]
+PKG_NAME = 'PSX_SystemFiles_EN_v1.3_Final'
+# series, folder in the package, ENG folder inside __system, patch, German table, Polish table
+SERIES = [('DESR-5000-5100-7000-7100', 'RepairBox-PSX1-SystemFiles', '', 'eng5000.patch', 'de5000.tsv', 'pl5000.tsv'),
+          ('DESR-5500-5700-7500-7700', 'RepairBox-PSX2-SystemFiles', 'xosd/packages/', 'eng5500.patch', 'de.tsv', 'pl.tsv')]
 
 ap = argparse.ArgumentParser()
-ap.add_argument('--sources', default=os.path.join(ROOT, 'sources'))
+ap.add_argument('--package', help=f'package .zip or extracted folder (default: sources/{PKG_NAME}[.zip])')
 ap.add_argument('--no-check', action='store_true')
 args = ap.parse_args()
-work = os.path.join(ROOT, 'build', 'src')
 
 
 def run(*cmd, cwd=TR):
@@ -40,38 +39,49 @@ def run(*cmd, cwd=TR):
     return out
 
 
-def source_dir(series):
-    """returns the folder holding the mod files (extracts the .7z if needed)"""
-    name = f'{series} XMB ENG'
-    folder = os.path.join(args.sources, name)
-    if not os.path.isdir(folder):
-        arc = folder + '.7z'
-        if not os.path.isfile(arc):
-            sys.exit(f'missing: {arc}  (or the extracted folder)')
-        folder = os.path.join(work, series)
-        shutil.rmtree(folder, ignore_errors=True)
-        exe = os.environ.get('SEVENZIP', r'C:\Program Files\7-Zip\7z.exe')
-        r = subprocess.run([exe, 'x', '-y', '-o' + folder, arc], capture_output=True, text=True)
-        if r.returncode:
-            sys.exit(f'7-Zip failed on {arc}:\n{r.stdout}{r.stderr}')
-        folder = os.path.join(folder, name)
-    # some archives contain the folder twice (name/name)
-    inner = os.path.join(folder, name)
-    return inner if os.path.isdir(inner) else folder
+def package():
+    """returns the folder that holds RepairBox-PSX1/PSX2-SystemFiles (extracts the zip if needed)"""
+    src = args.package or next((p for p in (os.path.join(ROOT, 'sources', PKG_NAME),
+                                            os.path.join(ROOT, 'sources', PKG_NAME + '.zip'))
+                                if os.path.exists(p)), None)
+    if not src or not os.path.exists(src):
+        sys.exit(f'missing: sources/{PKG_NAME}.zip  (RepairBox EN package, see README.md)')
+    if os.path.isdir(src):
+        hits = glob.glob(os.path.join(src, '**', SERIES[1][1]), recursive=True)
+        if not hits:
+            sys.exit(f'{src}: no {SERIES[1][1]} folder inside')
+        return os.path.dirname(hits[0])
+    dst = os.path.join(ROOT, 'build', 'package')
+    shutil.rmtree(dst, ignore_errors=True)
+    n = 0
+    with zipfile.ZipFile(src) as z:
+        for m in z.namelist():
+            parts = m.split('/')
+            # only the two __system folders are needed (the zip may have a top folder)
+            for i, p in enumerate(parts[:-1]):
+                if p in (SERIES[0][1], SERIES[1][1]) and parts[i + 1:i + 2] == ['__system']:
+                    if not m.endswith('/'):
+                        out = os.path.join(dst, *parts[i:])
+                        os.makedirs(os.path.dirname(out), exist_ok=True)
+                        with z.open(m) as f, open(out, 'wb') as o:
+                            shutil.copyfileobj(f, o)
+                        n += 1
+                    break
+    if not n:
+        sys.exit(f'{src}: no RepairBox system files inside')
+    print(f'{n} system files extracted from {os.path.basename(src)}')
+    return dst
 
 
-for series, en, de, pl in SERIES:
-    src = source_dir(series)
+pkg = package()
+for series, folder, prefix, patch, de, pl in SERIES:
+    system = os.path.join(pkg, folder, '__system')
     out = {l: os.path.join(ROOT, f'{series} XMB {l}') for l in ('ENG', 'GER', 'POL')}
-    print(f'{series}: {run("build_lang.py", src, en, out["ENG"])[0]}')
-    if series == S5500:
-        print('  ' + run('fixups.py', 'apply', out['ENG'], 'fixups.tsv')[0])
+    print(f'{series}: ENG {run("engpatch.py", "apply", system, out["ENG"], prefix, patch)[-1]}')
     print(f'  GER {run("build_lang.py", out["ENG"], de, out["GER"])[0]}')
     print(f'  POL {run("build_lang.py", out["ENG"], pl, out["POL"], "--ascii")[0]}')
 
-dic = os.path.join(args.sources, 'jp.dic')
-if not os.path.isfile(dic):
-    sys.exit(f'missing: {dic}  (original hdd0:__system/dic/jp.dic)')
+dic = os.path.join(pkg, SERIES[1][1], '__system', 'dic', 'jp.dic')
 run(os.path.join(ROOT, 'tools', 'sysdic', 'sysdic.py'), dic, ROOT)
 shutil.copyfile(dic, os.path.join(ROOT, 'tools', 'elf', 'jp_original.dic'))
 print('SYSTEM-DIC GER/ENG/POL and tools/elf/jp_original.dic written')

@@ -3,8 +3,8 @@ import os, sys, shutil, hashlib, subprocess
 HERE = os.path.dirname(os.path.abspath(__file__))
 EXE = os.path.join(HERE, 'test.exe')
 PROJ = os.path.abspath(os.path.join(HERE, '..', '..', '..'))   # project root with the built folders
-# RepairBox EN package (contains RepairBox-PSX1/PSX2-SystemFiles)
-DUMPS = os.environ.get('PSX_DUMPS', os.path.join(PROJ, 'sources', 'PSX_SystemFiles_EN_v1.3_Final'))
+# RepairBox EN package (contains RepairBox-PSX1/PSX2-SystemFiles), extracted by tools/build_all.py
+DUMPS = os.environ.get('PSX_DUMPS', os.path.join(PROJ, 'build', 'package'))
 WORK = os.path.join(HERE, 'work')
 SER = [('DESR-5000-5100-7000-7100', '', 'RepairBox-PSX1-SystemFiles'),
        ('DESR-5500-5700-7500-7700', 'xosd/packages/', 'RepairBox-PSX2-SystemFiles')]

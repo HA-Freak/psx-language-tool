@@ -1,12 +1,13 @@
 Translation tools  (base = "DESR-5500-5700-7500-7700 XMB ENG")
 =================
 
-Full build from the source archives: python tools/build_all.py (see README.md).
-It creates the ENG folders from the original English mods with
-  en.tsv / en5000.tsv  (cleaned English texts)  and  fixups.tsv  (two 5500 dic
-  files with repaired quotes: fixups.py make/apply),
+Full build from the RepairBox package: python tools/build_all.py (see README.md).
+It creates the ENG folders from the original system files of the package with
+  eng5000.patch / eng5500.patch  (the English texts, made with engpatch.py),
 then GER/POL as described below. After changing the ENG folder by hand:
-  python make_table.py SOURCE_ENG ENG en.tsv   and update tools/expected.sha1.
+  python engpatch.py make PACKAGE/RepairBox-PSX2-SystemFiles/__system ENG xosd/packages/ eng5500.patch
+  (5000 series: RepairBox-PSX1-SystemFiles/__system, prefix "", eng5000.patch)
+  and update tools/expected.sha1.
 
 The English mod folder is the master. The other languages are generated from it:
 
