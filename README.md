@@ -20,14 +20,23 @@ TV):
 
 ## Building
 
+Needs only Python 3.8+ (Windows, Linux or macOS).
+
 1. Download the EN package `PSX_SystemFiles_EN_v1.3_Final.zip` of
    [RepairBox-PSX-HDD-Setup](https://github.com/DanielFergisz/RepairBox-PSX-HDD-Setup)
-   (linked in its README) and put it into `sources/` (ignored by git). Only its
-   original PSX system files are used (`RepairBox-PSX1/PSX2-SystemFiles/__system`).
-2. `python tools/build_all.py` - builds the language folders and checks every file
-   against `tools/expected.sha1`.
-3. Put the ps2dev v2.0.0 Windows toolchain into `tools/ps2dev`, then
-   `sh tools/elf/build.sh` (Git Bash) - builds `ELF-INSTALLER/PSX_LANGUAGE_TOOL.ELF`.
+   ([direct link](https://drive.google.com/file/d/1FjzAhc510617HnPV5F-vRG8m4WtTbchO/view))
+   and put it into `sources/` - or just leave it in your Downloads folder.
+2. Run
+
+   ```
+   python build.py
+   ```
+
+That's all. It builds the language folders from the package's original system files
+(`RepairBox-PSX1/PSX2-SystemFiles/__system`), checks every file against
+`tools/expected.sha1` and builds `ELF-INSTALLER/PSX_LANGUAGE_TOOL.ELF`. The first run
+downloads the [ps2dev](https://github.com/ps2dev/ps2dev) v2.0.0 toolchain (~270 MB) into
+`tools/ps2dev`. Options: `python build.py PATH_TO_ZIP`, `--no-elf`, `--no-check`.
 
 Result:
 
@@ -45,7 +54,8 @@ Result:
 | `tools/translation` | `eng5000.patch`, `eng5500.patch` (English texts as a patch for the original files - only the new texts, no Sony text), `de*.tsv`, `pl*.tsv`, `es*.tsv` and the scripts that apply them |
 | `tools/sysdic` | builds the button-label `jp.dic` files |
 | `tools/elf` | ELF source (`gui.c`), pack/check scripts, font generator, PC host test |
-| `tools/build_all.py`, `tools/expected.sha1` | full build and its reference checksums |
+| `build.py` | one-command build (calls `tools/build_all.py` and `tools/elf/build.py`) |
+| `tools/build_all.py`, `tools/expected.sha1` | language folders and their reference checksums |
 
 ## Testing on the PC
 

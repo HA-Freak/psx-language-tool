@@ -8,7 +8,8 @@ and put it into  sources/  (not in git):
 usage: python tools/build_all.py [--package ZIP_OR_DIR] [--no-check]
   -> DESR-... XMB ENG/GER/POL/ESP (both series), SYSTEM-DIC ENG/GER/POL/ESP,
      tools/elf/jp_original.dic
-then:  sh tools/elf/build.sh   -> PSX_LANGUAGE_TOOL.ELF
+then:  python tools/elf/build.py   -> PSX_LANGUAGE_TOOL.ELF
+(python build.py in the repository folder does both)
 
 The English folders are made from the original system files in the package
 with tools/translation/eng5000.patch and eng5500.patch, German, Polish and

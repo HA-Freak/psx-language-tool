@@ -45,5 +45,5 @@ Menu
 Status shows the model, firmware, installed XMB language, jp.dic language
 and whether backups exist.
 
-Rebuild: python tools/build_all.py, then sh tools/elf/build.sh
+Rebuild: python build.py  (see README.md)
          (see README.md in the project root)
