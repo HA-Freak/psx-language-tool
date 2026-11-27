@@ -6,13 +6,13 @@ and put it into  sources/  (not in git):
   PSX_SystemFiles_EN_v1.3_Final.zip     (the extracted folder works too)
 
 usage: python tools/build_all.py [--package ZIP_OR_DIR] [--no-check]
-  -> DESR-... XMB ENG/GER/POL (both series), SYSTEM-DIC ENG/GER/POL,
+  -> DESR-... XMB ENG/GER/POL/ESP (both series), SYSTEM-DIC ENG/GER/POL/ESP,
      tools/elf/jp_original.dic
 then:  sh tools/elf/build.sh   -> PSX_LANGUAGE_TOOL.ELF
 
 The English folders are made from the original system files in the package
-with tools/translation/eng5000.patch and eng5500.patch, German and Polish from
-the English folders with the de/pl tables. Every generated file is compared
+with tools/translation/eng5000.patch and eng5500.patch, German, Polish and
+Spanish from the English folders with the de/pl/es tables. Every generated file is compared
 with tools/expected.sha1, so a different package version is noticed at once.
 """
 import os, sys, glob, shutil, hashlib, subprocess, argparse, zipfile
@@ -20,9 +20,9 @@ import os, sys, glob, shutil, hashlib, subprocess, argparse, zipfile
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR = os.path.join(ROOT, 'tools', 'translation')
 PKG_NAME = 'PSX_SystemFiles_EN_v1.3_Final'
-# series, folder in the package, ENG folder inside __system, patch, German table, Polish table
-SERIES = [('DESR-5000-5100-7000-7100', 'RepairBox-PSX1-SystemFiles', '', 'eng5000.patch', 'de5000.tsv', 'pl5000.tsv'),
-          ('DESR-5500-5700-7500-7700', 'RepairBox-PSX2-SystemFiles', 'xosd/packages/', 'eng5500.patch', 'de.tsv', 'pl.tsv')]
+# series, folder in the package, ENG folder inside __system, patch, German, Polish, Spanish table
+SERIES = [('DESR-5000-5100-7000-7100', 'RepairBox-PSX1-SystemFiles', '', 'eng5000.patch', 'de5000.tsv', 'pl5000.tsv', 'es5000.tsv'),
+          ('DESR-5500-5700-7500-7700', 'RepairBox-PSX2-SystemFiles', 'xosd/packages/', 'eng5500.patch', 'de.tsv', 'pl.tsv', 'es.tsv')]
 
 ap = argparse.ArgumentParser()
 ap.add_argument('--package', help=f'package .zip or extracted folder (default: sources/{PKG_NAME}[.zip])')
@@ -74,17 +74,18 @@ def package():
 
 
 pkg = package()
-for series, folder, prefix, patch, de, pl in SERIES:
+for series, folder, prefix, patch, de, pl, es in SERIES:
     system = os.path.join(pkg, folder, '__system')
-    out = {l: os.path.join(ROOT, f'{series} XMB {l}') for l in ('ENG', 'GER', 'POL')}
+    out = {l: os.path.join(ROOT, f'{series} XMB {l}') for l in ('ENG', 'GER', 'POL', 'ESP')}
     print(f'{series}: ENG {run("engpatch.py", "apply", system, out["ENG"], prefix, patch)[-1]}')
     print(f'  GER {run("build_lang.py", out["ENG"], de, out["GER"])[0]}')
     print(f'  POL {run("build_lang.py", out["ENG"], pl, out["POL"], "--ascii")[0]}')
+    print(f'  ESP {run("build_lang.py", out["ENG"], es, out["ESP"])[0]}')
 
 dic = os.path.join(pkg, SERIES[1][1], '__system', 'dic', 'jp.dic')
 run(os.path.join(ROOT, 'tools', 'sysdic', 'sysdic.py'), dic, ROOT)
 shutil.copyfile(dic, os.path.join(ROOT, 'tools', 'elf', 'jp_original.dic'))
-print('SYSTEM-DIC GER/ENG/POL and tools/elf/jp_original.dic written')
+print('SYSTEM-DIC GER/ENG/POL/ESP and tools/elf/jp_original.dic written')
 
 if not args.no_check:
     bad = n = 0

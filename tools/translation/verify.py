@@ -3,7 +3,7 @@ os.chdir(sys.argv[1])
 BS = chr(92)
 PAIRS = [(s + " XMB ENG", s + " XMB " + l)
          for s in ("DESR-5500-5700-7500-7700", "DESR-5000-5100-7000-7100")
-         for l in ("GER", "POL")]
+         for l in ("GER", "POL", "ESP")]
 for E, G in PAIRS:
     if not os.path.isdir(G):
         continue

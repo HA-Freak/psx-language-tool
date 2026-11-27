@@ -1,19 +1,19 @@
-"""usage: python sysdic.py ORIGINAL_jp.dic PROJECT_DIR  -> SYSTEM-DIC GER/ENG/POL"""
+"""usage: python sysdic.py ORIGINAL_jp.dic PROJECT_DIR  -> SYSTEM-DIC GER/ENG/POL/ESP"""
 import re,os,sys
 sys.stdout.reconfigure(encoding='utf-8')
 src=sys.argv[1]; base=sys.argv[2]
-# (German, English, Polish) - Polish without diacritics (PSX font lacks them)
+# (German, English, Polish, Spanish) - Polish without diacritics (PSX font lacks them)
 T={
-'Enter':('Bestätigen','Enter','Zatwierdz'),'Select':('Auswählen','Select','Wybierz'),'Back':('Zurück','Back','Wstecz'),'Exit':('Zurück','Back','Wstecz'),
-'Information':('Informationen','Information','Informacje'),'Options':('Optionen','Options','Opcje'),'Display':('Anzeige','Display','Wyswietlanie'),
-'Confirm':('Bestätigen','Confirm','Potwierdz'),'Discard':('Löschen','Delete','Usun'),'Capture':('Aufnehmen','Capture','Przechwyc'),
-'Panel':('Bedienfeld','Control Panel','Panel sterowania'),'ON':('Ein','On','Wl.'),'OFF':('Aus','Off','Wyl.'),'YES':('Ja','Yes','Tak'),'NO':('Nein','No','Nie'),
-'OK':('OK','OK','OK'),'CANCEL':('Abbrechen','Cancel','Anuluj'),'CONTINUE':('Fortsetzen','Continue','Kontynuuj'),'NEXT':('Weiter','Next','Dalej'),
-'PREVIOUS':('Zurück','Previous','Wstecz'),'AGREE':('Zustimmen','Agree','Zgadzam sie'),'DISAGREE':('Ablehnen','Disagree','Nie zgadzam sie'),
-'ACCEPT':('Zulassen','Accept','Akceptuj'),'REJECT':('Ablehnen','Reject','Odrzuc'),'SAVE':('Speichern','Save','Zapisz'),'DELETE':('Löschen','Delete','Usun'),'HELP':('Hilfe','Help','Pomoc')}
+'Enter':('Bestätigen','Enter','Zatwierdz','Aceptar'),'Select':('Auswählen','Select','Wybierz','Seleccionar'),'Back':('Zurück','Back','Wstecz','Atrás'),'Exit':('Zurück','Back','Wstecz','Atrás'),
+'Information':('Informationen','Information','Informacje','Información'),'Options':('Optionen','Options','Opcje','Opciones'),'Display':('Anzeige','Display','Wyswietlanie','Pantalla'),
+'Confirm':('Bestätigen','Confirm','Potwierdz','Confirmar'),'Discard':('Löschen','Delete','Usun','Eliminar'),'Capture':('Aufnehmen','Capture','Przechwyc','Capturar'),
+'Panel':('Bedienfeld','Control Panel','Panel sterowania','Panel de control'),'ON':('Ein','On','Wl.','Sí'),'OFF':('Aus','Off','Wyl.','No'),'YES':('Ja','Yes','Tak','Sí'),'NO':('Nein','No','Nie','No'),
+'OK':('OK','OK','OK','OK'),'CANCEL':('Abbrechen','Cancel','Anuluj','Cancelar'),'CONTINUE':('Fortsetzen','Continue','Kontynuuj','Continuar'),'NEXT':('Weiter','Next','Dalej','Siguiente'),
+'PREVIOUS':('Zurück','Previous','Wstecz','Anterior'),'AGREE':('Zustimmen','Agree','Zgadzam sie','Acepto'),'DISAGREE':('Ablehnen','Disagree','Nie zgadzam sie','No acepto'),
+'ACCEPT':('Zulassen','Accept','Akceptuj','Aceptar'),'REJECT':('Ablehnen','Reject','Odrzuc','Rechazar'),'SAVE':('Speichern','Save','Zapisz','Guardar'),'DELETE':('Löschen','Delete','Usun','Eliminar'),'HELP':('Hilfe','Help','Pomoc','Ayuda')}
 T={k.upper():v for k,v in T.items()}
 text=open(src,encoding='utf-8').read()
-for idx,name in ((0,'GER'),(1,'ENG'),(2,'POL')):
+for idx,name in ((0,'GER'),(1,'ENG'),(2,'POL'),(3,'ESP')):
     def rep(m):
         k=m.group(2)[:-3].upper()
         return m.group(1)+T[k][idx]+m.group(4)

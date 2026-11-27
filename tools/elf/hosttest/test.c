@@ -23,6 +23,7 @@ int main(int argc, char **argv)
     if (!strcmp(a, "ger")) install(0);
     else if (!strcmp(a, "eng")) install(1);
     else if (!strcmp(a, "pol")) install(2);
+    else if (!strcmp(a, "esp")) install(3);
     else if (!strcmp(a, "restore")) restore();
     else if (!strcmp(a, "mkbak")) make_backup();
     else if (!strcmp(a, "jpn")) {

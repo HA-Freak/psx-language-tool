@@ -14,7 +14,7 @@ Layout (all integers u32 little endian):
   paths   : npaths x (stroff)  then 0-terminated strings, stroff relative to off_paths
   sets    : nsets  x (series lang nfiles first probe)
             series 0 = DESR-5000/5100/7000/7100, 1 = DESR-5500/5700/7500/7700
-            lang   0 = German, 1 = English, 2 = Polish
+            lang   0 = German, 1 = English, 2 = Polish, 3 = Spanish
             first  = index into the file table, probe = path index used to
                      recognise which language is installed
   files   : n x (path_index blob_index)
@@ -24,7 +24,7 @@ import os, sys, struct, zlib, hashlib
 
 proj, out = sys.argv[1:3]
 SERIES = [('DESR-5000-5100-7000-7100', ''), ('DESR-5500-5700-7500-7700', 'xosd/packages/')]
-LANGS = ['GER', 'ENG', 'POL']
+LANGS = ['GER', 'ENG', 'POL', 'ESP']
 
 
 def collect(root, prefix):
@@ -62,8 +62,8 @@ for s, (name, prefix) in enumerate(SERIES):
     for l in LANGS:
         if sorted(content[l]) != keys:
             sys.exit(f'{name} {l}: file list differs from ENG')
-    # probe: smallest text file whose content differs in all three languages
-    probe = min((k for k in keys if len({content[l][k] for l in LANGS}) == 3),
+    # probe: smallest text file whose content differs in all languages
+    probe = min((k for k in keys if len({content[l][k] for l in LANGS}) == len(LANGS)),
                 key=lambda k: len(content['ENG'][k]))
     for li, l in enumerate(LANGS):
         first = len(files)

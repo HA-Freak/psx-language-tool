@@ -8,7 +8,7 @@ DUMPS = os.environ.get('PSX_DUMPS', os.path.join(PROJ, 'build', 'package'))
 WORK = os.path.join(HERE, 'work')
 SER = [('DESR-5000-5100-7000-7100', '', 'RepairBox-PSX1-SystemFiles'),
        ('DESR-5500-5700-7500-7700', 'xosd/packages/', 'RepairBox-PSX2-SystemFiles')]
-LANGS = ['GER', 'ENG', 'POL']
+LANGS = ['GER', 'ENG', 'POL', 'ESP']
 fails = 0
 
 def tree(root):
@@ -71,15 +71,15 @@ for s in (0, 1):
     root = fresh(s, 'main')
     o = run(root, 'status')
     check(f'series={s}' in o, 'model detected')
-    for l, act in ((0, 'ger'), (2, 'pol'), (1, 'eng')):
+    for l, act in ((0, 'ger'), (2, 'pol'), (3, 'esp'), (1, 'eng')):
         o = run(root, act)
         bad, other, t = installed_ok(root, s, l, orig)
-        check(not bad and not other and 'ERRORS' not in o and f'xmb={["German","English","Polish"][l]}' in o.split('after')[1],
+        check(not bad and not other and 'ERRORS' not in o and f'xmb={["German","English","Polish","Spanish"][l]}' in o.split('after')[1],
               f'{act}: all {len(m_eng)} files correct, nothing else touched ({len(bad)} bad, {len(other)} other)')
         bak = {k[len('langtool_bak/'):]: v for k, v in t.items() if k.startswith('langtool_bak/') and k != 'langtool_bak/manifest.txt'}
         check(bak == {k: orig[k] for k in m_eng if k in orig}, f'{act}: backup = original files ({len(bak)})')
         if s == 1:
-            dic = {0: 'SYSTEM-DIC GER', 1: 'SYSTEM-DIC ENG', 2: 'SYSTEM-DIC POL'}[l]
+            dic = 'SYSTEM-DIC ' + LANGS[l]
             ref = hashlib.sha1(open(os.path.join(PROJ, dic, 'jp.dic'), 'rb').read()).hexdigest()
             check(t['dic/jp.dic'] == ref, f'{act}: jp.dic = {dic}')
             check(t.get('dic/jp.dic.bak') == orig['dic/jp.dic'], f'{act}: jp.dic.bak = original')

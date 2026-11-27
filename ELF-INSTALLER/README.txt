@@ -1,7 +1,7 @@
 PSX Language Tool  (PSX_LANGUAGE_TOOL.ELF)
 ==========================================
 
-Installs German, English or Polish on a PSX (DESR). Start it with wLaunchELF
+Installs German, English, Polish or Spanish on a PSX (DESR). Start it with wLaunchELF
 (e.g. from a USB stick). Controller in port 1:
 D-pad up/down = select, X or O = run, START = confirm, any other button = cancel.
 The bar at the bottom of the screen always shows the buttons that apply.
@@ -35,7 +35,7 @@ If the firmware does not match the one the texts were made for
 
 Menu
 ----
-  Install German / English / Polish
+  Install German / English / Polish / Spanish
   Restore backup (state before first install)
   Restore Japanese button labels only     (5500 series only)
   Create backup now

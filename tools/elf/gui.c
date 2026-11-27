@@ -1,4 +1,4 @@
-/* PSX Language Tool - installs German / English / Polish on the PSX (DESR)
+/* PSX Language Tool - installs German / English / Polish / Spanish on the PSX (DESR)
  *
  * Recognises the model series by the hdd0:__system partition:
  *   DESR-5500/5700/7500/7700  (has /dic)  -> XMB texts + button labels (dic/jp.dic)
@@ -35,7 +35,7 @@
 #define IRX(n) extern unsigned char n[]; extern unsigned int size_##n;
 IRX(iomanX_irx) IRX(fileXio_irx) IRX(poweroff_irx) IRX(ps2dev9_irx)
 IRX(ps2atad_irx) IRX(ps2hdd_irx) IRX(ps2fs_irx)
-IRX(dic_ger) IRX(dic_eng) IRX(dic_pol) IRX(dic_jpn)
+IRX(dic_ger) IRX(dic_eng) IRX(dic_pol) IRX(dic_esp) IRX(dic_jpn)
 IRX(xmb_pack)
 
 #define DIC      "pfs0:/dic/jp.dic"
@@ -66,10 +66,11 @@ static int asking = -1;                 /* action waiting for START, or -1 */
 
 static const char *SERIES_NAME[2] = { "DESR-5000/5100/7000/7100", "DESR-5500/5700/7500/7700" };
 static const char *SERIES_FW[2]   = { "1.31", "2.11" };
-static const char *LANG_NAME[3]   = { "German", "English", "Polish" };
+#define NLANG 4
+static const char *LANG_NAME[NLANG] = { "German", "English", "Polish", "Spanish" };
 
-enum { A_GER, A_ENG, A_POL, A_RESTORE, A_JPN, A_MKBAK, A_STATUS, A_OFF };
-static int menu[8], nmenu, sel;
+enum { A_GER, A_ENG, A_POL, A_ESP, A_RESTORE, A_JPN, A_MKBAK, A_STATUS, A_OFF };
+static int menu[A_OFF + 1], nmenu, sel;
 
 /* ---------- helpers ---------- */
 static void wait_ms(int ms)
@@ -249,6 +250,8 @@ static const char *dic_lang(const unsigned char *b)
         return "English";
     if (strstr((const char *)b, "\"Panel sterowania\""))
         return "Polish";
+    if (strstr((const char *)b, "\"Panel de control\""))
+        return "Spanish";
     return "unknown";
 }
 
@@ -276,7 +279,7 @@ static const char *xmb_lang(void)
     n = read_file(path, &disk);
     if (n < 0)
         return "probe file missing";
-    for (l = 0; l < 3; l++) {
+    for (l = 0; l < NLANG; l++) {
         pkset t;
         u32 j, pi, bi;
         if (pk_find(series, l, &t) < 0)
@@ -378,9 +381,11 @@ static void fill(int x, int y, int w, int h, u32 c)
 }
 
 /* draws s at pixel x / text row r, clipped at the right border; returns the new x */
+static int yoff;                             /* pixel shift for a block of rows */
+
 static int text(int x, int r, u32 col, const char *s)
 {
-    int y = Y0 + r * LH, gx, gy;
+    int y = Y0 + r * LH + yoff, gx, gy;
     for (; *s && x + FONT_W <= SW - X0 / 2; s++, x += FONT_W) {
         unsigned char ch = (unsigned char)*s > 126 ? '?' : (unsigned char)*s;
         const unsigned char *g = font_glyph[ch];
@@ -441,6 +446,7 @@ static const char *item_text(int a)
     case A_GER:     return "Install German";
     case A_ENG:     return "Install English";
     case A_POL:     return "Install Polish";
+    case A_ESP:     return "Install Spanish";
     case A_RESTORE: return "Restore backup (state before first install)";
     case A_JPN:     return "Restore Japanese button labels only";
     case A_MKBAK:   return "Create backup now";
@@ -452,7 +458,7 @@ static const char *item_text(int a)
 static const char *item_help(int a)
 {
     switch (a) {
-    case A_GER: case A_ENG: case A_POL:
+    case A_GER: case A_ENG: case A_POL: case A_ESP:
         return series == 1 ? "XMB menus and dialogs + button labels (jp.dic)."
                            : "XMB menus and dialogs (xosd packages).";
     case A_RESTORE: return "Puts back the files saved in langtool_bak.";
@@ -470,14 +476,15 @@ static void status_row(int r, const char *label, u32 col, const char *val)
 
 static void draw(void)
 {
-    int i, x, r, by;
+    int i, x, r, by, m0;
     fill(0, 0, SW, SH, C_BG);
 
     fill(0, Y0 - 5, SW, LH + 8, C_BAR);
     text(X0, 0, C_WHITE, "PSX Language Tool");
-    text(SW - X0 - 25 * FONT_W, 0, C_CYAN, "German / English / Polish");
+    text(SW - X0 - 35 * FONT_W, 0, C_CYAN, "German / English / Polish / Spanish");
 
-    r = 2;
+    yoff = -6;                               /* status a bit up, menu a bit down: */
+    r = 2;                                   /* 9 menu items fit below 5 status rows */
     status_row(r++, "Hard disk  ", hdd_ok ? C_GREEN : C_RED, st_hdd);
     if (hdd_ok) {
         status_row(r++, "Model      ", series < 0 ? C_RED : C_WHITE, st_model);
@@ -489,15 +496,18 @@ static void draw(void)
         }
     }
 
+    yoff = 3;
+    m0 = 16 - nmenu;                         /* menu ends at row 15, help in row 16 */
     for (i = 0; i < nmenu; i++) {
         if (i == sel) {
-            fill(X0 - 8, Y0 + (8 + i) * LH, SW - 2 * X0 + 16, LH, C_SEL);
-            textf(X0, 8 + i, C_YELLOW, "> %d  %s", i + 1, item_text(menu[i]));
+            fill(X0 - 8, Y0 + (m0 + i) * LH + yoff, SW - 2 * X0 + 16, LH, C_SEL);
+            textf(X0, m0 + i, C_YELLOW, "> %d  %s", i + 1, item_text(menu[i]));
         } else
-            textf(X0, 8 + i, C_WHITE, "  %d  %s", i + 1, item_text(menu[i]));
+            textf(X0, m0 + i, C_WHITE, "  %d  %s", i + 1, item_text(menu[i]));
     }
     if (asking < 0)
         text(X0 + 5 * FONT_W, 16, C_GRAY, item_help(menu[sel]));
+    yoff = 0;
 
     fill(X0, Y0 + 18 * LH - 5, SW - 2 * X0, 2, C_BAR);
     for (i = 1; i < 4; i++)
@@ -505,12 +515,12 @@ static void draw(void)
     text(X0, 21, C_YELLOW, prog);
 
     if (asking >= 0) {                       /* confirmation box over the messages */
-        by = Y0 + 16 * LH + 2;
+        by = Y0 + 16 * LH + 5;
         fill(X0 - 10, by - 2, SW - 2 * X0 + 20, 5 * LH + 4, C_YELLOW);
         fill(X0 - 8, by, SW - 2 * X0 + 16, 5 * LH, C_BOX);
         textf(X0, 17, C_YELLOW, "%s ?", item_text(asking));
         text(X0, 18, C_WHITE, item_help(asking));
-        if (asking <= A_POL && series >= 0 && strcmp(fw, SERIES_FW[series]) != 0)
+        if (asking <= A_ESP && series >= 0 && strcmp(fw, SERIES_FW[series]) != 0)
             textf(X0, 19, C_RED, "Warning: texts are for firmware %s, this PSX has %s.",
                   SERIES_FW[series], fw);
         x = text(X0, 20, C_WHITE, "Press ");
@@ -678,8 +688,8 @@ static int ensure_xmb_backup(void)
 /* ---------- actions ---------- */
 static void install(int lang)
 {
-    static unsigned char *dics[3] = { dic_ger, dic_eng, dic_pol };
-    static unsigned int *dsize[3] = { &size_dic_ger, &size_dic_eng, &size_dic_pol };
+    static unsigned char *dics[NLANG] = { dic_ger, dic_eng, dic_pol, dic_esp };
+    static unsigned int *dsize[NLANG] = { &size_dic_ger, &size_dic_eng, &size_dic_pol, &size_dic_esp };
     pkset s;
     char path[256];
     unsigned char *b;
@@ -864,6 +874,7 @@ static void build_menu(void)
         menu[nmenu++] = A_GER;
         menu[nmenu++] = A_ENG;
         menu[nmenu++] = A_POL;
+        menu[nmenu++] = A_ESP;
         menu[nmenu++] = A_RESTORE;
         if (series == 1)
             menu[nmenu++] = A_JPN;
@@ -970,7 +981,8 @@ int main(int argc, char *argv[])
             switch (a) {
             case A_GER:
             case A_ENG:
-            case A_POL:     install(a - A_GER); break;
+            case A_POL:
+            case A_ESP:     install(a - A_GER); break;
             case A_RESTORE: restore(); break;
             case A_JPN:
                 if (ensure_dic_backup() == 0) {

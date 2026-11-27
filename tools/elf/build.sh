@@ -19,6 +19,7 @@ $B "$I/ps2fs.irx"      gen/irx_pfs.c      ps2fs_irx
 $B "../../SYSTEM-DIC GER/jp.dic"  gen/dic_ger.c dic_ger
 $B "../../SYSTEM-DIC ENG/jp.dic" gen/dic_eng.c dic_eng
 $B "../../SYSTEM-DIC POL/jp.dic" gen/dic_pol.c dic_pol
+$B "../../SYSTEM-DIC ESP/jp.dic" gen/dic_esp.c dic_esp
 $B jp_original.dic                gen/dic_jpn.c dic_jpn
 # XMB texts of all models and languages (zlib packed), checked before embedding
 python pack_xmb.py ../.. gen/xmb_pack.bin

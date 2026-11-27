@@ -4,7 +4,7 @@ Translation tools  (base = "DESR-5500-5700-7500-7700 XMB ENG")
 Full build from the RepairBox package: python tools/build_all.py (see README.md).
 It creates the ENG folders from the original system files of the package with
   eng5000.patch / eng5500.patch  (the English texts, made with engpatch.py),
-then GER/POL as described below. After changing the ENG folder by hand:
+then GER/POL/ESP as described below. After changing the ENG folder by hand:
   python engpatch.py make PACKAGE/RepairBox-PSX2-SystemFiles/__system ENG xosd/packages/ eng5500.patch
   (5000 series: RepairBox-PSX1-SystemFiles/__system, prefix "", eng5000.patch)
   and update tools/expected.sha1.
@@ -14,12 +14,14 @@ The English mod folder is the master. The other languages are generated from it:
   cd tools/translation
   python build_lang.py "../../DESR-5500-5700-7500-7700 XMB ENG" de.tsv "../../DESR-5500-5700-7500-7700 XMB GER"
   python build_lang.py "../../DESR-5500-5700-7500-7700 XMB ENG" pl.tsv "../../DESR-5500-5700-7500-7700 XMB POL" --ascii
+  python build_lang.py "../../DESR-5500-5700-7500-7700 XMB ENG" es.tsv "../../DESR-5500-5700-7500-7700 XMB ESP"
   python verify.py ../..          (XML parse + dic quote check, both series)
 
 DESR-5000/5100/7000/7100 (firmware 1.31, texts live directly in the xml files,
 no system dictionary needed):
   python build_lang.py "../../DESR-5000-5100-7000-7100 XMB ENG" de5000.tsv "../../DESR-5000-5100-7000-7100 XMB GER"
   python build_lang.py "../../DESR-5000-5100-7000-7100 XMB ENG" pl5000.tsv "../../DESR-5000-5100-7000-7100 XMB POL" --ascii
+  python build_lang.py "../../DESR-5000-5100-7000-7100 XMB ENG" es5000.tsv "../../DESR-5000-5100-7000-7100 XMB ESP"
   (--ascii for safety. The 1.31 font in the RepairBox PSX1 system files does
    contain all Polish letters - drop --ascii if the unit uses that font.)
   The 5000 ENG folder is a cleaned version of the machine-translated mod;
@@ -27,6 +29,8 @@ no system dictionary needed):
 
 --ascii: the PSX system font has no a/c/e-ogonek, l-stroke, n/s/z-acute, z-dot.
          pl.tsv keeps correct Polish; the build replaces those letters (o-acute stays).
+Spanish needs no --ascii: all PSX fonts contain the accented letters, n-tilde and the
+inverted question/exclamation marks.
 
 de.tsv / pl.tsv  -  one row per text:  file <TAB> id <TAB> English <TAB> translation
            (real line breaks inside a value are written as <CRLF> / <LF>)

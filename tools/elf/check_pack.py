@@ -22,7 +22,7 @@ def blob(i):
 
 
 SER = ['DESR-5000-5100-7000-7100', 'DESR-5500-5700-7500-7700']
-LANG = ['GER', 'ENG', 'POL']
+LANG = ['GER', 'ENG', 'POL', 'ESP']
 bad = 0
 for k in range(nsets):
     series, lang, n, first, probe = struct.unpack_from('<5I', d, os_ + 20 * k)
