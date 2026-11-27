@@ -7,6 +7,17 @@ The repository contains **no Sony files** - only translation tables, scripts and
 ELF source. The language folders and the ELF are built from your own copies of the
 source files.
 
+## Screenshots
+
+`PSX_LANGUAGE_TOOL.ELF` on a DESR-5500 (rendered by the PC host test from the same image the tool sends to the
+TV):
+
+| Main menu | Confirmation |
+|---|---|
+| ![Main menu](docs/screenshots/1_main_menu.png) | ![Confirmation](docs/screenshots/2_confirm.png) |
+| **Installing (backup first)** | **Done** |
+| ![Installing](docs/screenshots/3_installing.png) | ![Done](docs/screenshots/4_done.png) |
+
 ## Building
 
 1. Download the EN package `PSX_SystemFiles_EN_v1.3_Final.zip` of
